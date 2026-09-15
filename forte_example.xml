@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fm_catalog date="2026-09-15 11:58">
+    <shop>
+        <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
+        <offers>
+            <offer sku="УТ-00004016">
+                <name>Термодетектор CROWN CT44037</name>
+                <vendor>CROWN</vendor>
+                <barcodes>
+                    <barcode>7640177422453</barcode>
+                </barcodes>
+                <pickup-options>
+                    <pickup-option id="PP1"/>
+                </pickup-options>
+                <price>7990</price>
+            </offer>
+        </offers>
+    </shop>
+</fm_catalog>

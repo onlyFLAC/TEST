@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-17 14:27">
+<fm_catalog date="2026-09-17 14:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2661,6 +2661,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>398000</price>
+      </offer>
+      <offer sku="УТ-00022216">
+        <name>Травокосилка 545RХ</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930886247</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>470000</price>
       </offer>
       <offer sku="УТ-00022226">
         <name>Воздуходувка бензиновая Husqvarna 125 В 952 71 56-43</name>
@@ -8164,6 +8175,17 @@
         </pickup-options>
         <price>490</price>
       </offer>
+      <offer sku="00000009782">
+        <name>Опрыскиватель переносной Росток RT-7 425117</name>
+        <vendor>Росток</vendor>
+        <barcodes>
+          <barcode>4606373361395</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9999</price>
+      </offer>
       <offer sku="00000009790">
         <name>Шланг поливочный армированный 3-х слойный РОСТОК КЛАССИК 40308-1/2-15 1/2х15м</name>
         <vendor>Росток</vendor>
@@ -11773,6 +11795,14 @@
         </pickup-options>
         <price>18100</price>
       </offer>
+      <offer sku="00000031892">
+        <name>Универсальная шарнирная лестница STABILO 4х4</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>165200</price>
+      </offer>
       <offer sku="00000031893">
         <name>Анодированная стремянка SEPRO 8 ступ.</name>
         <vendor>Krause</vendor>
@@ -11796,14 +11826,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42700</price>
-      </offer>
-      <offer sku="00000031920">
-        <name>Стремянка SOLIDO 5 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>90000</price>
       </offer>
       <offer sku="00000031925">
         <name>Стремянка Krause "SEPURO" 5 ступ. 127235</name>
@@ -21440,6 +21462,17 @@
         </pickup-options>
         <price>4220</price>
       </offer>
+      <offer sku="УТ-00048213">
+        <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883037737</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6990</price>
+      </offer>
       <offer sku="УТ-00048216">
         <name>Шнур кордовый Husqvarna 2.7x70 мм 597 66 90-10</name>
         <vendor>Husqvarna</vendor>
@@ -23298,6 +23331,17 @@
         </pickup-options>
         <price>15559</price>
       </offer>
+      <offer sku="УТ-00059823">
+        <name>Доска гладильная Nika Н4+ (в ассортименте)</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830066</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14888</price>
+      </offer>
       <offer sku="УТ-00059824">
         <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/O orchid</name>
         <vendor>Nika</vendor>
@@ -24611,6 +24655,14 @@
         </pickup-options>
         <price>113500</price>
       </offer>
+      <offer sku="УТ-00063381">
+        <name>Травокосилка Husqvarna 226R 965 87 10-03</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>180000</price>
+      </offer>
       <offer sku="УТ-00063391">
         <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
         <vendor>Husqvarna</vendor>
@@ -25425,6 +25477,17 @@
         </pickup-options>
         <price>62260</price>
       </offer>
+      <offer sku="УТ-00072470">
+        <name>Плоскогубцы комбинированные KNIPEX 02 02 180</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773034896</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19275</price>
+      </offer>
       <offer sku="УТ-00072475">
         <name>Плоскогубцы KNIPEX 03 02 180</name>
         <vendor>KNIPEX</vendor>
@@ -25715,6 +25778,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>210000</price>
+      </offer>
+      <offer sku="УТ-00073009">
+        <name>Травокосилка Husqvarna 541RS 967 66 08-03</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>245000</price>
       </offer>
       <offer sku="УТ-00073040">
         <name>Шаблон комбинированный Husqvarna 0.325 1.3 SP33G X-CUT 586 93 84-01</name>
@@ -26230,6 +26301,14 @@
         </pickup-options>
         <price>2200</price>
       </offer>
+      <offer sku="УТ-00085486">
+        <name>Крышка триммерной головки Husqvarna R25 R25B 535 59 08-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4400</price>
+      </offer>
       <offer sku="УТ-00085488">
         <name>Лента для рулетки Husqvarna 20 м 505 69 71-05</name>
         <vendor>Husqvarna</vendor>
@@ -26277,6 +26356,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>385000</price>
+      </offer>
+      <offer sku="УТ-00085513">
+        <name>Травокосилка бензиновая Husqvarna 129R 967 19 33-05</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>160000</price>
       </offer>
       <offer sku="УТ-00085536">
         <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-40 1600A036YW</name>
@@ -27945,6 +28032,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33990</price>
+      </offer>
+      <offer sku="УТ-00099923">
+        <name>Аккумуляторный перфоратор 20V, посадка SDS-Plus TRHLI20248</name>
+        <vendor>Total</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50600</price>
       </offer>
     </offers>
   </shop>

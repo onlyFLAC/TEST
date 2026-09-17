@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-17 16:54">
+<fm_catalog date="2026-09-17 17:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11611,7 +11611,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21790</price>
+        <price>23300</price>
       </offer>
       <offer sku="00000031550">
         <name>Тачка строительная одноколесная TotalTools Т-1122</name>

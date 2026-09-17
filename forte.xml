@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-17 12:59">
+<fm_catalog date="2026-09-17 13:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2304,14 +2304,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>43200</price>
-      </offer>
-      <offer sku="УТ-00015624">
-        <name>Домкрат бутылочный гидравлический ЗУБР 3 т 43060-3-K_z01</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12890</price>
       </offer>
       <offer sku="УТ-00015685">
         <name>ЗУБР Чисторез 165 x 20мм 40T, диск пильный по дереву 36905-165-20-40_z01</name>

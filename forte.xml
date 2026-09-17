@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-17 15:25">
+<fm_catalog date="2026-09-17 15:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5825,7 +5825,7 @@
         <price>1190</price>
       </offer>
       <offer sku="00000004518">
-        <name>Диск отрезной алмазный ЗУБР Профессионал Железобетон 125 мм 36661-125</name>
+        <name>Диск отрезной алмазный ЗУБР "ЖЕЛЕЗОБЕТОН" 125х22.2 мм 36661-125</name>
         <vendor>ЗУБР</vendor>
         <barcodes>
           <barcode>4606373293108</barcode>
@@ -12179,7 +12179,7 @@
         <price>39030</price>
       </offer>
       <offer sku="00000032381">
-        <name>Дрель-шуруповерт аккумуляторная Bosch GSR 120-LI Professional 06019G8000</name>
+        <name>Дрель-шуруповерт аккумуляторная BOSCH GSR 120-LI 06019G8000</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140955683</barcode>
@@ -12740,7 +12740,7 @@
         <price>20885</price>
       </offer>
       <offer sku="00000032746">
-        <name>Диск пильный по металлу Bosch EC AL H 210х30-64 2608644391</name>
+        <name>Диск пильный по металлу BOSCH ECO AL T64 210x30 мм 2608644391</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140891127</barcode>
@@ -12917,7 +12917,7 @@
         <price>36800</price>
       </offer>
       <offer sku="00000032860">
-        <name>Машина шлифовальная угловая (болгарка) Bosch GWS 750-125</name>
+        <name>Шлифмашина угловая (болгарка) BOSCH GWS 750-125</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140823357</barcode>
@@ -13883,7 +13883,7 @@
         <price>890</price>
       </offer>
       <offer sku="00000035266">
-        <name>Диск отрезной универсальный Bosch 125х1 мм 2608600549</name>
+        <name>Диск отрезной по нержавеющей стали BOSCH 125x22.2 мм 2608600549</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140219624</barcode>
@@ -19650,17 +19650,6 @@
         </pickup-options>
         <price>18270</price>
       </offer>
-      <offer sku="00000075912">
-        <name>Бокорезы Kraftool 180 мм 22011-5-18_z01</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229128883</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13290</price>
-      </offer>
       <offer sku="00000075950">
         <name>ЗУБР Бур SDS-max 22 x 410/520 мм, Профессионал</name>
         <vendor>ЗУБР</vendor>
@@ -23524,7 +23513,7 @@
         <price>88100</price>
       </offer>
       <offer sku="УТ-00059852">
-        <name>Отрезной круг Standard for Metal 125x1,0мм ECO, прямой</name>
+        <name>Диск отрезной по металлу BOSCH 125х22.2 мм 2608619768</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>4059952631356</barcode>
@@ -25378,7 +25367,7 @@
         <price>12877</price>
       </offer>
       <offer sku="УТ-00065425">
-        <name>ЗУБР d 125 мм, 1200 Вт, 30 мм, штроборез (бороздодел) (ЗШ-30-1205 Т)</name>
+        <name>Штроборез ЗУБР "МАСТЕР" ЗШ-30-1205 Т</name>
         <vendor>ЗУБР</vendor>
         <barcodes>
           <barcode>4606373558566</barcode>

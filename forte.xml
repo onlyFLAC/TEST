@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-17 13:58">
+<fm_catalog date="2026-09-17 14:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2402,6 +2402,17 @@
         </pickup-options>
         <price>2800</price>
       </offer>
+      <offer sku="УТ-00016719">
+        <name>Набор перовых сверл Bosch 20/22/25 мм 3 шт. 2608900331</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952534053</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6528</price>
+      </offer>
       <offer sku="УТ-00016733">
         <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
         <vendor>TYTAN</vendor>
@@ -2778,6 +2789,14 @@
         </pickup-options>
         <price>7700</price>
       </offer>
+      <offer sku="УТ-00022494">
+        <name>Мелки маркировочные графитовые (12шт в упаковке)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
+      </offer>
       <offer sku="УТ-00022528">
         <name>Очки защитные Husqvarna Yellow X</name>
         <vendor>Husqvarna</vendor>
@@ -2785,6 +2804,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11500</price>
+      </offer>
+      <offer sku="УТ-00022534">
+        <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>30800</price>
+      </offer>
+      <offer sku="УТ-00022548">
+        <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL LIGHT Р.10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24200</price>
       </offer>
       <offer sku="УТ-00023575">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/19 в стиле Де Жуи</name>
@@ -11675,6 +11710,17 @@
         </pickup-options>
         <price>38500</price>
       </offer>
+      <offer sku="00000031836">
+        <name>Стремянка односторонняя Krause "CORDA" 5 ступеней 000729</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199000729</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>46400</price>
+      </offer>
       <offer sku="00000031837">
         <name>Стремянка CORDA 6 ступ.</name>
         <vendor>Krause</vendor>
@@ -11735,6 +11781,22 @@
         </pickup-options>
         <price>135400</price>
       </offer>
+      <offer sku="00000031896">
+        <name>Стремянка STABILO 5 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>116500</price>
+      </offer>
+      <offer sku="00000031905">
+        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>42700</price>
+      </offer>
       <offer sku="00000031920">
         <name>Стремянка SOLIDO 5 ступ.</name>
         <vendor>Krause</vendor>
@@ -11742,6 +11804,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>90000</price>
+      </offer>
+      <offer sku="00000031925">
+        <name>Стремянка Krause "SEPURO" 5 ступ. 127235</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199127235</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>82600</price>
       </offer>
       <offer sku="00000031934">
         <name>Подставка ROLLY 2х2 ступ. алюм</name>
@@ -12829,6 +12902,17 @@
         </pickup-options>
         <price>32900</price>
       </offer>
+      <offer sku="00000032862">
+        <name>Машина шлифовальная угловая (болгарка) Bosch GWS 9-125 S 0601396102</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140861038</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>47830</price>
+      </offer>
       <offer sku="00000032865">
         <name>Машина шлифовальная угловая (болгарка) Bosch GWX 14-125 X-LOCK 06017B7000</name>
         <vendor>BOSCH</vendor>
@@ -13574,6 +13658,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3165</price>
+      </offer>
+      <offer sku="00000034625">
+        <name>Пилка для лобзика по дереву (74 мм; 5 шт.) Bosch HCS T 101 D 2608630032</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140006804</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2690</price>
       </offer>
       <offer sku="00000034629">
         <name>Набор пилок для лобзика BOSCH T244D 5 шт. 2608630058</name>
@@ -15208,6 +15303,17 @@
         </pickup-options>
         <price>1990</price>
       </offer>
+      <offer sku="00000039168">
+        <name>Набор бит PRO 32 шт</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140761734</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8261</price>
+      </offer>
       <offer sku="00000039179">
         <name>Бур SDS Plus-5X 6x400x460</name>
         <vendor>BOSCH</vendor>
@@ -15405,6 +15511,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34977</price>
+      </offer>
+      <offer sku="00000039798">
+        <name>GLL 3-80C (12 V) + BM1 + LR7 + L-boxx</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140953849</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>410505</price>
       </offer>
       <offer sku="00000039804">
         <name>Нивелир оптический Bosch GOL 26D 0601068000</name>
@@ -21004,6 +21121,14 @@
         </pickup-options>
         <price>81710</price>
       </offer>
+      <offer sku="УТ-00042960">
+        <name>MAX фреза карбид-вольф,3,2мм, 9901DM,1шт Bosch 26159901DM</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8330</price>
+      </offer>
       <offer sku="УТ-00044387">
         <name>Шлифмашина эксцентриковая ALTECO EX 400-125 E 66548</name>
         <vendor>ALTECO</vendor>
@@ -21743,6 +21868,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13990</price>
+      </offer>
+      <offer sku="УТ-00053325">
+        <name>Крышка для выравнивания 100 шт BIHUI SLC100, шт 77463</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6790</price>
+      </offer>
+      <offer sku="УТ-00053327">
+        <name>Защитная пластина для СВП 100шт BIHUI SLW100, шт 77465</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6990</price>
       </offer>
       <offer sku="УТ-00053799">
         <name>HS004GZ Пила дисковая аккум XGT BL 40В, 185/190 мм</name>
@@ -22662,6 +22803,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>135154</price>
+      </offer>
+      <offer sku="УТ-00058888">
+        <name>Стремянка KRAUSE "SEPRO S" 5 ступеней 124197</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>95000</price>
       </offer>
       <offer sku="УТ-00059138">
         <name>Компрессор безмасляный DGM AC-225F DG2720-4</name>
@@ -24331,6 +24480,17 @@
         </pickup-options>
         <price>54190</price>
       </offer>
+      <offer sku="УТ-00062693">
+        <name>Стойка с туалетной щеткой RedBlu "Jupiter" DA7733300</name>
+        <vendor>RedBlu</vendor>
+        <barcodes>
+          <barcode>5708516986379</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23085</price>
+      </offer>
       <offer sku="УТ-00063240">
         <name>Доска гладильная Nika Н3 (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -24578,6 +24738,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21690</price>
+      </offer>
+      <offer sku="УТ-00063814">
+        <name>Молоток слесарный BOSCH 500 г 1600A016BT</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140951630</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13490</price>
       </offer>
       <offer sku="УТ-00063815">
         <name>Набор универсальных ножей BOSCH 3 шт. 1600A027M4</name>
@@ -25505,6 +25676,14 @@
         </pickup-options>
         <price>970000</price>
       </offer>
+      <offer sku="УТ-00072972">
+        <name>Кусторез Husqvarna 545F 967 88 45-02</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>487000</price>
+      </offer>
       <offer sku="УТ-00072975">
         <name>Масло синтетическое с дозатором Husqvarna 2Т 1л XP 547 92 98-02</name>
         <vendor>Husqvarna</vendor>
@@ -25737,6 +25916,14 @@
         </pickup-options>
         <price>43105</price>
       </offer>
+      <offer sku="УТ-00075751">
+        <name>Ручка держатель для работы с отвертками Wera 05003990001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16860</price>
+      </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
         <vendor>Nika</vendor>
@@ -25939,6 +26126,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>190</price>
+      </offer>
+      <offer sku="УТ-00084680">
+        <name>Ножницы для резки кабелей KNIPEX 165 мм 95 12 165</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27760</price>
       </offer>
       <offer sku="УТ-00084942">
         <name>Газонокосилка электрическая Bosch EasyRotak 32-205 06008A6300</name>
@@ -26516,6 +26711,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>60360</price>
+      </offer>
+      <offer sku="УТ-00089547">
+        <name>Фиксатор для лестниц на багажник авто PROFSET DL05LC</name>
+        <vendor>PROFSET</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31820</price>
       </offer>
       <offer sku="УТ-00090887">
         <name>Кейс для инструмента BOSCH L-BOXX Contractor 170 1600A037DZ</name>
@@ -27124,6 +27327,14 @@
         </pickup-options>
         <price>9550</price>
       </offer>
+      <offer sku="УТ-00091565">
+        <name>Набор TORX-отверток BOSCH 5 предметов 1600A02BX6</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8030</price>
+      </offer>
       <offer sku="УТ-00091568">
         <name>Универсальный ручной инструмент BOSCH 25 предмета 1600A02BY6</name>
         <vendor>BOSCH</vendor>
@@ -27203,6 +27414,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9590</price>
+      </offer>
+      <offer sku="УТ-00091588">
+        <name>Набор TORX-ключей BOSCH 9 шт 1600A02Z9C</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6310</price>
       </offer>
       <offer sku="УТ-00091589">
         <name>Набор комбинированных ключей BOSCH 12 предметов 1600A02Z9D</name>
@@ -27456,6 +27675,14 @@
         </pickup-options>
         <price>99900</price>
       </offer>
+      <offer sku="УТ-00092906">
+        <name>Набор бит DeWALT PZ2 57 мм (5 шт.), DT7391T-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3209</price>
+      </offer>
       <offer sku="УТ-00093438">
         <name>KRAFTOOL 25 мм, 5 шт, сегментированные лезвия (09602-25-S5)</name>
         <vendor>KRAFTOOL</vendor>
@@ -27679,6 +27906,22 @@
         </pickup-options>
         <price>22610</price>
       </offer>
+      <offer sku="УТ-00096158">
+        <name>Лезвие для шпателя BIHUI 40 см, толщина 0.5 мм PTKB40-SB</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2090</price>
+      </offer>
+      <offer sku="УТ-00096168">
+        <name>Охолождающий воск BIHUI DBCW20</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1590</price>
+      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -27694,6 +27937,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>52340</price>
+      </offer>
+      <offer sku="УТ-00099570">
+        <name>21129HX-2 BMC Дрель-шуруповерт аккумуляторный CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>33990</price>
       </offer>
     </offers>
   </shop>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-17 15:55">
+<fm_catalog date="2026-09-17 16:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2064,6 +2064,9 @@
       <offer sku="УТ-00015312">
         <name>ЗУБР МЕХАНИК, тонкое нитриловое покрытие, размер L, маслобензостойкие перчатки, Профессионал (11276-L) 11276-L_z01</name>
         <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373114700</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -6669,7 +6672,7 @@
         <price>65628</price>
       </offer>
       <offer sku="00000006569">
-        <name>Измельчитель садовый электрический, ЗУБР ЗИЭ-40-2500, р/с 40 мм, контейнер 50 л, 2500 Вт</name>
+        <name>Измельчитель садовый ЗУБР ЗИЭ-40-2500</name>
         <vendor>ЗУБР</vendor>
         <barcodes>
           <barcode>4606373251757</barcode>
@@ -7282,7 +7285,7 @@
         <price>4999</price>
       </offer>
       <offer sku="00000007970">
-        <name>Сучкорез плоскостной малый РОСТОК 424119 со стальными рукоятками</name>
+        <name>Сучкорез РОСТОК 390 мм 424119</name>
         <vendor>Росток</vendor>
         <barcodes>
           <barcode>4606373328251</barcode>
@@ -8113,7 +8116,7 @@
         <price>1990</price>
       </offer>
       <offer sku="00000009744">
-        <name>РОСТОК 14 витых зубьев, 430x100x1500 мм, грабли садовые, с деревянным черенком</name>
+        <name>Грабли с черенком РОСТОК 430х100х1300 мм 421900-14</name>
         <vendor>Росток</vendor>
         <barcodes>
           <barcode>4606373276989</barcode>
@@ -15793,7 +15796,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1061400</price>
+        <price>1204300</price>
       </offer>
       <offer sku="00000041157">
         <name>Аэратор газонов электрический STIHL RLЕ 240.0 62910115615</name>
@@ -24806,7 +24809,7 @@
         <price>24040</price>
       </offer>
       <offer sku="УТ-00063817">
-        <name>Бокорезы Bosch 160 мм 1600A01TH9</name>
+        <name>Бокорезы BOSCH 160 мм 1600A01TH9</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>4059952512563</barcode>

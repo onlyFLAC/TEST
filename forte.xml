@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-17 13:28">
+<fm_catalog date="2026-09-17 13:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1379,17 +1379,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3090</price>
-      </offer>
-      <offer sku="УТ-00012181">
-        <name>Прокладка уплотнительная BOSCH 2609006628</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952285092</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2999</price>
       </offer>
       <offer sku="УТ-00012209">
         <name>Шлифмашина угловая (болгарка) ФИОЛЕНТ МШУ 2-9-125 ИДФР298135002-02К1</name>

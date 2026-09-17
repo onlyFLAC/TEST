@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-17 11:02">
+<fm_catalog date="2026-09-17 11:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -846,17 +846,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22985</price>
-      </offer>
-      <offer sku="УТ-00005958">
-        <name>Уровень тип 80AS, 120 см STABILA 19169</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191696</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25135</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -2020,6 +2009,17 @@
         </pickup-options>
         <price>2999</price>
       </offer>
+      <offer sku="УТ-00015186">
+        <name>STAYER Mini 135х40 мм, Металлический рубанок (1860) 1860_z02</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229156459</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2986</price>
+      </offer>
       <offer sku="УТ-00015260">
         <name>ЗУБР S1344D, L-280/300, Cr-V, Полотно для сабельной пилы (155711-28) 155711-28</name>
         <vendor>ЗУБР</vendor>
@@ -2933,6 +2933,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
+      </offer>
+      <offer sku="УТ-00024810">
+        <name>Моечная машина высокого давления АМ-1600, 1600 Вт, 130 бар, 330 л/ч, переносная// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35780</price>
       </offer>
       <offer sku="УТ-00024852">
         <name>Насос скважинный Denzel DWS-3.5-100 97251</name>
@@ -7399,6 +7407,14 @@
         </pickup-options>
         <price>4999</price>
       </offer>
+      <offer sku="00000008219">
+        <name>МС-200/50 струбцина тип F 200/50 мм, ЗУБР</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2190</price>
+      </offer>
       <offer sku="00000008233">
         <name>МУЛЬТИРЕЗ 180 мм, диск алмазный отрезной универсальный, ЗУБР Профессионал</name>
         <vendor>ЗУБР</vendor>
@@ -8015,6 +8031,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2990</price>
+      </offer>
+      <offer sku="00000009557">
+        <name>Пылесос строительный ЗУБР ПУ-20-1400 М3</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373239823</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41710</price>
       </offer>
       <offer sku="00000009558">
         <name>Пылесос строительный ЗУБР ПУ-30-1400 М3</name>
@@ -9019,6 +9046,28 @@
         </pickup-options>
         <price>7516</price>
       </offer>
+      <offer sku="00000013425">
+        <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996161914</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1795</price>
+      </offer>
+      <offer sku="00000013455">
+        <name>Ручка для напильника 200 мм, деревянная// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4606800056078</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
+      </offer>
       <offer sku="00000013603">
         <name>Длинногубцы Matrix 160 мм 17494</name>
         <vendor>Matrix</vendor>
@@ -9603,6 +9652,17 @@
         </pickup-options>
         <price>1495</price>
       </offer>
+      <offer sku="00000016604">
+        <name>Пила по дереву GROSS PIRANHA складная, для кэмп.и сада,130 мм, 8-9 TPI, кал.зуб, 3D, обрезин.рук,</name>
+        <vendor>Gross</vendor>
+        <barcodes>
+          <barcode>4044996080598</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9700</price>
+      </offer>
       <offer sku="00000016611">
         <name>Полотно для лучковой пилы Palisad 300 мм 60419</name>
         <vendor>Palisad</vendor>
@@ -9624,6 +9684,30 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5965</price>
+      </offer>
+      <offer sku="00000016707">
+        <name>Набор косца "Трансформер" №6, коса "Сайга Люкс" 600 мм, складное косовище , АРТИ// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4044996219592</barcode>
+          <barcode>4606072009987</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14390</price>
+      </offer>
+      <offer sku="00000016710">
+        <name>Серп, 170 мм, "Жнец - 30", зубчатое полотно , АРТИ// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4044996098593</barcode>
+          <barcode>4606072002179</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2590</price>
       </offer>
       <offer sku="00000016727">
         <name>Сучкорез ручной Palisad 700 мм 60521</name>
@@ -9660,6 +9744,17 @@
         </pickup-options>
         <price>6490</price>
       </offer>
+      <offer sku="00000017253">
+        <name>Плодосъемник с металлической корзиной, внутренний D - 145 мм// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996156712</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4172</price>
+      </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9670,6 +9765,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8790</price>
+      </offer>
+      <offer sku="00000017276">
+        <name>Набор дуг для парника Россия 0.85х0.9 м 5 мм 6 шт. 64408</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4606800032881</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3590</price>
       </offer>
       <offer sku="00000017327">
         <name>Набор для подключения шланга 1/2" (распылитель, 3 адаптера к распылителю)// Palisad</name>
@@ -9859,6 +9965,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>888</price>
+      </offer>
+      <offer sku="00000018247">
+        <name>Щепа грушевая для копчения PALISAD Camping Россия 69511</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4606800046192</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>700</price>
       </offer>
       <offer sku="00000018249">
         <name>Щепа для копчения рыбы (ольха+бук+чабрец), Россия Camping// Palisad</name>
@@ -10103,6 +10220,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3990</price>
+      </offer>
+      <offer sku="00000019963">
+        <name>Круг шлифовальный, 200 х 20 х 32 мм, 25А, F40, М (Луга)// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4603347064078</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3995</price>
       </offer>
       <offer sku="00000020001">
         <name>Диск отрезной по металлу LUGAABRASIV 150х22.2 мм 73664</name>
@@ -10612,6 +10740,28 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="00000022755">
+        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996123127</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9450</price>
+      </offer>
+      <offer sku="00000022794">
+        <name>Ящик для инструментов 16, с органайзерами СИБРТЕХ 90807</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800064073</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10652,6 +10802,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2090</price>
+      </offer>
+      <offer sku="00000023072">
+        <name>Паяльник электрика с ручкой из дерева, 150 Вт, 220 В// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996156545</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4390</price>
+      </offer>
+      <offer sku="00000023100">
+        <name>Паста полировальная Сибртех ГОИ №3 20 гр. 913346</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800043566</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>990</price>
       </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
@@ -20436,6 +20608,14 @@
         </pickup-options>
         <price>6795</price>
       </offer>
+      <offer sku="УТ-00001826">
+        <name>Перчатки универсальные, усиленные, с защитными накладками, размер 9// Denzel</name>
+        <vendor>Denzel</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9120</price>
+      </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
         <vendor>Einhell</vendor>
@@ -21193,17 +21373,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>285890</price>
-      </offer>
-      <offer sku="УТ-00046722">
-        <name>Уровень STABILA "тип 70" 80 см 02286</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13415</price>
       </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
@@ -25265,14 +25434,6 @@
         </pickup-options>
         <price>115990</price>
       </offer>
-      <offer sku="УТ-00072365">
-        <name>Запасные зажимные губки KNIPEX 12 59 02</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4130</price>
-      </offer>
       <offer sku="УТ-00072431">
         <name>Клещи переставные-гаечный ключ KNIPEX 86 03 150</name>
         <vendor>KNIPEX</vendor>
@@ -25313,17 +25474,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25480</price>
-      </offer>
-      <offer sku="УТ-00072496">
-        <name>Кусачки KNIPEX 78 61 125 ESD</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773025184</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19480</price>
       </offer>
       <offer sku="УТ-00072499">
         <name>Кусачки боковые KNIPEX 77 72 115 SB</name>
@@ -25376,17 +25526,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27145</price>
-      </offer>
-      <offer sku="УТ-00072563">
-        <name>Ножницы для резки кабелей KNIPEX 95 16 165</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773039648</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38325</price>
       </offer>
       <offer sku="УТ-00072566">
         <name>Ножницы для резки кабелей KNIPEX 95 26 165</name>

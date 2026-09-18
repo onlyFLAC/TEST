@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-18 14:59">
+<fm_catalog date="2026-09-18 15:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10668,17 +10668,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>47200</price>
-      </offer>
-      <offer sku="00000023612">
-        <name>Стремянка двусторонняя 2ст., стальная, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800053374</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12990</price>
       </offer>
       <offer sku="00000023614">
         <name>Стремянка двусторонняя 4ст., стальная, Россия// Сибртех</name>
@@ -22609,17 +22598,6 @@
         </pickup-options>
         <price>52990</price>
       </offer>
-      <offer sku="УТ-00056631">
-        <name>Автосигнализация Pandora DX 40RS</name>
-        <vendor>Pandora</vendor>
-        <barcodes>
-          <barcode>3838100000104</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67700</price>
-      </offer>
       <offer sku="УТ-00056632">
         <name>Автосигнализация Pandora DX 6X Lora</name>
         <vendor>Pandora</vendor>
@@ -24653,17 +24631,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>113500</price>
-      </offer>
-      <offer sku="УТ-00063374">
-        <name>Автосигнализация Pandora VX 3100 v3</name>
-        <vendor>Pandora</vendor>
-        <barcodes>
-          <barcode>4232100000000</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>173400</price>
       </offer>
       <offer sku="УТ-00063391">
         <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>

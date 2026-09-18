@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-18 09:30">
+<fm_catalog date="2026-09-18 09:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9372,6 +9372,17 @@
         </pickup-options>
         <price>1440</price>
       </offer>
+      <offer sku="00000015690">
+        <name>Кронштейн усиленный Сибртех 400х280х30х4 мм белый 94047</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996059006</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4800</price>
+      </offer>
       <offer sku="00000015737">
         <name>Набор распорных полипропиленовых дюбелей Сибртех 8х30 мм 50 шт. 46009</name>
         <vendor>Сибртех</vendor>
@@ -9382,6 +9393,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>400</price>
+      </offer>
+      <offer sku="00000015844">
+        <name>Хомуты, 200 х 3,6 мм, пластиковые, черные, 100 шт.// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996109596</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1500</price>
       </offer>
       <offer sku="00000015846">
         <name>Набор пластиковых хомутов СИБРТЕХ 3.6х370 мм 100 шт. 45562</name>
@@ -9672,6 +9694,17 @@
         </pickup-options>
         <price>3590</price>
       </offer>
+      <offer sku="00000017277">
+        <name>Набор дуг для парника Россия 5 мм 6 шт. 64409</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4606800032898</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3190</price>
+      </offer>
       <offer sku="00000017327">
         <name>Набор для подключения шланга 1/2" (распылитель, 3 адаптера к распылителю)// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9795,6 +9828,28 @@
         </pickup-options>
         <price>21025</price>
       </offer>
+      <offer sku="00000017567">
+        <name>Шланг поливочный армированный, 3/4" 25м, LUXE// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996139593</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21300</price>
+      </offer>
+      <offer sku="00000017681">
+        <name>Лейка садовая Россия 2 л 67505</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4607116630044</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1490</price>
+      </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9839,6 +9894,17 @@
         </pickup-options>
         <price>1395</price>
       </offer>
+      <offer sku="00000017984">
+        <name>Колесо хозяйственное d-125 мм СИБРТЕХ 68704</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996138565</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1800</price>
+      </offer>
       <offer sku="00000018209">
         <name>Гамак Palisad "CAMPING" 200х100 см без планок 69585</name>
         <vendor>Palisad</vendor>
@@ -9871,6 +9937,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>790</price>
+      </offer>
+      <offer sku="00000018259">
+        <name>Щепа ольховая для копчения PALISAD Camping Россия 69543</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4606800042347</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>895</price>
+      </offer>
+      <offer sku="00000018260">
+        <name>Мангал облегченный с ребрами жесткости 500x300x500 мм, Россия Camping// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4606800034830</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4349</price>
       </offer>
       <offer sku="00000018340">
         <name>Набор приствольных кругов Россия 65 см 5 шт. 93927</name>
@@ -10215,6 +10303,17 @@
         </pickup-options>
         <price>999</price>
       </offer>
+      <offer sku="00000020685">
+        <name>Шлифлист на бумажной основе, CT10CW, зерн. М7(P2500), 230 х 280 мм, 10 шт., водост. (БАЗ)// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4660009479588</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2780</price>
+      </offer>
       <offer sku="00000020693">
         <name>Шлифлист на бумажной основе, P 600, 230 х 280 мм, 10 шт.,влагостойкий// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10291,6 +10390,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2090</price>
+      </offer>
+      <offer sku="00000021257">
+        <name>Устройство универсальное для заточки ножей, малое// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996032337</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3484</price>
       </offer>
       <offer sku="00000021323">
         <name>Валик "Поролон", в сборе, 100 мм, D – 48 мм, D ручки – 6 мм, крепление шплинтом// Сибртех</name>
@@ -10410,6 +10520,17 @@
         </pickup-options>
         <price>350</price>
       </offer>
+      <offer sku="00000021988">
+        <name>Шпатель Sparta 300 мм 85130</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4606800070685</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1290</price>
+      </offer>
       <offer sku="00000022142">
         <name>Кельма печника, стальная, пластиковая ручка Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10447,6 +10568,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>398</price>
+      </offer>
+      <offer sku="00000022399">
+        <name>Лента клейкая двусторонняя, 50 мм х 5 м, на полипропиленовой основе// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>890</price>
       </offer>
       <offer sku="00000022405">
         <name>Лента клейкая противоскользящая, c фотолюминисцентной полосой 50 мм. х 5м.// Matrix</name>
@@ -10672,6 +10801,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>47200</price>
+      </offer>
+      <offer sku="00000023612">
+        <name>Стремянка двусторонняя 2ст., стальная, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800053374</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12990</price>
       </offer>
       <offer sku="00000023614">
         <name>Стремянка двусторонняя 4ст., стальная, Россия// Сибртех</name>
@@ -17625,6 +17765,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2030</price>
+      </offer>
+      <offer sku="00000063915">
+        <name>Триммер бензиновый DTL-52S, 52 см3, разъемная штанга, состоит из 2 частей// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996192970</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>60752</price>
       </offer>
       <offer sku="00000063977">
         <name>Грабли веерные стальные, 565 мм, 22 плоских зуба, эмалированные, усиленные, без черенка// Palisad</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-18 07:03">
+<fm_catalog date="2026-09-18 07:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -955,17 +955,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>53100</price>
-      </offer>
-      <offer sku="УТ-00007151">
-        <name>Набор бит EDGE by PATRIOT SL3х25 мм 3 шт. 818010001</name>
-        <vendor>Patriot</vendor>
-        <barcodes>
-          <barcode>6938180100019</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>408</price>
       </offer>
       <offer sku="УТ-00007152">
         <name>Набор бит EDGE by PATRIOT SL3.5х25 мм 3 шт. 818010002</name>
@@ -2487,17 +2476,6 @@
         <vendor>MAXON</vendor>
         <barcodes>
           <barcode>6931626409547</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41990</price>
-      </offer>
-      <offer sku="УТ-00019451">
-        <name>Кронштейн ONKRON черный PT1</name>
-        <vendor>ONKRON</vendor>
-        <barcodes>
-          <barcode>4603726156691</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -5694,17 +5672,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1480</price>
-      </offer>
-      <offer sku="00000004309">
-        <name>Грабельки GRINDA из нержавеющей стали с деревянной ручкой, 250 мм</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925529314</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3999</price>
       </offer>
       <offer sku="00000004312">
         <name>Грабельки садовые с деревянной ручкой, РОСТОК 39611, 6 витых зубцов, 120x62x405 мм</name>
@@ -9207,17 +9174,6 @@
         </pickup-options>
         <price>23588</price>
       </offer>
-      <offer sku="00000014623">
-        <name>Набор тефлоновых насадок Kronwerk 20-40 мм 4 шт. 94286</name>
-        <vendor>Kronwerk</vendor>
-        <barcodes>
-          <barcode>4044996135304</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3490</price>
-      </offer>
       <offer sku="00000014649">
         <name>Струбцина зажимная Сибртех 20788</name>
         <vendor>Сибртех</vendor>
@@ -9982,17 +9938,6 @@
         </pickup-options>
         <price>690</price>
       </offer>
-      <offer sku="00000018969">
-        <name>Зубило плоское Matrix SDS-Max 18х25х280 мм 70341</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996003047</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1750</price>
-      </offer>
       <offer sku="00000019033">
         <name>Сверло по металлу Matrix 12 мм 71482</name>
         <vendor>Matrix</vendor>
@@ -10379,17 +10324,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>690</price>
-      </offer>
-      <offer sku="00000021613">
-        <name>Малярное пластмассовое прямоугольное ведро 14л СИБРТЕХ 81405</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800038210</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1950</price>
       </offer>
       <offer sku="00000021618">
         <name>Кювета пластмассовая для валиков, 120х260 мм, Россия// Сибртех</name>
@@ -10944,17 +10878,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11160</price>
-      </offer>
-      <offer sku="00000024777">
-        <name>Фен строительный ALTECO HG 0606 27139</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216453251</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7990</price>
       </offer>
       <offer sku="00000024779">
         <name>Фен строительный ALTECO HG 0608 27141</name>
@@ -17999,17 +17922,6 @@
         </pickup-options>
         <price>24188</price>
       </offer>
-      <offer sku="00000064236">
-        <name>Подставка для цветов ЗМИ "АРКА 5" ПДЦ414 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093785423</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7010</price>
-      </offer>
       <offer sku="00000064237">
         <name>Подставка для цветов ЗМИ "АРКА 5" коричневая ПДЦ414</name>
         <vendor>ЗМИ</vendor>
@@ -24362,17 +24274,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>92440</price>
-      </offer>
-      <offer sku="УТ-00061567">
-        <name>Гладильная доска Сильвия Perilla</name>
-        <vendor>Perilla</vendor>
-        <barcodes>
-          <barcode>4607146991306</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27990</price>
       </offer>
       <offer sku="УТ-00061576">
         <name>Сушилка для белья ANNA black Hausler</name>

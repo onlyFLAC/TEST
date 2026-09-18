@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-18 15:29">
+<fm_catalog date="2026-09-18 15:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -879,14 +879,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40350</price>
-      </offer>
-      <offer sku="УТ-00006301">
-        <name>Подставка складная, сталь, TOPPY 2 ступ</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23200</price>
       </offer>
       <offer sku="УТ-00006352">
         <name>Двухсторонняя стремянка DOPPLO 2х5 ступ.</name>
@@ -9270,17 +9262,6 @@
         </pickup-options>
         <price>8690</price>
       </offer>
-      <offer sku="00000015199">
-        <name>Рулетка Elastica, 10 м х 25 мм, обрезиненный корпус// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996087153</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2294</price>
-      </offer>
       <offer sku="00000015200">
         <name>Рулетка 3 м х 13 мм, пластиковый корпус</name>
         <vendor>Natan</vendor>
@@ -11720,17 +11701,6 @@
         </pickup-options>
         <price>18100</price>
       </offer>
-      <offer sku="00000031888">
-        <name>Универсальный борт для трансформера 4х4</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199122278</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20860</price>
-      </offer>
       <offer sku="00000031892">
         <name>Универсальная шарнирная лестница STABILO 4х4</name>
         <vendor>Krause</vendor>
@@ -11747,14 +11717,6 @@
         </pickup-options>
         <price>135400</price>
       </offer>
-      <offer sku="00000031895">
-        <name>Стремянка STABILO 4 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>104600</price>
-      </offer>
       <offer sku="00000031896">
         <name>Стремянка STABILO 5 ступ.</name>
         <vendor>Krause</vendor>
@@ -11762,57 +11724,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>116500</price>
-      </offer>
-      <offer sku="00000031904">
-        <name>Стремянка свободностоящая 3 ступеньки, раб.высота 2,65 м SOLIDY Krause</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36200</price>
-      </offer>
-      <offer sku="00000031905">
-        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>42700</price>
-      </offer>
-      <offer sku="00000031913">
-        <name>Стремянка анодированная KRAUSE "MONTO SECURO" 6 ступеней 126443</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126443</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>100500</price>
-      </offer>
-      <offer sku="00000031914">
-        <name>Стремянка анодированная Krause "MONTO" SECURO 1х7 126450</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>112500</price>
-      </offer>
-      <offer sku="00000031918">
-        <name>Стремянка SECURY MultiGrip 6 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>87800</price>
-      </offer>
-      <offer sku="00000031921">
-        <name>Стремянка SOLIDO 6 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>100600</price>
       </offer>
       <offer sku="00000031925">
         <name>Стремянка Krause "SEPURO" 5 ступ. 127235</name>
@@ -24091,17 +24002,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17900</price>
-      </offer>
-      <offer sku="УТ-00061349">
-        <name>Душевая стойка Frap F2487-3 золотой сатин</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477632198</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>96680</price>
       </offer>
       <offer sku="УТ-00061350">
         <name>Душевая стойка Frap F2487-9 оружейная сталь</name>

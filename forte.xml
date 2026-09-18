@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-18 10:57">
+<fm_catalog date="2026-09-18 13:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9638,18 +9638,6 @@
         </pickup-options>
         <price>1990</price>
       </offer>
-      <offer sku="00000017133">
-        <name>Вилы 6-х рогие, копальные, 195х220 мм, кованые, без черенка, АРТИ// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4044996219615</barcode>
-          <barcode>4606072002377</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6490</price>
-      </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
         <vendor>Palisad</vendor>
@@ -18491,14 +18479,6 @@
         </pickup-options>
         <price>15180</price>
       </offer>
-      <offer sku="00000070730">
-        <name>Цепь (бухта) (1640 зв.) 3/8Р" (1,3) PM Picco Micro Comfort Stihl</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>170800</price>
-      </offer>
       <offer sku="00000070759">
         <name>Шина STIHL 12" 30 см 1.1 мм 30050003905</name>
         <vendor>STIHL</vendor>
@@ -18531,6 +18511,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37300</price>
+      </offer>
+      <offer sku="00000070816">
+        <name>Напильник круглый d 5,2х200 мм Stihl</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1540</price>
       </offer>
       <offer sku="00000070832">
         <name>Набор заточной STIHL 4 мм 56050071027</name>
@@ -25314,6 +25302,14 @@
         </pickup-options>
         <price>21660</price>
       </offer>
+      <offer sku="УТ-00068156">
+        <name>Компрессор DGM AC-2100B ременной</name>
+        <vendor>DGM</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>179210</price>
+      </offer>
       <offer sku="УТ-00068505">
         <name>Лопата штыковая Solid FISKARS</name>
         <vendor>FISKARS</vendor>
@@ -25920,6 +25916,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>173000</price>
+      </offer>
+      <offer sku="УТ-00076073">
+        <name>Диспенсер (дозатор) для мыла ELEMENT, белый, PERFECTO LINEA</name>
+        <vendor>PERFECTO LINEA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6010</price>
       </offer>
       <offer sku="УТ-00076443">
         <name>Лопата снеговая STARTUL 410х460 мм стальной черенок ST9056-2</name>
@@ -27835,6 +27839,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4590</price>
+      </offer>
+      <offer sku="УТ-00094087">
+        <name>Струна триммерная квадратного сечения STIHL 2.7 мм, 208 м 00009302616</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17200</price>
       </offer>
       <offer sku="УТ-00094229">
         <name>Батарейки GP 2 шт. CR 2016-7CR2</name>

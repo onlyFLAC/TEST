@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-18 08:02">
+<fm_catalog date="2026-09-18 08:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2672,17 +2672,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
-      </offer>
-      <offer sku="УТ-00022271">
-        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245909</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7100</price>
       </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
@@ -11747,14 +11736,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>116500</price>
-      </offer>
-      <offer sku="00000031905">
-        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>42700</price>
       </offer>
       <offer sku="00000031925">
         <name>Стремянка Krause "SEPURO" 5 ступ. 127235</name>
@@ -23689,17 +23670,6 @@
         </pickup-options>
         <price>88190</price>
       </offer>
-      <offer sku="УТ-00060367">
-        <name>Стойка душевая Frap хром F2471</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477626067</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>65500</price>
-      </offer>
       <offer sku="УТ-00060385">
         <name>Смеситель для ванны Frap сатин F22806</name>
         <vendor>Frap</vendor>
@@ -24561,14 +24531,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>113500</price>
-      </offer>
-      <offer sku="УТ-00063381">
-        <name>Травокосилка Husqvarna 226R 965 87 10-03</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>180000</price>
       </offer>
       <offer sku="УТ-00063391">
         <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
@@ -26705,14 +26667,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>60360</price>
-      </offer>
-      <offer sku="УТ-00089547">
-        <name>Фиксатор для лестниц на багажник авто PROFSET DL05LC</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31820</price>
       </offer>
       <offer sku="УТ-00090887">
         <name>Кейс для инструмента BOSCH L-BOXX Contractor 170 1600A037DZ</name>

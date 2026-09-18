@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-18 09:00">
+<fm_catalog date="2026-09-18 09:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2476,6 +2476,17 @@
         <vendor>MAXON</vendor>
         <barcodes>
           <barcode>6931626409547</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41990</price>
+      </offer>
+      <offer sku="УТ-00019451">
+        <name>Кронштейн ONKRON черный PT1</name>
+        <vendor>ONKRON</vendor>
+        <barcodes>
+          <barcode>4603726156691</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>

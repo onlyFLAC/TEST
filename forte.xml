@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-18 14:30">
+<fm_catalog date="2026-09-18 14:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -879,6 +879,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40350</price>
+      </offer>
+      <offer sku="УТ-00006301">
+        <name>Подставка складная, сталь, TOPPY 2 ступ</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23200</price>
       </offer>
       <offer sku="УТ-00006352">
         <name>Двухсторонняя стремянка DOPPLO 2х5 ступ.</name>
@@ -6594,17 +6602,6 @@
         </pickup-options>
         <price>13800</price>
       </offer>
-      <offer sku="00000006513">
-        <name>ЗУБР Шланг напорно-всасывающий со спиралью ПВХ, 3 атм, 32мм х 15м</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373298646</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12890</price>
-      </offer>
       <offer sku="00000006514">
         <name>ЗУБР Шланг напорно-всасывающий со спиралью ПВХ, 3 атм, 38мм х 15м</name>
         <vendor>ЗУБР</vendor>
@@ -11734,6 +11731,17 @@
         </pickup-options>
         <price>18100</price>
       </offer>
+      <offer sku="00000031888">
+        <name>Универсальный борт для трансформера 4х4</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199122278</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20860</price>
+      </offer>
       <offer sku="00000031892">
         <name>Универсальная шарнирная лестница STABILO 4х4</name>
         <vendor>Krause</vendor>
@@ -11750,6 +11758,14 @@
         </pickup-options>
         <price>135400</price>
       </offer>
+      <offer sku="00000031895">
+        <name>Стремянка STABILO 4 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>104600</price>
+      </offer>
       <offer sku="00000031896">
         <name>Стремянка STABILO 5 ступ.</name>
         <vendor>Krause</vendor>
@@ -11757,6 +11773,57 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>116500</price>
+      </offer>
+      <offer sku="00000031904">
+        <name>Стремянка свободностоящая 3 ступеньки, раб.высота 2,65 м SOLIDY Krause</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36200</price>
+      </offer>
+      <offer sku="00000031905">
+        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>42700</price>
+      </offer>
+      <offer sku="00000031913">
+        <name>Стремянка анодированная KRAUSE "MONTO SECURO" 6 ступеней 126443</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126443</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>100500</price>
+      </offer>
+      <offer sku="00000031914">
+        <name>Стремянка анодированная Krause "MONTO" SECURO 1х7 126450</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>112500</price>
+      </offer>
+      <offer sku="00000031918">
+        <name>Стремянка SECURY MultiGrip 6 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>87800</price>
+      </offer>
+      <offer sku="00000031921">
+        <name>Стремянка SOLIDO 6 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>100600</price>
       </offer>
       <offer sku="00000031925">
         <name>Стремянка Krause "SEPURO" 5 ступ. 127235</name>
@@ -15277,17 +15344,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5957</price>
-      </offer>
-      <offer sku="00000039185">
-        <name>Бур по бетону BOSCH SDS+ 14х550/610 мм 2608836623</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509227638</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10546</price>
       </offer>
       <offer sku="00000039205">
         <name>Бур по бетону BOSCH SDS+ 25х400/450 мм 2608836650</name>
@@ -20639,6 +20695,18 @@
         </pickup-options>
         <price>23680</price>
       </offer>
+      <offer sku="УТ-00002310">
+        <name>Вешалка гардеробная ЗМИ "АЛАБАМА 22" ВГА22 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093788042</barcode>
+          <barcode>4610093788066</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19550</price>
+      </offer>
       <offer sku="УТ-00002312">
         <name>Вешалка гардеробная ЗМИ "АЛАБАМА 32" ВГА32 черная</name>
         <vendor>ЗМИ</vendor>
@@ -22541,6 +22609,17 @@
         </pickup-options>
         <price>52990</price>
       </offer>
+      <offer sku="УТ-00056631">
+        <name>Автосигнализация Pandora DX 40RS</name>
+        <vendor>Pandora</vendor>
+        <barcodes>
+          <barcode>3838100000104</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>67700</price>
+      </offer>
       <offer sku="УТ-00056632">
         <name>Автосигнализация Pandora DX 6X Lora</name>
         <vendor>Pandora</vendor>
@@ -23451,6 +23530,17 @@
         </pickup-options>
         <price>266</price>
       </offer>
+      <offer sku="УТ-00059873">
+        <name>Смеситель Frap для кухни F4044-9 Оружейная Сталь</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477626548</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25150</price>
+      </offer>
       <offer sku="УТ-00059890">
         <name>Смеситель для ванны Gappo черный/хром G2203-6</name>
         <vendor>GAPPO</vendor>
@@ -24024,6 +24114,17 @@
         </pickup-options>
         <price>17900</price>
       </offer>
+      <offer sku="УТ-00061349">
+        <name>Душевая стойка Frap F2487-3 золотой сатин</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477632198</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96680</price>
+      </offer>
       <offer sku="УТ-00061350">
         <name>Душевая стойка Frap F2487-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -24552,6 +24653,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>113500</price>
+      </offer>
+      <offer sku="УТ-00063374">
+        <name>Автосигнализация Pandora VX 3100 v3</name>
+        <vendor>Pandora</vendor>
+        <barcodes>
+          <barcode>4232100000000</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>173400</price>
       </offer>
       <offer sku="УТ-00063391">
         <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>

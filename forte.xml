@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 13:31">
+<fm_catalog date="2026-09-19 14:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1546,17 +1546,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>987</price>
-      </offer>
-      <offer sku="УТ-00013519">
-        <name>GRINDA TA-1, ударопрочный пластик с TPR, штуцерный переходник, PROLine (8-426437) 8-426437_z01</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925529024</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1461</price>
       </offer>
       <offer sku="УТ-00013520">
         <name>Соединитель быстросъемный с автостопом GRINDA TC-34A PROLine 3/4" 8-426430_z01</name>
@@ -25300,14 +25289,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>84470</price>
-      </offer>
-      <offer sku="УТ-00071571">
-        <name>Циркулярная пила погружная с шиной 1,4 м WORTEX CS 1612-1 в кор. 1200 Вт, до 59 мм, 6000 об/мин</name>
-        <vendor>Wortex</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>115990</price>
       </offer>
       <offer sku="УТ-00072431">
         <name>Клещи переставные-гаечный ключ KNIPEX 86 03 150</name>

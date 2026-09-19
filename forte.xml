@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 12:32">
+<fm_catalog date="2026-09-19 13:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2876,6 +2876,14 @@
         </pickup-options>
         <price>244590</price>
       </offer>
+      <offer sku="УТ-00024220">
+        <name>Гайковерт,1300Вт,1500у\м,1000Нм,квадрат 1",8.4кг,кор,М22-М30,чем</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>354510</price>
+      </offer>
       <offer sku="УТ-00024231">
         <name>Дрель ударная электрическая Makita HP1631</name>
         <vendor>Makita</vendor>
@@ -4430,6 +4438,17 @@
         <vendor>ЗМИ</vendor>
         <barcodes>
           <barcode>4610195633134</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7360</price>
+      </offer>
+      <offer sku="УТ-00028800">
+        <name>Вешалка настенная ЗМИ "ТОРОНТО 7" ВНТ7Б белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195633141</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -10842,6 +10861,18 @@
         </pickup-options>
         <price>11160</price>
       </offer>
+      <offer sku="00000024496">
+        <name>Алмазная коронка 132*350 PS</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4607094412793</barcode>
+          <barcode>4870216455163</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14390</price>
+      </offer>
       <offer sku="00000024779">
         <name>Фен строительный ALTECO HG 0608 27141</name>
         <vendor>ALTECO</vendor>
@@ -10885,6 +10916,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19580</price>
+      </offer>
+      <offer sku="00000024876">
+        <name>Станок точильный BG 350-200 ALTECO</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216450502</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29000</price>
       </offer>
       <offer sku="00000024898">
         <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
@@ -11370,6 +11412,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6700</price>
+      </offer>
+      <offer sku="00000027886">
+        <name>Набор бит и сверл с зенкерами DeWALT Flip&amp;Drive (10 шт.), DT7612-XJ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15330</price>
       </offer>
       <offer sku="00000028154">
         <name>Набор шлифшкурок DeWALT 125 мм 25 шт. DT3117</name>
@@ -21754,6 +21804,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6990</price>
+      </offer>
+      <offer sku="УТ-00053348">
+        <name>Шпатель малярный 300мм, BIHUI PTK30, шт 77402</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3190</price>
       </offer>
       <offer sku="УТ-00053799">
         <name>HS004GZ Пила дисковая аккум XGT BL 40В, 185/190 мм</name>

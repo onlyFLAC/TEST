@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 08:38">
+<fm_catalog date="2026-09-19 09:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11714,17 +11714,6 @@
         </pickup-options>
         <price>116500</price>
       </offer>
-      <offer sku="00000031925">
-        <name>Стремянка Krause "SEPURO" 5 ступ. 127235</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199127235</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>82600</price>
-      </offer>
       <offer sku="00000031934">
         <name>Подставка ROLLY 2х2 ступ. алюм</name>
         <vendor>Krause</vendor>
@@ -14799,17 +14788,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4624</price>
-      </offer>
-      <offer sku="00000036915">
-        <name>ФРЕЗА ПАЗОВАЯ V 16/8 MM</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140358682</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3271</price>
       </offer>
       <offer sku="00000036918">
         <name>ПАЗОВАЯ ФРЕЗА 12/12</name>
@@ -26817,14 +26795,6 @@
         </pickup-options>
         <price>3490</price>
       </offer>
-      <offer sku="УТ-00091032">
-        <name>Батарейки GP 5 шт. CR2450-C5</name>
-        <vendor>GP</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5990</price>
-      </offer>
       <offer sku="УТ-00091040">
         <name>Батарейки GP 5 шт. CR 2032-C5</name>
         <vendor>GP</vendor>
@@ -27566,17 +27536,6 @@
         </pickup-options>
         <price>6800</price>
       </offer>
-      <offer sku="УТ-00091636">
-        <name>Клещи переставные BOSCH 250 мм 1600A032V9</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423302325</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8890</price>
-      </offer>
       <offer sku="УТ-00091638">
         <name>Плоскогубцы комбинированные BOSCH 1600A032VB</name>
         <vendor>BOSCH</vendor>
@@ -27919,14 +27878,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>52340</price>
-      </offer>
-      <offer sku="УТ-00099570">
-        <name>21129HX-2 BMC Дрель-шуруповерт аккумуляторный CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>33990</price>
       </offer>
     </offers>
   </shop>

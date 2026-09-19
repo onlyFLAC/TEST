@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 15:28">
+<fm_catalog date="2026-09-19 15:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7712,17 +7712,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4286</price>
-      </offer>
-      <offer sku="00000008867">
-        <name>Ножовка-ручка по металлу, ЗУБР - 1572_z03</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373323478</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2875</price>
       </offer>
       <offer sku="00000008903">
         <name>Органайзер ЗУБР ДОН-42 38036-42</name>

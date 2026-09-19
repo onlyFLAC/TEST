@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 09:36">
+<fm_catalog date="2026-09-19 10:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21745,17 +21745,6 @@
         </pickup-options>
         <price>24900</price>
       </offer>
-      <offer sku="УТ-00053261">
-        <name>Шлифмашина угловая (болгарка) ALTECO AG 800-125 80138</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244616116</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13990</price>
-      </offer>
       <offer sku="УТ-00053325">
         <name>Крышка для выравнивания 100 шт BIHUI SLC100, шт 77463</name>
         <vendor>BIHUI</vendor>
@@ -26148,14 +26137,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
-      </offer>
-      <offer sku="УТ-00085488">
-        <name>Лента для рулетки Husqvarna 20 м 505 69 71-05</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085489">
         <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>

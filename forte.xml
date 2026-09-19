@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 11:04">
+<fm_catalog date="2026-09-19 11:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22108,17 +22108,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2777</price>
-      </offer>
-      <offer sku="УТ-00055701">
-        <name>Этажерка Nika ЭТК6/Ч матово-черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111530750</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17888</price>
       </offer>
       <offer sku="УТ-00055703">
         <name>Этажерка Nika ЭТЭ1/Ч черный</name>

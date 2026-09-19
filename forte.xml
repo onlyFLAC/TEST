@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 10:06">
+<fm_catalog date="2026-09-19 10:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2654,6 +2654,14 @@
         </pickup-options>
         <price>398000</price>
       </offer>
+      <offer sku="УТ-00022173">
+        <name>Газонокосилка LC 253S</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>450000</price>
+      </offer>
       <offer sku="УТ-00022216">
         <name>Травокосилка 545RХ</name>
         <vendor>Husqvarna</vendor>
@@ -2683,6 +2691,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
+      </offer>
+      <offer sku="УТ-00022271">
+        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245909</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7100</price>
       </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
@@ -21714,6 +21733,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8100</price>
+      </offer>
+      <offer sku="УТ-00052936">
+        <name>Крюк зацеп для рулетки 505 69 72-10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3350</price>
       </offer>
       <offer sku="УТ-00052969">
         <name>Зубчатый упор Stihl 00006600800</name>

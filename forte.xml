@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 12:03">
+<fm_catalog date="2026-09-19 12:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2623,17 +2623,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>181000</price>
-      </offer>
-      <offer sku="УТ-00022131">
-        <name>Бензопила Husqvarna 120 Mark II 967 86 19-06</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391736617178</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>105000</price>
       </offer>
       <offer sku="УТ-00022140">
         <name>Бензопила Husqvarna 450 II 15 ; 0.325 1.3 64DL HSM</name>
@@ -14170,17 +14159,6 @@
         </pickup-options>
         <price>36603</price>
       </offer>
-      <offer sku="00000035639">
-        <name>Сверло SDS plus-5X 5шт Набор 6/6/8/8/10мм</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509224057</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7293</price>
-      </offer>
       <offer sku="00000035865">
         <name>Набор сверл по бетону Bosch SilverPerc CYL-3 6х100 мм 2608597660</name>
         <vendor>BOSCH</vendor>
@@ -19468,17 +19446,6 @@
         </pickup-options>
         <price>20490</price>
       </offer>
-      <offer sku="00000075870">
-        <name>Вешалка гардеробная ЗМИ "РАДУГА 3" ВНП391 графит</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093789964</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6470</price>
-      </offer>
       <offer sku="00000075877">
         <name>ЗМИ Стеллаж "Валенсия 15" Белый</name>
         <vendor>ЗМИ</vendor>
@@ -23102,17 +23069,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3177</price>
-      </offer>
-      <offer sku="УТ-00059672">
-        <name>Этажерка с ящиком Nika ЭТП3-1/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032742400</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21888</price>
       </offer>
       <offer sku="УТ-00059673">
         <name>Этажерка с ящиком Nika ЭТП3-1/К коричневый</name>

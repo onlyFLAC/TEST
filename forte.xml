@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-19 10:35">
+<fm_catalog date="2026-09-19 11:04">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21178,6 +21178,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22100</price>
+      </offer>
+      <offer sku="УТ-00045931">
+        <name>ЗУБР Универсальный рез, 230 x 32/30 мм, 60Т, пильный диск по алюминию (36916-230-32-60)</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373462665</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10990</price>
       </offer>
       <offer sku="УТ-00045992">
         <name>ЗУБР 10 м, 6 х 8 мм, 15 бар, воздушный спиральный шланг с фитингами рапид, Профессионал (6473-10)</name>

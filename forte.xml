@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-20 11:30">
+<fm_catalog date="2026-09-20 11:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9145,17 +9145,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4350</price>
-      </offer>
-      <offer sku="00000014726">
-        <name>Набор: струбцины G-образные, 3 шт., 25-50-75 мм// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996050362</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2295</price>
       </offer>
       <offer sku="00000014803">
         <name>Кирка-молоток печника и каменщика 500 г, фибергласовая обрезиненная рукоятка 385 мм// Matrix</name>

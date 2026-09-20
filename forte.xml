@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-20 13:27">
+<fm_catalog date="2026-09-20 13:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -27512,17 +27512,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3689</price>
-      </offer>
-      <offer sku="УТ-00093544">
-        <name>GRINDA EURO буковая колодка 40см, шлифованный черенок из берёзы 120см (d22мм) щетина 70мм, 5-рядная, уличная щётка с черенком (39251-400)</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925605247</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4610</price>
       </offer>
       <offer sku="УТ-00093617">
         <name>KRAFTOOL KRAFT BOARD на единой, базе, 5 колёс, лоток для инструментов, нагрузка до 110кг, строительные наколенники на колёсах (11513)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-20 08:05">
+<fm_catalog date="2026-09-20 08:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24970,6 +24970,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2999</price>
+      </offer>
+      <offer sku="УТ-00064687">
+        <name>ЗУБР ПРОФИ-5 350х230х1450мм, полотно рессор.сталь 1.6мм закалено, c ребрами жестк., черенок высш.сорт, тип ЛСП, совковая лопата, Профессионал (39457)</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373460340</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4548</price>
       </offer>
       <offer sku="УТ-00064691">
         <name>ЗУБР ПРОФИ-5, 375 х 210 мм, полотно рессорная сталь 1.6 мм закалено, c ребрами жесткости, без черенка, тип ЛКО, штыковая лопата, Профессионал (39450)</name>

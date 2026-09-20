@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-20 07:07">
+<fm_catalog date="2026-09-20 07:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2459,17 +2459,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22355</price>
-      </offer>
-      <offer sku="УТ-00019383">
-        <name>Передатчик видео сигнала MAXON опциональный беспроводной MT-WX02T</name>
-        <vendor>MAXON</vendor>
-        <barcodes>
-          <barcode>6931626409547</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41990</price>
       </offer>
       <offer sku="УТ-00019451">
         <name>Кронштейн ONKRON черный PT1</name>
@@ -8240,17 +8229,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3809</price>
-      </offer>
-      <offer sku="00000010121">
-        <name>Сверло регулируемое, STAYER Profi 2944-200, двухрезцовое, по дереву, "Балеринка", d=40-200мм</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229156350</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4950</price>
       </offer>
       <offer sku="00000010158">
         <name>Противомоскитная сетка для окна Stayer Comfort с крепежной лентой белая ПЭТ 12480-11-13</name>
@@ -16928,17 +16906,6 @@
         </pickup-options>
         <price>22470</price>
       </offer>
-      <offer sku="00000059179">
-        <name>Подставка для цветов ЗМИ "АРКА 5" ПДЦ414 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011879095</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8510</price>
-      </offer>
       <offer sku="00000059190">
         <name>Вешалка гардеробная колесная ЗМИ "РАДУГА 2" ВГАР2 черная</name>
         <vendor>ЗМИ</vendor>
@@ -18418,6 +18385,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15320</price>
+      </offer>
+      <offer sku="00000070612">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787144</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14070</price>
       </offer>
       <offer sku="00000070655">
         <name>Цепь STIHL 66 зв. 3/8" 1.6 мм 36RM RAPID MICRO 36520000066</name>
@@ -20393,17 +20371,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
-      </offer>
-      <offer sku="УТ-00001777">
-        <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800092397</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9200</price>
       </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
@@ -27596,17 +27563,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3689</price>
-      </offer>
-      <offer sku="УТ-00093476">
-        <name>ЗУБР 10 л, пластиковая канистра (38366-10)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373537783</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4998</price>
       </offer>
       <offer sku="УТ-00093544">
         <name>GRINDA EURO буковая колодка 40см, шлифованный черенок из берёзы 120см (d22мм) щетина 70мм, 5-рядная, уличная щётка с черенком (39251-400)</name>

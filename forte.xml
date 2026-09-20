@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-20 07:36">
+<fm_catalog date="2026-09-20 08:05">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7955,17 +7955,6 @@
         </pickup-options>
         <price>2990</price>
       </offer>
-      <offer sku="00000009557">
-        <name>Пылесос строительный ЗУБР ПУ-20-1400 М3</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373239823</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41710</price>
-      </offer>
       <offer sku="00000009558">
         <name>Пылесос строительный ЗУБР ПУ-30-1400 М3</name>
         <vendor>ЗУБР</vendor>
@@ -9576,6 +9565,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1990</price>
+      </offer>
+      <offer sku="00000017133">
+        <name>Вилы 6-х рогие, копальные, 195х220 мм, кованые, без черенка, АРТИ// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4044996219615</barcode>
+          <barcode>4606072002377</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6490</price>
       </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
@@ -18437,14 +18438,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37300</price>
-      </offer>
-      <offer sku="00000070816">
-        <name>Напильник круглый d 5,2х200 мм Stihl</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1540</price>
       </offer>
       <offer sku="00000070832">
         <name>Набор заточной STIHL 4 мм 56050071027</name>
@@ -27694,14 +27687,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4590</price>
-      </offer>
-      <offer sku="УТ-00094087">
-        <name>Струна триммерная квадратного сечения STIHL 2.7 мм, 208 м 00009302616</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17200</price>
       </offer>
       <offer sku="УТ-00094229">
         <name>Батарейки GP 2 шт. CR 2016-7CR2</name>

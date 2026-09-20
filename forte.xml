@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-20 12:29">
+<fm_catalog date="2026-09-20 12:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9767,17 +9767,6 @@
         </pickup-options>
         <price>888</price>
       </offer>
-      <offer sku="00000018249">
-        <name>Щепа для копчения рыбы (ольха+бук+чабрец), Россия Camping// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4606800060723</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>790</price>
-      </offer>
       <offer sku="00000018340">
         <name>Набор приствольных кругов Россия 65 см 5 шт. 93927</name>
         <vendor>Россия</vendor>
@@ -12781,17 +12770,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32900</price>
-      </offer>
-      <offer sku="00000032862">
-        <name>Машина шлифовальная угловая (болгарка) Bosch GWS 9-125 S 0601396102</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140861038</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47830</price>
       </offer>
       <offer sku="00000032865">
         <name>Машина шлифовальная угловая (болгарка) Bosch GWX 14-125 X-LOCK 06017B7000</name>
@@ -24145,17 +24123,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>92440</price>
-      </offer>
-      <offer sku="УТ-00061576">
-        <name>Сушилка для белья ANNA black Hausler</name>
-        <vendor>Hausler</vendor>
-        <barcodes>
-          <barcode>4780114210590</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15590</price>
       </offer>
       <offer sku="УТ-00061577">
         <name>Сушилка для белья Essence Hausler</name>

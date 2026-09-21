@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 14:25">
+<fm_catalog date="2026-09-21 14:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2352,6 +2352,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9600</price>
+      </offer>
+      <offer sku="УТ-00016572">
+        <name>TMT19923 Измерительное колесо с цифровым дисплеем.</name>
+        <vendor>Total</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38000</price>
       </offer>
       <offer sku="УТ-00016701">
         <name>Сверло универсальное BOSCH CYL-9 6х120 мм 2608900626</name>
@@ -15348,6 +15356,14 @@
         </pickup-options>
         <price>273300</price>
       </offer>
+      <offer sku="00000040379">
+        <name>Шлифовальный алмазный диск (Двухрядный сегментный) TAC2421251</name>
+        <vendor>Total</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7600</price>
+      </offer>
       <offer sku="00000040555">
         <name>Набор отверток Total 26 шт. THTDC252601</name>
         <vendor>Total</vendor>
@@ -23155,17 +23171,6 @@
         </pickup-options>
         <price>25150</price>
       </offer>
-      <offer sku="УТ-00059876">
-        <name>Смеситель GAPPO для раковины G3306-9 Оружейная Сталь встраиваемый для ванны</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477693489</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>96820</price>
-      </offer>
       <offer sku="УТ-00059890">
         <name>Смеситель для ванны Gappo черный/хром G2203-6</name>
         <vendor>GAPPO</vendor>
@@ -23247,14 +23252,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130570</price>
-      </offer>
-      <offer sku="УТ-00060014">
-        <name>Душевая стойка Frap F2487 хром</name>
-        <vendor>Frap</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>76380</price>
       </offer>
       <offer sku="УТ-00060058">
         <name>Мыльница Gappo золотой сатин с держателем G30902-3</name>
@@ -23490,17 +23487,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27300</price>
-      </offer>
-      <offer sku="УТ-00060425">
-        <name>Смеситель для раковины Frap хром F1091</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477639531</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27950</price>
       </offer>
       <offer sku="УТ-00060440">
         <name>Смеситель для раковины Frap H806-6 черный F10806-6</name>
@@ -26308,14 +26294,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
-      </offer>
-      <offer sku="УТ-00089440">
-        <name>Стойка душевая GAPPO оружейная сталь G2448-9</name>
-        <vendor>GAPPO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>108490</price>
       </offer>
       <offer sku="УТ-00089479">
         <name>Стойка душевая GAPPO золотой сатин G2448-3</name>

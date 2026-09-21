@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 12:57">
+<fm_catalog date="2026-09-21 13:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8556,6 +8556,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>821</price>
+      </offer>
+      <offer sku="00000011490">
+        <name>Штроборез электрический ЗУБР ЗШ-П30-1400 ПСТ</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373121777</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>62890</price>
       </offer>
       <offer sku="00000011491">
         <name>Штроборез электрический ЗУБР ЗШ-П30-1400 ПСТК</name>
@@ -19161,6 +19172,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8560</price>
+      </offer>
+      <offer sku="00000075466">
+        <name>Передвижной пескоструйный аппарат напорного типа (бак 75л, 170-710л/мин, 4-8,5атм)пневмо</name>
+        <vendor>ROCKFORCE</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>137090</price>
       </offer>
       <offer sku="00000075510">
         <name>Фен строительный MOLOT MHG 6020 2000 Вт MHG602000011</name>

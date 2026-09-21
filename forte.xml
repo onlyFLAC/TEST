@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 14:54">
+<fm_catalog date="2026-09-21 15:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15355,14 +15355,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>273300</price>
-      </offer>
-      <offer sku="00000040379">
-        <name>Шлифовальный алмазный диск (Двухрядный сегментный) TAC2421251</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7600</price>
       </offer>
       <offer sku="00000040555">
         <name>Набор отверток Total 26 шт. THTDC252601</name>

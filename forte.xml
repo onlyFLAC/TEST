@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 16:22">
+<fm_catalog date="2026-09-21 16:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2352,14 +2352,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9600</price>
-      </offer>
-      <offer sku="УТ-00016572">
-        <name>TMT19923 Измерительное колесо с цифровым дисплеем.</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38000</price>
       </offer>
       <offer sku="УТ-00016701">
         <name>Сверло универсальное BOSCH CYL-9 6х120 мм 2608900626</name>
@@ -27578,14 +27570,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1590</price>
-      </offer>
-      <offer sku="УТ-00096753">
-        <name>Трубогиб гидравлический 12т</name>
-        <vendor>AutoMeister</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>74500</price>
       </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>

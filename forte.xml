@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 12:28">
+<fm_catalog date="2026-09-21 12:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23083,6 +23083,17 @@
         </pickup-options>
         <price>25150</price>
       </offer>
+      <offer sku="УТ-00059876">
+        <name>Смеситель GAPPO для раковины G3306-9 Оружейная Сталь встраиваемый для ванны</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477693489</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96820</price>
+      </offer>
       <offer sku="УТ-00059890">
         <name>Смеситель для ванны Gappo черный/хром G2203-6</name>
         <vendor>GAPPO</vendor>
@@ -23164,6 +23175,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130570</price>
+      </offer>
+      <offer sku="УТ-00060014">
+        <name>Душевая стойка Frap F2487 хром</name>
+        <vendor>Frap</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>76380</price>
       </offer>
       <offer sku="УТ-00060058">
         <name>Мыльница Gappo золотой сатин с держателем G30902-3</name>
@@ -23283,6 +23302,17 @@
         </pickup-options>
         <price>7010</price>
       </offer>
+      <offer sku="УТ-00060243">
+        <name>Смеситель для кухни Frap оружейная сталь F4497-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477629129</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>34600</price>
+      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -23399,6 +23429,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27300</price>
+      </offer>
+      <offer sku="УТ-00060425">
+        <name>Смеситель для раковины Frap хром F1091</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477639531</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27950</price>
       </offer>
       <offer sku="УТ-00060440">
         <name>Смеситель для раковины Frap H806-6 черный F10806-6</name>
@@ -26190,6 +26231,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
+      </offer>
+      <offer sku="УТ-00089440">
+        <name>Стойка душевая GAPPO оружейная сталь G2448-9</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>108490</price>
       </offer>
       <offer sku="УТ-00089479">
         <name>Стойка душевая GAPPO золотой сатин G2448-3</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 08:03">
+<fm_catalog date="2026-09-21 08:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2670,17 +2670,6 @@
         </pickup-options>
         <price>7100</price>
       </offer>
-      <offer sku="УТ-00022274">
-        <name>Масло 4T SAE-30 1.4л Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883696668</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8800</price>
-      </offer>
       <offer sku="УТ-00022288">
         <name>Головка триммерная S35 M12L 135R 143RII 535RXT (ручная)</name>
         <vendor>Husqvarna</vendor>
@@ -2766,14 +2755,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022494">
-        <name>Мелки маркировочные графитовые (12шт в упаковке)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9900</price>
       </offer>
       <offer sku="УТ-00022528">
         <name>Очки защитные Husqvarna Yellow X</name>
@@ -6437,17 +6418,6 @@
         </pickup-options>
         <price>53390</price>
       </offer>
-      <offer sku="00000006310">
-        <name>Тачка садово-строительная двухколесная ЗУБР Т-21 180 кг 39952</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373378775</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35500</price>
-      </offer>
       <offer sku="00000006311">
         <name>Домкрат подкатной гидравлический ЗУБР Т-30 2 т 43053-2</name>
         <vendor>ЗУБР</vendor>
@@ -9322,17 +9292,6 @@
         </pickup-options>
         <price>3800</price>
       </offer>
-      <offer sku="00000016039">
-        <name>Уголок крепежный равносторонний Сибртех 100х80х2 мм 46430</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800040756</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>400</price>
-      </offer>
       <offer sku="00000016057">
         <name>Пластина соединительная Сибртех 40х100 мм 46458</name>
         <vendor>Сибртех</vendor>
@@ -10766,18 +10725,6 @@
         </pickup-options>
         <price>11160</price>
       </offer>
-      <offer sku="00000024496">
-        <name>Алмазная коронка 132*350 PS</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4607094412793</barcode>
-          <barcode>4870216455163</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14390</price>
-      </offer>
       <offer sku="00000024779">
         <name>Фен строительный ALTECO HG 0608 27141</name>
         <vendor>ALTECO</vendor>
@@ -10821,17 +10768,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19580</price>
-      </offer>
-      <offer sku="00000024876">
-        <name>Станок точильный BG 350-200 ALTECO</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216450502</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29000</price>
       </offer>
       <offer sku="00000024898">
         <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
@@ -11230,17 +11166,6 @@
         </pickup-options>
         <price>81710</price>
       </offer>
-      <offer sku="00000027294">
-        <name>Гравер электрический ЗУБР КН41 ЗГ-160 КН41</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373365577</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23720</price>
-      </offer>
       <offer sku="00000027297">
         <name>Диск отрезной по металлу Bosch 230х1.9 мм 2608601514</name>
         <vendor>BOSCH</vendor>
@@ -11317,14 +11242,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6700</price>
-      </offer>
-      <offer sku="00000027886">
-        <name>Набор бит и сверл с зенкерами DeWALT Flip&amp;Drive (10 шт.), DT7612-XJ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15330</price>
       </offer>
       <offer sku="00000028154">
         <name>Набор шлифшкурок DeWALT 125 мм 25 шт. DT3117</name>
@@ -13497,17 +13414,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3165</price>
-      </offer>
-      <offer sku="00000034625">
-        <name>Пилка для лобзика по дереву (74 мм; 5 шт.) Bosch HCS T 101 D 2608630032</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140006804</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2690</price>
       </offer>
       <offer sku="00000034629">
         <name>Набор пилок для лобзика BOSCH T244D 5 шт. 2608630058</name>
@@ -18051,17 +17957,6 @@
         </pickup-options>
         <price>4930</price>
       </offer>
-      <offer sku="00000064376">
-        <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 серый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011874458</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4720</price>
-      </offer>
       <offer sku="00000064411">
         <name>Станция насосная Magnetta AUTOGJSm800+24L</name>
         <vendor>Magnetta</vendor>
@@ -18121,17 +18016,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20090</price>
-      </offer>
-      <offer sku="00000064882">
-        <name>Тачка строительная одноколесная IVT 250 кг 110 л 4224</name>
-        <vendor>IVT</vendor>
-        <barcodes>
-          <barcode>7630005242247</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21750</price>
       </offer>
       <offer sku="00000064901">
         <name>Набор бумажных мешков-пылесборников для пылесоса Ozone 5 шт. OP-103/5</name>
@@ -18301,17 +18185,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15320</price>
-      </offer>
-      <offer sku="00000070612">
-        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14070</price>
       </offer>
       <offer sku="00000070655">
         <name>Цепь STIHL 66 зв. 3/8" 1.6 мм 36RM RAPID MICRO 36520000066</name>
@@ -20354,17 +20227,6 @@
         </pickup-options>
         <price>251960</price>
       </offer>
-      <offer sku="УТ-00002266">
-        <name>Пила сабельная аккумуляторная Bosch GSA 185-LI Solo 06016C0020</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952641171</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>105530</price>
-      </offer>
       <offer sku="УТ-00002272">
         <name>Дрель ударная Bosch GSB 1600 RE</name>
         <vendor>BOSCH</vendor>
@@ -21649,14 +21511,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6990</price>
-      </offer>
-      <offer sku="УТ-00053348">
-        <name>Шпатель малярный 300мм, BIHUI PTK30, шт 77402</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3190</price>
       </offer>
       <offer sku="УТ-00053799">
         <name>HS004GZ Пила дисковая аккум XGT BL 40В, 185/190 мм</name>
@@ -23037,17 +22891,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15559</price>
-      </offer>
-      <offer sku="УТ-00059823">
-        <name>Доска гладильная Nika Н4+ (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830066</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14888</price>
       </offer>
       <offer sku="УТ-00059824">
         <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/O orchid</name>
@@ -27135,14 +26978,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5870</price>
-      </offer>
-      <offer sku="УТ-00091587">
-        <name>Отвертка с трещоткой BOSCH 18 предметов 1600A02Z9A</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9590</price>
       </offer>
       <offer sku="УТ-00091588">
         <name>Набор TORX-ключей BOSCH 9 шт 1600A02Z9C</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 07:33">
+<fm_catalog date="2026-09-21 08:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9234,17 +9234,6 @@
         </pickup-options>
         <price>32640</price>
       </offer>
-      <offer sku="00000015489">
-        <name>Заклепочник, 225 мм, заклепки 2,4-3,2-4,0-4,8 мм// МАТРИКС</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996019055</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2950</price>
-      </offer>
       <offer sku="00000015499">
         <name>Заклепочник Matrix "ГАРМОШКА" 2.4-3.2-4-4.8-6.4 мм 40548</name>
         <vendor>Matrix</vendor>
@@ -10660,14 +10649,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29990</price>
-      </offer>
-      <offer sku="00000023888">
-        <name>Фен строительный CROWN CT19007BMC</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19200</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -15084,17 +15065,6 @@
         </pickup-options>
         <price>3020</price>
       </offer>
-      <offer sku="00000039033">
-        <name>Набор сверл по металлу Bosch "PointTeQ" 5.9х93 мм 10 шт. 2608577227</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140907361</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3500</price>
-      </offer>
       <offer sku="00000039074">
         <name>Набор сверл по металлу BOSCH 10 мм 10 шт. 2608577268</name>
         <vendor>BOSCH</vendor>
@@ -18152,17 +18122,6 @@
         </pickup-options>
         <price>20090</price>
       </offer>
-      <offer sku="00000064881">
-        <name>Тачка садовая двухколесная IVT 250 кг 110 л 4223</name>
-        <vendor>IVT</vendor>
-        <barcodes>
-          <barcode>7630005249994</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25050</price>
-      </offer>
       <offer sku="00000064882">
         <name>Тачка строительная одноколесная IVT 250 кг 110 л 4224</name>
         <vendor>IVT</vendor>
@@ -21160,14 +21119,6 @@
         </pickup-options>
         <price>99990</price>
       </offer>
-      <offer sku="УТ-00047840">
-        <name>Воздухоочиститель Karcher SC 5 EasyFix Iron 1.512-661.0</name>
-        <vendor>Karcher</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>342990</price>
-      </offer>
       <offer sku="УТ-00047891">
         <name>Аппарат высокого давления ALTECO CPW 120-6, шт</name>
         <vendor>ALTECO</vendor>
@@ -21982,17 +21933,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>253670</price>
-      </offer>
-      <offer sku="УТ-00055696">
-        <name>Сушилка на радиатор Nika СБ5-65П/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076028872</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1700</price>
       </offer>
       <offer sku="УТ-00055698">
         <name>Этажерка Nika ЭТК6/МС матово-серый</name>
@@ -25024,14 +24964,6 @@
         </pickup-options>
         <price>2778</price>
       </offer>
-      <offer sku="УТ-00065017">
-        <name>ЗУБР Колибри-20 черный, наконечник L 20 мм, ᴓ 2 мм, перманентный маркер для отверстий (06328-2)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1179</price>
-      </offer>
       <offer sku="УТ-00065018">
         <name>ЗУБР Колибри-30 красный, наконечник L 30 мм, ᴓ 2.8 мм, перманентный маркер для отверстий (06338-3)</name>
         <vendor>ЗУБР</vendor>
@@ -25350,17 +25282,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25269</price>
-      </offer>
-      <offer sku="УТ-00072730">
-        <name>Санки детские Nika "ТИМКА 6 УНИВЕРСАЛ" Т6У/З2 зеленые</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047364527</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25705</price>
       </offer>
       <offer sku="УТ-00072732">
         <name>Санки детские Nika "NIKKI 3" N3/Г2 голубой</name>
@@ -27442,14 +27363,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>10580</price>
-      </offer>
-      <offer sku="УТ-00092170">
-        <name>Bosch Устройство зарядное BOSCH GAL 1880CV Professional / арт. 2607225921 1 шт</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>34800</price>
       </offer>
       <offer sku="УТ-00092572">
         <name>Комбо: Аккум. Воздуходувка Einhell GP-LB 36/270 Li E + Зарядное устройство + 2 аккум. 18V 4,0Ah Einhell (343357012)</name>

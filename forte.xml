@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 13:55">
+<fm_catalog date="2026-09-21 14:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11290,14 +11290,6 @@
         </pickup-options>
         <price>6700</price>
       </offer>
-      <offer sku="00000027967">
-        <name>Набор пилок для лобзика по дереву DeWALT (5 шт.), DT2053-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4347</price>
-      </offer>
       <offer sku="00000028154">
         <name>Набор шлифшкурок DeWALT 125 мм 25 шт. DT3117</name>
         <vendor>DeWALT</vendor>
@@ -11539,17 +11531,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>38500</price>
-      </offer>
-      <offer sku="00000031836">
-        <name>Стремянка односторонняя Krause "CORDA" 5 ступеней 000729</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000729</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>46400</price>
       </offer>
       <offer sku="00000031837">
         <name>Стремянка CORDA 6 ступ.</name>
@@ -18746,7 +18727,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>6200</price>
       </offer>
       <offer sku="УТ-00000028">
         <name>Набор лобзиковых пилок Bosch U18A 2 шт. 2609256765</name>
@@ -20847,7 +20828,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>5440</price>
       </offer>
       <offer sku="УТ-00045515">
         <name>Эмаль ПФ-115 вишнева 2,6кг Оптима_(8668)</name>
@@ -23392,17 +23373,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7010</price>
-      </offer>
-      <offer sku="УТ-00060243">
-        <name>Смеситель для кухни Frap оружейная сталь F4497-9</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477629129</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>34600</price>
       </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
@@ -26355,14 +26325,6 @@
         </pickup-options>
         <price>114890</price>
       </offer>
-      <offer sku="УТ-00089491">
-        <name>Колесо 4.00-8 для мотокультиватора MK 7-950</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8000</price>
-      </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
         <vendor>PROFSET</vendor>
@@ -27670,14 +27632,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>52340</price>
-      </offer>
-      <offer sku="УТ-00099471">
-        <name>Насадка для реноватора DeWALT 43х30 мм, DT20734-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3508</price>
       </offer>
     </offers>
   </shop>

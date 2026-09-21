@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 08:32">
+<fm_catalog date="2026-09-21 09:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2371,17 +2371,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2500</price>
-      </offer>
-      <offer sku="УТ-00016702">
-        <name>Сверло универсальное BOSCH CYL-9 12х150 мм 2608900631</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952539249</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2800</price>
       </offer>
       <offer sku="УТ-00016719">
         <name>Набор перовых сверл Bosch 20/22/25 мм 3 шт. 2608900331</name>
@@ -12173,17 +12162,6 @@
         </pickup-options>
         <price>9156</price>
       </offer>
-      <offer sku="00000032598">
-        <name>Набор сверл Bosch PointTeQ 1-10 мм 18 шт. 2608577350</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140917681</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7628</price>
-      </offer>
       <offer sku="00000032599">
         <name>Набор сверл Bosch PointTeQ ProBox 1-10 мм 19 шт. 2608577351</name>
         <vendor>BOSCH</vendor>
@@ -14772,17 +14750,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1181</price>
-      </offer>
-      <offer sku="00000038245">
-        <name>Диск шлифовальный BOSCH X431 K60 125 мм 2608603657</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140744089</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1590</price>
       </offer>
       <offer sku="00000038246">
         <name>Диск шлифовальный BOSCH X431 K80 125 мм 2608603658</name>
@@ -22266,17 +22233,6 @@
         </pickup-options>
         <price>48100</price>
       </offer>
-      <offer sku="УТ-00057355">
-        <name>Аккумуляторный кусторез CHT 21-45 Solo ALTECO, шт</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244618370</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28100</price>
-      </offer>
       <offer sku="УТ-00057357">
         <name>Аккумуляторный триммер CT 21-25 Solo ALTECO, шт</name>
         <vendor>ALTECO</vendor>
@@ -24443,17 +24399,6 @@
         </pickup-options>
         <price>7030</price>
       </offer>
-      <offer sku="УТ-00063833">
-        <name>Набор инструмента расширенный, 132 предмета</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423255133</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>69760</price>
-      </offer>
       <offer sku="УТ-00063834">
         <name>Молоток инженерный BOSCH 300 г 1600A027PH</name>
         <vendor>BOSCH</vendor>
@@ -26009,14 +25954,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>214990</price>
-      </offer>
-      <offer sku="УТ-00087775">
-        <name>Лента для рулетки Husqvarna 15 м 505 69 73-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
       </offer>
       <offer sku="УТ-00089267">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 SOLO 06019N9000</name>

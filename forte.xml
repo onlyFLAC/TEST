@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 10:29">
+<fm_catalog date="2026-09-21 10:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2898,6 +2898,14 @@
         </pickup-options>
         <price>1590</price>
       </offer>
+      <offer sku="УТ-00024956">
+        <name>Вороток Г-образный, 250*50 мм, квадрат 1/2", CrV, матовый хром// Denzel</name>
+        <vendor>Denzel</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2705</price>
+      </offer>
       <offer sku="УТ-00024995">
         <name>Фильтр полиуретановый для пылесоса Denzel 28210</name>
         <vendor>Denzel</vendor>
@@ -2924,6 +2932,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>790</price>
+      </offer>
+      <offer sku="УТ-00025328">
+        <name>Набор абразивных дисков Сибртех P400 125 мм 5 шт. 738147</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996206790</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>990</price>
       </offer>
       <offer sku="УТ-00025334">
         <name>Набор абразивных дисков Сибртех P150 125 мм 10 шт. 738607</name>
@@ -8604,6 +8623,17 @@
         </pickup-options>
         <price>5990</price>
       </offer>
+      <offer sku="00000011758">
+        <name>Кувалда Sparta 2000 г 10917</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996156958</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4998</price>
+      </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8875,6 +8905,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7516</price>
+      </offer>
+      <offer sku="00000013243">
+        <name>Ключ разводной, тонкие губки, фосфатированый, 150 мм// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996145570</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3555</price>
       </offer>
       <offer sku="00000013603">
         <name>Длинногубцы Matrix 160 мм 17494</name>
@@ -9416,6 +9457,17 @@
         </pickup-options>
         <price>295</price>
       </offer>
+      <offer sku="00000016671">
+        <name>Секатор прямого реза 200 мм, обрезиненные рукоятки// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996030562</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2805</price>
+      </offer>
       <offer sku="00000016679">
         <name>Кусторез, 550 мм, стальные обрезиненные рукоятки// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9439,6 +9491,17 @@
         </pickup-options>
         <price>14390</price>
       </offer>
+      <offer sku="00000016726">
+        <name>Сучкорез с наковаленкой PALISAD 710 мм 60520</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996102948</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6800</price>
+      </offer>
       <offer sku="00000016727">
         <name>Сучкорез ручной Palisad 700 мм 60521</name>
         <vendor>Palisad</vendor>
@@ -9449,6 +9512,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4380</price>
+      </offer>
+      <offer sku="00000016779">
+        <name>Лопата снеговая без черенка Сибртех 330х365 мм 61536</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996063782</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4200</price>
+      </offer>
+      <offer sku="00000016877">
+        <name>Грабли веерные СИБРТЕХ 18 зубьев 61781</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4607020535985</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3550</price>
       </offer>
       <offer sku="00000017077">
         <name>Лопата штыковая, 205х275 мм, ребра жесткости, без черенка// Россия</name>
@@ -10028,6 +10113,25 @@
         </pickup-options>
         <price>999</price>
       </offer>
+      <offer sku="00000020682">
+        <name>Шлифлист на бумажной основе, CT10CW, зерн. М18(P1200), 230 х 280 мм, 10 шт., водост. (БАЗ)// Россия</name>
+        <vendor>Россия</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1890</price>
+      </offer>
+      <offer sku="00000020685">
+        <name>Шлифлист на бумажной основе, CT10CW, зерн. М7(P2500), 230 х 280 мм, 10 шт., водост. (БАЗ)// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4660009479588</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2780</price>
+      </offer>
       <offer sku="00000020693">
         <name>Шлифлист на бумажной основе, P 600, 230 х 280 мм, 10 шт.,влагостойкий// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10071,6 +10175,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7515</price>
+      </offer>
+      <offer sku="00000021117">
+        <name>Ножницы для резки изделий из пластика, диаметр до 42 мм// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996095936</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4530</price>
       </offer>
       <offer sku="00000021175">
         <name>Скребок SPARTA 795305</name>
@@ -10415,6 +10530,28 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="00000022759">
+        <name>Органайзер двухсторонний 325х280х85 мм, пластик Россия// Stels</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996122984</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4220</price>
+      </offer>
+      <offer sku="00000022791">
+        <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800042309</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4490</price>
+      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10455,6 +10592,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>990</price>
+      </offer>
+      <offer sku="00000023255">
+        <name>Замок тросовый универсальный, 10 х 650 мм// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996048369</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1995</price>
+      </offer>
+      <offer sku="00000023256">
+        <name>Замок тросовый универсальный, 8 х 1200 мм// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996048376</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2485</price>
       </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
@@ -20090,6 +20249,17 @@
         </pickup-options>
         <price>2780</price>
       </offer>
+      <offer sku="УТ-00001670">
+        <name>Тиски слесарные, 100 мм, стальные, поворотные// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996222905</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16790</price>
+      </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -20097,6 +20267,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6795</price>
+      </offer>
+      <offer sku="УТ-00001808">
+        <name>Ведро гибкое сверхпрочное, 28 л, синее, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800091031</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4440</price>
       </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
@@ -23007,6 +23188,14 @@
         </pickup-options>
         <price>266</price>
       </offer>
+      <offer sku="УТ-00059861">
+        <name>Душевая система Frap F2491-3 Золотой Сатин</name>
+        <vendor>Frap</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>104950</price>
+      </offer>
       <offer sku="УТ-00059873">
         <name>Смеситель Frap для кухни F4044-9 Оружейная Сталь</name>
         <vendor>Frap</vendor>
@@ -23040,16 +23229,27 @@
         </pickup-options>
         <price>31900</price>
       </offer>
-      <offer sku="УТ-00059918">
-        <name>Раковина накладная прямоугольная Gappo белая 500х400х135 мм GT405</name>
+      <offer sku="УТ-00059920">
+        <name>Раковина накладная без перелива GAPPO GT-403 (370mm*480mm*130mm) Прямоугольная " цвет Белый</name>
         <vendor>GAPPO</vendor>
         <barcodes>
-          <barcode>6959477655180</barcode>
+          <barcode>6959477655098</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27950</price>
+        <price>20100</price>
+      </offer>
+      <offer sku="УТ-00059931">
+        <name>Трап душевой GAPPO 7х70 см G87007-4</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477696756</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28530</price>
       </offer>
       <offer sku="УТ-00059933">
         <name>Душевой трап GAPPO G87007-3 7*70 см</name>
@@ -23121,6 +23321,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>136870</price>
+      </offer>
+      <offer sku="УТ-00060076">
+        <name>Стойка душевая Gappo хром G2491</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477697463</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>100960</price>
       </offer>
       <offer sku="УТ-00060121">
         <name>Смеситель встраиваемый для раковины Gappo G1206-6 черный</name>
@@ -23215,6 +23426,17 @@
         </pickup-options>
         <price>15290</price>
       </offer>
+      <offer sku="УТ-00060284">
+        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477622816</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12240</price>
+      </offer>
       <offer sku="УТ-00060328">
         <name>Полотенцедержатель Frap 302 черный F30201</name>
         <vendor>Frap</vendor>
@@ -23257,6 +23479,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88190</price>
+      </offer>
+      <offer sku="УТ-00060366">
+        <name>Душевая стойка Frap F2471-6 с изливом и ручной лейкой Черный</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477626111</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>78000</price>
       </offer>
       <offer sku="УТ-00060385">
         <name>Смеситель для ванны Frap сатин F22806</name>
@@ -23312,6 +23545,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13500</price>
+      </offer>
+      <offer sku="УТ-00060453">
+        <name>Смеситель Frap для раковины F1076-9 оружейная сталь</name>
+        <vendor>Frap</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25850</price>
       </offer>
       <offer sku="УТ-00060454">
         <name>Смеситель Frap для раковины F1076-6 черный</name>
@@ -23590,6 +23831,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17900</price>
+      </offer>
+      <offer sku="УТ-00061349">
+        <name>Душевая стойка Frap F2487-3 золотой сатин</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477632198</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96680</price>
       </offer>
       <offer sku="УТ-00061350">
         <name>Душевая стойка Frap F2487-9 оружейная сталь</name>

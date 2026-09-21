@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 09:01">
+<fm_catalog date="2026-09-21 09:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -945,17 +945,6 @@
         </pickup-options>
         <price>113600</price>
       </offer>
-      <offer sku="УТ-00006953">
-        <name>Ножницы для травы и кустов BOSCH ISIO 3 0600833108</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140630689</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>53100</price>
-      </offer>
       <offer sku="УТ-00007152">
         <name>Набор бит EDGE by PATRIOT SL3.5х25 мм 3 шт. 818010002</name>
         <vendor>Patriot</vendor>
@@ -1899,14 +1888,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1888</price>
-      </offer>
-      <offer sku="УТ-00014790">
-        <name>KRAFTOOL KERAMO 6 х 100 мм cверло по керамограниту с твердосплавной пластиной 29175-100-6</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2169</price>
       </offer>
       <offer sku="УТ-00014822">
         <name>Патрон ударный цельнометаллический быстрозажимной ЗУБР "ПРОФИ" 13 мм, посадочная резьба 1/2", с фиксатором зажима сверла Д 2,0-13мм 29072-13-1/2_z02</name>
@@ -10452,17 +10433,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2200</price>
-      </offer>
-      <offer sku="00000022946">
-        <name>Щетка для посуды квадратная 68х37х275 мм, двухкомпонентная рукоятка// Elfe</name>
-        <vendor>Elfe</vendor>
-        <barcodes>
-          <barcode>4044996126395</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
       </offer>
       <offer sku="00000023045">
         <name>Мышеловка пластиковая открытая, металлический механизм, малая, 100х45 мм, 2 шт.// Сибртех</name>

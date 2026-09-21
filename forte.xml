@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 13:26">
+<fm_catalog date="2026-09-21 13:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
+      <offer sku="УТ-00002542">
+        <name>Набор уплотнений 41480071600</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711933203</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="УТ-00002566">
         <name>Компрессор масляный HYUNDAI HY-50LV</name>
         <vendor>HYUNDAI</vendor>
@@ -1932,14 +1943,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3824</price>
-      </offer>
-      <offer sku="УТ-00014998">
-        <name>СИБИН 30 x 32 мм, Рожковый гаечный ключ (27014-30-32) 27014-30-32</name>
-        <vendor>Сибин</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2590</price>
       </offer>
       <offer sku="УТ-00015047">
         <name>STAYER Hercules-B18 18 предм., Отвертка-битодержатель с насадками (2545-H5) 2545-H5_z02</name>
@@ -5549,6 +5552,17 @@
         </pickup-options>
         <price>4600</price>
       </offer>
+      <offer sku="00000003883">
+        <name>Бокорезы ЗУБР "ТИТАН МИНИ" 120 мм 22170-5_z01</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373065071</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2150</price>
+      </offer>
       <offer sku="00000003932">
         <name>Болторез Титан компактный, Cr-V, max d=7 / HRC 40 d=2, 200 мм, ЗУБР Профессионал</name>
         <vendor>ЗУБР</vendor>
@@ -8862,6 +8876,17 @@
         </pickup-options>
         <price>8339</price>
       </offer>
+      <offer sku="00000012803">
+        <name>Набор ключей трубчатых торцевых 9 пр// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996069722</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4650</price>
+      </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -9137,6 +9162,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4739</price>
+      </offer>
+      <offer sku="00000014864">
+        <name>Ножовка по дереву, 600 мм, шаг зубьев 12 мм, пластиковая рукоятка (Ижевск)// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4630001880552</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7995</price>
       </offer>
       <offer sku="00000014886">
         <name>Ножовка по дереву,450 мм,7-8 TPI,зуб-3D,каленый зуб,тефл.покр.полотна,2-х комп..рук-ка// Matrix</name>
@@ -11253,6 +11289,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6700</price>
+      </offer>
+      <offer sku="00000027967">
+        <name>Набор пилок для лобзика по дереву DeWALT (5 шт.), DT2053-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4347</price>
       </offer>
       <offer sku="00000028154">
         <name>Набор шлифшкурок DeWALT 125 мм 25 шт. DT3117</name>
@@ -18995,6 +19039,17 @@
         </pickup-options>
         <price>9700</price>
       </offer>
+      <offer sku="00000074195">
+        <name>Комплект детской мебели Nika КП2/БГ большие гонки</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4640076029138</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16888</price>
+      </offer>
       <offer sku="00000074198">
         <name>Комплект детской мебели Nika "ФИКСИКИ" Ф2А фикси-азбука</name>
         <vendor>Nika</vendor>
@@ -19172,14 +19227,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8560</price>
-      </offer>
-      <offer sku="00000075466">
-        <name>Передвижной пескоструйный аппарат напорного типа (бак 75л, 170-710л/мин, 4-8,5атм)пневмо</name>
-        <vendor>ROCKFORCE</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>137090</price>
       </offer>
       <offer sku="00000075510">
         <name>Фен строительный MOLOT MHG 6020 2000 Вт MHG602000011</name>
@@ -19974,14 +20021,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19360</price>
-      </offer>
-      <offer sku="УТ-00001262">
-        <name>Мультидвигатель с насадками MM 56 Stihl 46040115401</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>336600</price>
       </offer>
       <offer sku="УТ-00001270">
         <name>Цилиндр с поршнем STIHL Ø44.7 мм 11210201217</name>
@@ -21369,6 +21408,28 @@
         </pickup-options>
         <price>530400</price>
       </offer>
+      <offer sku="УТ-00051581">
+        <name>Карбюратор C1Q-S98D Stihl 41801200601</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711560522</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29700</price>
+      </offer>
+      <offer sku="УТ-00051583">
+        <name>Цилиндр с поршнем, Ø 47 мм Stihl 41480201201</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711933050</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>114600</price>
+      </offer>
       <offer sku="УТ-00051636">
         <name>Сетка фильтрующая PROFSET 1095</name>
         <vendor>PROFSET</vendor>
@@ -21500,6 +21561,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24900</price>
+      </offer>
+      <offer sku="УТ-00053261">
+        <name>Шлифмашина угловая (болгарка) ALTECO AG 800-125 80138</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244616116</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13990</price>
       </offer>
       <offer sku="УТ-00053325">
         <name>Крышка для выравнивания 100 шт BIHUI SLC100, шт 77463</name>
@@ -25759,6 +25831,14 @@
         </pickup-options>
         <price>74000</price>
       </offer>
+      <offer sku="УТ-00078237">
+        <name>Вилка натяжная □ 22 - 24 Stihl 52037506100</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2260</price>
+      </offer>
       <offer sku="УТ-00079535">
         <name>Защитное приспособление Stihl 11426561502</name>
         <vendor>STIHL</vendor>
@@ -25793,6 +25873,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>750</price>
+      </offer>
+      <offer sku="УТ-00083763">
+        <name>Фиксатор Stihl 52027533501</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3240</price>
       </offer>
       <offer sku="УТ-00083904">
         <name>Цепной улавливатель Stihl 11196567705</name>
@@ -26266,6 +26354,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>114890</price>
+      </offer>
+      <offer sku="УТ-00089491">
+        <name>Колесо 4.00-8 для мотокультиватора MK 7-950</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8000</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
@@ -27551,6 +27647,14 @@
         </pickup-options>
         <price>1590</price>
       </offer>
+      <offer sku="УТ-00096753">
+        <name>Трубогиб гидравлический 12т</name>
+        <vendor>AutoMeister</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>74500</price>
+      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -27566,6 +27670,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>52340</price>
+      </offer>
+      <offer sku="УТ-00099471">
+        <name>Насадка для реноватора DeWALT 43х30 мм, DT20734-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3508</price>
       </offer>
     </offers>
   </shop>

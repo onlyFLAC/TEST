@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 10:59">
+<fm_catalog date="2026-09-21 11:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1933,6 +1933,14 @@
         </pickup-options>
         <price>3824</price>
       </offer>
+      <offer sku="УТ-00014998">
+        <name>СИБИН 30 x 32 мм, Рожковый гаечный ключ (27014-30-32) 27014-30-32</name>
+        <vendor>Сибин</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2590</price>
+      </offer>
       <offer sku="УТ-00015047">
         <name>STAYER Hercules-B18 18 предм., Отвертка-битодержатель с насадками (2545-H5) 2545-H5_z02</name>
         <vendor>STAYER</vendor>
@@ -2898,14 +2906,6 @@
         </pickup-options>
         <price>1590</price>
       </offer>
-      <offer sku="УТ-00024956">
-        <name>Вороток Г-образный, 250*50 мм, квадрат 1/2", CrV, матовый хром// Denzel</name>
-        <vendor>Denzel</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2705</price>
-      </offer>
       <offer sku="УТ-00024995">
         <name>Фильтр полиуретановый для пылесоса Denzel 28210</name>
         <vendor>Denzel</vendor>
@@ -2932,17 +2932,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>790</price>
-      </offer>
-      <offer sku="УТ-00025328">
-        <name>Набор абразивных дисков Сибртех P400 125 мм 5 шт. 738147</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996206790</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
       </offer>
       <offer sku="УТ-00025334">
         <name>Набор абразивных дисков Сибртех P150 125 мм 10 шт. 738607</name>
@@ -5306,6 +5295,17 @@
         </pickup-options>
         <price>2479</price>
       </offer>
+      <offer sku="00000002918">
+        <name>STAYER Hercules-19 набор: отвертка-битодержатель с насадками 19 шт</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229216986</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4349</price>
+      </offer>
       <offer sku="00000002922">
         <name>STAYER Hercules-B13 набор: отвертка-битодержатель с насадками 13 шт</name>
         <vendor>STAYER</vendor>
@@ -7127,6 +7127,17 @@
         </pickup-options>
         <price>8586</price>
       </offer>
+      <offer sku="00000007874">
+        <name>Лопата ''БЕРКУТ'' штыковая, деревянный черенок, с рукояткой, ЗУБР Профессионал</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373094385</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8990</price>
+      </offer>
       <offer sku="00000007877">
         <name>Лопата "Мастер" совковая ЛСП, без черенка, ЗУБР</name>
         <vendor>ЗУБР</vendor>
@@ -8623,17 +8634,6 @@
         </pickup-options>
         <price>5990</price>
       </offer>
-      <offer sku="00000011758">
-        <name>Кувалда Sparta 2000 г 10917</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996156958</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4998</price>
-      </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8905,17 +8905,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7516</price>
-      </offer>
-      <offer sku="00000013243">
-        <name>Ключ разводной, тонкие губки, фосфатированый, 150 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996145570</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3555</price>
       </offer>
       <offer sku="00000013603">
         <name>Длинногубцы Matrix 160 мм 17494</name>
@@ -9457,17 +9446,6 @@
         </pickup-options>
         <price>295</price>
       </offer>
-      <offer sku="00000016671">
-        <name>Секатор прямого реза 200 мм, обрезиненные рукоятки// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996030562</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2805</price>
-      </offer>
       <offer sku="00000016679">
         <name>Кусторез, 550 мм, стальные обрезиненные рукоятки// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9491,17 +9469,6 @@
         </pickup-options>
         <price>14390</price>
       </offer>
-      <offer sku="00000016726">
-        <name>Сучкорез с наковаленкой PALISAD 710 мм 60520</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996102948</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
-      </offer>
       <offer sku="00000016727">
         <name>Сучкорез ручной Palisad 700 мм 60521</name>
         <vendor>Palisad</vendor>
@@ -9512,28 +9479,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4380</price>
-      </offer>
-      <offer sku="00000016779">
-        <name>Лопата снеговая без черенка Сибртех 330х365 мм 61536</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996063782</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4200</price>
-      </offer>
-      <offer sku="00000016877">
-        <name>Грабли веерные СИБРТЕХ 18 зубьев 61781</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4607020535985</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3550</price>
       </offer>
       <offer sku="00000017077">
         <name>Лопата штыковая, 205х275 мм, ребра жесткости, без черенка// Россия</name>
@@ -10113,25 +10058,6 @@
         </pickup-options>
         <price>999</price>
       </offer>
-      <offer sku="00000020682">
-        <name>Шлифлист на бумажной основе, CT10CW, зерн. М18(P1200), 230 х 280 мм, 10 шт., водост. (БАЗ)// Россия</name>
-        <vendor>Россия</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1890</price>
-      </offer>
-      <offer sku="00000020685">
-        <name>Шлифлист на бумажной основе, CT10CW, зерн. М7(P2500), 230 х 280 мм, 10 шт., водост. (БАЗ)// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4660009479588</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2780</price>
-      </offer>
       <offer sku="00000020693">
         <name>Шлифлист на бумажной основе, P 600, 230 х 280 мм, 10 шт.,влагостойкий// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10175,17 +10101,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7515</price>
-      </offer>
-      <offer sku="00000021117">
-        <name>Ножницы для резки изделий из пластика, диаметр до 42 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996095936</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4530</price>
       </offer>
       <offer sku="00000021175">
         <name>Скребок SPARTA 795305</name>
@@ -10530,17 +10445,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000022759">
-        <name>Органайзер двухсторонний 325х280х85 мм, пластик Россия// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996122984</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4220</price>
-      </offer>
       <offer sku="00000022791">
         <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
         <vendor>Сибртех</vendor>
@@ -10592,28 +10496,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>990</price>
-      </offer>
-      <offer sku="00000023255">
-        <name>Замок тросовый универсальный, 10 х 650 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996048369</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1995</price>
-      </offer>
-      <offer sku="00000023256">
-        <name>Замок тросовый универсальный, 8 х 1200 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996048376</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2485</price>
       </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
@@ -20249,17 +20131,6 @@
         </pickup-options>
         <price>2780</price>
       </offer>
-      <offer sku="УТ-00001670">
-        <name>Тиски слесарные, 100 мм, стальные, поворотные// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996222905</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16790</price>
-      </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -20267,17 +20138,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6795</price>
-      </offer>
-      <offer sku="УТ-00001808">
-        <name>Ведро гибкое сверхпрочное, 28 л, синее, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800091031</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4440</price>
       </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
@@ -21036,6 +20896,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7994</price>
+      </offer>
+      <offer sku="УТ-00045993">
+        <name>ЗУБР 15 м, 6 х 8 мм, 15 бар, воздушный спиральный шланг с фитингами рапид, Профессионал (6473-15)</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9982</price>
       </offer>
       <offer sku="УТ-00046000">
         <name>ЗУБР 7 л.с., мотоблок с понижающей передачей (МТБ-400)</name>
@@ -22269,6 +22137,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6990</price>
+      </offer>
+      <offer sku="УТ-00056489">
+        <name>GRINDA Alu-600, ширина 590 мм, пластиковая с алюминиевым черенком, V-ручка, снеговая лопата, PROLine (39942)</name>
+        <vendor>Grinda</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8690</price>
       </offer>
       <offer sku="УТ-00056499">
         <name>GRINDA RO-16, 16 форсунок, ударопрочный пластик, веерный распылитель, PROLine (429347)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-21 17:21">
+<fm_catalog date="2026-09-21 17:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2728,17 +2728,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
-      </offer>
-      <offer sku="УТ-00022424">
-        <name>Шина 18'' 3/8 1.5 68DL 11T 6кл HLM Husqvarna X-Force</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089051265</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25300</price>
       </offer>
       <offer sku="УТ-00022432">
         <name>Шнур кордовый 2,4x210 Opti Quadra Husqvarna (квадратный) (в коробке 12шт)</name>
@@ -10658,17 +10647,6 @@
         </pickup-options>
         <price>47200</price>
       </offer>
-      <offer sku="00000023614">
-        <name>Стремянка двусторонняя 4ст., стальная, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800053398</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21290</price>
-      </offer>
       <offer sku="00000023710">
         <name>Воздуходувка электрическая CROWN CT17010</name>
         <vendor>CROWN</vendor>
@@ -13105,17 +13083,6 @@
         </pickup-options>
         <price>14888</price>
       </offer>
-      <offer sku="00000033227">
-        <name>X-LOCK Алмазный диск Standard for Ceramic 125 x 22,23 x 1,6 x 7мм</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140933360</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6995</price>
-      </offer>
       <offer sku="00000033229">
         <name>X-LOCK Алмазный диск Standard for Universal 125 x 22,23 x 1,6 x 10мм</name>
         <vendor>BOSCH</vendor>
@@ -15508,17 +15475,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2290</price>
-      </offer>
-      <offer sku="00000039643">
-        <name>Набор буров и зубил Bosch SDS-plus 3 шт. 2607019457</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140415750</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15585</price>
       </offer>
       <offer sku="00000039668">
         <name>Набор сверл по дереву Bosch 3-10 мм 7 шт. 2607019580</name>
@@ -25436,14 +25392,6 @@
         </pickup-options>
         <price>88080</price>
       </offer>
-      <offer sku="УТ-00065353">
-        <name>GRINDA HRM-45, для шлангов 45м x 1/2″ и 15м х 3/4″, стальные опоры, пластиковый барабан, катушка для шлангов (8-428405)</name>
-        <vendor>Grinda</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12877</price>
-      </offer>
       <offer sku="УТ-00065425">
         <name>Штроборез ЗУБР "МАСТЕР" ЗШ-30-1205 Т</name>
         <vendor>ЗУБР</vendor>
@@ -26784,14 +26732,6 @@
         </pickup-options>
         <price>114890</price>
       </offer>
-      <offer sku="УТ-00089521">
-        <name>Набор шлифовальных дисков BOSCH Expert C470xG120x125 мм 50 шт. 2608900912</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8245</price>
-      </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
         <vendor>PROFSET</vendor>
@@ -27905,22 +27845,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12888</price>
-      </offer>
-      <offer sku="УТ-00091953">
-        <name>Аккумулятор Bosch GBA Pro Core / арт. 1617S0240R Li-Ion 18 В 4 Ач 1 шт</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41700</price>
-      </offer>
-      <offer sku="УТ-00092222">
-        <name>Пильное полотно Bosch 50 мм 1 шт. арт. Полотно погружное PRO Starlock BIM 32x50 мм Hard Wood AIZ 32 BSPIB / артикул: 2608669070</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4955</price>
       </offer>
       <offer sku="УТ-00092566">
         <name>Система хранения P.I.T. STACKIN - 7 ящиков с тележкой</name>

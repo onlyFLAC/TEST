@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 17:20">
+<fm_catalog date="2026-09-22 17:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16256,6 +16256,14 @@
         </pickup-options>
         <price>99800</price>
       </offer>
+      <offer sku="00000051013">
+        <name>Домкрат гидравлический TOR ДГ-CT г/п 10,0 т (ST1003), шт</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16704</price>
+      </offer>
       <offer sku="00000051017">
         <name>Домкрат гидравлический TOR ДГ-CT ST0203 2 т 1003448</name>
         <vendor>TOR</vendor>
@@ -27624,6 +27632,14 @@
         </pickup-options>
         <price>3209</price>
       </offer>
+      <offer sku="УТ-00093321">
+        <name>KRAFTOOL AC-80, глубина зажима 70 мм, мощная алюминиевая угловая струбцина (32202)</name>
+        <vendor>KRAFTOOL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19960</price>
+      </offer>
       <offer sku="УТ-00093438">
         <name>KRAFTOOL 25 мм, 5 шт, сегментированные лезвия (09602-25-S5)</name>
         <vendor>KRAFTOOL</vendor>
@@ -27864,6 +27880,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>52340</price>
+      </offer>
+      <offer sku="УТ-00099536">
+        <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>94990</price>
+      </offer>
+      <offer sku="УТ-00099807">
+        <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13600</price>
       </offer>
     </offers>
   </shop>

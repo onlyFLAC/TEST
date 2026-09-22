@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 07:32">
+<fm_catalog date="2026-09-22 08:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1749,14 +1749,6 @@
         </pickup-options>
         <price>4987</price>
       </offer>
-      <offer sku="УТ-00014040">
-        <name>STAYER MultiCut 115х22,2мм, диск отрезной по дереву для УШМ 36860-115</name>
-        <vendor>STAYER</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2760</price>
-      </offer>
       <offer sku="УТ-00014045">
         <name>Диск пильный по алюминию STAYER 64Т 190х30/20 мм 3685-190-30-64</name>
         <vendor>STAYER</vendor>
@@ -2721,14 +2713,6 @@
         </pickup-options>
         <price>13200</price>
       </offer>
-      <offer sku="УТ-00022375">
-        <name>ШИНА 16'' 3/8 1.3 56DL 7T 1КЛ HSM HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
-      </offer>
       <offer sku="УТ-00022432">
         <name>Шнур кордовый 2,4x210 Opti Quadra Husqvarna (квадратный) (в коробке 12шт)</name>
         <vendor>Husqvarna</vendor>
@@ -2756,25 +2740,6 @@
         </pickup-options>
         <price>13200</price>
       </offer>
-      <offer sku="УТ-00022450">
-        <name>ПИЛА САДОВАЯ HUSQVARNA 300CU В ЧЕХЛЕ 400ММ</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39000</price>
-      </offer>
-      <offer sku="УТ-00022460">
-        <name>Топор плотницкий 50см 1кг</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883620717</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>57000</price>
-      </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
         <vendor>Husqvarna</vendor>
@@ -2782,25 +2747,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022494">
-        <name>Мелки маркировочные графитовые (12шт в упаковке)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9900</price>
-      </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
       </offer>
       <offer sku="УТ-00022528">
         <name>Очки защитные Husqvarna Yellow X</name>
@@ -2817,14 +2763,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>30800</price>
-      </offer>
-      <offer sku="УТ-00022536">
-        <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL LIGHT Р.7</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12100</price>
       </offer>
       <offer sku="УТ-00022548">
         <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL LIGHT Р.10</name>
@@ -6296,17 +6234,6 @@
         </pickup-options>
         <price>2949</price>
       </offer>
-      <offer sku="00000005801">
-        <name>ЗУБР Мастер-53 cтеплер стальной, тип 53</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373101595</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4987</price>
-      </offer>
       <offer sku="00000005802">
         <name>ЗУБР Мастер-6 набор отверток 6 шт</name>
         <vendor>ЗУБР</vendor>
@@ -6600,17 +6527,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9110</price>
-      </offer>
-      <offer sku="00000006411">
-        <name>ЗУБР УНИВЕРСАЛ, размер S-M, перчатки с одинарным обливом</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373092282</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>623</price>
       </offer>
       <offer sku="00000006505">
         <name>ЗУБР Шланг напорно-всасывающий со спиралью ПВХ, 10 атм, 25мм х 15м</name>
@@ -8644,17 +8560,6 @@
         </pickup-options>
         <price>821</price>
       </offer>
-      <offer sku="00000011490">
-        <name>Штроборез электрический ЗУБР ЗШ-П30-1400 ПСТ</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373121777</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>62890</price>
-      </offer>
       <offer sku="00000011491">
         <name>Штроборез электрический ЗУБР ЗШ-П30-1400 ПСТК</name>
         <vendor>ЗУБР</vendor>
@@ -10011,17 +9916,6 @@
         </pickup-options>
         <price>3550</price>
       </offer>
-      <offer sku="00000019924">
-        <name>Пильный диск по дереву, ф200 х 32 мм, 36 зубьев + кольцо 32/30// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996129280</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2590</price>
-      </offer>
       <offer sku="00000019925">
         <name>Пильный диск по дереву, ф200 х 32 мм, 48 зубьев + кольцо 32/30// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10310,17 +10204,6 @@
         </pickup-options>
         <price>439</price>
       </offer>
-      <offer sku="00000021627">
-        <name>Таз круглый строительный Сибртех 90 л 81442</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800038241</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4535</price>
-      </offer>
       <offer sku="00000021631">
         <name>Таз круглый строительный, 40 л Россия// Sparta</name>
         <vendor>Sparta</vendor>
@@ -10594,17 +10477,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2200</price>
-      </offer>
-      <offer sku="00000023045">
-        <name>Мышеловка пластиковая открытая, металлический механизм, малая, 100х45 мм, 2 шт.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996146201</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2090</price>
       </offer>
       <offer sku="00000023100">
         <name>Паста полировальная Сибртех ГОИ №3 20 гр. 913346</name>
@@ -19310,17 +19182,6 @@
         </pickup-options>
         <price>9700</price>
       </offer>
-      <offer sku="00000074195">
-        <name>Комплект детской мебели Nika КП2/БГ большие гонки</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076029138</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16888</price>
-      </offer>
       <offer sku="00000074198">
         <name>Комплект детской мебели Nika "ФИКСИКИ" Ф2А фикси-азбука</name>
         <vendor>Nika</vendor>
@@ -21916,14 +21777,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6990</price>
-      </offer>
-      <offer sku="УТ-00053696">
-        <name>Комплект ремней баланс Husqvarna XT2 536 25 34-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72000</price>
       </offer>
       <offer sku="УТ-00053711">
         <name>Отвертка аккумуляторная Bosch GO 06019H2200</name>
@@ -26383,14 +26236,6 @@
         </pickup-options>
         <price>3300</price>
       </offer>
-      <offer sku="УТ-00085496">
-        <name>Набор напильников Husqvarna 5.5 мм 3 шт. 597 35 61-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
         <vendor>Husqvarna</vendor>
@@ -27073,14 +26918,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8290</price>
-      </offer>
-      <offer sku="УТ-00091066">
-        <name>Батарейки GP 60 шт. 24AA21-2CRSWC60 Super</name>
-        <vendor>GP</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11990</price>
       </offer>
       <offer sku="УТ-00091077">
         <name>Лампа светодиодная СТАРТ ECO LEDCandle E14 12W 40-3 TL холодный</name>

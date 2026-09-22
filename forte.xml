@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 08:01">
+<fm_catalog date="2026-09-22 08:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11761,17 +11761,6 @@
         </pickup-options>
         <price>20090</price>
       </offer>
-      <offer sku="00000032298">
-        <name>Бокс для аксессуаров большой Bosch (3/9)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140951913</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4470</price>
-      </offer>
       <offer sku="00000032299">
         <name>Бокс для аксессуаров Bosch для SystemBox малый 1600A016CU</name>
         <vendor>BOSCH</vendor>
@@ -14418,17 +14407,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24076</price>
-      </offer>
-      <offer sku="00000036337">
-        <name>Набор сверл по металлу BOSCH 3 мм 2 шт. 2608585911</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140521468</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1390</price>
       </offer>
       <offer sku="00000036344">
         <name>Сверло по металлу BOSCH 4.2 мм 2608585918</name>
@@ -23385,6 +23363,17 @@
         </pickup-options>
         <price>25150</price>
       </offer>
+      <offer sku="УТ-00059876">
+        <name>Смеситель GAPPO для раковины G3306-9 Оружейная Сталь встраиваемый для ванны</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477693489</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96820</price>
+      </offer>
       <offer sku="УТ-00059890">
         <name>Смеситель для ванны Gappo черный/хром G2203-6</name>
         <vendor>GAPPO</vendor>
@@ -23466,6 +23455,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130570</price>
+      </offer>
+      <offer sku="УТ-00060014">
+        <name>Душевая стойка Frap F2487 хром</name>
+        <vendor>Frap</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>76380</price>
       </offer>
       <offer sku="УТ-00060058">
         <name>Мыльница Gappo золотой сатин с держателем G30902-3</name>
@@ -23604,17 +23601,6 @@
         </pickup-options>
         <price>15290</price>
       </offer>
-      <offer sku="УТ-00060284">
-        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477622816</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12240</price>
-      </offer>
       <offer sku="УТ-00060328">
         <name>Полотенцедержатель Frap 302 черный F30201</name>
         <vendor>Frap</vendor>
@@ -23658,17 +23644,6 @@
         </pickup-options>
         <price>88190</price>
       </offer>
-      <offer sku="УТ-00060366">
-        <name>Душевая стойка Frap F2471-6 с изливом и ручной лейкой Черный</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477626111</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>78000</price>
-      </offer>
       <offer sku="УТ-00060385">
         <name>Смеситель для ванны Frap сатин F22806</name>
         <vendor>Frap</vendor>
@@ -23690,6 +23665,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40450</price>
+      </offer>
+      <offer sku="УТ-00060425">
+        <name>Смеситель для раковины Frap хром F1091</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477639531</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27950</price>
       </offer>
       <offer sku="УТ-00060440">
         <name>Смеситель для раковины Frap H806-6 черный F10806-6</name>
@@ -24538,17 +24524,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6500</price>
-      </offer>
-      <offer sku="УТ-00063392">
-        <name>Смазка подшипника 100гр Husqvarna 535 56 00-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7392930984622</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7000</price>
       </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
@@ -26188,14 +26163,6 @@
         </pickup-options>
         <price>92060</price>
       </offer>
-      <offer sku="УТ-00085479">
-        <name>Канистра для бензина Husqvarna 5 л 537 63 91-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11000</price>
-      </offer>
       <offer sku="УТ-00085483">
         <name>Кнопка триммерной головки Husqvarna T35X 544 45 53-01</name>
         <vendor>Husqvarna</vendor>
@@ -26227,14 +26194,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
-      </offer>
-      <offer sku="УТ-00085493">
-        <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
@@ -26576,6 +26535,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
+      </offer>
+      <offer sku="УТ-00089440">
+        <name>Стойка душевая GAPPO оружейная сталь G2448-9</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>108490</price>
       </offer>
       <offer sku="УТ-00089479">
         <name>Стойка душевая GAPPO золотой сатин G2448-3</name>

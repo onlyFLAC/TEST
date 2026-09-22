@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 10:57">
+<fm_catalog date="2026-09-22 11:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2639,17 +2639,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
-      </offer>
-      <offer sku="УТ-00022271">
-        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245909</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7100</price>
       </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
@@ -5606,6 +5595,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1500</price>
+      </offer>
+      <offer sku="00000003963">
+        <name>Бур садовый РОСТОК, со сменными ножами, 150 мм, 200мм, длина 1000мм</name>
+        <vendor>Росток</vendor>
+        <barcodes>
+          <barcode>4606373277368</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8999</price>
       </offer>
       <offer sku="00000004021">
         <name>Валик малярный "ОПТИМА-МИКРОТЕКС", пропитки и средства защиты древесины, микрофибра, ворс 7 мм, бюгель 6 мм, 40х180мм, ЗУБР</name>
@@ -11667,14 +11667,6 @@
         </pickup-options>
         <price>135400</price>
       </offer>
-      <offer sku="00000031895">
-        <name>Стремянка STABILO 4 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>104600</price>
-      </offer>
       <offer sku="00000031896">
         <name>Стремянка STABILO 5 ступ.</name>
         <vendor>Krause</vendor>
@@ -11682,14 +11674,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>116500</price>
-      </offer>
-      <offer sku="00000031917">
-        <name>Стремянка SECURY MultiGrip 5 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>76900</price>
       </offer>
       <offer sku="00000031934">
         <name>Подставка ROLLY 2х2 ступ. алюм</name>
@@ -21392,17 +21376,6 @@
         </pickup-options>
         <price>552200</price>
       </offer>
-      <offer sku="УТ-00048211">
-        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245848</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1880</price>
-      </offer>
       <offer sku="УТ-00048212">
         <name>Масло 4Т SAE-30 0.6л Husqvarna (в коробке 12 шт) 577 41 92-01</name>
         <vendor>Husqvarna</vendor>
@@ -22810,14 +22783,6 @@
         </pickup-options>
         <price>135154</price>
       </offer>
-      <offer sku="УТ-00058888">
-        <name>Стремянка KRAUSE "SEPRO S" 5 ступеней 124197</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>95000</price>
-      </offer>
       <offer sku="УТ-00059138">
         <name>Компрессор безмасляный DGM AC-225F DG2720-4</name>
         <vendor>DGM</vendor>
@@ -23512,17 +23477,6 @@
         </pickup-options>
         <price>25150</price>
       </offer>
-      <offer sku="УТ-00059876">
-        <name>Смеситель GAPPO для раковины G3306-9 Оружейная Сталь встраиваемый для ванны</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477693489</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>96820</price>
-      </offer>
       <offer sku="УТ-00059890">
         <name>Смеситель для ванны Gappo черный/хром G2203-6</name>
         <vendor>GAPPO</vendor>
@@ -23604,14 +23558,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130570</price>
-      </offer>
-      <offer sku="УТ-00060014">
-        <name>Душевая стойка Frap F2487 хром</name>
-        <vendor>Frap</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>76380</price>
       </offer>
       <offer sku="УТ-00060058">
         <name>Мыльница Gappo золотой сатин с держателем G30902-3</name>
@@ -23814,17 +23760,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40450</price>
-      </offer>
-      <offer sku="УТ-00060425">
-        <name>Смеситель для раковины Frap хром F1091</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477639531</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27950</price>
       </offer>
       <offer sku="УТ-00060440">
         <name>Смеситель для раковины Frap H806-6 черный F10806-6</name>
@@ -25554,17 +25489,6 @@
         </pickup-options>
         <price>28015</price>
       </offer>
-      <offer sku="УТ-00072525">
-        <name>Кусачки с мультикомпонентной ручкой KNIPEX 78 71 125 ESD</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773025191</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23075</price>
-      </offer>
       <offer sku="УТ-00072556">
         <name>Ножницы для резки кабелей KNIPEX 95 11 160</name>
         <vendor>KNIPEX</vendor>
@@ -25682,14 +25606,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6888</price>
-      </offer>
-      <offer sku="УТ-00072865">
-        <name>Уровень Stabila 70 мм 17773</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3750</price>
       </offer>
       <offer sku="УТ-00072887">
         <name>Уровень Stabila 61 см 19829</name>
@@ -25824,14 +25740,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
-      </offer>
-      <offer sku="УТ-00074391">
-        <name>Пила погружная FESTOOL TS 55 FEBQ-PLUS-FS 577010</name>
-        <vendor>Festool</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>660105</price>
       </offer>
       <offer sku="УТ-00074508">
         <name>Подшипник Россия 30х62 мм 206</name>
@@ -26719,14 +26627,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
-      </offer>
-      <offer sku="УТ-00089440">
-        <name>Стойка душевая GAPPO оружейная сталь G2448-9</name>
-        <vendor>GAPPO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>108490</price>
       </offer>
       <offer sku="УТ-00089479">
         <name>Стойка душевая GAPPO золотой сатин G2448-3</name>

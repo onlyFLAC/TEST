@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 12:25">
+<fm_catalog date="2026-09-22 12:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
-      <offer sku="УТ-00002542">
-        <name>Набор уплотнений 41480071600</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711933203</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
-      </offer>
       <offer sku="УТ-00002566">
         <name>Компрессор масляный HYUNDAI HY-50LV</name>
         <vendor>HYUNDAI</vendor>
@@ -18403,14 +18392,6 @@
         </pickup-options>
         <price>14560</price>
       </offer>
-      <offer sku="00000070855">
-        <name>Ручка для напильника деревянная Stihl</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1430</price>
-      </offer>
       <offer sku="00000070866">
         <name>Косильная головка AutoCut 3-2, 2,0 мм. (Для FSA 57, FSE 52) Stihl</name>
         <vendor>STIHL</vendor>
@@ -21574,28 +21555,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>530400</price>
-      </offer>
-      <offer sku="УТ-00051581">
-        <name>Карбюратор C1Q-S98D Stihl 41801200601</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711560522</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29700</price>
-      </offer>
-      <offer sku="УТ-00051583">
-        <name>Цилиндр с поршнем, Ø 47 мм Stihl 41480201201</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711933050</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>114600</price>
       </offer>
       <offer sku="УТ-00051636">
         <name>Сетка фильтрующая PROFSET 1095</name>
@@ -25963,14 +25922,6 @@
         </pickup-options>
         <price>74000</price>
       </offer>
-      <offer sku="УТ-00078237">
-        <name>Вилка натяжная □ 22 - 24 Stihl 52037506100</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2260</price>
-      </offer>
       <offer sku="УТ-00079535">
         <name>Защитное приспособление Stihl 11426561502</name>
         <vendor>STIHL</vendor>
@@ -26005,22 +25956,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>750</price>
-      </offer>
-      <offer sku="УТ-00083763">
-        <name>Фиксатор Stihl 52027533501</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3240</price>
-      </offer>
-      <offer sku="УТ-00083904">
-        <name>Цепной улавливатель Stihl 11196567705</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>370</price>
       </offer>
       <offer sku="УТ-00084027">
         <name>Шайба для газонокосилки STIHL 92960211609</name>

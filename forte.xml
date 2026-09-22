@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 15:50">
+<fm_catalog date="2026-09-22 16:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16868,6 +16868,18 @@
         </pickup-options>
         <price>22470</price>
       </offer>
+      <offer sku="00000059189">
+        <name>Вешалка гардеробная ЗМИ "РАДУГА 1" ВГАР1 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195637606</barcode>
+          <barcode>4640011875592</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8370</price>
+      </offer>
       <offer sku="00000059190">
         <name>Вешалка гардеробная колесная ЗМИ "РАДУГА 2" ВГАР2 черная</name>
         <vendor>ЗМИ</vendor>
@@ -18020,6 +18032,17 @@
         </pickup-options>
         <price>4998</price>
       </offer>
+      <offer sku="00000064362">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л бежевый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874489</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4000</price>
+      </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>
         <vendor>ЗМИ</vendor>
@@ -18041,6 +18064,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4920</price>
+      </offer>
+      <offer sku="00000064366">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л серый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874472</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4610</price>
       </offer>
       <offer sku="00000064367">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 ваниль</name>
@@ -18912,6 +18946,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13500</price>
+      </offer>
+      <offer sku="00000073690">
+        <name>Подставка для обуви ЗМИ "АЛЬФА 32" ПДОА32Б белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093788189</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11977</price>
       </offer>
       <offer sku="00000073885">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 185-LI 06019K3000</name>

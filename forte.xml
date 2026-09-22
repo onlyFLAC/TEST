@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 12:54">
+<fm_catalog date="2026-09-22 13:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8405,17 +8405,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>788</price>
-      </offer>
-      <offer sku="00000011158">
-        <name>Шило ЗУБР "Мастер" сапожное, эргономичная обрезиненная рукоятка, длина 60мм, d 2мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373109812</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1390</price>
       </offer>
       <offer sku="00000011192">
         <name>Набор шлифовальных сеток STAYER 11х27 см 10 листов 3547-080</name>

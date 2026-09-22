@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 09:00">
+<fm_catalog date="2026-09-22 09:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -26309,14 +26309,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7090</price>
-      </offer>
-      <offer sku="УТ-00087349">
-        <name>Пылесос строительный TT ПС-25/1600</name>
-        <vendor>Total Tools</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31500</price>
       </offer>
       <offer sku="УТ-00087352">
         <name>Станок точильный TT СТЭП-150</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 15:21">
+<fm_catalog date="2026-09-22 15:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2629,6 +2629,17 @@
         </pickup-options>
         <price>9350</price>
       </offer>
+      <offer sku="УТ-00022271">
+        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245909</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7100</price>
+      </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2698,6 +2709,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21000</price>
+      </offer>
+      <offer sku="УТ-00022433">
+        <name>Шнур кордовый 2,4x210 Whisper Twist Husqvarna (бесшумный, ProPolimer)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26400</price>
       </offer>
       <offer sku="УТ-00022447">
         <name>Шнур кордовый 3,3x65 Opti Quadra Husqvarna (квадратный)</name>
@@ -23598,6 +23617,17 @@
         </pickup-options>
         <price>13500</price>
       </offer>
+      <offer sku="УТ-00060451">
+        <name>Смеситель Frap для раковины F10801-2 высокий из нержавеющий стали</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477620881</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15560</price>
+      </offer>
       <offer sku="УТ-00060453">
         <name>Смеситель Frap для раковины F1076-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -26918,14 +26948,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20000</price>
-      </offer>
-      <offer sku="УТ-00091502">
-        <name>Складной нож BOSCH 1600A016BL</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10710</price>
       </offer>
       <offer sku="УТ-00091503">
         <name>Набор ножей BOSCH 2 шт. 1600A016BM</name>

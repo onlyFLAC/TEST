@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-22 09:29">
+<fm_catalog date="2026-09-22 09:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16837,6 +16837,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17190</price>
+      </offer>
+      <offer sku="00000059171">
+        <name>Подставка для обуви ЗМИ "ЖЕНЕВА 13" черная ПДОЖ13</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093781098</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15362</price>
       </offer>
       <offer sku="00000059173">
         <name>Подставка для обуви ЗМИ "ЖЕНЕВА 33" ПДОЖ33 черная</name>

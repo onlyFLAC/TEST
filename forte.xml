@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-23 10:26">
+<fm_catalog date="2026-09-23 10:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,6 +204,36 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
+      </offer>
+      <offer sku="УТ-00003923">
+        <name>Фен строительный аккумуляторный CROWN CT60001HX</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640186246897</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27100</price>
+      </offer>
+      <offer sku="УТ-00003969">
+        <name>Машина шлифовальная угловая (болгарка) CROWN CT13628-125</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17990</price>
+      </offer>
+      <offer sku="УТ-00003976">
+        <name>Мультиметр цифровой CROWN CT44051</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177426468</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -7903,6 +7933,17 @@
         </pickup-options>
         <price>2990</price>
       </offer>
+      <offer sku="00000009557">
+        <name>Пылесос строительный ЗУБР ПУ-20-1400 М3</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373239823</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41710</price>
+      </offer>
       <offer sku="00000009558">
         <name>Пылесос строительный ЗУБР ПУ-30-1400 М3</name>
         <vendor>ЗУБР</vendor>
@@ -10516,6 +10557,17 @@
         </pickup-options>
         <price>51990</price>
       </offer>
+      <offer sku="00000023732">
+        <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177420008</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25990</price>
+      </offer>
       <offer sku="00000023735">
         <name>Дрель-шуруповерт аккумуляторный CROWN CT21055L BMC</name>
         <vendor>CROWN</vendor>
@@ -10564,6 +10616,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29990</price>
+      </offer>
+      <offer sku="00000023888">
+        <name>Фен строительный CROWN CT19007BMC</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19200</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -26246,6 +26306,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>214990</price>
+      </offer>
+      <offer sku="УТ-00087756">
+        <name>Электрорубанок CROWN 14026</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177423115</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48990</price>
       </offer>
       <offer sku="УТ-00087775">
         <name>Лента для рулетки Husqvarna 15 м 505 69 73-01</name>

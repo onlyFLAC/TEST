@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-23 07:59">
+<fm_catalog date="2026-09-23 08:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1056,6 +1056,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4809</price>
+      </offer>
+      <offer sku="УТ-00008235">
+        <name>Ножовка для быстрого реза сырой древесины ЗУБР "ПОХОДНАЯ 7" 270 мм 15166-35</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373390883</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4139</price>
       </offer>
       <offer sku="УТ-00008693">
         <name>Колонки Microlab B55(13) черный 17322</name>
@@ -2894,17 +2905,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>61790</price>
-      </offer>
-      <offer sku="УТ-00024955">
-        <name>Вороток Г-образный Denzel 3/8" 50х200 мм 14062</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996233987</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1590</price>
       </offer>
       <offer sku="УТ-00024995">
         <name>Фильтр полиуретановый для пылесоса Denzel 28210</name>
@@ -11736,17 +11736,6 @@
         </pickup-options>
         <price>3620</price>
       </offer>
-      <offer sku="00000032300">
-        <name>Бокс для аксессуаров средний для SystemBox (2/9)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140951906</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4470</price>
-      </offer>
       <offer sku="00000032301">
         <name>Бокс для инструментов Bosch SystemBox пустой S</name>
         <vendor>BOSCH</vendor>
@@ -18040,17 +18029,6 @@
         </pickup-options>
         <price>4920</price>
       </offer>
-      <offer sku="00000064366">
-        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л серый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011874472</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4610</price>
-      </offer>
       <offer sku="00000064367">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 ваниль</name>
         <vendor>ЗМИ</vendor>
@@ -22332,17 +22310,6 @@
         </pickup-options>
         <price>14390</price>
       </offer>
-      <offer sku="УТ-00056371">
-        <name>Ножницы технические KRAFTOOL "BULLDOG" 250 мм 23203</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229244699</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11590</price>
-      </offer>
       <offer sku="УТ-00056387">
         <name>ЗУБР 12 в 1, облегченная рукоятка 105 мм, мультитул, многофункциональный инструмент (47752)</name>
         <vendor>ЗУБР</vendor>
@@ -24745,17 +24712,6 @@
         </pickup-options>
         <price>7030</price>
       </offer>
-      <offer sku="УТ-00063835">
-        <name>Набор отверток BOSCH 8 шт. 1600A02BX8</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952643281</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14160</price>
-      </offer>
       <offer sku="УТ-00063837">
         <name>Набор плоскогубцев BOSCH 2 шт 1600A0275H</name>
         <vendor>BOSCH</vendor>
@@ -25483,14 +25439,6 @@
         </pickup-options>
         <price>9659</price>
       </offer>
-      <offer sku="УТ-00072893">
-        <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7150</price>
-      </offer>
       <offer sku="УТ-00072904">
         <name>Бензопила Husqvarna 353 15"; 0.325 1.5 64DL H25 HSM 970 65 04-15</name>
         <vendor>Husqvarna</vendor>
@@ -25530,14 +25478,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>487000</price>
-      </offer>
-      <offer sku="УТ-00072975">
-        <name>Масло синтетическое с дозатором Husqvarna 2Т 1л XP 547 92 98-02</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16500</price>
       </offer>
       <offer sku="УТ-00072976">
         <name>Масло для смазки цепи Husqvarna 1л Veg X-GUARD BIO биоразлагаемое 596 45 73-01</name>
@@ -27396,14 +27336,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>10750</price>
-      </offer>
-      <offer sku="УТ-00091608">
-        <name>Пила ручная BOSCH 400 мм 1600A02ZA9</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9440</price>
       </offer>
       <offer sku="УТ-00091612">
         <name>Пила японская BOSCH Kataba 270 мм 1600A02ZB6</name>

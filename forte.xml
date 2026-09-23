@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-23 18:20">
+<fm_catalog date="2026-09-23 18:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1465,7 +1465,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7997</price>
+        <price>6900</price>
       </offer>
       <offer sku="УТ-00012980">
         <name>Доска гладильная Nika "ЛИНА ЭКОНОМ" ЭК1 (в ассортименте)</name>
@@ -4309,7 +4309,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7200</price>
+        <price>6900</price>
       </offer>
       <offer sku="УТ-00026626">
         <name>Машина снегоуборочная ALTECO SBG 318 59924</name>
@@ -11082,7 +11082,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7700</price>
+        <price>6900</price>
       </offer>
       <offer sku="00000025438">
         <name>Сушилка напольная Nika СБ2/С серебряный</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-23 10:55">
+<fm_catalog date="2026-09-23 11:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,25 +204,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
-      </offer>
-      <offer sku="УТ-00003923">
-        <name>Фен строительный аккумуляторный CROWN CT60001HX</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640186246897</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27100</price>
-      </offer>
-      <offer sku="УТ-00003969">
-        <name>Машина шлифовальная угловая (болгарка) CROWN CT13628-125</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17990</price>
       </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
@@ -4283,17 +4264,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14444</price>
-      </offer>
-      <offer sku="УТ-00026330">
-        <name>Доска гладильная Nika НТ9/5 со стрекозами, синий</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111512350</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24999</price>
       </offer>
       <offer sku="УТ-00026331">
         <name>Сушилка напольная Nika СБП1/С серебряный</name>
@@ -8936,6 +8906,17 @@
         </pickup-options>
         <price>7516</price>
       </offer>
+      <offer sku="00000013425">
+        <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996161914</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1795</price>
+      </offer>
       <offer sku="00000013603">
         <name>Длинногубцы Matrix 160 мм 17494</name>
         <vendor>Matrix</vendor>
@@ -9486,6 +9467,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>295</price>
+      </offer>
+      <offer sku="00000016671">
+        <name>Секатор прямого реза 200 мм, обрезиненные рукоятки// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996030562</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2805</price>
       </offer>
       <offer sku="00000016679">
         <name>Кусторез, 550 мм, стальные обрезиненные рукоятки// Palisad</name>
@@ -21743,17 +21735,6 @@
         </pickup-options>
         <price>24900</price>
       </offer>
-      <offer sku="УТ-00053261">
-        <name>Шлифмашина угловая (болгарка) ALTECO AG 800-125 80138</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244616116</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13990</price>
-      </offer>
       <offer sku="УТ-00053325">
         <name>Крышка для выравнивания 100 шт BIHUI SLC100, шт 77463</name>
         <vendor>BIHUI</vendor>
@@ -26306,17 +26287,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>214990</price>
-      </offer>
-      <offer sku="УТ-00087756">
-        <name>Электрорубанок CROWN 14026</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177423115</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48990</price>
       </offer>
       <offer sku="УТ-00087775">
         <name>Лента для рулетки Husqvarna 15 м 505 69 73-01</name>

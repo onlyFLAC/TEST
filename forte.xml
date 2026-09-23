@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-23 14:53">
+<fm_catalog date="2026-09-23 15:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -3005,7 +3005,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6994</price>
+        <price>6190</price>
       </offer>
       <offer sku="УТ-00025651">
         <name>Топор, 1000 г, кованый, буковое топорище// Denzel</name>
@@ -8351,17 +8351,6 @@
         </pickup-options>
         <price>2990</price>
       </offer>
-      <offer sku="00000010741">
-        <name>Трос буксировочный STAYER "STANDARD" 2.5 т 4 м 61207-2.5</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229204419</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2380</price>
-      </offer>
       <offer sku="00000010745">
         <name>Трос буксировочный ЗУБР "МАСТЕР" 4 м 3.5 т 61210-3.5</name>
         <vendor>ЗУБР</vendor>
@@ -8632,7 +8621,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4605</price>
+        <price>4390</price>
       </offer>
       <offer sku="00000011753">
         <name>Кувалда, 2000 г, кованая головка, деревянная двухцветная рукоятка// Sparta</name>
@@ -8643,7 +8632,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5990</price>
+        <price>4990</price>
       </offer>
       <offer sku="00000011758">
         <name>Кувалда Sparta 2000 г 10917</name>
@@ -8654,7 +8643,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4998</price>
+        <price>4790</price>
       </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
@@ -8676,7 +8665,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2421</price>
+        <price>2390</price>
       </offer>
       <offer sku="00000011916">
         <name>Набор бит Gross PH3х50 мм 2 шт. 11359</name>
@@ -8687,7 +8676,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>998</price>
+        <price>1390</price>
       </offer>
       <offer sku="00000012094">
         <name>Отвертка ''Point'', SL5,0 х 150 мм, CrV, 2-х компонентная рукоятка// Sparta</name>
@@ -8698,7 +8687,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>390</price>
+        <price>890</price>
       </offer>
       <offer sku="00000012165">
         <name>Отвертка "Era", PZ 2 x 100 мм, CrV, 3-х компонентная рукоятка// Matrix</name>
@@ -8742,7 +8731,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8911</price>
+        <price>7890</price>
       </offer>
       <offer sku="00000012332">
         <name>Отвертка, SL8,0 х 150 мм, CrV, 3-х компонентная рукоятка// Сибртех</name>
@@ -8805,7 +8794,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>445</price>
+        <price>890</price>
       </offer>
       <offer sku="00000012530">
         <name>Головка торцевая 12-гранная STELS 17 мм 13662</name>
@@ -8816,7 +8805,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>965</price>
+        <price>990</price>
       </offer>
       <offer sku="00000012552">
         <name>Головка торцевая Matrix 1/2" 30 мм 13697</name>
@@ -8838,7 +8827,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>485</price>
+        <price>690</price>
       </offer>
       <offer sku="00000012690">
         <name>Ключ трубка Stels 8х9 мм 13767</name>
@@ -8849,7 +8838,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1495</price>
+        <price>1890</price>
       </offer>
       <offer sku="00000012748">
         <name>Удлинитель, 75 мм, 3/8", CrV, полированный хром, для работ в труднодост. местах// Matrix</name>
@@ -8860,7 +8849,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>998</price>
+        <price>1490</price>
       </offer>
       <offer sku="00000012775">
         <name>Ключ трещотка Stels 1/2" 72 зуба 14043</name>
@@ -8871,7 +8860,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8339</price>
+        <price>8890</price>
       </offer>
       <offer sku="00000012803">
         <name>Набор ключей трубчатых торцевых 9 пр// Matrix</name>
@@ -8882,7 +8871,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4650</price>
+        <price>4490</price>
       </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
@@ -10244,17 +10233,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>439</price>
-      </offer>
-      <offer sku="00000021631">
-        <name>Таз круглый строительный, 40 л Россия// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4606800068347</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2649</price>
       </offer>
       <offer sku="00000021752">
         <name>Кисть плоская Сибртех 100 мм 82266</name>
@@ -17624,7 +17602,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>121601</price>
+        <price>143680</price>
       </offer>
       <offer sku="00000063869">
         <name>Коронка по металлу Denzel 38 мм 724111</name>
@@ -26338,14 +26316,6 @@
         </pickup-options>
         <price>2995</price>
       </offer>
-      <offer sku="УТ-00085492">
-        <name>Набор напильников Husqvarna 4 мм 3 шт. 597 35 48-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
         <vendor>Husqvarna</vendor>
@@ -27843,17 +27813,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3189</price>
-      </offer>
-      <offer sku="УТ-00093459">
-        <name>ЗУБР Терминатор-25, 25 мм, цельнометаллический нож с винтовым фиксатором, Профессионал (09186)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373602252</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3689</price>
       </offer>
       <offer sku="УТ-00093617">
         <name>KRAFTOOL KRAFT BOARD на единой, базе, 5 колёс, лоток для инструментов, нагрузка до 110кг, строительные наколенники на колёсах (11513)</name>

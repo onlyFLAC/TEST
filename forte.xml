@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-23 07:30">
+<fm_catalog date="2026-09-23 07:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2068,17 +2068,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2476</price>
-      </offer>
-      <offer sku="УТ-00015401">
-        <name>ЗУБР 310 мл 5 шт., Запасные сопла для закрытых пистолетов для герметика, ПРОФЕССИОНАЛ (06633-S) 06633-S</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373375712</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1777</price>
       </offer>
       <offer sku="УТ-00015417">
         <name>ЗУБР МК-80 0.8 мм, белый, экстратонкий маркер-краска, ПРОФЕССИОНАЛ (06324-8) 06324-8</name>
@@ -5911,17 +5900,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1948</price>
-      </offer>
-      <offer sku="00000004622">
-        <name>Замок ЗУБР "СТАНДАРТ", тросовый, кодовый, с неизменяемым кодом, длина троса - 1200мм, d 8мм.</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373235405</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2092</price>
       </offer>
       <offer sku="00000004623">
         <name>Замок ЗУБР "СТАНДАРТ", тросовый, кодовый, с неизменяемым кодом, длина троса - 650мм, d 8мм.</name>
@@ -18039,17 +18017,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4998</price>
-      </offer>
-      <offer sku="00000064362">
-        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л бежевый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011874489</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4000</price>
       </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>

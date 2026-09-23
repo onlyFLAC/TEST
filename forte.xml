@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-23 14:24">
+<fm_catalog date="2026-09-23 14:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4336,6 +4336,17 @@
         </pickup-options>
         <price>39990</price>
       </offer>
+      <offer sku="УТ-00028791">
+        <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Б белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195633103</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4930</price>
+      </offer>
       <offer sku="УТ-00028792">
         <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Ч черная</name>
         <vendor>ЗМИ</vendor>
@@ -4380,6 +4391,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7360</price>
+      </offer>
+      <offer sku="УТ-00028801">
+        <name>Вешалка с полкой двухярусная ЗМИ "ТОРОНТО 32" ВСПТ32Б белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195632816</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22800</price>
       </offer>
       <offer sku="УТ-00028802">
         <name>Вешалка с полкой ЗМИ "ТОРОНТО 32" графит ВСПТ32ГР</name>
@@ -11262,6 +11284,14 @@
         </pickup-options>
         <price>6700</price>
       </offer>
+      <offer sku="00000027886">
+        <name>Набор бит и сверл с зенкерами DeWALT Flip&amp;Drive (10 шт.), DT7612-XJ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15330</price>
+      </offer>
       <offer sku="00000028154">
         <name>Набор шлифшкурок DeWALT 125 мм 25 шт. DT3117</name>
         <vendor>DeWALT</vendor>
@@ -16974,6 +17004,17 @@
         </pickup-options>
         <price>4780</price>
       </offer>
+      <offer sku="00000059224">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011875639</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12060</price>
+      </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>
         <vendor>ЗМИ</vendor>
@@ -17648,6 +17689,17 @@
         </pickup-options>
         <price>11500</price>
       </offer>
+      <offer sku="00000064144">
+        <name>Вешалка с полкой ЗМИ ВСП7 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011871655</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4930</price>
+      </offer>
       <offer sku="00000064145">
         <name>Вешалка с полкой ЗМИ ВСП169 белая</name>
         <vendor>ЗМИ</vendor>
@@ -17704,6 +17756,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1550</price>
+      </offer>
+      <offer sku="00000064157">
+        <name>Вешалка настенная ЗМИ ''Норма 5'' Белый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093785225</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2400</price>
       </offer>
       <offer sku="00000064165">
         <name>Вешалка настенная ЗМИ "ДРУЖБА 4" ВН319 серая</name>
@@ -17929,6 +17992,17 @@
         </pickup-options>
         <price>11250</price>
       </offer>
+      <offer sku="00000064265">
+        <name>Вешалка гардеробная ЗМИ "ВАЛЕНСИЯ 22М" ВГВ22М белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787267</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13710</price>
+      </offer>
       <offer sku="00000064267">
         <name>Вешалка гардеробная ЗМИ "ВАЛЕНСИЯ 22М" черная ВГВ22М</name>
         <vendor>ЗМИ</vendor>
@@ -17968,6 +18042,14 @@
         </pickup-options>
         <price>14770</price>
       </offer>
+      <offer sku="00000064296">
+        <name>Этажерка на колесиках ЗМИ "ЛАДЬЯ 14К" Э372 серая</name>
+        <vendor>ЗМИ</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16588</price>
+      </offer>
       <offer sku="00000064302">
         <name>Этажерка ЗМИ "ЛАДЬЯ 33КС" Э356 белая</name>
         <vendor>ЗМИ</vendor>
@@ -18001,6 +18083,17 @@
         </pickup-options>
         <price>20570</price>
       </offer>
+      <offer sku="00000064332">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13500</price>
+      </offer>
       <offer sku="00000064335">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 коричневая</name>
         <vendor>ЗМИ</vendor>
@@ -18023,6 +18116,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9400</price>
+      </offer>
+      <offer sku="00000064347">
+        <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784945</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14890</price>
       </offer>
       <offer sku="00000064348">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 коричневая</name>
@@ -18080,6 +18184,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4998</price>
+      </offer>
+      <offer sku="00000064362">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л бежевый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874489</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4000</price>
       </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>
@@ -18168,6 +18283,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4930</price>
+      </offer>
+      <offer sku="00000064375">
+        <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" пыльная роза Т270</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011877978</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4999</price>
       </offer>
       <offer sku="00000064411">
         <name>Станция насосная Magnetta AUTOGJSm800+24L</name>
@@ -18397,6 +18523,39 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15320</price>
+      </offer>
+      <offer sku="00000070609">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787113</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14010</price>
+      </offer>
+      <offer sku="00000070610">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787120</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13960</price>
+      </offer>
+      <offer sku="00000070611">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787137</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15500</price>
       </offer>
       <offer sku="00000070655">
         <name>Цепь STIHL 66 зв. 3/8" 1.6 мм 36RM RAPID MICRO 36520000066</name>
@@ -19475,6 +19634,17 @@
         </pickup-options>
         <price>16660</price>
       </offer>
+      <offer sku="00000075880">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093789995</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9990</price>
+      </offer>
       <offer sku="00000075883">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 графит</name>
         <vendor>ЗМИ</vendor>
@@ -19485,6 +19655,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14380</price>
+      </offer>
+      <offer sku="00000075884">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093789810</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16800</price>
       </offer>
       <offer sku="00000075885">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 графит</name>
@@ -20558,6 +20739,17 @@
         </pickup-options>
         <price>21550</price>
       </offer>
+      <offer sku="УТ-00002307">
+        <name>Банкетка ЗМИ "ТОРОНТО 23S" графит/серая БТ23СГРС</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195632540</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23888</price>
+      </offer>
       <offer sku="УТ-00002309">
         <name>Вешалка гардеробная ЗМИ "АЛАБАМА 22" ВГА22 черная</name>
         <vendor>ЗМИ</vendor>
@@ -20568,6 +20760,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23680</price>
+      </offer>
+      <offer sku="УТ-00002310">
+        <name>Вешалка гардеробная ЗМИ "АЛАБАМА 22" ВГА22 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093788042</barcode>
+          <barcode>4610093788066</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19550</price>
       </offer>
       <offer sku="УТ-00002312">
         <name>Вешалка гардеробная ЗМИ "АЛАБАМА 32" ВГА32 черная</name>
@@ -21303,6 +21507,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>552200</price>
+      </offer>
+      <offer sku="УТ-00048211">
+        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245848</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1880</price>
       </offer>
       <offer sku="УТ-00048212">
         <name>Масло 4Т SAE-30 0.6л Husqvarna (в коробке 12 шт) 577 41 92-01</name>
@@ -26123,6 +26338,14 @@
         </pickup-options>
         <price>2995</price>
       </offer>
+      <offer sku="УТ-00085492">
+        <name>Набор напильников Husqvarna 4 мм 3 шт. 597 35 48-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
+      </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
         <vendor>Husqvarna</vendor>
@@ -27842,6 +28065,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>52340</price>
+      </offer>
+      <offer sku="УТ-00099342">
+        <name>Набор бит DeWALT "EXTREME" FLEXTORQ 25 мм 7 шт. DT70815-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2657</price>
+      </offer>
+      <offer sku="УТ-00099438">
+        <name>Набор бит DeWALT FLEXTORQ 25 мм (7 шт.), DT70806-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2657</price>
       </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>

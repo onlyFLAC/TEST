@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 20:16">
+<fm_catalog date="2026-09-24 20:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -27420,6 +27420,9 @@
       <offer sku="УТ-00091593">
         <name>Набор прецизионных отверток BOSCH 8 шт. 1600A02Z9M</name>
         <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255102</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

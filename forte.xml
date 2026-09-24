@@ -27884,6 +27884,14 @@
         </pickup-options>
         <price>1590</price>
       </offer>
+      <offer sku="УТ-00096203">
+        <name>Присоска аккумуляторная с двойной ручкой BIHUI, LFBSL(EURO)</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>108500</price>
+      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 12:26">
+<fm_catalog date="2026-09-24 12:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25825,19 +25825,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25000</price>
-      </offer>
-      <offer sku="УТ-00075601">
-        <name>Комплект детской мебели Nika КП2/П с азбукой</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111532105</barcode>
-          <barcode>4640011878982</barcode>
-          <barcode>4870244615645</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14888</price>
       </offer>
       <offer sku="УТ-00075608">
         <name>Ключ динамометрический WERA Click-Torque C1 05075620001</name>

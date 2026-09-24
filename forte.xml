@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 09:58">
+<fm_catalog date="2026-09-24 10:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2099,6 +2099,9 @@
       <offer sku="УТ-00015465">
         <name>STEHER 2.2 л.с., бензиновый культиватор (GK-100)</name>
         <vendor>STEHER</vendor>
+        <barcodes>
+          <barcode>4034229247218</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

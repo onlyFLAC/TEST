@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 17:50">
+<fm_catalog date="2026-09-24 18:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17073,17 +17073,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26500</price>
-      </offer>
-      <offer sku="00000059248">
-        <name>Тюбинг принтованный Nika "SPORT" ТБ2К-85/12 голубой</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047362646</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12900</price>
       </offer>
       <offer sku="00000059252">
         <name>Санки детский Nika "ТИМКА 5 КОМФОРТ" зеленый Т5К/З2</name>

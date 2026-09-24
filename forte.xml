@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 08:31">
+<fm_catalog date="2026-09-24 09:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6928,17 +6928,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>489</price>
-      </offer>
-      <offer sku="00000007463">
-        <name>Круг отрезной абразивный по металлу (125х22.2 мм; 1.2 мм) для УШМ ЗУБР 36300-125-1.2</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373316593</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>440</price>
       </offer>
       <offer sku="00000007466">
         <name>Диск отрезной по металлу ЗУБР 150х22.2 мм 36300-150-1.6</name>
@@ -21264,14 +21253,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7994</price>
-      </offer>
-      <offer sku="УТ-00045993">
-        <name>ЗУБР 15 м, 6 х 8 мм, 15 бар, воздушный спиральный шланг с фитингами рапид, Профессионал (6473-15)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9982</price>
       </offer>
       <offer sku="УТ-00046000">
         <name>ЗУБР 7 л.с., мотоблок с понижающей передачей (МТБ-400)</name>

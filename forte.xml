@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 10:58">
+<fm_catalog date="2026-09-24 11:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9011,6 +9011,17 @@
         </pickup-options>
         <price>990</price>
       </offer>
+      <offer sku="00000014104">
+        <name>Леска для триммера двухкомпонентная квадрат 2,65мм 15 м EXTRA CORD// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996166711</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1390</price>
+      </offer>
       <offer sku="00000014143">
         <name>Леска двухкомпонентная для триммера квадратная витая 2,4мм х 15м, EXTRA CORD// Denzel</name>
         <vendor>Denzel</vendor>
@@ -9263,6 +9274,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32640</price>
+      </offer>
+      <offer sku="00000015489">
+        <name>Заклепочник, 225 мм, заклепки 2,4-3,2-4,0-4,8 мм// МАТРИКС</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996019055</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2990</price>
       </offer>
       <offer sku="00000015499">
         <name>Заклепочник Matrix "ГАРМОШКА" 2.4-3.2-4-4.8-6.4 мм 40548</name>
@@ -10541,17 +10563,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65790</price>
-      </offer>
-      <offer sku="00000023710">
-        <name>Воздуходувка электрическая CROWN CT17010</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177421982</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20990</price>
       </offer>
       <offer sku="00000023716">
         <name>Аппарат сварочный инверторный CROWN MINI CT33102</name>

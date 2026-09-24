@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 16:21">
+<fm_catalog date="2026-09-24 16:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7984,17 +7984,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8490</price>
-      </offer>
-      <offer sku="00000009599">
-        <name>Резак OLFA циркульный, диаметр реза 10-150мм</name>
-        <vendor>Olfa</vendor>
-        <barcodes>
-          <barcode>091511400144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7678</price>
       </offer>
       <offer sku="00000009608">
         <name>Резьбовые заклепки с насечками, М8, 250 шт, стальные, стандартный бортик, ЗУБР Профессионал</name>

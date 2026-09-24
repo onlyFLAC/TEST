@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 14:53">
+<fm_catalog date="2026-09-24 15:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10691,6 +10691,14 @@
         </pickup-options>
         <price>34900</price>
       </offer>
+      <offer sku="00000024105">
+        <name>Насос циркуляционный Mateus MS05611 (GRS32/6-1(180mm))</name>
+        <vendor>Mateus</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20100</price>
+      </offer>
       <offer sku="00000024155">
         <name>Велосипед детский Nika ВД2/2 синий с зеленым</name>
         <vendor>Nika</vendor>
@@ -12870,17 +12878,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63230</price>
-      </offer>
-      <offer sku="00000032969">
-        <name>Дрель-шуруповерт ударная аккумуляторная Bosch GSB 12V-30 без АКБ 06019G9102</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140959117</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>64820</price>
       </offer>
       <offer sku="00000033015">
         <name>Рубанок аккумуляторный BOSCH GHO 18 V-LI SOLO 06015A0300</name>

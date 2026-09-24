@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 11:56">
+<fm_catalog date="2026-09-24 12:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11508,17 +11508,6 @@
         </pickup-options>
         <price>38500</price>
       </offer>
-      <offer sku="00000031835">
-        <name>Стремянка односторонняя Krause "CORDA" 3 ступ. 000712</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000712</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31900</price>
-      </offer>
       <offer sku="00000031837">
         <name>Стремянка CORDA 6 ступ.</name>
         <vendor>Krause</vendor>
@@ -11529,17 +11518,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>54800</price>
-      </offer>
-      <offer sku="00000031838">
-        <name>Стремянка CORDA 7 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000743</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>66000</price>
       </offer>
       <offer sku="00000031849">
         <name>Лестница трехсекционная универсальная CORDA 3*8 Krause</name>
@@ -11582,14 +11560,6 @@
         </pickup-options>
         <price>82600</price>
       </offer>
-      <offer sku="00000031885">
-        <name>Распорка - ограничитель</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40600</price>
-      </offer>
       <offer sku="00000031886">
         <name>Площадка - полка</name>
         <vendor>Krause</vendor>
@@ -11625,52 +11595,6 @@
         </pickup-options>
         <price>116500</price>
       </offer>
-      <offer sku="00000031905">
-        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>42700</price>
-      </offer>
-      <offer sku="00000031908">
-        <name>Стремянка свободностоящая 7 ступенек, раб.высота 3,50 м SOLIDY Krause</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>69900</price>
-      </offer>
-      <offer sku="00000031911">
-        <name>Стремянка анодированная Krause "SEPURO" 4 ступ. 126429</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72900</price>
-      </offer>
-      <offer sku="00000031913">
-        <name>Стремянка анодированная KRAUSE "MONTO SECURO" 6 ступеней 126443</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126443</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>100500</price>
-      </offer>
-      <offer sku="00000031926">
-        <name>Стремянка Krause "SEPURO" 6 ступеней 127242</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199127242</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>94900</price>
-      </offer>
       <offer sku="00000031941">
         <name>Подставка складная TOPPY XL 2 ступ.</name>
         <vendor>Krause</vendor>
@@ -11681,17 +11605,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31100</price>
-      </offer>
-      <offer sku="00000031942">
-        <name>Подставка складная TOPPY XL 3 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47300</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -22042,7 +21955,7 @@
         <price>21420</price>
       </offer>
       <offer sku="УТ-00055071">
-        <name>Бензопила MS 361 (шина 45 см, цепь 66 зв, кожух, зимний режим) 11352000474К45P</name>
+        <name>Бензопила MS 361 (шина 45 см, цепь 66 зв, кожух, зимний режим) 11352000474К45</name>
         <vendor>STIHL</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

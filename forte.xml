@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 15:22">
+<fm_catalog date="2026-09-24 15:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5430,7 +5430,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>7590</price>
       </offer>
       <offer sku="00000003273">
         <name>Молоток-гвоздодер STAYER "STRIKE" 450 гр. 2025-450</name>
@@ -5497,7 +5497,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>548</price>
+        <price>690</price>
       </offer>
       <offer sku="00000003638">
         <name>Аккумуляторная батарея "М1" 18 В, Li-Ion, 1.5 Ач, ЗУБР</name>
@@ -7355,7 +7355,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>777</price>
+        <price>1990</price>
       </offer>
       <offer sku="00000008258">
         <name>Набор GRINDA разметочный для посадки семян: садовые колышки, 150мм, 10шт</name>
@@ -8920,7 +8920,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13790</price>
+        <price>16400</price>
       </offer>
       <offer sku="00000013177">
         <name>Ключ комбинированный Gross 12 мм 15131</name>
@@ -9471,7 +9471,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8590</price>
+        <price>9990</price>
       </offer>
       <offer sku="00000016565">
         <name>Водосгон Stels 22 см 55221</name>
@@ -20776,17 +20776,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>134380</price>
-      </offer>
-      <offer sku="УТ-00040571">
-        <name>Лобзик электрический BOSCH GST 750 06015B4121</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952632360</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47200</price>
       </offer>
       <offer sku="УТ-00040680">
         <name>Стремянка Nika 4 ступ. СМ4 оранжевый</name>

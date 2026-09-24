@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 10:28">
+<fm_catalog date="2026-09-24 10:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1811,17 +1811,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1973</price>
-      </offer>
-      <offer sku="УТ-00014246">
-        <name>ЗУБР Турбо d 125 мм, Сегментная алмазная шлифовальная чашка (33378-125) 33378-125</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373432729</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6884</price>
       </offer>
       <offer sku="УТ-00014456">
         <name>ЗУБР ПВЛ 12 х 0.5 мм, 25 м, перфорированная вентиляционная лента прямая, цинк (310247-12-05) 310247-12-05</name>
@@ -24992,17 +24981,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14400</price>
-      </offer>
-      <offer sku="УТ-00063898">
-        <name>Смазка для редукторов и гибкого вала STIHL 80 г 07811201117</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711017835</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
       </offer>
       <offer sku="УТ-00064098">
         <name>Электроды сварочные ARCUS AHO-21 СТАНДАРТ 3 мм 2.5 кг 00000000336</name>

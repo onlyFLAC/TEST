@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 17:20">
+<fm_catalog date="2026-09-24 17:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2695,6 +2695,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
+      </offer>
+      <offer sku="УТ-00022395">
+        <name>Шина 12"; 3/8 1.3 44DL 7T 1кл A318 Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11000</price>
       </offer>
       <offer sku="УТ-00022432">
         <name>Шнур кордовый 2,4x210 Opti Quadra Husqvarna (квадратный) (в коробке 12шт)</name>
@@ -10605,6 +10613,17 @@
         </pickup-options>
         <price>19990</price>
       </offer>
+      <offer sku="00000023809">
+        <name>Пила дисковая CROWN CT15074</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640186245227</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>32990</price>
+      </offer>
       <offer sku="00000023856">
         <name>Шлифмашина угловая (болгарка) CROWN CT13003</name>
         <vendor>CROWN</vendor>
@@ -10756,6 +10775,17 @@
         </pickup-options>
         <price>11160</price>
       </offer>
+      <offer sku="00000024777">
+        <name>Фен строительный ALTECO HG 0606 27139</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216453251</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7990</price>
+      </offer>
       <offer sku="00000024779">
         <name>Фен строительный ALTECO HG 0608 27141</name>
         <vendor>ALTECO</vendor>
@@ -10777,6 +10807,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19500</price>
+      </offer>
+      <offer sku="00000024798">
+        <name>Лобзик электрический ALTECO JS 750 22983</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216452384</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25900</price>
       </offer>
       <offer sku="00000024820">
         <name>Пила дисковая ALTECO CS 1200-185 31014</name>
@@ -23193,6 +23234,17 @@
         </pickup-options>
         <price>14174</price>
       </offer>
+      <offer sku="УТ-00059812">
+        <name>Сушилка напольная двухсекционная Nika СБ8 серебряный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075834170</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11888</price>
+      </offer>
       <offer sku="УТ-00059821">
         <name>Сушилка напольная Nika СБТ18/РЗ розовое золото</name>
         <vendor>Nika</vendor>
@@ -24083,6 +24135,17 @@
         </pickup-options>
         <price>34500</price>
       </offer>
+      <offer sku="УТ-00061458">
+        <name>Доска гладильная Nika Н3МТ/5 оливковый с ракушками</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111512121</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20888</price>
+      </offer>
       <offer sku="УТ-00061459">
         <name>Доска гладильная Nika Н3МТ/П пудровый</name>
         <vendor>Nika</vendor>
@@ -24562,6 +24625,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6500</price>
+      </offer>
+      <offer sku="УТ-00063399">
+        <name>Бензорез Husqvarna K770 14" 967 68 21-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391736377850</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>600000</price>
       </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
@@ -25579,6 +25653,14 @@
         </pickup-options>
         <price>487000</price>
       </offer>
+      <offer sku="УТ-00072975">
+        <name>Масло синтетическое с дозатором Husqvarna 2Т 1л XP 547 92 98-02</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16500</price>
+      </offer>
       <offer sku="УТ-00072976">
         <name>Масло для смазки цепи Husqvarna 1л Veg X-GUARD BIO биоразлагаемое 596 45 73-01</name>
         <vendor>Husqvarna</vendor>
@@ -25602,6 +25684,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>210000</price>
+      </offer>
+      <offer sku="УТ-00073007">
+        <name>Травокосилка Husqvarna 525RXT Mark II 970 44 67-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>390000</price>
       </offer>
       <offer sku="УТ-00073009">
         <name>Травокосилка Husqvarna 541RS 967 66 08-03</name>
@@ -26998,6 +27088,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2090</price>
+      </offer>
+      <offer sku="УТ-00091181">
+        <name>Шнур кордовый 2,7x10 Whisper Twist Husqvarna (бесшумный, ProPolimer) (в коробке 10шт)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00091306">
         <name>Нож Husqvarna DB51 DBS51 DBY51 531 00 94-60</name>

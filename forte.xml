@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-24 08:01">
+<fm_catalog date="2026-09-24 08:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -846,17 +846,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18953</price>
-      </offer>
-      <offer sku="УТ-00005957">
-        <name>Уровень тип 80AS, 100 см STABILA 19168</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191689</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22985</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -1734,17 +1723,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2199</price>
-      </offer>
-      <offer sku="УТ-00013919">
-        <name>STAYER HEAVY DUTY 360 л, чёрные, 10шт, особопрочные, строительные мусорные мешки (39157-360) 39157-360</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229248925</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4747</price>
       </offer>
       <offer sku="УТ-00013920">
         <name>STAYER HEAVY DUTY 300 л, чёрные, 10шт, особопрочные, строительные мусорные мешки (39157-300) 39157-300</name>
@@ -2633,17 +2611,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>450000</price>
-      </offer>
-      <offer sku="УТ-00022216">
-        <name>Травокосилка 545RХ</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7392930886247</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>470000</price>
       </offer>
       <offer sku="УТ-00022226">
         <name>Воздуходувка бензиновая Husqvarna 125 В 952 71 56-43</name>
@@ -11307,14 +11274,6 @@
         </pickup-options>
         <price>6700</price>
       </offer>
-      <offer sku="00000027886">
-        <name>Набор бит и сверл с зенкерами DeWALT Flip&amp;Drive (10 шт.), DT7612-XJ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15330</price>
-      </offer>
       <offer sku="00000028154">
         <name>Набор шлифшкурок DeWALT 125 мм 25 шт. DT3117</name>
         <vendor>DeWALT</vendor>
@@ -12699,17 +12658,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14010</price>
-      </offer>
-      <offer sku="00000032803">
-        <name>Станок сверлильный PBD 40</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140569187</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>256380</price>
       </offer>
       <offer sku="00000032809">
         <name>Набор бит и сверл Bosch X-Line 34 шт. 2607010608</name>
@@ -15111,17 +15059,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1155</price>
-      </offer>
-      <offer sku="00000038982">
-        <name>Сверло по металлу BOSCH PointTeQ 11 мм 2608577175</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140906845</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1490</price>
       </offer>
       <offer sku="00000038983">
         <name>Сверло по металлу BOSCH PointTeQ 13 мм 2608577177</name>
@@ -18178,17 +18115,6 @@
         </pickup-options>
         <price>4998</price>
       </offer>
-      <offer sku="00000064362">
-        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л бежевый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011874489</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4000</price>
-      </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>
         <vendor>ЗМИ</vendor>
@@ -20497,17 +20423,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>47990</price>
-      </offer>
-      <offer sku="УТ-00001570">
-        <name>ЗУБР Профессионал 750 Вт, 13 мм, вертикально-сверлильный станок, настольный</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373403965</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>71060</price>
       </offer>
       <offer sku="УТ-00001572">
         <name>Измельчитель садовый электрический ЗУБР ЗИЭ-40-2300</name>
@@ -28049,22 +27964,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>52340</price>
-      </offer>
-      <offer sku="УТ-00099342">
-        <name>Набор бит DeWALT "EXTREME" FLEXTORQ 25 мм 7 шт. DT70815-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2657</price>
-      </offer>
-      <offer sku="УТ-00099438">
-        <name>Набор бит DeWALT FLEXTORQ 25 мм (7 шт.), DT70806-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2657</price>
       </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>

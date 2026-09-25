@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-25 08:30">
+<fm_catalog date="2026-09-25 08:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17931,6 +17931,17 @@
         </pickup-options>
         <price>20570</price>
       </offer>
+      <offer sku="00000064332">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13500</price>
+      </offer>
       <offer sku="00000064335">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 коричневая</name>
         <vendor>ЗМИ</vendor>
@@ -18371,6 +18382,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15320</price>
+      </offer>
+      <offer sku="00000070610">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787120</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13960</price>
       </offer>
       <offer sku="00000070611">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М белая</name>

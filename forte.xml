@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-25 10:27">
+<fm_catalog date="2026-09-25 10:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -879,6 +879,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40350</price>
+      </offer>
+      <offer sku="УТ-00006310">
+        <name>Стремянка односторонняя с полочкой Krause "SAFETY" 5 ступ. 128959</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199128959</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>68200</price>
       </offer>
       <offer sku="УТ-00006352">
         <name>Двухсторонняя стремянка DOPPLO 2х5 ступ.</name>
@@ -11532,6 +11543,14 @@
         </pickup-options>
         <price>116500</price>
       </offer>
+      <offer sku="00000031903">
+        <name>Складная подставка TREPPO 2x4 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>97600</price>
+      </offer>
       <offer sku="00000031941">
         <name>Подставка складная TOPPY XL 2 ступ.</name>
         <vendor>Krause</vendor>
@@ -16010,17 +16029,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39700</price>
-      </offer>
-      <offer sku="00000047602">
-        <name>Погружная пила с шиной ЗУБР 1200 Вт</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373309090</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>91340</price>
       </offer>
       <offer sku="00000048213">
         <name>Пылесос Artel VCC 0120 серый</name>
@@ -24095,17 +24103,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9988</price>
-      </offer>
-      <offer sku="УТ-00061409">
-        <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/SC scandinavian</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111505079</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31999</price>
       </offer>
       <offer sku="УТ-00061457">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/6 с линиями на сливовом</name>

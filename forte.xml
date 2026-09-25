@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-25 14:51">
+<fm_catalog date="2026-09-25 15:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1465,7 +1465,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8200</price>
+        <price>7500</price>
       </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 (в ассортименте)</name>
@@ -1476,7 +1476,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12400</price>
+        <price>11990</price>
       </offer>
       <offer sku="УТ-00012982">
         <name>Доска гладильная Nika "BELL CLASSY 3" БК3 (в ассортименте)</name>
@@ -4216,7 +4216,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14444</price>
+        <price>14440</price>
       </offer>
       <offer sku="УТ-00026331">
         <name>Сушилка напольная Nika СБП1/С серебряный</name>
@@ -4461,7 +4461,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9500</price>
+        <price>8990</price>
       </offer>
       <offer sku="УТ-00040140">
         <name>Доска гладильная Nika "ЛИНА 2" ДЛ2 (в ассортименте)</name>
@@ -4472,7 +4472,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11200</price>
+        <price>8500</price>
       </offer>
       <offer sku="УТ-00040230">
         <name>Велосипед детский Nika ВДН4/4 черный с лимонным</name>
@@ -10567,6 +10567,14 @@
         </pickup-options>
         <price>32990</price>
       </offer>
+      <offer sku="00000023818">
+        <name>Пила дисковая CROWN CT15188-190</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40990</price>
+      </offer>
       <offer sku="00000023856">
         <name>Шлифмашина угловая (болгарка) CROWN CT13003</name>
         <vendor>CROWN</vendor>
@@ -10989,7 +10997,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>34888</price>
+        <price>29990</price>
       </offer>
       <offer sku="00000025420">
         <name>Санки детские Nika "ТИМКА 5 УНИВЕРСАЛ" Т5У/32 зеленые</name>
@@ -11629,17 +11637,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390000</price>
-      </offer>
-      <offer sku="00000032025">
-        <name>Сейф VALBERG FRS-30 EL</name>
-        <vendor>VALBERG</vendor>
-        <barcodes>
-          <barcode>4606927005645</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>150390</price>
       </offer>
       <offer sku="00000032117">
         <name>Пила торцовочная, ЗУБР "МАСТЕР" d=210*30 мм, 1300 Вт, 5500 об/мин, лазер</name>
@@ -21503,7 +21500,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17200</price>
+        <price>16490</price>
       </offer>
       <offer sku="УТ-00048671">
         <name>Доска гладильная Nika "ЛИНА 4" ДЛ4 (в ассортименте)</name>
@@ -21514,7 +21511,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>10988</price>
+        <price>9990</price>
       </offer>
       <offer sku="УТ-00048745">
         <name>Пила цепная аккумуляторная Stalker MC20-10 Li BL 69835</name>
@@ -22910,7 +22907,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26500</price>
+        <price>23990</price>
       </offer>
       <offer sku="УТ-00059630">
         <name>Доска гладильная Nika "SPORT" NST/5 темно-лазурный</name>
@@ -22932,7 +22929,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19888</price>
+        <price>16890</price>
       </offer>
       <offer sku="УТ-00059636">
         <name>Доска гладильная навесная Nika ДН1Т/2 шоколадный</name>
@@ -22943,7 +22940,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18888</price>
+        <price>13990</price>
       </offer>
       <offer sku="УТ-00059637">
         <name>Доска гладильная настольная Nika НД2Т (в ассортименте)</name>
@@ -22954,7 +22951,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6666</price>
+        <price>5990</price>
       </offer>
       <offer sku="УТ-00059638">
         <name>Комплект детской мебели Nika КА2/СН сиреневый</name>
@@ -23300,7 +23297,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>32000</price>
+        <price>29990</price>
       </offer>
       <offer sku="УТ-00059828">
         <name>Сушилка напольная Nika СБ3/Б белый</name>
@@ -24127,7 +24124,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9988</price>
+        <price>7990</price>
       </offer>
       <offer sku="УТ-00061457">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/6 с линиями на сливовом</name>
@@ -27976,6 +27973,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
+      </offer>
+      <offer sku="УТ-00099555">
+        <name>13313 Машина шлифовальная прямая CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24990</price>
       </offer>
       <offer sku="УТ-00099560">
         <name>13577 Машина шлифовальная прямая CROWN "600 Вт 6 мм 220 ~ 230 В"</name>

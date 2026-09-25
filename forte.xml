@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-25 08:59">
+<fm_catalog date="2026-09-25 09:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9681,17 +9681,6 @@
         </pickup-options>
         <price>6290</price>
       </offer>
-      <offer sku="00000018242">
-        <name>Аккумулятор холода PALISAD Camping Россия 69601</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4606800046383</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
-      </offer>
       <offer sku="00000018340">
         <name>Набор приствольных кругов Россия 65 см 5 шт. 93927</name>
         <vendor>Россия</vendor>
@@ -16885,6 +16874,17 @@
         </pickup-options>
         <price>4780</price>
       </offer>
+      <offer sku="00000059224">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011875639</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12060</price>
+      </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>
         <vendor>ЗМИ</vendor>
@@ -18382,17 +18382,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15320</price>
-      </offer>
-      <offer sku="00000070610">
-        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787120</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13960</price>
       </offer>
       <offer sku="00000070611">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М белая</name>
@@ -22603,6 +22592,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42300</price>
+      </offer>
+      <offer sku="УТ-00058177">
+        <name>MIG Инверторные полуавтоматы MIG 250 (N2S82)</name>
+        <vendor>JASIC</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>745000</price>
       </offer>
       <offer sku="УТ-00058196">
         <name>Упор зубчатый STIHL 11426640501</name>

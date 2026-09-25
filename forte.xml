@@ -9687,17 +9687,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="00000016866">
-        <name>Грабли веерные пластиковые, 600 мм, 24 плоских зуба, без черенка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800057907</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2290</price>
-      </offer>
       <offer sku="00000017077">
         <name>Лопата штыковая, 205х275 мм, ребра жесткости, без черенка// Россия</name>
         <vendor>Россия</vendor>

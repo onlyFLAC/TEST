@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-25 12:25">
+<fm_catalog date="2026-09-25 12:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -3031,17 +3031,6 @@
         </pickup-options>
         <price>2700</price>
       </offer>
-      <offer sku="УТ-00025826">
-        <name>Валик игольчатый Сибртех 500 мм 81112</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800093509</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4790</price>
-      </offer>
       <offer sku="УТ-00025902">
         <name>Набор бит PATRIOT PH2х25 мм 3 шт. 818010009</name>
         <vendor>Patriot</vendor>
@@ -6041,17 +6030,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15290</price>
-      </offer>
-      <offer sku="00000004798">
-        <name>Трубный резьбонарезной клупп ЗУБР Профессионал 1 1/4 28271-5/4_z02</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373091612</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9910</price>
       </offer>
       <offer sku="00000004802">
         <name>Кувалда ЗУБР 1.5 кг 2010-15_z01</name>
@@ -9367,17 +9345,6 @@
         </pickup-options>
         <price>690</price>
       </offer>
-      <offer sku="00000015066">
-        <name>Лом-гвоздодер Сибртех 600х25х12 мм 25243</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996140094</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7090</price>
-      </offer>
       <offer sku="00000015174">
         <name>Рулетка "Doppelhaken", 3 м x 16 мм, односторонний зацеп, нейлон, двуст. шкала, автоматич// Gross</name>
         <vendor>Gross</vendor>
@@ -9477,17 +9444,6 @@
         </pickup-options>
         <price>890</price>
       </offer>
-      <offer sku="00000015590">
-        <name>Скобы, 6 мм, для мебельного степлера, тип 53, 1000 шт.// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996099927</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
-      </offer>
       <offer sku="00000015681">
         <name>Кронштейн стальной Сибртех 250x300 мм 94038</name>
         <vendor>Сибртех</vendor>
@@ -9498,17 +9454,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1440</price>
-      </offer>
-      <offer sku="00000015685">
-        <name>Кронштейн усиленный 400 х 280 х 30 х 4 мм, оцинкованный// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996059013</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6490</price>
       </offer>
       <offer sku="00000015737">
         <name>Набор распорных полипропиленовых дюбелей Сибртех 8х30 мм 50 шт. 46009</name>
@@ -9586,17 +9531,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>140</price>
-      </offer>
-      <offer sku="00000016193">
-        <name>Набор пружин 5,5х17, 5,5х38, 6,5х10, 7х12,5, 7х19, 9х35, 9,5х16, 9,5х19 мм, 200 предм.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996118420</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4690</price>
       </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
@@ -9763,17 +9697,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2290</price>
-      </offer>
-      <offer sku="00000016877">
-        <name>Грабли веерные СИБРТЕХ 18 зубьев 61781</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4607020535985</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3990</price>
       </offer>
       <offer sku="00000017077">
         <name>Лопата штыковая, 205х275 мм, ребра жесткости, без черенка// Россия</name>
@@ -10451,29 +10374,6 @@
         </pickup-options>
         <price>590</price>
       </offer>
-      <offer sku="00000021636">
-        <name>Таз прямоугольный строительный, 40 л Россия// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4606800068378</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3190</price>
-      </offer>
-      <offer sku="00000021648">
-        <name>Таз строительный прямоугольный Sparta 60 л 814525</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4606800075994</barcode>
-          <barcode>460800075994</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3790</price>
-      </offer>
       <offer sku="00000021752">
         <name>Кисть плоская Сибртех 100 мм 82266</name>
         <vendor>Сибртех</vendor>
@@ -10736,17 +10636,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1790</price>
-      </offer>
-      <offer sku="00000022942">
-        <name>Щетка-утюг 140х72 мм щетина средней жесткости// Elfe</name>
-        <vendor>Elfe</vendor>
-        <barcodes>
-          <barcode>4044996114125</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1990</price>
       </offer>
       <offer sku="00000023100">
         <name>Паста полировальная Сибртех ГОИ №3 20 гр. 913346</name>
@@ -20734,28 +20623,6 @@
         </pickup-options>
         <price>2780</price>
       </offer>
-      <offer sku="УТ-00001652">
-        <name>Набор ключей комбинированных 6-22 мм, 12 шт., CrV, матовый хром// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996205083</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12090</price>
-      </offer>
-      <offer sku="УТ-00001731">
-        <name>Рулетка 8м х 25мм, двухкомп. корпус, магнитный обрезиненный зацеп// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996205175</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6890</price>
-      </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -20763,17 +20630,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6795</price>
-      </offer>
-      <offer sku="УТ-00001887">
-        <name>Сумка для инструмента, 500х280х290мм, выдвижная рукоятка, колеса, наплечный ремень// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996195087</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26390</price>
       </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
@@ -21229,17 +21085,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>30189</price>
-      </offer>
-      <offer sku="УТ-00041551">
-        <name>Ремень привода (50492065) F016L66677</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952489704</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7999</price>
       </offer>
       <offer sku="УТ-00041597">
         <name>Вешалка настенная "ТОРОНТО 3" (Графит)</name>
@@ -26364,14 +26209,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5400</price>
-      </offer>
-      <offer sku="УТ-00077900">
-        <name>Смеситель для кухни Gappo оружейная сталь G4397-79</name>
-        <vendor>GAPPO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>61050</price>
       </offer>
       <offer sku="УТ-00077917">
         <name>Смеситель для раковины Frap черный F10802-62</name>

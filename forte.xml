@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-25 16:48">
+<fm_catalog date="2026-09-25 17:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2275,7 +2275,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>890</price>
+        <price>1390</price>
       </offer>
       <offer sku="УТ-00015966">
         <name>STAYER STRONG 90 л, Прямоугольный строительный таз, MASTER (06099-90)</name>
@@ -10199,6 +10199,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
+      </offer>
+      <offer sku="00000021648">
+        <name>Таз строительный прямоугольный Sparta 60 л 814525</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4606800075994</barcode>
+          <barcode>460800075994</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3790</price>
       </offer>
       <offer sku="00000021752">
         <name>Кисть плоская Сибртех 100 мм 82266</name>
@@ -22722,17 +22734,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>151000</price>
-      </offer>
-      <offer sku="УТ-00058529">
-        <name>Трос управления дроссельной заслонкой □ 18 41281801112</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711481056</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14300</price>
       </offer>
       <offer sku="УТ-00058697">
         <name>Прокладка STIHL 41403528100</name>

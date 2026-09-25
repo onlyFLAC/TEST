@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-25 16:19">
+<fm_catalog date="2026-09-25 16:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21296,14 +21296,6 @@
         </pickup-options>
         <price>15300</price>
       </offer>
-      <offer sku="УТ-00048149">
-        <name>Цепной улавливатель 00006567700</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>730</price>
-      </offer>
       <offer sku="УТ-00048205">
         <name>Краскораспылитель безвоздушный PROFSET 3000 Вт STB-935</name>
         <vendor>PROFSET</vendor>
@@ -21780,17 +21772,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3350</price>
-      </offer>
-      <offer sku="УТ-00052969">
-        <name>Зубчатый упор Stihl 00006600800</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661392773</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3700</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
@@ -26044,14 +26025,6 @@
         </pickup-options>
         <price>74000</price>
       </offer>
-      <offer sku="УТ-00079535">
-        <name>Защитное приспособление Stihl 11426561502</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1340</price>
-      </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
         <vendor>STIHL</vendor>
@@ -26102,14 +26075,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27760</price>
-      </offer>
-      <offer sku="УТ-00084881">
-        <name>Диск Scarlett 225-24T (1") 597 46 89-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17000</price>
       </offer>
       <offer sku="УТ-00084942">
         <name>Газонокосилка электрическая Bosch EasyRotak 32-205 06008A6300</name>

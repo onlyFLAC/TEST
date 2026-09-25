@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-25 11:26">
+<fm_catalog date="2026-09-25 11:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7617,6 +7617,17 @@
         </pickup-options>
         <price>3190</price>
       </offer>
+      <offer sku="00000008865">
+        <name>Ножовка-ручка по металлу STAYER 1571_z02</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229156145</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>790</price>
+      </offer>
       <offer sku="00000008903">
         <name>Органайзер ЗУБР ДОН-42 38036-42</name>
         <vendor>ЗУБР</vendor>
@@ -10672,7 +10683,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11990</price>
+        <price>12290</price>
       </offer>
       <offer sku="00000024488">
         <name>Алмазная коронка 112*350 ВТ</name>
@@ -10694,7 +10705,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7990</price>
+        <price>8390</price>
       </offer>
       <offer sku="00000024779">
         <name>Фен строительный ALTECO HG 0608 27141</name>
@@ -21806,7 +21817,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6790</price>
+        <price>6990</price>
       </offer>
       <offer sku="УТ-00053327">
         <name>Защитная пластина для СВП 100шт BIHUI SLW100, шт 77465</name>
@@ -21814,7 +21825,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6990</price>
+        <price>7290</price>
       </offer>
       <offer sku="УТ-00053711">
         <name>Отвертка аккумуляторная Bosch GO 06019H2200</name>
@@ -22635,7 +22646,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14990</price>
+        <price>15690</price>
       </offer>
       <offer sku="УТ-00057812">
         <name>Фен строительный Bosch GHG 23-66 06012A6303</name>
@@ -22687,14 +22698,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42300</price>
-      </offer>
-      <offer sku="УТ-00058177">
-        <name>MIG Инверторные полуавтоматы MIG 250 (N2S82)</name>
-        <vendor>JASIC</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>745000</price>
       </offer>
       <offer sku="УТ-00058196">
         <name>Упор зубчатый STIHL 11426640501</name>
@@ -25341,6 +25344,22 @@
         </pickup-options>
         <price>84470</price>
       </offer>
+      <offer sku="УТ-00071163">
+        <name>Пила торцовочная WORTEX MS 2112 LMB 1200 Вт 0329323</name>
+        <vendor>Wortex</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>94160</price>
+      </offer>
+      <offer sku="УТ-00071571">
+        <name>Циркулярная пила погружная с шиной 1,4 м WORTEX CS 1612-1 в кор. 1200 Вт, до 59 мм, 6000 об/мин</name>
+        <vendor>Wortex</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>115990</price>
+      </offer>
       <offer sku="УТ-00072431">
         <name>Клещи переставные-гаечный ключ KNIPEX 86 03 150</name>
         <vendor>KNIPEX</vendor>
@@ -25934,6 +25953,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5400</price>
+      </offer>
+      <offer sku="УТ-00077900">
+        <name>Смеситель для кухни Gappo оружейная сталь G4397-79</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>61050</price>
       </offer>
       <offer sku="УТ-00077917">
         <name>Смеситель для раковины Frap черный F10802-62</name>
@@ -27672,7 +27699,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3209</price>
+        <price>3490</price>
       </offer>
       <offer sku="УТ-00093321">
         <name>KRAFTOOL AC-80, глубина зажима 70 мм, мощная алюминиевая угловая струбцина (32202)</name>

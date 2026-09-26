@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 14:20">
+<fm_catalog date="2026-09-26 14:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17850,17 +17850,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7230</price>
-      </offer>
-      <offer sku="00000064361">
-        <name>Табурет квадратный ЗМИ "ПЕНЕК КРЕПКИЙ" 224 Т269 серый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011874366</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4998</price>
       </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>

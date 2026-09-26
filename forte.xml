@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 08:57">
+<fm_catalog date="2026-09-26 09:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -879,17 +879,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40350</price>
-      </offer>
-      <offer sku="УТ-00006310">
-        <name>Стремянка односторонняя с полочкой Krause "SAFETY" 5 ступ. 128959</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199128959</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>68200</price>
       </offer>
       <offer sku="УТ-00006352">
         <name>Двухсторонняя стремянка DOPPLO 2х5 ступ.</name>
@@ -2585,17 +2574,6 @@
         </pickup-options>
         <price>9350</price>
       </offer>
-      <offer sku="УТ-00022271">
-        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245909</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7100</price>
-      </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2622,14 +2600,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12100</price>
-      </offer>
-      <offer sku="УТ-00022290">
-        <name>Головка триммерная T25 M10L 128R (полуавто) (pack 66шт)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9350</price>
       </offer>
       <offer sku="УТ-00022296">
         <name>Головка триммерная Husqvarna 578 44 68-01</name>
@@ -10659,28 +10629,6 @@
         </pickup-options>
         <price>121000</price>
       </offer>
-      <offer sku="00000024484">
-        <name>Алмазная коронка 108*350 ВТ</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455088</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12290</price>
-      </offer>
-      <offer sku="00000024488">
-        <name>Алмазная коронка 112*350 ВТ</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455118</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11160</price>
-      </offer>
       <offer sku="00000024777">
         <name>Фен строительный ALTECO HG 0606 27139</name>
         <vendor>ALTECO</vendor>
@@ -10746,17 +10694,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19580</price>
-      </offer>
-      <offer sku="00000024898">
-        <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216450427</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28900</price>
       </offer>
       <offer sku="00000025002">
         <name>Аккумулятор для инструментов Makita BL 1850B 197280-8</name>
@@ -11539,14 +11476,6 @@
         </pickup-options>
         <price>116500</price>
       </offer>
-      <offer sku="00000031903">
-        <name>Складная подставка TREPPO 2x4 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>97600</price>
-      </offer>
       <offer sku="00000031941">
         <name>Подставка складная TOPPY XL 2 ступ.</name>
         <vendor>Krause</vendor>
@@ -12084,17 +12013,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>164340</price>
-      </offer>
-      <offer sku="00000032559">
-        <name>Набор БИТ/ТОРЦ.КЛ. 46-част.(2607019504)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140416221</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16006</price>
       </offer>
       <offer sku="00000032560">
         <name>Набор буров Bosch SDS-Plus-1 5 шт. 5/6.5/8х110 мм 10х12/160 мм 2608579121</name>
@@ -15224,17 +15142,6 @@
         </pickup-options>
         <price>5790</price>
       </offer>
-      <offer sku="00000039618">
-        <name>Набор бумажных мешков Bosch для AdvancedVac 20 5 шт. 2609256F33</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140912341</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5609</price>
-      </offer>
       <offer sku="00000039619">
         <name>Картридж-фильтр д/VAC</name>
         <vendor>BOSCH</vendor>
@@ -16635,17 +16542,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18888</price>
-      </offer>
-      <offer sku="00000059105">
-        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952531144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>122320</price>
       </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>
@@ -27855,22 +27751,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
-      </offer>
-      <offer sku="УТ-00099555">
-        <name>13313 Машина шлифовальная прямая CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24990</price>
-      </offer>
-      <offer sku="УТ-00099560">
-        <name>13577 Машина шлифовальная прямая CROWN "600 Вт 6 мм 220 ~ 230 В"</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

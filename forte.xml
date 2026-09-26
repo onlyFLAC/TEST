@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 08:28">
+<fm_catalog date="2026-09-26 08:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2133,14 +2133,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4290</price>
-      </offer>
-      <offer sku="УТ-00015546">
-        <name>GRINDA ULTRA 6, 3/4" 25 м 30 атм шестислойный, двойное армированиие, поливочный шланг PROLine (429009-3/4-25)</name>
-        <vendor>Grinda</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25090</price>
       </offer>
       <offer sku="УТ-00015553">
         <name>GRINDA GP-1, кузов увеличенного объема 260л, г/п 120кг, ударопрочный пластик, PROLine (422401)</name>
@@ -4668,17 +4660,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3990</price>
-      </offer>
-      <offer sku="00000001437">
-        <name>Плуг HUTER</name>
-        <vendor>Huter</vendor>
-        <barcodes>
-          <barcode>4606059019312</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11390</price>
       </offer>
       <offer sku="00000001493">
         <name>Водонагреватель накопительный Ресанта ВН-10Н 74/5/7</name>
@@ -10494,17 +10475,6 @@
         </pickup-options>
         <price>65790</price>
       </offer>
-      <offer sku="00000023716">
-        <name>Аппарат сварочный инверторный CROWN MINI CT33102</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177422309</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>51990</price>
-      </offer>
       <offer sku="00000023732">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
         <vendor>CROWN</vendor>
@@ -10615,14 +10585,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>400500</price>
-      </offer>
-      <offer sku="00000024070">
-        <name>Станция насосная автоматическая MATEUS TGP125 MS05403</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>33000</price>
       </offer>
       <offer sku="00000024071">
         <name>Станция насосная автоматическая Mateus MS05404 (TGP125C)</name>
@@ -21085,14 +21047,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>149200</price>
-      </offer>
-      <offer sku="УТ-00045547">
-        <name>Бензопила STIHL MS 182 40 см 11480113060K40</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>138300</price>
       </offer>
       <offer sku="УТ-00045548">
         <name>Бензопила STIHL MS 182 35 см 11480113060K35</name>

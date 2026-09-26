@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 07:59">
+<fm_catalog date="2026-09-26 08:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1713,17 +1713,6 @@
         </pickup-options>
         <price>890</price>
       </offer>
-      <offer sku="УТ-00013909">
-        <name>Черенок для грабель Grinda 1300 мм 39630-13</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925602772</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1190</price>
-      </offer>
       <offer sku="УТ-00013920">
         <name>STAYER HEAVY DUTY 300 л, чёрные, 10шт, особопрочные, строительные мусорные мешки (39157-300) 39157-300</name>
         <vendor>STAYER</vendor>
@@ -2978,17 +2967,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7190</price>
-      </offer>
-      <offer sku="УТ-00025709">
-        <name>Лопата штыковая, 150х210х715 мм, фибергласовый черенок// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996238265</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4490</price>
       </offer>
       <offer sku="УТ-00025716">
         <name>Распылитель, 8 режимов// Palisad</name>

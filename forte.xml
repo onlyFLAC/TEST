@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 15:48">
+<fm_catalog date="2026-09-26 16:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1481,6 +1481,9 @@
       <offer sku="УТ-00013064">
         <name>4222 корыто для тачки 110 л</name>
         <vendor>IVT</vendor>
+        <barcodes>
+          <barcode>7630005242223</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

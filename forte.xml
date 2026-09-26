@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 10:55">
+<fm_catalog date="2026-09-26 11:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17109,17 +17109,6 @@
         </pickup-options>
         <price>17200</price>
       </offer>
-      <offer sku="00000061165">
-        <name>Воздуходувка-пылесос Bosch UniversalGardenTidy 3000 06008B1001</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952553719</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>83000</price>
-      </offer>
       <offer sku="00000061166">
         <name>Мойка высокого давления Bosch AdvancedAquatak 140</name>
         <vendor>BOSCH</vendor>
@@ -25077,17 +25066,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1290</price>
-      </offer>
-      <offer sku="УТ-00068061">
-        <name>Кожух вытяжной для УШМ WORTEX DS 125 D DS125D0018</name>
-        <vendor>Wortex</vendor>
-        <barcodes>
-          <barcode>6900602848892</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21660</price>
       </offer>
       <offer sku="УТ-00068156">
         <name>Компрессор DGM AC-2100B ременной</name>

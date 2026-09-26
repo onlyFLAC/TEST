@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 16:17">
+<fm_catalog date="2026-09-26 16:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8785,6 +8785,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4890</price>
+      </offer>
+      <offer sku="00000013085">
+        <name>Набор ключей рожковых, 6 х 17 мм, 6 шт., хромированные// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996106717</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3790</price>
       </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>

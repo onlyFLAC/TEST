@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 09:27">
+<fm_catalog date="2026-09-26 09:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4201,14 +4201,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>158000</price>
-      </offer>
-      <offer sku="УТ-00026653">
-        <name>Угловая шлифмашина AGH 3000-230 S ALTECO HEAVY DUTY</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>57000</price>
       </offer>
       <offer sku="УТ-00026660">
         <name>Кровать раскладная с матрасом Nika РК4-М/4 с линиями на сером</name>

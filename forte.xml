@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-26 11:53">
+<fm_catalog date="2026-09-26 12:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1200,17 +1200,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1995</price>
-      </offer>
-      <offer sku="УТ-00009816">
-        <name>Набор приборов для мангала GRINDA "BARBECUE", 3 предмета</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925532550</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7000</price>
       </offer>
       <offer sku="УТ-00009845">
         <name>Набор: чистящий ролик для одежды с двумя сменными блоками, 20 слоев, Home// Palisad</name>

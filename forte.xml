@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-27 02:33">
+<fm_catalog date="2026-09-28 03:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2150,17 +2150,6 @@
         </pickup-options>
         <price>890</price>
       </offer>
-      <offer sku="УТ-00015576">
-        <name>Тарелка опорная пластиковая ЗУБР "ПРОФЕССИОНАЛ" 100 мм 3578-100</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373544446</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
-      </offer>
       <offer sku="УТ-00015580">
         <name>ЗУБР HEX-18, 900 мм, Лом-гвоздодер (2164-90)</name>
         <vendor>ЗУБР</vendor>
@@ -2522,14 +2511,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>290000</price>
-      </offer>
-      <offer sku="УТ-00022027">
-        <name>Набор алмазных дисков по бетону Husqvarna 230 мм 2 шт. 597 80 79-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>181000</price>
       </offer>
       <offer sku="УТ-00022140">
         <name>Бензопила Husqvarna 450 II 15 ; 0.325 1.3 64DL HSM</name>
@@ -5141,17 +5122,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3690</price>
-      </offer>
-      <offer sku="00000002615">
-        <name>Набор сверл по дереву STAYER "Maxdrill" 5 шт. 2943-300-H5</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229016401</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3550</price>
       </offer>
       <offer sku="00000002618">
         <name>Сверло по дереву STAYER 13 мм 2942-150-13_z02</name>
@@ -7827,17 +7797,6 @@
         </pickup-options>
         <price>2690</price>
       </offer>
-      <offer sku="00000009557">
-        <name>Пылесос строительный ЗУБР ПУ-20-1400 М3</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373239823</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41710</price>
-      </offer>
       <offer sku="00000009558">
         <name>Пылесос строительный ЗУБР ПУ-30-1400 М3</name>
         <vendor>ЗУБР</vendor>
@@ -10057,17 +10016,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2090</price>
-      </offer>
-      <offer sku="00000021257">
-        <name>Устройство универсальное для заточки ножей, малое// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996032337</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3490</price>
       </offer>
       <offer sku="00000021323">
         <name>Валик "Поролон", в сборе, 100 мм, D – 48 мм, D ручки – 6 мм, крепление шплинтом// Сибртех</name>
@@ -14928,17 +14876,6 @@
         </pickup-options>
         <price>4900</price>
       </offer>
-      <offer sku="00000039119">
-        <name>Сверло по металлу BOSCH PointTeQ 18 мм 2608577313</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140908221</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5850</price>
-      </offer>
       <offer sku="00000039121">
         <name>Сверло по металлу BOSCH PointTeQ 20 мм 2608577315</name>
         <vendor>BOSCH</vendor>
@@ -17522,17 +17459,6 @@
         </pickup-options>
         <price>13690</price>
       </offer>
-      <offer sku="00000064194">
-        <name>Подставка для обуви с сиденьем и ящиком ЗМИ "АЛЬФА 23" ПДОА23СЯ коричневая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195632892</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14690</price>
-      </offer>
       <offer sku="00000064195">
         <name>Подставка для обуви ЗМИ ''Альфа 23'' с сиденьем с ящиком Черный</name>
         <vendor>ЗМИ</vendor>
@@ -17796,17 +17722,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9400</price>
-      </offer>
-      <offer sku="00000064347">
-        <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093784945</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14890</price>
       </offer>
       <offer sku="00000064348">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 коричневая</name>

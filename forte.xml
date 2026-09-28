@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 08:02">
+<fm_catalog date="2026-09-28 08:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4301,17 +4301,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>82893</price>
-      </offer>
-      <offer sku="УТ-00036545">
-        <name>USB-адаптер TP-Link UB400</name>
-        <vendor>TP-Link</vendor>
-        <barcodes>
-          <barcode>6935364099664</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6190</price>
       </offer>
       <offer sku="УТ-00036604">
         <name>Картридж Colorfix VersaLink B400 (106R03585)</name>
@@ -11287,17 +11276,6 @@
         </pickup-options>
         <price>54800</price>
       </offer>
-      <offer sku="00000031849">
-        <name>Лестница трехсекционная универсальная CORDA 3*8 Krause</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199010384</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>94930</price>
-      </offer>
       <offer sku="00000031852">
         <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
         <vendor>Krause</vendor>
@@ -13505,17 +13483,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2790</price>
-      </offer>
-      <offer sku="00000035409">
-        <name>Набор сабельных пилок Bosch S1542K 2 шт. 2608650681</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140016773</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3999</price>
       </offer>
       <offer sku="00000035423">
         <name>Набор пилок для сабельной пилы Bosch S2345X 2 шт. 2608654403</name>
@@ -18502,17 +18469,6 @@
         </pickup-options>
         <price>25350</price>
       </offer>
-      <offer sku="00000072580">
-        <name>Форма для выпечки круглая Lara LR11-16 00000018191</name>
-        <vendor>Lara</vendor>
-        <barcodes>
-          <barcode>4680353007893</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2990</price>
-      </offer>
       <offer sku="00000072721">
         <name>Уровень лазерный Condtrol GFX360 42182</name>
         <vendor>Condtrol</vendor>
@@ -21414,14 +21370,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8100</price>
-      </offer>
-      <offer sku="УТ-00052936">
-        <name>Крюк зацеп для рулетки 505 69 72-10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3350</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
@@ -24447,17 +24395,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6450</price>
-      </offer>
-      <offer sku="УТ-00063832">
-        <name>Набор шестигранников BOSCH 9 шт 1600A02BX9</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952643298</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7030</price>
       </offer>
       <offer sku="УТ-00063834">
         <name>Молоток инженерный BOSCH 300 г 1600A027PH</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 07:33">
+<fm_catalog date="2026-09-28 08:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -246,17 +246,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7990</price>
-      </offer>
-      <offer sku="УТ-00004174">
-        <name>Алмазная коронка 112*450 ALTECO Professional</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216459871</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16730</price>
       </offer>
       <offer sku="УТ-00004215">
         <name>Сварочный аппарат ARC-200 ALTECO</name>
@@ -7522,17 +7511,6 @@
         </pickup-options>
         <price>3190</price>
       </offer>
-      <offer sku="00000008865">
-        <name>Ножовка-ручка по металлу STAYER 1571_z02</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229156145</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>790</price>
-      </offer>
       <offer sku="00000008903">
         <name>Органайзер ЗУБР ДОН-42 38036-42</name>
         <vendor>ЗУБР</vendor>
@@ -11768,17 +11746,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24700</price>
-      </offer>
-      <offer sku="00000032422">
-        <name>Набор из 2 аккумуляторов и ЗУ BOSCH GAL 12V-40 + GBA 2 Aч 1600A019R8</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140968188</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>61150</price>
       </offer>
       <offer sku="00000032427">
         <name>Измерительная рейка GR 240 0601094100</name>
@@ -22182,14 +22149,6 @@
         </pickup-options>
         <price>6990</price>
       </offer>
-      <offer sku="УТ-00056489">
-        <name>GRINDA Alu-600, ширина 590 мм, пластиковая с алюминиевым черенком, V-ручка, снеговая лопата, PROLine (39942)</name>
-        <vendor>Grinda</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7990</price>
-      </offer>
       <offer sku="УТ-00056499">
         <name>GRINDA RO-16, 16 форсунок, ударопрочный пластик, веерный распылитель, PROLine (429347)</name>
         <vendor>Grinda</vendor>
@@ -27000,17 +26959,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>10810</price>
-      </offer>
-      <offer sku="УТ-00091594">
-        <name>Набор прецизионных отверток BOSCH 13 шт. 1600A02Z9N</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423255119</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14420</price>
       </offer>
       <offer sku="УТ-00091596">
         <name>Набор отверток с трещоткой и T-образной рукояткой BOSCH 22 шт. 1600A02Z9T</name>

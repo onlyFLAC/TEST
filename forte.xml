@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 12:56">
+<fm_catalog date="2026-09-28 13:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5166,17 +5166,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8190</price>
-      </offer>
-      <offer sku="00000003050">
-        <name>Горелка газовая STAYER MaxTerm 1300°С MG100 55584</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229211332</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3490</price>
       </offer>
       <offer sku="00000003103">
         <name>STAYER PROFESSIONAL 25 мм лезвия сегментированные, 5 шт</name>

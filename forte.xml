@@ -10363,17 +10363,6 @@
         </pickup-options>
         <price>19990</price>
       </offer>
-      <offer sku="00000023802">
-        <name>Перфоратор Crown CT18116 SDS+(кейс)</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177420251</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48990</price>
-      </offer>
       <offer sku="00000023809">
         <name>Пила дисковая CROWN CT15074</name>
         <vendor>CROWN</vendor>

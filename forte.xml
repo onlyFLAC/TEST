@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 10:59">
+<fm_catalog date="2026-09-28 11:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23568,6 +23568,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17900</price>
+      </offer>
+      <offer sku="УТ-00061349">
+        <name>Душевая стойка Frap F2487-3 золотой сатин</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477632198</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96680</price>
       </offer>
       <offer sku="УТ-00061350">
         <name>Душевая стойка Frap F2487-9 оружейная сталь</name>

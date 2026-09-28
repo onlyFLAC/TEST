@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 17:21">
+<fm_catalog date="2026-09-28 17:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1498,7 +1498,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13999</price>
+        <price>13800</price>
       </offer>
       <offer sku="УТ-00013025">
         <name>Шлифмашина угловая (болгарка) ALTECO AGH 1100-125 E 61286</name>
@@ -19456,7 +19456,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8560</price>
+        <price>7090</price>
       </offer>
       <offer sku="00000075510">
         <name>Фен строительный MOLOT MHG 6020 2000 Вт MHG602000011</name>
@@ -20822,7 +20822,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22888</price>
+        <price>20100</price>
       </offer>
       <offer sku="УТ-00040684">
         <name>Стремянка Nika 7 ступ. СМ7 оранжевый</name>
@@ -22363,7 +22363,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8350</price>
+        <price>7400</price>
       </offer>
       <offer sku="УТ-00056024">
         <name>Табурет круглый Nika "ФАБРИК 2" ТФ02/С серый</name>
@@ -23982,7 +23982,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14390</price>
+        <price>15990</price>
       </offer>
       <offer sku="УТ-00061150">
         <name>Шланг армированный ф 10/16 мм с быстросъемн. соед. ECO (длина 10 м)</name>
@@ -23990,7 +23990,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12490</price>
+        <price>14690</price>
       </offer>
       <offer sku="УТ-00061154">
         <name>Шланг армированный ф 8/14 мм с быстросъемн. соед. ECO (длина 10 м)</name>
@@ -23998,7 +23998,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11490</price>
+        <price>13490</price>
       </offer>
       <offer sku="УТ-00061185">
         <name>Сушилка напольная двухсекционная Nika СБ8П/С серебряный</name>
@@ -25291,7 +25291,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15790</price>
+        <price>16990</price>
       </offer>
       <offer sku="УТ-00070750">
         <name>Станок сверлильный WORTEX для сквозных и глухих отверстий DB130400018</name>
@@ -25866,7 +25866,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6010</price>
+        <price>4590</price>
       </offer>
       <offer sku="УТ-00076443">
         <name>Лопата снеговая STARTUL 410х460 мм стальной черенок ST9056-2</name>
@@ -25874,7 +25874,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5790</price>
+        <price>6790</price>
       </offer>
       <offer sku="УТ-00076689">
         <name>Нож для прополки Xact FISKARS</name>
@@ -25893,7 +25893,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>690</price>
+        <price>390</price>
       </offer>
       <offer sku="УТ-00077591">
         <name>Вешалка напольная Комфорт 4 (ВК4/МС матовый серый)</name>

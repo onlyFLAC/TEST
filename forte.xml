@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 10:29">
+<fm_catalog date="2026-09-28 10:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4934,17 +4934,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4490</price>
-      </offer>
-      <offer sku="00000002401">
-        <name>Стриппер ЗУБР 0.6-2.6 мм PT-26 22666-26</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373286674</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3160</price>
       </offer>
       <offer sku="00000002403">
         <name>Большой плоскостной сучкорез со стальными рукоятками Grinda R-740 8-424107_z02</name>

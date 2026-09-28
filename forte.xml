@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 12:27">
+<fm_catalog date="2026-09-28 12:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11868,6 +11868,17 @@
         </pickup-options>
         <price>4090</price>
       </offer>
+      <offer sku="00000032586">
+        <name>Набор принадлежностей 70 TITANIUM+ Bosch</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140379526</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23653</price>
+      </offer>
       <offer sku="00000032589">
         <name>Набор принадлежностей Bosch V-line (48 шт.) 2607017314</name>
         <vendor>BOSCH</vendor>
@@ -18030,6 +18041,17 @@
         </pickup-options>
         <price>15320</price>
       </offer>
+      <offer sku="00000070610">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787120</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13960</price>
+      </offer>
       <offer sku="00000070611">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М белая</name>
         <vendor>ЗМИ</vendor>
@@ -20781,7 +20803,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22100</price>
+        <price>23490</price>
       </offer>
       <offer sku="УТ-00045931">
         <name>ЗУБР Универсальный рез, 230 x 32/30 мм, 60Т, пильный диск по алюминию (36916-230-32-60)</name>
@@ -20792,7 +20814,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>10990</price>
+        <price>9990</price>
       </offer>
       <offer sku="УТ-00045992">
         <name>ЗУБР 10 м, 6 х 8 мм, 15 бар, воздушный спиральный шланг с фитингами рапид, Профессионал (6473-10)</name>
@@ -20800,7 +20822,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7994</price>
+        <price>8090</price>
       </offer>
       <offer sku="УТ-00046000">
         <name>ЗУБР 7 л.с., мотоблок с понижающей передачей (МТБ-400)</name>
@@ -22220,14 +22242,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42300</price>
-      </offer>
-      <offer sku="УТ-00058177">
-        <name>MIG Инверторные полуавтоматы MIG 250 (N2S82)</name>
-        <vendor>JASIC</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>745000</price>
       </offer>
       <offer sku="УТ-00058196">
         <name>Упор зубчатый STIHL 11426640501</name>
@@ -24595,7 +24609,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3479</price>
+        <price>2990</price>
       </offer>
       <offer sku="УТ-00064869">
         <name>Трещотка реверсивная Kraftool 1/4" 150 мм 25890</name>
@@ -24622,7 +24636,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3853</price>
+        <price>4390</price>
       </offer>
       <offer sku="УТ-00064903">
         <name>ЗУБР Стройрез, 250 х 30 мм, 24Т, пильный диск по строительной древесине, Профессионал (36931-250-30-24)</name>
@@ -24649,7 +24663,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2977</price>
+        <price>3390</price>
       </offer>
       <offer sku="УТ-00064963">
         <name>ЗУБР НTТ-40, 255 мм, 40T, нож для триммера (71150)</name>
@@ -24657,7 +24671,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3957</price>
+        <price>4690</price>
       </offer>
       <offer sku="УТ-00064964">
         <name>ЗУБР НТ-3, 255 мм, 3T, нож для триммера (71140)</name>
@@ -24665,7 +24679,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3488</price>
+        <price>2990</price>
       </offer>
       <offer sku="УТ-00065010">
         <name>STAYER 30 м, 110 г, металлический, разметочный шнур-отвес (0637)</name>

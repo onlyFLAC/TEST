@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 09:01">
+<fm_catalog date="2026-09-28 09:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1466,17 +1466,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23900</price>
-      </offer>
-      <offer sku="УТ-00013064">
-        <name>4222 корыто для тачки 110 л</name>
-        <vendor>IVT</vendor>
-        <barcodes>
-          <barcode>7630005242223</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7560</price>
       </offer>
       <offer sku="УТ-00013463">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 белая</name>
@@ -11747,6 +11736,17 @@
         </pickup-options>
         <price>90940</price>
       </offer>
+      <offer sku="00000032457">
+        <name>Краскопульт электрический сетевой Bosch PFS 5000 E 0603207200</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140731140</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>125350</price>
+      </offer>
       <offer sku="00000032458">
         <name>Диск отрезной BOSCH 150х2.5 мм 2608600382</name>
         <vendor>BOSCH</vendor>
@@ -12287,6 +12287,17 @@
         </pickup-options>
         <price>63040</price>
       </offer>
+      <offer sku="00000032773">
+        <name>Пылесос Bosch GAS 12-25 PL 060197C100</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140926072</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>179330</price>
+      </offer>
       <offer sku="00000032776">
         <name>Пылесос универсальный Bosch UniversalVac 15 06033D1100</name>
         <vendor>BOSCH</vendor>
@@ -12341,6 +12352,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14010</price>
+      </offer>
+      <offer sku="00000032803">
+        <name>Станок сверлильный PBD 40</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140569187</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>256380</price>
       </offer>
       <offer sku="00000032809">
         <name>Набор бит и сверл Bosch X-Line 34 шт. 2607010608</name>
@@ -16830,6 +16852,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>78670</price>
+      </offer>
+      <offer sku="00000059370">
+        <name>Машина шлифовальная эксцентриковая Bosch GEX 34-150 0601372800</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952528922</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>158000</price>
       </offer>
       <offer sku="00000059392">
         <name>Уровень лазерный Bosch Atino 0603663A00</name>
@@ -21354,6 +21387,17 @@
         </pickup-options>
         <price>7290</price>
       </offer>
+      <offer sku="УТ-00053690">
+        <name>Дрель ударная сетевая Bosch GSB 600 06011A0320</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423240283</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24500</price>
+      </offer>
       <offer sku="УТ-00053711">
         <name>Отвертка аккумуляторная Bosch GO 06019H2200</name>
         <vendor>BOSCH</vendor>
@@ -22853,6 +22897,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>85760</price>
+      </offer>
+      <offer sku="УТ-00059840">
+        <name>Пила торцовочная Bosch GCM 340-305 D 0601B60000</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>321120</price>
       </offer>
       <offer sku="УТ-00059841">
         <name>Насадка для пылеудаления Bosch GDE HEX 1600A001GA</name>

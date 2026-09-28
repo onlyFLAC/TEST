@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 16:21">
+<fm_catalog date="2026-09-28 16:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -845,7 +845,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18953</price>
+        <price>22490</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -856,7 +856,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15802</price>
+        <price>19190</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -867,7 +867,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27110</price>
+        <price>29590</price>
       </offer>
       <offer sku="УТ-00006068">
         <name>Электрический водоподогреватель ЭВП-4,5М на 220</name>
@@ -2502,7 +2502,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>36400</price>
+        <price>29130</price>
       </offer>
       <offer sku="УТ-00019980">
         <name>Этажерка с мягким сиденьем Nika "ЛЮКС" ЭТЛ6/БЖ бежевый</name>
@@ -2891,7 +2891,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>183310</price>
+        <price>210490</price>
       </offer>
       <offer sku="УТ-00024653">
         <name>Кожух Briggs&amp;Stratton Б120П.14.003 БП-00006762</name>
@@ -4291,7 +4291,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35500</price>
+        <price>35000</price>
       </offer>
       <offer sku="УТ-00028675">
         <name>SHIVAKI MD 4218 E grey-black-black</name>
@@ -11853,17 +11853,6 @@
         </pickup-options>
         <price>20090</price>
       </offer>
-      <offer sku="00000032301">
-        <name>Бокс для инструментов Bosch SystemBox пустой S</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140951883</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12800</price>
-      </offer>
       <offer sku="00000032316">
         <name>Воздуходувка аккумуляторная Bosch GBL 18V-120 БЕЗ ЗУ И АКБ 06019F5100</name>
         <vendor>BOSCH</vendor>
@@ -15506,6 +15495,14 @@
         </pickup-options>
         <price>273300</price>
       </offer>
+      <offer sku="00000040232">
+        <name>Пневматические наборы универсальные 5шт TATK051</name>
+        <vendor>Total</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23500</price>
+      </offer>
       <offer sku="00000040555">
         <name>Набор отверток Total 26 шт. THTDC252601</name>
         <vendor>Total</vendor>
@@ -17381,17 +17378,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6999</price>
-      </offer>
-      <offer sku="00000061170">
-        <name>Кусторез электрический Bosch EasyHedgeCut 45 0600847A05</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952570785</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>57600</price>
       </offer>
       <offer sku="00000061181">
         <name>Бетоносмеситель Профмаш Б-130 Р Максим</name>
@@ -22972,7 +22958,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15100</price>
+        <price>13500</price>
       </offer>
       <offer sku="УТ-00059643">
         <name>Доска знаний-мольберт двусторонний Nika М2S/1 белый</name>
@@ -25551,7 +25537,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>172832</price>
+        <price>166290</price>
       </offer>
       <offer sku="УТ-00072890">
         <name>Карманная измерительная рулетка Stabila 3 м BM 150 19839</name>
@@ -25562,7 +25548,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9659</price>
+        <price>7785</price>
       </offer>
       <offer sku="УТ-00072904">
         <name>Бензопила Husqvarna 353 15"; 0.325 1.5 64DL H25 HSM 970 65 04-15</name>
@@ -25810,7 +25796,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23220</price>
+        <price>25090</price>
       </offer>
       <offer sku="УТ-00075660">
         <name>Набор Г образных ключей Wera 05073593001</name>
@@ -25821,7 +25807,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28740</price>
+        <price>30390</price>
       </offer>
       <offer sku="УТ-00075705">
         <name>Набор отверток Wera 05347735002</name>
@@ -25848,7 +25834,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16860</price>
+        <price>18990</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>

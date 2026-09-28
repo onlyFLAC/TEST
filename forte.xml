@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 15:52">
+<fm_catalog date="2026-09-28 16:21">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -920,6 +920,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>244750</price>
+      </offer>
+      <offer sku="УТ-00006512">
+        <name>Пила торцовочная Bosch GCM 254 0601B52000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952631752</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>172030</price>
       </offer>
       <offer sku="УТ-00006788">
         <name>Аккумулятор для электроинструментов Bosch GBA 12V 2 Ач 0602494020</name>
@@ -4841,7 +4852,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17490</price>
+        <price>15940</price>
       </offer>
       <offer sku="00000001918">
         <name>GRINDA STANDARD 1/2", 15 м, 20 атм, трёхслойный поливочный шланг, армированный</name>
@@ -6732,7 +6743,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4690</price>
+        <price>4014</price>
       </offer>
       <offer sku="00000007073">
         <name>Ключ имбусовый STAYER "STANDARD", сталь, черный, 12мм</name>
@@ -8176,7 +8187,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12990</price>
+        <price>11320</price>
       </offer>
       <offer sku="00000009793">
         <name>РОСТОК КЛАССИК 3/4", 15 м, 10 атм, трёхслойный поливочный шланг, армированный</name>
@@ -12345,6 +12356,17 @@
         </pickup-options>
         <price>47400</price>
       </offer>
+      <offer sku="00000032652">
+        <name>Отрезная машина по стали GCD 12 JL</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140721561</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>356900</price>
+      </offer>
       <offer sku="00000032654">
         <name>Диск отрезной по металлу Bosch 125х2 мм 2608600094</name>
         <vendor>BOSCH</vendor>
@@ -12676,6 +12698,17 @@
         </pickup-options>
         <price>88630</price>
       </offer>
+      <offer sku="00000032791">
+        <name>РУБАНОК/ЭЛЕКТРОИНСТРУМЕНТ GHO 12V-20 (Без акк. и з.у.)</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140866583</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>143860</price>
+      </offer>
       <offer sku="00000032796">
         <name>Насадка сверлильная для BOSCH IXO Collection 1600A00B9P</name>
         <vendor>BOSCH</vendor>
@@ -12752,6 +12785,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>856750</price>
+      </offer>
+      <offer sku="00000032823">
+        <name>ТОЧИЛО GBG 35-15</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140893350</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>97720</price>
       </offer>
       <offer sku="00000032845">
         <name>Машина шлифовальная угловая (болгарка) BOSCH GWS 19-125 CIE 060179P002</name>
@@ -16709,6 +16753,17 @@
         </pickup-options>
         <price>18888</price>
       </offer>
+      <offer sku="00000059105">
+        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952531144</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>122320</price>
+      </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>
         <vendor>ЗМИ</vendor>
@@ -17120,6 +17175,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>61600</price>
+      </offer>
+      <offer sku="00000059345">
+        <name>Машина шлифовальная эксцентриковая аккумуляторная Bosch GEX 12V-125 Без ЗУ и АКБ 0601372101</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952539478</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>90500</price>
       </offer>
       <offer sku="00000059350">
         <name>Гайковерт аккумуляторный BOSCH GDS 18V-1050 H 06019J8522</name>
@@ -18024,6 +18090,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7230</price>
+      </offer>
+      <offer sku="00000064361">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК КРЕПКИЙ" 224 Т269 серый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874366</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4998</price>
       </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>
@@ -20706,6 +20783,17 @@
         </pickup-options>
         <price>134380</price>
       </offer>
+      <offer sku="УТ-00040571">
+        <name>Лобзик электрический BOSCH GST 750 06015B4121</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952632360</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>47200</price>
+      </offer>
       <offer sku="УТ-00040680">
         <name>Стремянка Nika 4 ступ. СМ4 оранжевый</name>
         <vendor>Nika</vendor>
@@ -22484,7 +22572,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12290</price>
+        <price>9999</price>
       </offer>
       <offer sku="УТ-00056514">
         <name>Секатор Grinda GRINDA P-25 200 мм 423425</name>
@@ -24878,17 +24966,6 @@
         </pickup-options>
         <price>14400</price>
       </offer>
-      <offer sku="УТ-00063913">
-        <name>GPS-приёмник Pandora NAV-035BT</name>
-        <vendor>Pandora</vendor>
-        <barcodes>
-          <barcode>3822000122592</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38400</price>
-      </offer>
       <offer sku="УТ-00064098">
         <name>Электроды сварочные ARCUS AHO-21 СТАНДАРТ 3 мм 2.5 кг 00000000336</name>
         <vendor>ARCUS</vendor>
@@ -25028,7 +25105,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6590</price>
+        <price>5709</price>
       </offer>
       <offer sku="УТ-00064889">
         <name>ЗУБР 40 x 250 мм, SDS-Plus, плоское широкое зубило (29233-40-250)</name>
@@ -25371,17 +25448,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>47865</price>
-      </offer>
-      <offer sku="УТ-00072574">
-        <name>Ножницы электрика KNIPEX 95 05 155 SB</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773077725</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18580</price>
       </offer>
       <offer sku="УТ-00072582">
         <name>Клещи сантехнические KNIPEX 88 01 250</name>
@@ -25734,14 +25800,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>140220</price>
-      </offer>
-      <offer sku="УТ-00075633">
-        <name>Набор Wera Kraftform Kompakt VDE Big Pack 1 05006617001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>85585</price>
       </offer>
       <offer sku="УТ-00075654">
         <name>Набор Г образных ключей Wera 05022087001</name>
@@ -26590,6 +26648,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>182510</price>
+      </offer>
+      <offer sku="УТ-00090916">
+        <name>Кейс для инструмента BOSCH L-BOXX Contractor Set 3 1600A037DY</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>207000</price>
       </offer>
       <offer sku="УТ-00090917">
         <name>Кейс для инструмента BOSCH L-BOXX Contractor 476 1600A037E1</name>

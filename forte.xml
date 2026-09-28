@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 14:24">
+<fm_catalog date="2026-09-28 14:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,6 +204,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
+      </offer>
+      <offer sku="УТ-00003961">
+        <name>Лобзик электрический CROWN CT15287</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640372697731</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20990</price>
       </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
@@ -10351,6 +10362,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19990</price>
+      </offer>
+      <offer sku="00000023802">
+        <name>Перфоратор Crown CT18116 SDS+(кейс)</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177420251</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48990</price>
+      </offer>
+      <offer sku="00000023809">
+        <name>Пила дисковая CROWN CT15074</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640186245227</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>32990</price>
       </offer>
       <offer sku="00000023856">
         <name>Шлифмашина угловая (болгарка) CROWN CT13003</name>
@@ -21328,7 +21361,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>24900</price>
+        <price>33490</price>
       </offer>
       <offer sku="УТ-00053325">
         <name>Крышка для выравнивания 100 шт BIHUI SLC100, шт 77463</name>
@@ -21336,7 +21369,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6990</price>
+        <price>7990</price>
       </offer>
       <offer sku="УТ-00053327">
         <name>Защитная пластина для СВП 100шт BIHUI SLW100, шт 77465</name>
@@ -21344,7 +21377,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7290</price>
+        <price>8290</price>
       </offer>
       <offer sku="УТ-00053690">
         <name>Дрель ударная сетевая Bosch GSB 600 06011A0320</name>
@@ -22149,7 +22182,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15690</price>
+        <price>16690</price>
       </offer>
       <offer sku="УТ-00057812">
         <name>Фен строительный Bosch GHG 23-66 06012A6303</name>
@@ -27302,7 +27335,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2090</price>
+        <price>2490</price>
       </offer>
       <offer sku="УТ-00096168">
         <name>Охолождающий воск BIHUI DBCW20</name>
@@ -27310,7 +27343,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1590</price>
+        <price>1790</price>
       </offer>
       <offer sku="УТ-00096203">
         <name>Присоска аккумуляторная с двойной ручкой BIHUI, LFBSL(EURO)</name>

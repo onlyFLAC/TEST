@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 18:20">
+<fm_catalog date="2026-09-28 18:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2465,6 +2465,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22355</price>
+      </offer>
+      <offer sku="УТ-00019383">
+        <name>Передатчик видео сигнала MAXON опциональный беспроводной MT-WX02T</name>
+        <vendor>MAXON</vendor>
+        <barcodes>
+          <barcode>6931626409547</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41990</price>
       </offer>
       <offer sku="УТ-00019451">
         <name>Кронштейн ONKRON черный PT1</name>
@@ -10644,6 +10655,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65790</price>
+      </offer>
+      <offer sku="00000023639">
+        <name>Стремянка двухсторонняя Сибртех 4 ступеней 97984</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800072030</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23390</price>
       </offer>
       <offer sku="00000023732">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
@@ -23666,6 +23688,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7010</price>
+      </offer>
+      <offer sku="УТ-00060243">
+        <name>Смеситель для кухни Frap оружейная сталь F4497-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477629129</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>34600</price>
       </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>

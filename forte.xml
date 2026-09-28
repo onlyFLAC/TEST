@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 07:04">
+<fm_catalog date="2026-09-28 07:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10788,18 +10788,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2400</price>
-      </offer>
-      <offer sku="00000025390">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/1 доброе утро</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830592</barcode>
-          <barcode>4607075837393</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29990</price>
       </offer>
       <offer sku="00000025420">
         <name>Санки детские Nika "ТИМКА 5 УНИВЕРСАЛ" Т5У/32 зеленые</name>
@@ -23175,17 +23163,6 @@
         </pickup-options>
         <price>31900</price>
       </offer>
-      <offer sku="УТ-00059920">
-        <name>Раковина накладная без перелива GAPPO GT-403 (370mm*480mm*130mm) Прямоугольная " цвет Белый</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477655098</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20100</price>
-      </offer>
       <offer sku="УТ-00059933">
         <name>Душевой трап GAPPO G87007-3 7*70 см</name>
         <vendor>GAPPO</vendor>
@@ -24765,17 +24742,6 @@
         </pickup-options>
         <price>3479</price>
       </offer>
-      <offer sku="УТ-00064693">
-        <name>ЗУБР ПРОФИ-5С, 150х185х510мм, полотно рессорная сталь 1.6мм закалено, дерев. черенок высш. сорт, туристическая лопата, ПРОФЕССИОНАЛ (39458)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373570964</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3590</price>
-      </offer>
       <offer sku="УТ-00064869">
         <name>Трещотка реверсивная Kraftool 1/4" 150 мм 25890</name>
         <vendor>KRAFTOOL</vendor>
@@ -24902,17 +24868,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7590</price>
-      </offer>
-      <offer sku="УТ-00065089">
-        <name>KRAFTOOL X-Drive, 5 м х 19 мм, рулетка (34122-05-19)</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229162054</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2390</price>
       </offer>
       <offer sku="УТ-00065307">
         <name>ЗУБР 2700 Вт, d230 мм, УШМ, АВТ защита, фланец ″МИГ″, Профессионал (УШМ-П230-2700 ПВСТ)</name>

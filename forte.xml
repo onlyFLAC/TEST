@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-28 08:32">
+<fm_catalog date="2026-09-28 09:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11265,17 +11265,6 @@
         </pickup-options>
         <price>38500</price>
       </offer>
-      <offer sku="00000031837">
-        <name>Стремянка CORDA 6 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000736</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54800</price>
-      </offer>
       <offer sku="00000031852">
         <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
         <vendor>Krause</vendor>
@@ -19510,17 +19499,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="УТ-00000865">
-        <name>Ведомое звено 41446405900</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661263974</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
-      </offer>
       <offer sku="УТ-00000907">
         <name>Аккумулятор пусковой многофункциональный PATRIOT MAGNUM 8 650201608</name>
         <vendor>Patriot</vendor>
@@ -21103,17 +21081,6 @@
         </pickup-options>
         <price>19990</price>
       </offer>
-      <offer sku="УТ-00048804">
-        <name>Диск кулачковый 41800301800</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711556167</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2780</price>
-      </offer>
       <offer sku="УТ-00048806">
         <name>Кольцо компрессионное поршневое 43 х1,2 мм 41800343001</name>
         <vendor>STIHL</vendor>
@@ -21124,14 +21091,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4860</price>
-      </offer>
-      <offer sku="УТ-00048864">
-        <name>Приводной механизм Ø 43 mm (двигатель) 41800200205</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>108300</price>
       </offer>
       <offer sku="УТ-00049375">
         <name>Дрель-шуруповерт аккумуляторная ALTECO CD 12-23 71390</name>
@@ -21265,17 +21224,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>530400</price>
-      </offer>
-      <offer sku="УТ-00051580">
-        <name>Карбюратор C1Q-S173A Stihl 41801200610</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711558987</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37100</price>
       </offer>
       <offer sku="УТ-00051636">
         <name>Сетка фильтрующая PROFSET 1095</name>
@@ -21642,14 +21590,6 @@
         </pickup-options>
         <price>27800</price>
       </offer>
-      <offer sku="УТ-00055341">
-        <name>Система заправки цепным маслом 00008905004</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14300</price>
-      </offer>
       <offer sku="УТ-00055342">
         <name>Масло моторное STIHL 1:50 красное 07813198468лб</name>
         <vendor>STIHL</vendor>
@@ -21657,17 +21597,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7040</price>
-      </offer>
-      <offer sku="УТ-00055358">
-        <name>Нож измельчитель Shredru 270 мм. Для FS 350, FS 400 40007133903</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711318291</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18290</price>
       </offer>
       <offer sku="УТ-00055373">
         <name>Станок заточный Einhell TH-XG75Kit 4412560</name>
@@ -23269,14 +23198,6 @@
         </pickup-options>
         <price>92150</price>
       </offer>
-      <offer sku="УТ-00060361">
-        <name>Душевая система Frap F2476 хром</name>
-        <vendor>Frap</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>88190</price>
-      </offer>
       <offer sku="УТ-00060385">
         <name>Смеситель для ванны Frap сатин F22806</name>
         <vendor>Frap</vendor>
@@ -23617,17 +23538,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17900</price>
-      </offer>
-      <offer sku="УТ-00061349">
-        <name>Душевая стойка Frap F2487-3 золотой сатин</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477632198</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>96680</price>
       </offer>
       <offer sku="УТ-00061350">
         <name>Душевая стойка Frap F2487-9 оружейная сталь</name>
@@ -25462,14 +25372,6 @@
         </pickup-options>
         <price>20060</price>
       </offer>
-      <offer sku="УТ-00078004">
-        <name>Нож измельчитель STIHL 320-2 SHREDCUT для FS 561 C-EM 40007133902</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21660</price>
-      </offer>
       <offer sku="УТ-00078017">
         <name>Крышка для бензопилы STIHL MS 462, MS 462 C, MS 462 C-M, MS 462 C-M R 11420211101</name>
         <vendor>STIHL</vendor>
@@ -25575,14 +25477,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>190</price>
-      </offer>
-      <offer sku="УТ-00084089">
-        <name>Шарикоподшипник Stihl 95030039011</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2890</price>
       </offer>
       <offer sku="УТ-00084680">
         <name>Ножницы для резки кабелей KNIPEX 165 мм 95 12 165</name>

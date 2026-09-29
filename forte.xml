@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 13:23">
+<fm_catalog date="2026-09-29 13:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14122,17 +14122,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3837</price>
-      </offer>
-      <offer sku="00000035477">
-        <name>Набор сабельных пилок Bosch S1111DF 2 шт. 2608656273</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140235884</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4094</price>
       </offer>
       <offer sku="00000035487">
         <name>5 САБЕЛЬНЫХ ПИЛОК S 1225 VF</name>

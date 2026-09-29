@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 15:49">
+<fm_catalog date="2026-09-29 16:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -19411,7 +19411,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7090</price>
+        <price>7390</price>
       </offer>
       <offer sku="00000075510">
         <name>Фен строительный MOLOT MHG 6020 2000 Вт MHG602000011</name>
@@ -25794,7 +25794,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6790</price>
+        <price>6590</price>
       </offer>
       <offer sku="УТ-00076689">
         <name>Нож для прополки Xact FISKARS</name>

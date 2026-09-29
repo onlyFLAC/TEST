@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 07:01">
+<fm_catalog date="2026-09-29 07:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2618,14 +2618,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>290000</price>
-      </offer>
-      <offer sku="УТ-00022140">
-        <name>Бензопила Husqvarna 450 II 15 ; 0.325 1.3 64DL HSM</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>250000</price>
       </offer>
       <offer sku="УТ-00022145">
         <name>Бензопила 555 15 ; 0.325 1.5 64DL S35G X-Cut HSM X-Force</name>
@@ -6019,17 +6011,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
-      </offer>
-      <offer sku="00000005276">
-        <name>Набор зубил ЗУБР SDS-plus 250 мм 4 шт. 29230-H4</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373221347</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6490</price>
       </offer>
       <offer sku="00000005282">
         <name>Домкрат подкатной гидравлический ЗУБР "ПРОФЕССИОНАЛ" 2.5 т 43051-3_z01</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 14:51">
+<fm_catalog date="2026-09-29 15:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21217,17 +21217,6 @@
         </pickup-options>
         <price>285890</price>
       </offer>
-      <offer sku="УТ-00046722">
-        <name>Уровень STABILA "тип 70" 80 см 02286</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13415</price>
-      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -25837,33 +25826,6 @@
         </pickup-options>
         <price>12990</price>
       </offer>
-      <offer sku="УТ-00077628">
-        <name>Бумагодержатель Gappo оружейная сталь G30903-29</name>
-        <vendor>GAPPO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8400</price>
-      </offer>
-      <offer sku="УТ-00077665">
-        <name>Держатель со стаканом Gappo оружейная сталь G30806-9</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477698804</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13800</price>
-      </offer>
-      <offer sku="УТ-00077720">
-        <name>Крючок Gappo двойной оружейная сталь G30905-29</name>
-        <vendor>GAPPO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5900</price>
-      </offer>
       <offer sku="УТ-00077917">
         <name>Смеситель для раковины Frap черный F10802-62</name>
         <vendor>Frap</vendor>
@@ -26440,17 +26402,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
-      </offer>
-      <offer sku="УТ-00089442">
-        <name>Держатель со стаканом GAPPO золотой сатин G30806-3</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477698811</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14340</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>

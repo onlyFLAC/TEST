@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 14:22">
+<fm_catalog date="2026-09-29 14:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -215,6 +215,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
+      </offer>
+      <offer sku="УТ-00003938">
+        <name>Гайковерт пневматический крутящий момент 900Hm, размер патрона 1/4</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48700</price>
       </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
@@ -2700,6 +2708,14 @@
         </pickup-options>
         <price>13200</price>
       </offer>
+      <offer sku="УТ-00022371">
+        <name>Цепь 15"; 3/8"; 1.5 56DL C85 X-Cut Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
+      </offer>
       <offer sku="УТ-00022432">
         <name>Шнур кордовый 2,4x210 Opti Quadra Husqvarna (квадратный) (в коробке 12шт)</name>
         <vendor>Husqvarna</vendor>
@@ -3015,17 +3031,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2700</price>
-      </offer>
-      <offer sku="УТ-00025759">
-        <name>Набор сверл под конфирмат Denzel 3.5 мм 4 шт. 704240</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996199566</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4890</price>
       </offer>
       <offer sku="УТ-00025837">
         <name>Перчатки комбинированные облегченные Gross AKTIV М 90308</name>
@@ -8898,17 +8903,6 @@
         </pickup-options>
         <price>790</price>
       </offer>
-      <offer sku="00000012517">
-        <name>Головка торцевая свечная STELS 1/2" 125 мм 13637</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996042428</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1690</price>
-      </offer>
       <offer sku="00000012530">
         <name>Головка торцевая 12-гранная STELS 17 мм 13662</name>
         <vendor>STELS</vendor>
@@ -8963,17 +8957,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1490</price>
-      </offer>
-      <offer sku="00000012772">
-        <name>Ключ-трещотка 1/4, 72 зуба, с быстрым сбросом, CrV, 2-х компонентная рукоятка STELS 14028</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996125923</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8990</price>
       </offer>
       <offer sku="00000012775">
         <name>Ключ трещотка Stels 1/2" 72 зуба 14043</name>
@@ -9306,17 +9289,6 @@
         </pickup-options>
         <price>7590</price>
       </offer>
-      <offer sku="00000014880">
-        <name>Пила двуручная, 1000 мм, деревянные рукоятки (Ижевск)// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4044996080406</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16590</price>
-      </offer>
       <offer sku="00000014886">
         <name>Ножовка по дереву,450 мм,7-8 TPI,зуб-3D,каленый зуб,тефл.покр.полотна,2-х комп..рук-ка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9438,17 +9410,6 @@
         </pickup-options>
         <price>790</price>
       </offer>
-      <offer sku="00000015590">
-        <name>Скобы, 6 мм, для мебельного степлера, тип 53, 1000 шт.// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996099927</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
-      </offer>
       <offer sku="00000015681">
         <name>Кронштейн стальной Сибртех 250x300 мм 94038</name>
         <vendor>Сибртех</vendor>
@@ -9536,17 +9497,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>140</price>
-      </offer>
-      <offer sku="00000016193">
-        <name>Набор пружин 5,5х17, 5,5х38, 6,5х10, 7х12,5, 7х19, 9х35, 9,5х16, 9,5х19 мм, 200 предм.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996118420</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4290</price>
       </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
@@ -9702,17 +9652,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4790</price>
-      </offer>
-      <offer sku="00000016883">
-        <name>Аэратор для газона Palisad размер 132х300 мм</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996035758</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6890</price>
       </offer>
       <offer sku="00000017077">
         <name>Лопата штыковая, 205х275 мм, ребра жесткости, без черенка// Россия</name>
@@ -9915,17 +9854,6 @@
         </pickup-options>
         <price>1690</price>
       </offer>
-      <offer sku="00000018017">
-        <name>Тачка садово-строительная двухколесная Palisad 320 кг 100 л 68923</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996103983</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30390</price>
-      </offer>
       <offer sku="00000018209">
         <name>Гамак Palisad "CAMPING" 200х100 см без планок 69585</name>
         <vendor>Palisad</vendor>
@@ -10020,14 +9948,6 @@
         <barcodes>
           <barcode>4044996029580</barcode>
         </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
-      </offer>
-      <offer sku="00000019344">
-        <name>Сверло по металлу, 4,8 мм, Р6М5// Сибртех</name>
-        <vendor>Сибртех</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -10310,17 +10230,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000020877">
-        <name>Плашка М16 х 1,5 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996082813</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4090</price>
-      </offer>
       <offer sku="00000020911">
         <name>Набор метчиков и плашек Sparta М3-М12 20 шт. 773105</name>
         <vendor>Sparta</vendor>
@@ -10409,28 +10318,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000021630">
-        <name>Таз строительный Сибртех 90 л прямоугольный 81445</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800038272</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6690</price>
-      </offer>
-      <offer sku="00000021636">
-        <name>Таз прямоугольный строительный, 40 л Россия// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4606800068378</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2790</price>
-      </offer>
       <offer sku="00000021648">
         <name>Таз строительный прямоугольный Sparta 60 л 814525</name>
         <vendor>Sparta</vendor>
@@ -10464,17 +10351,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1490</price>
-      </offer>
-      <offer sku="00000021877">
-        <name>Щетка пластмассовая для подметания пола 28 cм, без черенка// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800026637</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1690</price>
       </offer>
       <offer sku="00000021888">
         <name>Щетка обойная 3-рядная, 300 мм// MTX</name>
@@ -10643,28 +10519,6 @@
         </pickup-options>
         <price>590</price>
       </offer>
-      <offer sku="00000022496">
-        <name>Набор цветных изолент Сибртех 10 м 5 шт. 88799</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800076328</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1290</price>
-      </offer>
-      <offer sku="00000022502">
-        <name>Пленка защитная, 4 х 5 м, 15 мкм, полиэтиленовая// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996083117</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1990</price>
-      </offer>
       <offer sku="00000022510">
         <name>Фумлента Сибртех 25мм 10 м 88892</name>
         <vendor>Сибртех</vendor>
@@ -10709,17 +10563,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000022755">
-        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996123127</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12390</price>
-      </offer>
       <offer sku="00000022791">
         <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
         <vendor>Сибртех</vendor>
@@ -10760,17 +10603,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
-      </offer>
-      <offer sku="00000023109">
-        <name>Припой с канифолью (D 1,5 мм; 100 г; на пластмассовой катушке) POS61 СИБРТЕХ 913377</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996139913</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7290</price>
       </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
@@ -11766,14 +11598,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>38500</price>
-      </offer>
-      <offer sku="00000031841">
-        <name>Лестница приставная CORDA 1х8</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26250</price>
       </offer>
       <offer sku="00000031852">
         <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
@@ -17749,17 +17573,6 @@
         </pickup-options>
         <price>8190</price>
       </offer>
-      <offer sku="00000063989">
-        <name>Бур садовый шнековый Palisad 110х790 мм 6445055</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996187754</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6790</price>
-      </offer>
       <offer sku="00000064041">
         <name>Салфетка из микрофибры Palisad 300х300 мм желтая 923035</name>
         <vendor>Palisad</vendor>
@@ -17770,17 +17583,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>550</price>
-      </offer>
-      <offer sku="00000064058">
-        <name>Салфетки универсальные из нетканого материала в рулоне, 240x210 мм, 100 шт., Home// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4606800088734</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1990</price>
       </offer>
       <offer sku="00000064070">
         <name>Губка хозяйственная 200x140x60 мм, Home// Palisad</name>
@@ -20591,17 +20393,6 @@
         </pickup-options>
         <price>2780</price>
       </offer>
-      <offer sku="УТ-00001777">
-        <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800092397</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11890</price>
-      </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -20609,17 +20400,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6795</price>
-      </offer>
-      <offer sku="УТ-00001814">
-        <name>Перчатки садовые с удлинённой манжетой, размер 9, Luxe// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996212265</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7890</price>
       </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
@@ -22183,17 +21963,6 @@
         </pickup-options>
         <price>612800</price>
       </offer>
-      <offer sku="УТ-00055183">
-        <name>Бензопила STIHL MS 310 (шина 40см, цепь 60зв., кожух)</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661937578</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>371500</price>
-      </offer>
       <offer sku="УТ-00055189">
         <name>Измельчитель садовый STIHL GHE 140.0 L 60130111150</name>
         <vendor>STIHL</vendor>
@@ -22306,6 +22075,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13900</price>
+      </offer>
+      <offer sku="УТ-00055543">
+        <name>Насадка пылеуловитель для пылесоса ADE 132 ALTECO 82335</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244616260</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14390</price>
       </offer>
       <offer sku="УТ-00055546">
         <name>Бензиновый генератор Stalker SPG 8800 ME 79757</name>
@@ -24213,6 +23993,14 @@
         </pickup-options>
         <price>49060</price>
       </offer>
+      <offer sku="УТ-00061284">
+        <name>Смеситель FRAP для кухни F60991-3 с выдвижным изливом Золотой Сатин</name>
+        <vendor>Frap</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24630</price>
+      </offer>
       <offer sku="УТ-00061340">
         <name>Дозатор жидкого мыла встраиваемый Gappo сатин G406-5</name>
         <vendor>GAPPO</vendor>
@@ -26049,6 +25837,33 @@
         </pickup-options>
         <price>12990</price>
       </offer>
+      <offer sku="УТ-00077628">
+        <name>Бумагодержатель Gappo оружейная сталь G30903-29</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8400</price>
+      </offer>
+      <offer sku="УТ-00077665">
+        <name>Держатель со стаканом Gappo оружейная сталь G30806-9</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477698804</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13800</price>
+      </offer>
+      <offer sku="УТ-00077720">
+        <name>Крючок Gappo двойной оружейная сталь G30905-29</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5900</price>
+      </offer>
       <offer sku="УТ-00077917">
         <name>Смеситель для раковины Frap черный F10802-62</name>
         <vendor>Frap</vendor>
@@ -26292,6 +26107,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
+      </offer>
+      <offer sku="УТ-00085494">
+        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
@@ -26617,6 +26440,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
+      </offer>
+      <offer sku="УТ-00089442">
+        <name>Держатель со стаканом GAPPO золотой сатин G30806-3</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477698811</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14340</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
@@ -27981,6 +27815,14 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="УТ-00096180">
+        <name>Роликовый резец BIHUI для плиткореза 22 мм TCB-SW</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4290</price>
+      </offer>
       <offer sku="УТ-00096203">
         <name>Присоска аккумуляторная с двойной ручкой BIHUI, LFBSL(EURO)</name>
         <vendor>BIHUI</vendor>
@@ -28013,6 +27855,14 @@
         </pickup-options>
         <price>94990</price>
       </offer>
+      <offer sku="УТ-00099561">
+        <name>13676-125 Машина шлифовальная угловая 125 мм, 220-230 В ~ 50/60 Гц, 1300 Вт, 11000 об/мин, 4 CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36990</price>
+      </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>
         <vendor>STIHL</vendor>
@@ -28020,14 +27870,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
-      </offer>
-      <offer sku="УТ-00099973">
-        <name>Аккумуляторный гайковёрт 42V, 460N.m TIWLI42461</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>70300</price>
       </offer>
     </offers>
   </shop>

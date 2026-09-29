@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 08:00">
+<fm_catalog date="2026-09-29 08:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2645,6 +2645,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
+      </offer>
+      <offer sku="УТ-00022271">
+        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245909</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7100</price>
       </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
@@ -11195,17 +11206,6 @@
         </pickup-options>
         <price>14790</price>
       </offer>
-      <offer sku="00000026373">
-        <name>Набор инструментов ROCKFORCE 108 шт. KT-108</name>
-        <vendor>Rock FORCE</vendor>
-        <barcodes>
-          <barcode>4631140239355</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25750</price>
-      </offer>
       <offer sku="00000026406">
         <name>Набор инструментов FORCEKRAFT 216 шт. FK-38841</name>
         <vendor>FORCEKRAFT</vendor>
@@ -11833,17 +11833,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>59480</price>
-      </offer>
-      <offer sku="00000032334">
-        <name>Гайковерт импульсный GDR 120-Li без ЗУ И АКБ (50283210) Bosch</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140888462</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38840</price>
       </offer>
       <offer sku="00000032355">
         <name>Диск алмазный Bosch Standard for Concrete по бетону 125х22,23 мм 2608602197</name>
@@ -12501,17 +12490,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>609940</price>
-      </offer>
-      <offer sku="00000032715">
-        <name>Пила дисковая погружная BOSCH GKT 55 GCE 0601675000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140607742</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>403140</price>
       </offer>
       <offer sku="00000032718">
         <name>Пила торцовочная Bosch GCM 800 SJ 0601B19000</name>
@@ -26413,14 +26391,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
-      </offer>
-      <offer sku="УТ-00089479">
-        <name>Стойка душевая GAPPO золотой сатин G2448-3</name>
-        <vendor>GAPPO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>114890</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>

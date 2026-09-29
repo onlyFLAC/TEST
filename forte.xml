@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 10:56">
+<fm_catalog date="2026-09-29 11:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2707,14 +2707,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21000</price>
-      </offer>
-      <offer sku="УТ-00022433">
-        <name>Шнур кордовый 2,4x210 Whisper Twist Husqvarna (бесшумный, ProPolimer)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26400</price>
       </offer>
       <offer sku="УТ-00022447">
         <name>Шнур кордовый 3,3x65 Opti Quadra Husqvarna (квадратный)</name>
@@ -10808,7 +10800,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8390</price>
+        <price>9590</price>
       </offer>
       <offer sku="00000024779">
         <name>Фен строительный ALTECO HG 0608 27141</name>
@@ -11194,6 +11186,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14790</price>
+      </offer>
+      <offer sku="00000026373">
+        <name>Набор инструментов ROCKFORCE 108 шт. KT-108</name>
+        <vendor>Rock FORCE</vendor>
+        <barcodes>
+          <barcode>4631140239355</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25750</price>
       </offer>
       <offer sku="00000026406">
         <name>Набор инструментов FORCEKRAFT 216 шт. FK-38841</name>
@@ -16065,6 +16068,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39700</price>
+      </offer>
+      <offer sku="00000047602">
+        <name>Погружная пила с шиной ЗУБР 1200 Вт</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373309090</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>91340</price>
       </offer>
       <offer sku="00000048213">
         <name>Пылесос Artel VCC 0120 серый</name>
@@ -25694,7 +25708,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26540</price>
+        <price>28290</price>
       </offer>
       <offer sku="УТ-00075739">
         <name>Отвертка с набором насадок WERA 05051030001</name>

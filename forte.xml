@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 07:31">
+<fm_catalog date="2026-09-29 08:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1346,17 +1346,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1590</price>
-      </offer>
-      <offer sku="УТ-00011527">
-        <name>Набор скоб ЗУБР "МАСТЕР" тип 53 8 мм 1000 шт. 31625-08</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373235030</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>490</price>
       </offer>
       <offer sku="УТ-00011761">
         <name>Стол раскладной и 4 табурета GREENWAY 8833В -4</name>
@@ -8832,17 +8821,6 @@
         </pickup-options>
         <price>4090</price>
       </offer>
-      <offer sku="00000012263">
-        <name>Отвертка реверсивная с набором бит и торцевыми головками, 35 шт., CrV// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996156071</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7890</price>
-      </offer>
       <offer sku="00000012332">
         <name>Отвертка, SL8,0 х 150 мм, CrV, 3-х компонентная рукоятка// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -8982,17 +8960,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4490</price>
-      </offer>
-      <offer sku="00000013078">
-        <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996042107</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4890</price>
       </offer>
       <offer sku="00000013085">
         <name>Набор ключей рожковых, 6 х 17 мм, 6 шт., хромированные// Sparta</name>
@@ -17875,18 +17842,6 @@
         </pickup-options>
         <price>24188</price>
       </offer>
-      <offer sku="00000064237">
-        <name>Подставка для цветов ЗМИ "АРКА 5" коричневая ПДЦ414</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195634469</barcode>
-          <barcode>4640011879088</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8630</price>
-      </offer>
       <offer sku="00000064260">
         <name>Табурет-стремянка ЗМИ "КОНЕК" ТС277 белый</name>
         <vendor>ЗМИ</vendor>
@@ -17999,17 +17954,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20570</price>
-      </offer>
-      <offer sku="00000064332">
-        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093784921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13500</price>
       </offer>
       <offer sku="00000064335">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 коричневая</name>
@@ -23913,17 +23857,6 @@
         </pickup-options>
         <price>9500</price>
       </offer>
-      <offer sku="УТ-00060536">
-        <name>Табурет квадратный Nika "ЭКОНОМ 3" ТЭ3/С серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032742554</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4800</price>
-      </offer>
       <offer sku="УТ-00060537">
         <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/З золотистый</name>
         <vendor>Nika</vendor>
@@ -25689,14 +25622,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2996</price>
-      </offer>
-      <offer sku="УТ-00074567">
-        <name>Лестница приставная односекционная PROFSET 10 ступеней DLE110</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27990</price>
       </offer>
       <offer sku="УТ-00074568">
         <name>Лестница приставная односекционная PROFSET 12 ступеней DLE112</name>

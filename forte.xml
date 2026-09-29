@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 09:57">
+<fm_catalog date="2026-09-29 10:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2913,7 +2913,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>990</price>
+        <price>890</price>
       </offer>
       <offer sku="УТ-00025069">
         <name>Удлинитель шнека мотобура EXT-1000, длина 1000мм,соединение 20мм// Denzel</name>
@@ -2951,7 +2951,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1190</price>
+        <price>990</price>
       </offer>
       <offer sku="УТ-00025512">
         <name>Вакуумный пакет для упаковки и хранения вещей, 70х100 см, Home// Palisad</name>
@@ -2962,7 +2962,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1190</price>
+        <price>990</price>
       </offer>
       <offer sku="УТ-00025538">
         <name>Катушка для триммера полуавтомат., облегченная, гайка М10х1,25 левая// Сибртех</name>
@@ -8786,7 +8786,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>790</price>
+        <price>690</price>
       </offer>
       <offer sku="00000012165">
         <name>Отвертка "Era", PZ 2 x 100 мм, CrV, 3-х компонентная рукоятка// Matrix</name>
@@ -8808,7 +8808,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>490</price>
+        <price>390</price>
       </offer>
       <offer sku="00000012238">
         <name>Прибор для обнаружения скрытой проводки и металла// Sparta</name>
@@ -8882,7 +8882,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>890</price>
+        <price>790</price>
       </offer>
       <offer sku="00000012530">
         <name>Головка торцевая 12-гранная STELS 17 мм 13662</name>
@@ -8893,7 +8893,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>990</price>
+        <price>890</price>
       </offer>
       <offer sku="00000012552">
         <name>Головка торцевая Matrix 1/2" 30 мм 13697</name>
@@ -8970,7 +8970,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3790</price>
+        <price>3490</price>
       </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
@@ -8992,7 +8992,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16400</price>
+        <price>16390</price>
       </offer>
       <offer sku="00000013177">
         <name>Ключ комбинированный Gross 12 мм 15131</name>
@@ -9081,7 +9081,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>990</price>
+        <price>890</price>
       </offer>
       <offer sku="00000014104">
         <name>Леска для триммера двухкомпонентная квадрат 2,65мм 15 м EXTRA CORD// Denzel</name>
@@ -9312,7 +9312,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>790</price>
+        <price>690</price>
       </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
@@ -9378,7 +9378,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>890</price>
+        <price>790</price>
       </offer>
       <offer sku="00000015681">
         <name>Кронштейн стальной Сибртех 250x300 мм 94038</name>
@@ -9400,7 +9400,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>390</price>
+        <price>290</price>
       </offer>
       <offer sku="00000015916">
         <name>Набор металлических хомутов Сибртех 16-27 мм 100 шт. 47558</name>
@@ -9621,7 +9621,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4990</price>
+        <price>4790</price>
       </offer>
       <offer sku="00000017077">
         <name>Лопата штыковая, 205х275 мм, ребра жесткости, без черенка// Россия</name>
@@ -9677,7 +9677,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>890</price>
+        <price>790</price>
       </offer>
       <offer sku="00000017379">
         <name>Адаптер с внутренней резьбой 1/2", LUXE// Palisad</name>
@@ -9688,7 +9688,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>890</price>
+        <price>790</price>
       </offer>
       <offer sku="00000017383">
         <name>Переходник соединитель штуцерный, двухсторонний, LUXE// Palisad</name>
@@ -9744,7 +9744,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>790</price>
+        <price>690</price>
       </offer>
       <offer sku="00000017448">
         <name>Соединитель быстросъемный для шланга 1/2-3/4", АВС-пластик, LUXE// Palisad</name>
@@ -9789,7 +9789,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>790</price>
+        <price>690</price>
       </offer>
       <offer sku="00000017816">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, M// Palisad</name>
@@ -9800,7 +9800,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>790</price>
+        <price>690</price>
       </offer>
       <offer sku="00000017837">
         <name>Рукавицы специальные Сибртех 68156</name>
@@ -9833,7 +9833,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7590</price>
+        <price>7390</price>
       </offer>
       <offer sku="00000018340">
         <name>Набор приствольных кругов Россия 65 см 5 шт. 93927</name>
@@ -9921,7 +9921,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>490</price>
+        <price>390</price>
       </offer>
       <offer sku="00000019513">
         <name>Кондуктор для алмазных сверл Matrix 4-13 мм 72833</name>
@@ -10088,7 +10088,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1190</price>
+        <price>990</price>
       </offer>
       <offer sku="00000020249">
         <name>Диск лепестковый MATRIX Р40 40х20 мм 74165</name>
@@ -10143,7 +10143,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>990</price>
+        <price>890</price>
       </offer>
       <offer sku="00000020642">
         <name>Набор шлифовальных листов Matrix Р320 230х280 мм 10 шт. 75616</name>
@@ -10187,7 +10187,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>890</price>
+        <price>790</price>
       </offer>
       <offer sku="00000020772">
         <name>Диск полировальный Matrix 125х22.2 мм 75942</name>
@@ -10253,7 +10253,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>990</price>
+        <price>890</price>
       </offer>
       <offer sku="00000021441">
         <name>Валик для внутр. работ синтетический, 180 мм, ворс 12 мм, D 36 мм, D ручки 6 мм, полиакрил// Matrix</name>
@@ -10286,7 +10286,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>590</price>
+        <price>490</price>
       </offer>
       <offer sku="00000021648">
         <name>Таз строительный прямоугольный Sparta 60 л 814525</name>
@@ -10298,7 +10298,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3790</price>
+        <price>3490</price>
       </offer>
       <offer sku="00000021752">
         <name>Кисть плоская Сибртех 100 мм 82266</name>
@@ -10388,7 +10388,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>590</price>
+        <price>490</price>
       </offer>
       <offer sku="00000022405">
         <name>Лента клейкая противоскользящая, c фотолюминисцентной полосой 50 мм. х 5м.// Matrix</name>
@@ -10498,7 +10498,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>790</price>
+        <price>690</price>
       </offer>
       <offer sku="00000022662">
         <name>Кобура для шуруповерта с карманом для бит и сверл// Matrix</name>
@@ -10613,7 +10613,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23390</price>
+        <price>21690</price>
       </offer>
       <offer sku="00000023732">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
@@ -17431,7 +17431,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>690</price>
+        <price>590</price>
       </offer>
       <offer sku="00000063591">
         <name>Диск отрезной Сибртех 150х22.2 мм 743197</name>
@@ -17453,7 +17453,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>590</price>
+        <price>490</price>
       </offer>
       <offer sku="00000063671">
         <name>Лента клейкая алюминиевая, 50мм х 40м// Сибртех</name>
@@ -17549,7 +17549,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>790</price>
+        <price>690</price>
       </offer>
       <offer sku="00000064131">
         <name>Вешалка с полкой 2х ярусная 80 ЗМИ Белый</name>
@@ -21708,7 +21708,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>990</price>
+        <price>890</price>
       </offer>
       <offer sku="УТ-00053206">
         <name>Аккумуляторная цепная мини-пила CMC 21-10 ALTECO, шт 75684</name>

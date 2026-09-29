@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 12:25">
+<fm_catalog date="2026-09-29 12:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10687,17 +10687,6 @@
         </pickup-options>
         <price>1290</price>
       </offer>
-      <offer sku="00000022500">
-        <name>Пленка защитная MATRIX 4х12.5 м 88803</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996024813</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2190</price>
-      </offer>
       <offer sku="00000022502">
         <name>Пленка защитная, 4 х 5 м, 15 мкм, полиэтиленовая// Matrix</name>
         <vendor>Matrix</vendor>
@@ -10774,17 +10763,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4290</price>
-      </offer>
-      <offer sku="00000022794">
-        <name>Ящик для инструментов 16, с органайзерами СИБРТЕХ 90807</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800064073</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6690</price>
       </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>

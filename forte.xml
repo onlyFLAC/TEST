@@ -10365,17 +10365,6 @@
         </pickup-options>
         <price>2090</price>
       </offer>
-      <offer sku="00000021314">
-        <name>Валик с ручкой Сибртех "ВЕЛЮР" 36х75 мм 80131</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800036933</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
-      </offer>
       <offer sku="00000021323">
         <name>Валик "Поролон", в сборе, 100 мм, D – 48 мм, D ручки – 6 мм, крепление шплинтом// Сибртех</name>
         <vendor>Сибртех</vendor>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 12:54">
+<fm_catalog date="2026-09-29 13:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11838,6 +11838,14 @@
         </pickup-options>
         <price>82600</price>
       </offer>
+      <offer sku="00000031882">
+        <name>Приставная пестница SIBILO 1х6</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26080</price>
+      </offer>
       <offer sku="00000031886">
         <name>Площадка - полка</name>
         <vendor>Krause</vendor>
@@ -21979,14 +21987,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29900</price>
-      </offer>
-      <offer sku="УТ-00052294">
-        <name>Ручн. Тележка Einhell BT-HT 90 (2260112)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21990</price>
       </offer>
       <offer sku="УТ-00052870">
         <name>Система наливки горючего 00008905005</name>

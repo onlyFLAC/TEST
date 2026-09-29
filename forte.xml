@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-29 16:18">
+<fm_catalog date="2026-09-29 16:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -215,14 +215,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
-      </offer>
-      <offer sku="УТ-00003938">
-        <name>Гайковерт пневматический крутящий момент 900Hm, размер патрона 1/4</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48700</price>
       </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
@@ -11860,6 +11852,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20090</price>
+      </offer>
+      <offer sku="00000032300">
+        <name>Бокс для аксессуаров средний для SystemBox (2/9)</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140951906</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4470</price>
       </offer>
       <offer sku="00000032316">
         <name>Воздуходувка аккумуляторная Bosch GBL 18V-120 БЕЗ ЗУ И АКБ 06019F5100</name>
@@ -24625,6 +24628,17 @@
         </pickup-options>
         <price>21500</price>
       </offer>
+      <offer sku="УТ-00063810">
+        <name>Набор плоскогубцев: комбинированные, длинногубцы, бокорезы BOSCH 1600A016BG</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140951531</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25810</price>
+      </offer>
       <offer sku="УТ-00063811">
         <name>Набор рожковых/комбинированных ключей, 10 шт.</name>
         <vendor>BOSCH</vendor>
@@ -24668,6 +24682,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13490</price>
+      </offer>
+      <offer sku="УТ-00063816">
+        <name>Рулетка измерительная BOSCH 5 м, 27 мм 1600A016BH</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140951548</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10550</price>
       </offer>
       <offer sku="УТ-00063817">
         <name>Бокорезы BOSCH 160 мм 1600A01TH9</name>
@@ -24713,6 +24738,17 @@
         </pickup-options>
         <price>75490</price>
       </offer>
+      <offer sku="УТ-00063821">
+        <name>Набор инструмента: 13 предметов + отвертки</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952678979</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>73010</price>
+      </offer>
       <offer sku="УТ-00063822">
         <name>Набор ключей Torx BOSCH 1600A01TH4</name>
         <vendor>BOSCH</vendor>
@@ -24734,6 +24770,39 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14070</price>
+      </offer>
+      <offer sku="УТ-00063824">
+        <name>Набор инструмента расширенный BOSCH 52 предмета 1600A02BY7</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952643373</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>73280</price>
+      </offer>
+      <offer sku="УТ-00063825">
+        <name>Набор торцевых головок 1/4" BOSCH 34 предмета 1600A02BY1</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952643311</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21050</price>
+      </offer>
+      <offer sku="УТ-00063826">
+        <name>Набор плоскогубцев, 4 шт.</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423252255</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24620</price>
       </offer>
       <offer sku="УТ-00063828">
         <name>Набор комбинированных ключей с трещоткой BOSCH 8 шт 1600A027PS</name>
@@ -24778,6 +24847,39 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6450</price>
+      </offer>
+      <offer sku="УТ-00063833">
+        <name>Набор инструмента расширенный, 132 предмета</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255133</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>69760</price>
+      </offer>
+      <offer sku="УТ-00063835">
+        <name>Набор отверток BOSCH 8 шт. 1600A02BX8</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952643281</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14160</price>
+      </offer>
+      <offer sku="УТ-00063836">
+        <name>Набор инструмента расширенный BOSCH 64 предмета 1600A02ZB3</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255478</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>69760</price>
       </offer>
       <offer sku="УТ-00063837">
         <name>Набор плоскогубцев BOSCH 2 шт 1600A0275H</name>
@@ -26161,6 +26263,17 @@
         </pickup-options>
         <price>3999</price>
       </offer>
+      <offer sku="УТ-00085767">
+        <name>Смазка BOSCH 45 мл 1615430005</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140078450</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4999</price>
+      </offer>
       <offer sku="УТ-00087281">
         <name>Колесо для мотоблока правое TT 4.00-8 4870024326877</name>
         <vendor>Total Tools</vendor>
@@ -26994,6 +27107,14 @@
         </pickup-options>
         <price>5200</price>
       </offer>
+      <offer sku="УТ-00091527">
+        <name>Отвертка крестовая BOSCH PH1x100 мм 1600A01TG2</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4580</price>
+      </offer>
       <offer sku="УТ-00091528">
         <name>Отвертка крестовая BOSCH PH2x125 1600A01TG3</name>
         <vendor>BOSCH</vendor>
@@ -27117,6 +27238,14 @@
         </pickup-options>
         <price>26540</price>
       </offer>
+      <offer sku="УТ-00091557">
+        <name>Набор ручных инструментов BOSCH 26 шт. 1600A0275K</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38420</price>
+      </offer>
       <offer sku="УТ-00091559">
         <name>Набор для измерения и разметки BOSCH 1600A027M3</name>
         <vendor>BOSCH</vendor>
@@ -27133,6 +27262,14 @@
         </pickup-options>
         <price>9550</price>
       </offer>
+      <offer sku="УТ-00091562">
+        <name>Отвертка с трещоткой BOSCH 1600A027PP</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8540</price>
+      </offer>
       <offer sku="УТ-00091565">
         <name>Набор TORX-отверток BOSCH 5 предметов 1600A02BX6</name>
         <vendor>BOSCH</vendor>
@@ -27140,6 +27277,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8030</price>
+      </offer>
+      <offer sku="УТ-00091566">
+        <name>Набор ручных инструментов для начинающих BOSCH 26 предметов 1600A02BY2</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21540</price>
       </offer>
       <offer sku="УТ-00091568">
         <name>Универсальный ручной инструмент BOSCH 25 предмета 1600A02BY6</name>
@@ -27165,6 +27310,14 @@
         </pickup-options>
         <price>114330</price>
       </offer>
+      <offer sku="УТ-00091572">
+        <name>Ключ трубный BOSCH 250 мм 1600A02W3N</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13590</price>
+      </offer>
       <offer sku="УТ-00091574">
         <name>Трубный ключ S-образный BOSCH 420 мм, 45° 1600A02W3T</name>
         <vendor>BOSCH</vendor>
@@ -27180,6 +27333,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22490</price>
+      </offer>
+      <offer sku="УТ-00091576">
+        <name>Набор клещей BOSCH 3 предмета 1600A02W7J</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423250114</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19870</price>
       </offer>
       <offer sku="УТ-00091577">
         <name>Набор отверток с намагничивателем BOSCH 6 шт. 1600A02W7L</name>
@@ -27197,6 +27361,14 @@
         </pickup-options>
         <price>8810</price>
       </offer>
+      <offer sku="УТ-00091580">
+        <name>Молоток-гвоздодер BOSCH 550 г 1600A02W7X</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6360</price>
+      </offer>
       <offer sku="УТ-00091585">
         <name>Набор с трещоткой BOSCH 5 предметов 1600A02Z3D</name>
         <vendor>BOSCH</vendor>
@@ -27212,6 +27384,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5870</price>
+      </offer>
+      <offer sku="УТ-00091587">
+        <name>Отвертка с трещоткой BOSCH 18 предметов 1600A02Z9A</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9590</price>
       </offer>
       <offer sku="УТ-00091588">
         <name>Набор TORX-ключей BOSCH 9 шт 1600A02Z9C</name>
@@ -27236,6 +27416,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>28290</price>
+      </offer>
+      <offer sku="УТ-00091591">
+        <name>Набор ключей с трещоткой BOSCH 1/2", 25 шт. 1600A02Z9F</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40640</price>
       </offer>
       <offer sku="УТ-00091592">
         <name>Набор ударных гайковертов BOSCH 1/2", 1/4", 56 шт. 1600A02Z9G</name>
@@ -27334,6 +27522,17 @@
         </pickup-options>
         <price>7050</price>
       </offer>
+      <offer sku="УТ-00091606">
+        <name>Ножовка по металлу BOSCH 150 мм 1600A02ZA7</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255072</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4290</price>
+      </offer>
       <offer sku="УТ-00091607">
         <name>Ножовка по металлу BOSCH 300 мм 1600A02ZA8</name>
         <vendor>BOSCH</vendor>
@@ -27341,6 +27540,41 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>10750</price>
+      </offer>
+      <offer sku="УТ-00091608">
+        <name>Пила ручная BOSCH 400 мм 1600A02ZA9</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9440</price>
+      </offer>
+      <offer sku="УТ-00091609">
+        <name>Набор напильников BOSCH 5 шт. 1600A02ZB0</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13810</price>
+      </offer>
+      <offer sku="УТ-00091610">
+        <name>Набор рашпилей BOSCH 200 мм, 3 шт 1600A02ZB1</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7600</price>
+      </offer>
+      <offer sku="УТ-00091611">
+        <name>Японская пила Ryoba BOSCH 250 мм 1600A02ZB5</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255157</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12100</price>
       </offer>
       <offer sku="УТ-00091612">
         <name>Пила японская BOSCH Kataba 270 мм 1600A02ZB6</name>
@@ -27426,6 +27660,39 @@
         </pickup-options>
         <price>6170</price>
       </offer>
+      <offer sku="УТ-00091632">
+        <name>Уровень BOSCH 12 см 1600A032V4</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302271</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3890</price>
+      </offer>
+      <offer sku="УТ-00091636">
+        <name>Клещи переставные BOSCH 250 мм 1600A032V9</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302325</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8890</price>
+      </offer>
+      <offer sku="УТ-00091637">
+        <name>Трещотка 1/4" BOSCH 1600A032VA</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302370</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5530</price>
+      </offer>
       <offer sku="УТ-00091638">
         <name>Плоскогубцы комбинированные BOSCH 1600A032VB</name>
         <vendor>BOSCH</vendor>
@@ -27441,6 +27708,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5640</price>
+      </offer>
+      <offer sku="УТ-00091640">
+        <name>Бокорезы BOSCH 160 мм 1600A032VE</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5280</price>
       </offer>
       <offer sku="УТ-00091641">
         <name>Ключ сантехнический BOSCH 8", 0-32 мм 1600A032VF</name>
@@ -27766,14 +28041,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="УТ-00096180">
-        <name>Роликовый резец BIHUI для плиткореза 22 мм TCB-SW</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4290</price>
-      </offer>
       <offer sku="УТ-00096203">
         <name>Присоска аккумуляторная с двойной ручкой BIHUI, LFBSL(EURO)</name>
         <vendor>BIHUI</vendor>
@@ -27805,14 +28072,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
-      </offer>
-      <offer sku="УТ-00099561">
-        <name>13676-125 Машина шлифовальная угловая 125 мм, 220-230 В ~ 50/60 Гц, 1300 Вт, 11000 об/мин, 4 CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

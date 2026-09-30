@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-30 10:53">
+<fm_catalog date="2026-09-30 11:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2399,17 +2399,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>165320</price>
-      </offer>
-      <offer sku="УТ-00018550">
-        <name>Диск отрезной по металлу Bosch 230х1.9 мм 2608619770</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952631370</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>780</price>
       </offer>
       <offer sku="УТ-00018715">
         <name>Валик малярный механический Wagner Handi-Roll 550</name>
@@ -9531,17 +9520,6 @@
         </pickup-options>
         <price>6590</price>
       </offer>
-      <offer sku="00000016537">
-        <name>Трос буксировочный 7 тонн, 2 крюка, сумка на молнии, Россия // Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4606800046390</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4190</price>
-      </offer>
       <offer sku="00000016544">
         <name>Органайзер автомобильный на спинку сиденья // Stels</name>
         <vendor>STELS</vendor>
@@ -9653,42 +9631,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2190</price>
-      </offer>
-      <offer sku="00000017133">
-        <name>Вилы 6-х рогие, копальные, 195х220 мм, кованые, без черенка, АРТИ// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4044996219615</barcode>
-          <barcode>4606072002377</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6890</price>
-      </offer>
-      <offer sku="00000017152">
-        <name>Поддон для кассет Россия 520х310х40 мм 64310</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4044996084084</barcode>
-          <barcode>4607067700339</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>790</price>
-      </offer>
-      <offer sku="00000017156">
-        <name>Горшочек для рассады, 90х90х95 мм, полистирол, 5 шт.// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4044996218434</barcode>
-          <barcode>4606800072276</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
       </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
@@ -9835,17 +9777,6 @@
         </pickup-options>
         <price>22190</price>
       </offer>
-      <offer sku="00000017672">
-        <name>Бак для воды оцинкованный с крышкой (крышка с ручкой) 32л, без крана// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800033642</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9490</price>
-      </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9900,17 +9831,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7390</price>
-      </offer>
-      <offer sku="00000018259">
-        <name>Щепа ольховая для копчения PALISAD Camping Россия 69543</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4606800042347</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
       </offer>
       <offer sku="00000018340">
         <name>Набор приствольных кругов Россия 65 см 5 шт. 93927</name>
@@ -10122,17 +10042,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3890</price>
-      </offer>
-      <offer sku="00000019984">
-        <name>Круг отрезной по металлу, 125 х 0,8 х 22,2 мм (Луга)// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4603347328026</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
       </offer>
       <offer sku="00000020001">
         <name>Диск отрезной по металлу LUGAABRASIV 150х22.2 мм 73664</name>
@@ -10533,14 +10442,6 @@
         </pickup-options>
         <price>1890</price>
       </offer>
-      <offer sku="00000022449">
-        <name>Лента клейкая алюминиевая, 50 мм х 25 м// Matrix</name>
-        <vendor>Matrix</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2590</price>
-      </offer>
       <offer sku="00000022483">
         <name>Набор цветных изолент Matrix 10 м 5 шт. 88786</name>
         <vendor>Matrix</vendor>
@@ -10584,17 +10485,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
-      </offer>
-      <offer sku="00000022496">
-        <name>Набор цветных изолент Сибртех 10 м 5 шт. 88799</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800076328</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1290</price>
       </offer>
       <offer sku="00000022510">
         <name>Фумлента Сибртех 25мм 10 м 88892</name>
@@ -10680,17 +10570,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
-      </offer>
-      <offer sku="00000023256">
-        <name>Замок тросовый универсальный, 8 х 1200 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996048376</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2890</price>
       </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
@@ -15250,17 +15129,6 @@
         </pickup-options>
         <price>7614</price>
       </offer>
-      <offer sku="00000039123">
-        <name>Зубило пиковое BOSCH SDS+ 250 мм 2608578516</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140932257</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1990</price>
-      </offer>
       <offer sku="00000039168">
         <name>Набор бит PRO 32 шт</name>
         <vendor>BOSCH</vendor>
@@ -17907,18 +17775,6 @@
         </pickup-options>
         <price>17260</price>
       </offer>
-      <offer sku="00000064228">
-        <name>Подставка для обуви ЗМИ "ГРАНАДА 13" ПДОГ13СБ белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787212</barcode>
-          <barcode>4610195635015</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14950</price>
-      </offer>
       <offer sku="00000064230">
         <name>ЗМИ Подставка для обуви ГРАНАДА 23 Белый</name>
         <vendor>ЗМИ</vendor>
@@ -20480,17 +20336,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
-      </offer>
-      <offer sku="УТ-00001777">
-        <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800092397</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11890</price>
       </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
@@ -23874,17 +23719,6 @@
         </pickup-options>
         <price>9450</price>
       </offer>
-      <offer sku="УТ-00060510">
-        <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/F flowers</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111508537</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39400</price>
-      </offer>
       <offer sku="УТ-00060525">
         <name>Корпус рукоятки STIHL 11457901006</name>
         <vendor>STIHL</vendor>
@@ -25189,14 +25023,6 @@
         </pickup-options>
         <price>5709</price>
       </offer>
-      <offer sku="УТ-00064889">
-        <name>ЗУБР 40 x 250 мм, SDS-Plus, плоское широкое зубило (29233-40-250)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2190</price>
-      </offer>
       <offer sku="УТ-00064890">
         <name>GRINDA Garden Pro, 360 мм, ножовка ручная и штанговая (42444)</name>
         <vendor>Grinda</vendor>
@@ -25725,14 +25551,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>210000</price>
-      </offer>
-      <offer sku="УТ-00073009">
-        <name>Травокосилка Husqvarna 541RS 967 66 08-03</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>245000</price>
       </offer>
       <offer sku="УТ-00073040">
         <name>Шаблон комбинированный Husqvarna 0.325 1.3 SP33G X-CUT 586 93 84-01</name>

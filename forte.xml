@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-30 07:57">
+<fm_catalog date="2026-09-30 08:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -27490,17 +27490,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7600</price>
-      </offer>
-      <offer sku="УТ-00091611">
-        <name>Японская пила Ryoba BOSCH 250 мм 1600A02ZB5</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423255157</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12100</price>
       </offer>
       <offer sku="УТ-00091612">
         <name>Пила японская BOSCH Kataba 270 мм 1600A02ZB6</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-30 15:45">
+<fm_catalog date="2026-09-30 16:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -278,7 +278,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16500</price>
+        <price>17390</price>
       </offer>
       <offer sku="УТ-00004323">
         <name>Лестница трансформер шарнирная PROFSET 4х3 ступеней DLM403</name>
@@ -10813,7 +10813,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9590</price>
+        <price>7900</price>
       </offer>
       <offer sku="00000024780">
         <name>Фен строительный ALTECO HG 0609 27142</name>
@@ -18248,6 +18248,14 @@
         </pickup-options>
         <price>435034</price>
       </offer>
+      <offer sku="00000070043">
+        <name>Блок монтажный опорный TOR 1,0 т, шт</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12900</price>
+      </offer>
       <offer sku="00000070234">
         <name>Стяжка цепная TOR R 6-8 мм 1179 кг (2600 lbs, талреп с храповиком), шт</name>
         <vendor>TOR</vendor>
@@ -21153,6 +21161,14 @@
         </pickup-options>
         <price>130620</price>
       </offer>
+      <offer sku="УТ-00047416">
+        <name>Тележка для металлических бочек Tor КБ-1 1020254</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>63010</price>
+      </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>
         <vendor>TOR</vendor>
@@ -21425,7 +21441,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19990</price>
+        <price>22990</price>
       </offer>
       <offer sku="УТ-00048806">
         <name>Кольцо компрессионное поршневое 43 х1,2 мм 41800343001</name>
@@ -21685,7 +21701,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>33490</price>
+        <price>27990</price>
       </offer>
       <offer sku="УТ-00053325">
         <name>Крышка для выравнивания 100 шт BIHUI SLC100, шт 77463</name>
@@ -21701,7 +21717,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8290</price>
+        <price>6640</price>
       </offer>
       <offer sku="УТ-00053690">
         <name>Дрель ударная сетевая Bosch GSB 600 06011A0320</name>
@@ -22010,7 +22026,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14390</price>
+        <price>11290</price>
       </offer>
       <offer sku="УТ-00055546">
         <name>Бензиновый генератор Stalker SPG 8800 ME 79757</name>
@@ -22536,7 +22552,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16690</price>
+        <price>16090</price>
       </offer>
       <offer sku="УТ-00057812">
         <name>Фен строительный Bosch GHG 23-66 06012A6303</name>
@@ -27999,6 +28015,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
+      </offer>
+      <offer sku="УТ-00099923">
+        <name>Аккумуляторный перфоратор 20V, посадка SDS-Plus TRHLI20248</name>
+        <vendor>Total</vendor>
+        <barcodes>
+          <barcode>6937541239887</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50600</price>
       </offer>
     </offers>
   </shop>

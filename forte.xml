@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-30 07:27">
+<fm_catalog date="2026-09-30 07:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2047,17 +2047,6 @@
         <vendor>ЗУБР</vendor>
         <barcodes>
           <barcode>4606373366857</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1390</price>
-      </offer>
-      <offer sku="УТ-00015308">
-        <name>Перчатки маслобензостойкие ЗУБР "МЕХАНИК+" 11279-L</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373366840</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -5453,17 +5442,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
-      </offer>
-      <offer sku="00000003710">
-        <name>Армированная лента, ЗУБР Профессионал 12096-50-10, универсальная, влагостойкая, 48мм х 10м, черная</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373044656</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1690</price>
       </offer>
       <offer sku="00000003753">
         <name>Бита с торцовой головкой Kraftool 13х50 мм 26396-13</name>
@@ -9291,17 +9269,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4190</price>
-      </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
       </offer>
       <offer sku="00000015174">
         <name>Рулетка "Doppelhaken", 3 м x 16 мм, односторонний зацеп, нейлон, двуст. шкала, автоматич// Gross</name>
@@ -21139,14 +21106,6 @@
         </pickup-options>
         <price>113800</price>
       </offer>
-      <offer sku="УТ-00045553">
-        <name>Бензопила STIHL MS 162 35 см 11480113010K35</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>105200</price>
-      </offer>
       <offer sku="УТ-00045554">
         <name>Бензопила STIHL MS 162 (шина 30см, цепь 44зв., кожух)</name>
         <vendor>STIHL</vendor>
@@ -24116,17 +24075,6 @@
         </pickup-options>
         <price>6800</price>
       </offer>
-      <offer sku="УТ-00061464">
-        <name>Этажерка Nika ЭТ3/Ч матово-черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047360710</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4999</price>
-      </offer>
       <offer sku="УТ-00061469">
         <name>Сушилка настенная Nika СН90/Б белый</name>
         <vendor>Nika</vendor>
@@ -24327,17 +24275,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8888</price>
-      </offer>
-      <offer sku="УТ-00061758">
-        <name>Комплект детской мебели Nika КУ1/БГ большие гонки</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076029145</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18500</price>
       </offer>
       <offer sku="УТ-00061760">
         <name>Комплект детской мебели Nika КП2/Ф с феями</name>
@@ -27494,17 +27431,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7550</price>
-      </offer>
-      <offer sku="УТ-00091603">
-        <name>Молоток-гвоздодер BOSCH 225 г 1600A02ZA3</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423254402</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5300</price>
       </offer>
       <offer sku="УТ-00091604">
         <name>Кувалда BOSCH 1000 г 1600A02ZA4</name>

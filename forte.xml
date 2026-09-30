@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-30 08:26">
+<fm_catalog date="2026-09-30 08:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11238,17 +11238,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25990</price>
-      </offer>
-      <offer sku="00000027297">
-        <name>Диск отрезной по металлу Bosch 230х1.9 мм 2608601514</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140826600</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1190</price>
       </offer>
       <offer sku="00000027298">
         <name>Лобзик электрический Bosch PST 750 PE 06033A0520</name>

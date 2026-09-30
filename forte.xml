@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-30 11:22">
+<fm_catalog date="2026-09-30 11:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10862,6 +10862,17 @@
         </pickup-options>
         <price>19580</price>
       </offer>
+      <offer sku="00000024898">
+        <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216450427</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28900</price>
+      </offer>
       <offer sku="00000024981">
         <name>Краскопульт электрический ALTECO SG 2203 27633</name>
         <vendor>ALTECO</vendor>
@@ -11646,6 +11657,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>195400</price>
+      </offer>
+      <offer sku="00000031981">
+        <name>Сейф VALBERG ASM-120 Т</name>
+        <vendor>VALBERG</vendor>
+        <barcodes>
+          <barcode>4606927001661</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>563074</price>
       </offer>
       <offer sku="00000031992">
         <name>Сейф VALBERG ASM-63 TEL</name>
@@ -16906,6 +16928,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4780</price>
+      </offer>
+      <offer sku="00000059224">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011875639</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12060</price>
       </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>
@@ -23405,6 +23438,17 @@
         </pickup-options>
         <price>31900</price>
       </offer>
+      <offer sku="УТ-00059920">
+        <name>Раковина накладная без перелива GAPPO GT-403 (370mm*480mm*130mm) Прямоугольная " цвет Белый</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477655098</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20100</price>
+      </offer>
       <offer sku="УТ-00059933">
         <name>Душевой трап GAPPO G87007-3 7*70 см</name>
         <vendor>GAPPO</vendor>
@@ -25180,6 +25224,17 @@
         </pickup-options>
         <price>1690</price>
       </offer>
+      <offer sku="УТ-00068061">
+        <name>Кожух вытяжной для УШМ WORTEX DS 125 D DS125D0018</name>
+        <vendor>Wortex</vendor>
+        <barcodes>
+          <barcode>6900602848892</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21660</price>
+      </offer>
       <offer sku="УТ-00068156">
         <name>Компрессор DGM AC-2100B ременной</name>
         <vendor>DGM</vendor>
@@ -25397,6 +25452,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25269</price>
+      </offer>
+      <offer sku="УТ-00072730">
+        <name>Санки детские Nika "ТИМКА 6 УНИВЕРСАЛ" Т6У/З2 зеленые</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4640047364527</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25705</price>
       </offer>
       <offer sku="УТ-00072732">
         <name>Санки детские Nika "NIKKI 3" N3/Г2 голубой</name>

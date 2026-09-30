@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-30 16:14">
+<fm_catalog date="2026-09-30 16:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21709,7 +21709,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7990</price>
+        <price>6390</price>
       </offer>
       <offer sku="УТ-00053327">
         <name>Защитная пластина для СВП 100шт BIHUI SLW100, шт 77465</name>
@@ -24208,17 +24208,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19860</price>
-      </offer>
-      <offer sku="УТ-00061583">
-        <name>Сушилка для белья MELIORA EXCLUSIVE Hausler</name>
-        <vendor>Hausler</vendor>
-        <barcodes>
-          <barcode>4780114210644</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16690</price>
       </offer>
       <offer sku="УТ-00061674">
         <name>Нож для кашения травы на мерные длины 63117020100</name>
@@ -27725,7 +27714,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3490</price>
+        <price>2890</price>
       </offer>
       <offer sku="УТ-00093320">
         <name>KRAFTOOL GT-160/60, 160/60 мм, универсальная, быстрозажимная, в T-track, пистолетная струбцина (32237)</name>
@@ -27958,7 +27947,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2490</price>
+        <price>1890</price>
       </offer>
       <offer sku="УТ-00096168">
         <name>Охолождающий воск BIHUI DBCW20</name>
@@ -27966,7 +27955,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1790</price>
+        <price>1390</price>
       </offer>
       <offer sku="УТ-00096203">
         <name>Присоска аккумуляторная с двойной ручкой BIHUI, LFBSL(EURO)</name>

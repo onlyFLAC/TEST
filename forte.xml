@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-09-30 15:16">
+<fm_catalog date="2026-09-30 15:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2728,6 +2728,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
+      </offer>
+      <offer sku="УТ-00022496">
+        <name>Рулетка 20м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089124921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37000</price>
       </offer>
       <offer sku="УТ-00022528">
         <name>Очки защитные Husqvarna Yellow X</name>
@@ -7980,17 +7991,6 @@
         </pickup-options>
         <price>49290</price>
       </offer>
-      <offer sku="00000009559">
-        <name>Пылесос хозяйственный, ЗУБР ПУ-15-1200 М1, модель М1-15, 15 л, 1200 Вт, сухая и влажная уборка</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373239816</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30190</price>
-      </offer>
       <offer sku="00000009578">
         <name>Разметочная клейкая лента, ЗУБР Профессионал 12243-50-25, цвет желтый, 50мм х 25м</name>
         <vendor>ЗУБР</vendor>
@@ -10664,6 +10664,14 @@
         </pickup-options>
         <price>32990</price>
       </offer>
+      <offer sku="00000023818">
+        <name>Пила дисковая CROWN CT15188-190</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40990</price>
+      </offer>
       <offer sku="00000023856">
         <name>Шлифмашина угловая (болгарка) CROWN CT13003</name>
         <vendor>CROWN</vendor>
@@ -11407,14 +11415,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33500</price>
-      </offer>
-      <offer sku="00000031192">
-        <name>Бензогенератор TT ТС-3902Р</name>
-        <vendor>Total Tools</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>100200</price>
       </offer>
       <offer sku="00000031441">
         <name>Набор инструментов Total Tools 25 шт. ST036-25</name>
@@ -26089,6 +26089,14 @@
         </pickup-options>
         <price>3300</price>
       </offer>
+      <offer sku="УТ-00085495">
+        <name>Набор напильников Husqvarna 5.2 мм 3 шт. 597 35 59-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
+      </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
         <vendor>Husqvarna</vendor>
@@ -26112,6 +26120,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>385000</price>
+      </offer>
+      <offer sku="УТ-00085512">
+        <name>Рукоятка для напильника Husqvarna 505 69 78-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085513">
         <name>Травокосилка бензиновая Husqvarna 129R 967 19 33-05</name>
@@ -26206,22 +26222,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7090</price>
-      </offer>
-      <offer sku="УТ-00087341">
-        <name>Полуавтомат сварочный TT САИП-300 FCAW</name>
-        <vendor>Total Tools</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32700</price>
-      </offer>
-      <offer sku="УТ-00087345">
-        <name>Пресс гидравлический с манометром TT 12 т 2009748439163</name>
-        <vendor>Total Tools</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>132790</price>
       </offer>
       <offer sku="УТ-00087349">
         <name>Пылесос строительный TT ПС-25/1600</name>
@@ -27983,6 +27983,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
+      </offer>
+      <offer sku="УТ-00099537">
+        <name>15297P Пила торцовочная CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>161990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 14:14">
+<fm_catalog date="2026-10-01 14:43">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5937,17 +5937,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17890</price>
-      </offer>
-      <offer sku="00000005196">
-        <name>Набор коронок по дереву ЗУБР 19-64 мм 8 шт. 2955-H11_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373083952</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6890</price>
       </offer>
       <offer sku="00000005227">
         <name>ЗУБР d 3x60/30мм, спиральное сверло по дереву , М-образная заточка</name>
@@ -21071,7 +21060,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>36990</price>
+        <price>35990</price>
       </offer>
       <offer sku="УТ-00047894">
         <name>Аппарат высокого давления ALTECO CPW 140-8 Home &amp; Car, шт</name>
@@ -21079,7 +21068,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>58990</price>
+        <price>57990</price>
       </offer>
       <offer sku="УТ-00048072">
         <name>ШЛАНГ ВЫСОКОГО ДАВЛЕНИЯ F016F04583</name>

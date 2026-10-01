@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 15:42">
+<fm_catalog date="2026-10-01 16:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -27707,6 +27707,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
+      </offer>
+      <offer sku="УТ-00099543">
+        <name>23018HX Машина полировальная аккумуляторная 20V, 5Ач, 1200-3400 об/мин, 180мм, бесщеточная CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

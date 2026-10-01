@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 10:18">
+<fm_catalog date="2026-10-01 10:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25077,7 +25077,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>63140</price>
+        <price>63070</price>
       </offer>
       <offer sku="УТ-00065434">
         <name>ЗУБР 24 мм, витая стальная латунированная проволока 0.3 мм, набор кистевых щеток для дрели, Профессионал (35225-24-H2)</name>
@@ -27514,14 +27514,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12888</price>
-      </offer>
-      <offer sku="УТ-00092566">
-        <name>Система хранения P.I.T. STACKIN - 7 ящиков с тележкой</name>
-        <vendor>P.I.T.</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>173900</price>
       </offer>
       <offer sku="УТ-00092572">
         <name>Комбо: Аккум. Воздуходувка Einhell GP-LB 36/270 Li E + Зарядное устройство + 2 аккум. 18V 4,0Ah Einhell (343357012)</name>

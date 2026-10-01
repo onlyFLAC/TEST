@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 08:21">
+<fm_catalog date="2026-10-01 08:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2728,17 +2728,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
       </offer>
       <offer sku="УТ-00022528">
         <name>Очки защитные Husqvarna Yellow X</name>
@@ -23503,17 +23492,6 @@
         </pickup-options>
         <price>28850</price>
       </offer>
-      <offer sku="УТ-00060212">
-        <name>Душ гигиенический Frap встраиваемый сатин F72801</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477625817</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27530</price>
-      </offer>
       <offer sku="УТ-00060233">
         <name>Клапан донный Frap 32 мм хром F60</name>
         <vendor>Frap</vendor>
@@ -25228,17 +25206,6 @@
         </pickup-options>
         <price>62260</price>
       </offer>
-      <offer sku="УТ-00072470">
-        <name>Плоскогубцы комбинированные KNIPEX 02 02 180</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773034896</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19275</price>
-      </offer>
       <offer sku="УТ-00072475">
         <name>Плоскогубцы KNIPEX 03 02 180</name>
         <vendor>KNIPEX</vendor>
@@ -25744,14 +25711,6 @@
         </pickup-options>
         <price>173000</price>
       </offer>
-      <offer sku="УТ-00076073">
-        <name>Диспенсер (дозатор) для мыла ELEMENT, белый, PERFECTO LINEA</name>
-        <vendor>PERFECTO LINEA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4590</price>
-      </offer>
       <offer sku="УТ-00076443">
         <name>Лопата снеговая STARTUL 410х460 мм стальной черенок ST9056-2</name>
         <vendor>Startul</vendor>
@@ -26031,14 +25990,6 @@
         </pickup-options>
         <price>3300</price>
       </offer>
-      <offer sku="УТ-00085495">
-        <name>Набор напильников Husqvarna 5.2 мм 3 шт. 597 35 59-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
         <vendor>Husqvarna</vendor>
@@ -26062,14 +26013,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>385000</price>
-      </offer>
-      <offer sku="УТ-00085512">
-        <name>Рукоятка для напильника Husqvarna 505 69 78-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085513">
         <name>Травокосилка бензиновая Husqvarna 129R 967 19 33-05</name>
@@ -27464,17 +27407,6 @@
         </pickup-options>
         <price>4630</price>
       </offer>
-      <offer sku="УТ-00091618">
-        <name>Отвертка короткая BOSCH 6 предметов 1600A032UK</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423301755</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6750</price>
-      </offer>
       <offer sku="УТ-00091625">
         <name>Молоток слесарный BOSCH 300 г 1600A032UW</name>
         <vendor>BOSCH</vendor>
@@ -27925,14 +27857,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
-      </offer>
-      <offer sku="УТ-00099537">
-        <name>15297P Пила торцовочная CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>161990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

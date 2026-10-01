@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 11:46">
+<fm_catalog date="2026-10-01 12:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8579,17 +8579,6 @@
         </pickup-options>
         <price>390</price>
       </offer>
-      <offer sku="00000011491">
-        <name>Штроборез электрический ЗУБР ЗШ-П30-1400 ПСТК</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373286377</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72360</price>
-      </offer>
       <offer sku="00000011499">
         <name>Щелочная батарейка 1.5 В, тип АА, 4 шт, ЗУБР Turbo</name>
         <vendor>ЗУБР</vendor>
@@ -12812,7 +12801,7 @@
         <price>70950</price>
       </offer>
       <offer sku="00000032966">
-        <name>Лобзик электрический Bosch GST 8000 E 060158H000</name>
+        <name>Лобзик электрический BOSCH GST 8000 E 060158H000</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140790352</barcode>

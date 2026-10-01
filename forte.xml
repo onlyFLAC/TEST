@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 17:09">
+<fm_catalog date="2026-10-01 17:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -196,6 +196,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>680600</price>
+      </offer>
+      <offer sku="УТ-00003231">
+        <name>Нож Viking</name>
+        <vendor>Viking</vendor>
+        <barcodes>
+          <barcode>795711935511</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13860</price>
       </offer>
       <offer sku="УТ-00003234">
         <name>Велосипед детский Nika ВДН4/5 орхидея</name>
@@ -511,6 +522,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33480</price>
+      </offer>
+      <offer sku="УТ-00004361">
+        <name>Конусообразная решётка</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711609702</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>850</price>
       </offer>
       <offer sku="УТ-00004560">
         <name>Пила цепная аккумуляторная Победа ПА 150 250205150</name>
@@ -15667,6 +15689,14 @@
         </pickup-options>
         <price>34200</price>
       </offer>
+      <offer sku="00000041656">
+        <name>Фрезер Фиолент МФ3-1100Э</name>
+        <vendor>Фиолент</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44500</price>
+      </offer>
       <offer sku="00000041674">
         <name>Шуруповерт Фиолент ШВ3-6-РЭ ИДФР298313002</name>
         <vendor>Фиолент</vendor>
@@ -18271,6 +18301,17 @@
         </pickup-options>
         <price>1760</price>
       </offer>
+      <offer sku="00000071085">
+        <name>Перчатки рабочие STIHL FUNCTION Universal 00886111410</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661916054</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4070</price>
+      </offer>
       <offer sku="00000071179">
         <name>Насадка-миксер "снизу-вверх" для тяжелых растворов ЗУБР d 140 мм, М14, Профессионал</name>
         <vendor>ЗУБР</vendor>
@@ -19683,6 +19724,17 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00000864">
+        <name>Набор уплотнений 11210071050</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711495039</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4390</price>
+      </offer>
       <offer sku="УТ-00000907">
         <name>Аккумулятор пусковой многофункциональный PATRIOT MAGNUM 8 650201608</name>
         <vendor>Patriot</vendor>
@@ -20883,6 +20935,14 @@
         </pickup-options>
         <price>149200</price>
       </offer>
+      <offer sku="УТ-00045547">
+        <name>Бензопила STIHL MS 182 40 см 11480113060K40</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>138300</price>
+      </offer>
       <offer sku="УТ-00045548">
         <name>Бензопила STIHL MS 182 35 см 11480113060K35</name>
         <vendor>STIHL</vendor>
@@ -20913,6 +20973,14 @@
         </pickup-options>
         <price>113800</price>
       </offer>
+      <offer sku="УТ-00045553">
+        <name>Бензопила STIHL MS 162 35 см 11480113010K35</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>105200</price>
+      </offer>
       <offer sku="УТ-00045554">
         <name>Бензопила STIHL MS 162 (шина 30см, цепь 44зв., кожух)</name>
         <vendor>STIHL</vendor>
@@ -20924,6 +20992,17 @@
         </pickup-options>
         <price>104300</price>
       </offer>
+      <offer sku="УТ-00045679">
+        <name>Нож для газонокосилок 63717020102</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661282982</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17160</price>
+      </offer>
       <offer sku="УТ-00045682">
         <name>Цепная звёздочка 1/4" Picco 7 зубьев 12506421200</name>
         <vendor>STIHL</vendor>
@@ -20931,6 +21010,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8320</price>
+      </offer>
+      <offer sku="УТ-00045695">
+        <name>Многофункциональный нож 63647020100</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661230853</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21120</price>
       </offer>
       <offer sku="УТ-00045882">
         <name>ЗУБР НР-4 UniLock, OIS-хвост., 4 предм., набор насадок для реноватора, Профессионал (15572)</name>
@@ -21257,6 +21347,17 @@
         </pickup-options>
         <price>22990</price>
       </offer>
+      <offer sku="УТ-00048805">
+        <name>Поршень, диам. 43 мм 41800302003</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711558451</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>39400</price>
+      </offer>
       <offer sku="УТ-00048806">
         <name>Кольцо компрессионное поршневое 43 х1,2 мм 41800343001</name>
         <vendor>STIHL</vendor>
@@ -21267,6 +21368,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4860</price>
+      </offer>
+      <offer sku="УТ-00048839">
+        <name>Нож для RM 655.0 V 63747020100</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661231089</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22560</price>
+      </offer>
+      <offer sku="УТ-00049305">
+        <name>Средство для удаления смолы Stihl Superclean 300 мл 07825168101</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661766789</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7400</price>
       </offer>
       <offer sku="УТ-00049394">
         <name>31320-Li - "P.I.T." Аккумуляторный шуруповерт 24V</name>
@@ -21341,6 +21464,17 @@
         </pickup-options>
         <price>60600</price>
       </offer>
+      <offer sku="УТ-00050185">
+        <name>Нож для газонокосилок 63587020100</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711935665</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12500</price>
+      </offer>
       <offer sku="УТ-00050326">
         <name>Съемник клипс A1tools 230 мм PZ102</name>
         <vendor>A1tools</vendor>
@@ -21352,6 +21486,14 @@
         </pickup-options>
         <price>1390</price>
       </offer>
+      <offer sku="УТ-00050413">
+        <name>Нож для разрезки на мерные длины 41807134110</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1100</price>
+      </offer>
       <offer sku="УТ-00051211">
         <name>Отвертка аккумуляторная Bosch GO Gen 3 06019H2201</name>
         <vendor>BOSCH</vendor>
@@ -21362,6 +21504,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31400</price>
+      </offer>
+      <offer sku="УТ-00051282">
+        <name>Сопло STIHL 42447006304</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661862139</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6010</price>
+      </offer>
+      <offer sku="УТ-00051284">
+        <name>Нож 37cm (ME) 63207020100</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13420</price>
       </offer>
       <offer sku="УТ-00051518">
         <name>Газонокосилка STIHL RM 253.3 T WB220113415</name>
@@ -21460,6 +21621,17 @@
         </pickup-options>
         <price>13800</price>
       </offer>
+      <offer sku="УТ-00052915">
+        <name>Нож 63507020105</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661571321</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15620</price>
+      </offer>
       <offer sku="УТ-00052918">
         <name>Корпус вентилятора с пусковым устройством STIHL 11480802108</name>
         <vendor>STIHL</vendor>
@@ -21532,6 +21704,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24500</price>
+      </offer>
+      <offer sku="УТ-00053691">
+        <name>Масло смазочное для пильных цепей Forestplus (в бутылке) 07815166003лб</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4730</price>
       </offer>
       <offer sku="УТ-00053711">
         <name>Отвертка аккумуляторная Bosch GO 06019H2200</name>
@@ -21761,6 +21941,14 @@
         </pickup-options>
         <price>186300</price>
       </offer>
+      <offer sku="УТ-00055296">
+        <name>Валочный/распорный клин 23 см. 00008812213</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14560</price>
+      </offer>
       <offer sku="УТ-00055311">
         <name>Масло моторное STIHL 1:50 5 л красное 07813198468лб5</name>
         <vendor>STIHL</vendor>
@@ -21784,6 +21972,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7040</price>
+      </offer>
+      <offer sku="УТ-00055358">
+        <name>Нож измельчитель Shredru 270 мм. Для FS 350, FS 400 40007133903</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711318291</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18290</price>
       </offer>
       <offer sku="УТ-00055373">
         <name>Станок заточный Einhell TH-XG75Kit 4412560</name>
@@ -22381,6 +22580,14 @@
         </pickup-options>
         <price>249490</price>
       </offer>
+      <offer sku="УТ-00057859">
+        <name>Комбидвигатель аккумуляторный KMA 135 R (Без АК и ЗУ) FA020116811</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>293200</price>
+      </offer>
       <offer sku="УТ-00057913">
         <name>Бензопила STIHL MS 260 40 см 11212000369К40</name>
         <vendor>STIHL</vendor>
@@ -22407,6 +22614,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42300</price>
+      </offer>
+      <offer sku="УТ-00058047">
+        <name>МД1-11Э (без насадки) в комплекте патрон на 16 мм и шпилька-адаптер (переходник). ИДФР298179001-К11</name>
+        <vendor>Фиолент</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>51700</price>
       </offer>
       <offer sku="УТ-00058196">
         <name>Упор зубчатый STIHL 11426640501</name>
@@ -23726,6 +23941,28 @@
         </pickup-options>
         <price>49060</price>
       </offer>
+      <offer sku="УТ-00061315">
+        <name>Компрессионное поршневое кольцо, диам. 42 х 1,2 мм к FR 450 11230343003</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711513061</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4740</price>
+      </offer>
+      <offer sku="УТ-00061327">
+        <name>Нож 63757609991</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711892517</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14400</price>
+      </offer>
       <offer sku="УТ-00061340">
         <name>Дозатор жидкого мыла встраиваемый Gappo сатин G406-5</name>
         <vendor>GAPPO</vendor>
@@ -24101,6 +24338,33 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23085</price>
+      </offer>
+      <offer sku="УТ-00062735">
+        <name>Нож</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17930</price>
+      </offer>
+      <offer sku="УТ-00062741">
+        <name>Нож</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661873586</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21720</price>
+      </offer>
+      <offer sku="УТ-00062742">
+        <name>Нож</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21480</price>
       </offer>
       <offer sku="УТ-00063240">
         <name>Доска гладильная Nika Н3 (в ассортименте)</name>
@@ -24666,6 +24930,14 @@
         </pickup-options>
         <price>31130</price>
       </offer>
+      <offer sku="УТ-00063889">
+        <name>GSM+GPS Мастер 6 V2 StarLine</name>
+        <vendor>Starline</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48100</price>
+      </offer>
       <offer sku="УТ-00063892">
         <name>Комплект центрального замка StarLine 4D</name>
         <vendor>Starline</vendor>
@@ -24673,6 +24945,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14400</price>
+      </offer>
+      <offer sku="УТ-00063898">
+        <name>Смазка для редукторов и гибкого вала STIHL 80 г 07811201117</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711017835</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
       </offer>
       <offer sku="УТ-00064098">
         <name>Электроды сварочные ARCUS AHO-21 СТАНДАРТ 3 мм 2.5 кг 00000000336</name>
@@ -25678,6 +25961,14 @@
         </pickup-options>
         <price>74000</price>
       </offer>
+      <offer sku="УТ-00081647">
+        <name>Нож Stihl WA417020105</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20240</price>
+      </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
         <vendor>STIHL</vendor>
@@ -25696,6 +25987,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15720</price>
+      </offer>
+      <offer sku="УТ-00082723">
+        <name>Пусковое устройство Stihl 41821904000</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15180</price>
       </offer>
       <offer sku="УТ-00083241">
         <name>Сегмент фиксирующий Stihl 63787086200</name>
@@ -25930,6 +26229,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4999</price>
+      </offer>
+      <offer sku="УТ-00085775">
+        <name>Лесовалочная лопатка 130см 3,400гр</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>67300</price>
       </offer>
       <offer sku="УТ-00087281">
         <name>Колесо для мотоблока правое TT 4.00-8 4870024326877</name>

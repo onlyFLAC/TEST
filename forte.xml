@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 09:19">
+<fm_catalog date="2026-10-01 09:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1628,14 +1628,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4890</price>
-      </offer>
-      <offer sku="УТ-00013639">
-        <name>ЗУБР тип 4, шаг 3/8", паз 1.3 мм, 35 см, шина для электро и бензо пил (70204-35) 70204-35</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6390</price>
       </offer>
       <offer sku="УТ-00013658">
         <name>ЗУБР штуцер "елочка", 10 мм - рапид штуцер, Переходник с обжимным хомутом, Профессионал (64918-10) 64918-10</name>
@@ -15588,7 +15580,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>53000</price>
+        <price>57600</price>
       </offer>
       <offer sku="00000041299">
         <name>Заточный станок TC-BG 200</name>
@@ -17843,17 +17835,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20570</price>
-      </offer>
-      <offer sku="00000064332">
-        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093784921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13500</price>
       </offer>
       <offer sku="00000064335">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 коричневая</name>
@@ -25919,17 +25900,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19999</price>
-      </offer>
-      <offer sku="УТ-00085236">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/27</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111522649</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36888</price>
       </offer>
       <offer sku="УТ-00085265">
         <name>Комплект детский Nika "Математика с монстриками" КП2/ММ</name>

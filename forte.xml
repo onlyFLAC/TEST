@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 07:22">
+<fm_catalog date="2026-10-01 07:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16855,6 +16855,17 @@
         </pickup-options>
         <price>4780</price>
       </offer>
+      <offer sku="00000059224">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011875639</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12060</price>
+      </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>
         <vendor>ЗМИ</vendor>
@@ -19388,17 +19399,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16660</price>
-      </offer>
-      <offer sku="00000075884">
-        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М графит</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093789810</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16800</price>
       </offer>
       <offer sku="00000075885">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 графит</name>

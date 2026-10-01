@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 12:16">
+<fm_catalog date="2026-10-01 12:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -879,6 +879,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40350</price>
+      </offer>
+      <offer sku="УТ-00006309">
+        <name>SAFETY Складная стремянка 4 ступ. с полочкой</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58800</price>
       </offer>
       <offer sku="УТ-00006352">
         <name>Двухсторонняя стремянка DOPPLO 2х5 ступ.</name>
@@ -11481,6 +11489,17 @@
         </pickup-options>
         <price>27000</price>
       </offer>
+      <offer sku="00000031835">
+        <name>Стремянка односторонняя Krause "CORDA" 3 ступ. 000712</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199000712</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31900</price>
+      </offer>
       <offer sku="00000031852">
         <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
         <vendor>Krause</vendor>
@@ -11519,6 +11538,14 @@
         </pickup-options>
         <price>26080</price>
       </offer>
+      <offer sku="00000031890">
+        <name>Удлинитель боковины лестницы MONTO</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20900</price>
+      </offer>
       <offer sku="00000031893">
         <name>Анодированная стремянка SEPRO 8 ступ.</name>
         <vendor>Krause</vendor>
@@ -11535,6 +11562,22 @@
         </pickup-options>
         <price>116500</price>
       </offer>
+      <offer sku="00000031905">
+        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>42700</price>
+      </offer>
+      <offer sku="00000031911">
+        <name>Стремянка анодированная Krause "SEPURO" 4 ступ. 126429</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>72900</price>
+      </offer>
       <offer sku="00000031941">
         <name>Подставка складная TOPPY XL 2 ступ.</name>
         <vendor>Krause</vendor>
@@ -11545,6 +11588,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31100</price>
+      </offer>
+      <offer sku="00000031942">
+        <name>Подставка складная TOPPY XL 3 ступ.</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199130877</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>47300</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -22555,6 +22609,14 @@
         </pickup-options>
         <price>135154</price>
       </offer>
+      <offer sku="УТ-00058888">
+        <name>Стремянка KRAUSE "SEPRO S" 5 ступеней 124197</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>95000</price>
+      </offer>
       <offer sku="УТ-00059138">
         <name>Компрессор безмасляный DGM AC-225F DG2720-4</name>
         <vendor>DGM</vendor>
@@ -25794,6 +25856,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27760</price>
+      </offer>
+      <offer sku="УТ-00084847">
+        <name>Стремянка анодированная Krause "SEPRO" 6 ступ. 124203</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>109200</price>
       </offer>
       <offer sku="УТ-00084942">
         <name>Газонокосилка электрическая Bosch EasyRotak 32-205 06008A6300</name>

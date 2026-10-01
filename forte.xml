@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 06:53">
+<fm_catalog date="2026-10-01 07:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8696,17 +8696,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="00000011758">
-        <name>Кувалда Sparta 2000 г 10917</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996156958</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4790</price>
       </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
@@ -24343,14 +24332,6 @@
         </pickup-options>
         <price>9999</price>
       </offer>
-      <offer sku="УТ-00063279">
-        <name>Автосигнализация SL A93 V2 2CAN+2LIN LTE ECO</name>
-        <vendor>Starline</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>159000</price>
-      </offer>
       <offer sku="УТ-00063288">
         <name>Корпус</name>
         <vendor>STIHL</vendor>
@@ -25827,17 +25808,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>850</price>
-      </offer>
-      <offer sku="УТ-00078020">
-        <name>Вешалка костюмная напольная Nika ВКН1/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111510097</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12880</price>
       </offer>
       <offer sku="УТ-00078022">
         <name>Вешалка настенная Nika ВП6М/З золотистый</name>

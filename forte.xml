@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 10:47">
+<fm_catalog date="2026-10-01 11:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9016,6 +9016,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4290</price>
+      </offer>
+      <offer sku="00000014052">
+        <name>Воздуходувка аккумуляторная RB180-36, Li-ion, 36 В, 4 Ач, 180 км/ч, 820 м3/ч// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996181110</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>107690</price>
       </offer>
       <offer sku="00000014094">
         <name>Леска для триммера квадрат 2 мм х 15 м, блистер FLEX CORD// Denzel</name>

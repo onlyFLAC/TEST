@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 15:12">
+<fm_catalog date="2026-10-01 15:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -27283,14 +27283,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4450</price>
-      </offer>
-      <offer sku="УТ-00091628">
-        <name>Отвертка трещоточная короткая с 6 битами BOSCH 1600A032UZ</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5690</price>
       </offer>
       <offer sku="УТ-00091629">
         <name>Набор шестигранников BOSCH 9 предметов 1600A032V1</name>

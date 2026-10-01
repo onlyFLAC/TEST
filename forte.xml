@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-01 11:17">
+<fm_catalog date="2026-10-01 11:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5057,17 +5057,6 @@
         </pickup-options>
         <price>11890</price>
       </offer>
-      <offer sku="00000002475">
-        <name>RACO 721C 490 м2 полив, головка, распылитель импульсный, металлический</name>
-        <vendor>RACO</vendor>
-        <barcodes>
-          <barcode>4034229103262</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4200</price>
-      </offer>
       <offer sku="00000002481">
         <name>RACO CLASSIC 1/2", 20 м, 25 атм, трёхслойный поливочный шланг, армированный</name>
         <vendor>RACO</vendor>
@@ -9016,17 +9005,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4290</price>
-      </offer>
-      <offer sku="00000014052">
-        <name>Воздуходувка аккумуляторная RB180-36, Li-ion, 36 В, 4 Ач, 180 км/ч, 820 м3/ч// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996181110</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>107690</price>
       </offer>
       <offer sku="00000014094">
         <name>Леска для триммера квадрат 2 мм х 15 м, блистер FLEX CORD// Denzel</name>
@@ -18196,14 +18174,6 @@
         </pickup-options>
         <price>435034</price>
       </offer>
-      <offer sku="00000070043">
-        <name>Блок монтажный опорный TOR 1,0 т, шт</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12900</price>
-      </offer>
       <offer sku="00000070234">
         <name>Стяжка цепная TOR R 6-8 мм 1179 кг (2600 lbs, талреп с храповиком), шт</name>
         <vendor>TOR</vendor>
@@ -21044,17 +21014,6 @@
         </pickup-options>
         <price>6590</price>
       </offer>
-      <offer sku="УТ-00045887">
-        <name>Ключ разводной STAYER "COBRA PROFESSIONAL" 27264-30</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229226275</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12790</price>
-      </offer>
       <offer sku="УТ-00045921">
         <name>Диск пильный по металлу ЗУБР "ПРОФЕССИОНАЛ" 100Т 315х30 мм 36907-315-30-100_z01</name>
         <vendor>ЗУБР</vendor>
@@ -21097,14 +21056,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130620</price>
-      </offer>
-      <offer sku="УТ-00047416">
-        <name>Тележка для металлических бочек Tor КБ-1 1020254</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>63010</price>
       </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>

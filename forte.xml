@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 07:20">
+<fm_catalog date="2026-10-02 07:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23111,17 +23111,6 @@
         </pickup-options>
         <price>14174</price>
       </offer>
-      <offer sku="УТ-00059812">
-        <name>Сушилка напольная двухсекционная Nika СБ8 серебряный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075834170</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11888</price>
-      </offer>
       <offer sku="УТ-00059821">
         <name>Сушилка напольная Nika СБТ18/РЗ розовое золото</name>
         <vendor>Nika</vendor>
@@ -23482,6 +23471,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>100960</price>
+      </offer>
+      <offer sku="УТ-00060107">
+        <name>Крючок GAPPO G30905-13 Золотой Сатин</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5000</price>
       </offer>
       <offer sku="УТ-00060121">
         <name>Смеситель встраиваемый для раковины Gappo G1206-6 черный</name>
@@ -24888,14 +24885,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31130</price>
-      </offer>
-      <offer sku="УТ-00063889">
-        <name>GSM+GPS Мастер 6 V2 StarLine</name>
-        <vendor>Starline</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48100</price>
       </offer>
       <offer sku="УТ-00063892">
         <name>Комплект центрального замка StarLine 4D</name>

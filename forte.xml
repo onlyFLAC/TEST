@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 10:16">
+<fm_catalog date="2026-10-02 10:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9160,6 +9160,17 @@
         </pickup-options>
         <price>7590</price>
       </offer>
+      <offer sku="00000014873">
+        <name>Ножовка по дереву, 500 мм, 5-6 TPI, каленый зуб, линейка, пластиковая рукоятка// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996078274</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2190</price>
+      </offer>
       <offer sku="00000014886">
         <name>Ножовка по дереву,450 мм,7-8 TPI,зуб-3D,каленый зуб,тефл.покр.полотна,2-х комп..рук-ка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9513,6 +9524,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2190</price>
+      </offer>
+      <offer sku="00000017134">
+        <name>Бур садовый шнековый Сибртех 150х1085 мм 64398</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800056276</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7490</price>
+      </offer>
+      <offer sku="00000017154">
+        <name>Кассета для рассады Россия 54 ячейки 64313</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4607067701046</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>790</price>
       </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
@@ -9925,6 +9958,18 @@
         </pickup-options>
         <price>3890</price>
       </offer>
+      <offer sku="00000019967">
+        <name>Круг шлифовальный, 125 х 16 х 12,7 мм, 63С, F60, K (Луга)// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4603347370940</barcode>
+          <barcode>4603347506479</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3390</price>
+      </offer>
       <offer sku="00000020001">
         <name>Диск отрезной по металлу LUGAABRASIV 150х22.2 мм 73664</name>
         <vendor>Россия</vendor>
@@ -10090,6 +10135,17 @@
         </pickup-options>
         <price>9590</price>
       </offer>
+      <offer sku="00000020936">
+        <name>Ножовка по металлу, 300 мм, пластмассовая рукоятка-держатель// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996036229</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
+      </offer>
       <offer sku="00000021175">
         <name>Скребок SPARTA 795305</name>
         <vendor>Sparta</vendor>
@@ -10122,6 +10178,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2090</price>
+      </offer>
+      <offer sku="00000021314">
+        <name>Валик с ручкой Сибртех "ВЕЛЮР" 36х75 мм 80131</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800036933</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>990</price>
       </offer>
       <offer sku="00000021323">
         <name>Валик "Поролон", в сборе, 100 мм, D – 48 мм, D ручки – 6 мм, крепление шплинтом// Сибртех</name>
@@ -10167,17 +10234,16 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000021648">
-        <name>Таз строительный прямоугольный Sparta 60 л 814525</name>
+      <offer sku="00000021649">
+        <name>Таз прямоугольный строительный Sparta 90 л 814535</name>
         <vendor>Sparta</vendor>
         <barcodes>
-          <barcode>4606800075994</barcode>
-          <barcode>460800075994</barcode>
+          <barcode>4606800076007</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3490</price>
+        <price>4590</price>
       </offer>
       <offer sku="00000021752">
         <name>Кисть плоская Сибртех 100 мм 82266</name>
@@ -10230,6 +10296,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1290</price>
+      </offer>
+      <offer sku="00000022011">
+        <name>Шпатель фасадный из нержавеющей стали, 350 мм, пластмассовая ручка // Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4606800072825</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>890</price>
       </offer>
       <offer sku="00000022142">
         <name>Кельма печника, стальная, пластиковая ручка Россия// Сибртех</name>
@@ -10368,6 +10445,17 @@
         </pickup-options>
         <price>590</price>
       </offer>
+      <offer sku="00000022496">
+        <name>Набор цветных изолент Сибртех 10 м 5 шт. 88799</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800076328</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1290</price>
+      </offer>
       <offer sku="00000022510">
         <name>Фумлента Сибртех 25мм 10 м 88892</name>
         <vendor>Сибртех</vendor>
@@ -10412,6 +10500,17 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="00000022778">
+        <name>Бокс универсальный Сибртех 382х152х45 мм 90732</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800063984</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2290</price>
+      </offer>
       <offer sku="00000022791">
         <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
         <vendor>Сибртех</vendor>
@@ -10453,6 +10552,17 @@
         </pickup-options>
         <price>590</price>
       </offer>
+      <offer sku="00000023308">
+        <name>Петля каплевидная СИБРТЕХ 10х65 мм 92026</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996157085</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>590</price>
+      </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
         <vendor>Sparta</vendor>
@@ -10463,6 +10573,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3995</price>
+      </offer>
+      <offer sku="00000023483">
+        <name>Шнур полиэфирный Сибртех 3 мм 25 м 93817</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800046512</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>390</price>
+      </offer>
+      <offer sku="00000023503">
+        <name>Шнур вязаный полипропиленовый с серд. белый, 3 мм, L20 м, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800041838</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>390</price>
       </offer>
       <offer sku="00000023509">
         <name>Шнур кручёный полипропиленовый, 2 мм, L 50 м, на катушке, Россия// Сибртех</name>
@@ -20169,6 +20301,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
+      </offer>
+      <offer sku="УТ-00001725">
+        <name>Лом строительный, D 25 мм, L 1500 мм, круглый// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800090980</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9890</price>
       </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>

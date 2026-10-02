@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 15:09">
+<fm_catalog date="2026-10-02 15:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8836,6 +8836,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4490</price>
+      </offer>
+      <offer sku="00000012830">
+        <name>Ключ-крест баллонный, 17 х 19 х 21 мм, под квадрат 1/2", толщина 14 мм// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996055862</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3890</price>
       </offer>
       <offer sku="00000013085">
         <name>Набор ключей рожковых, 6 х 17 мм, 6 шт., хромированные// Sparta</name>
@@ -22397,6 +22408,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>48100</price>
+      </offer>
+      <offer sku="УТ-00057355">
+        <name>Аккумуляторный кусторез CHT 21-45 Solo ALTECO, шт</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244618370</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28100</price>
       </offer>
       <offer sku="УТ-00057357">
         <name>Аккумуляторный триммер CT 21-25 Solo ALTECO, шт</name>

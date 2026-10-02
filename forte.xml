@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 15:39">
+<fm_catalog date="2026-10-02 16:09">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -856,7 +856,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19190</price>
+        <price>16490</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -867,7 +867,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>29590</price>
+        <price>26790</price>
       </offer>
       <offer sku="УТ-00006068">
         <name>Электрический водоподогреватель ЭВП-4,5М на 220</name>
@@ -25376,7 +25376,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>166290</price>
+        <price>162735</price>
       </offer>
       <offer sku="УТ-00072890">
         <name>Карманная измерительная рулетка Stabila 3 м BM 150 19839</name>
@@ -25387,7 +25387,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7785</price>
+        <price>8590</price>
       </offer>
       <offer sku="УТ-00072893">
         <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>
@@ -25627,7 +25627,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25090</price>
+        <price>21890</price>
       </offer>
       <offer sku="УТ-00075660">
         <name>Набор Г образных ключей Wera 05073593001</name>
@@ -25638,7 +25638,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>30390</price>
+        <price>26290</price>
       </offer>
       <offer sku="УТ-00075705">
         <name>Набор отверток Wera 05347735002</name>
@@ -25646,7 +25646,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28290</price>
+        <price>24590</price>
       </offer>
       <offer sku="УТ-00075739">
         <name>Отвертка с набором насадок WERA 05051030001</name>

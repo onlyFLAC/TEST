@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 11:14">
+<fm_catalog date="2026-10-02 11:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10452,17 +10452,6 @@
         </pickup-options>
         <price>590</price>
       </offer>
-      <offer sku="00000023308">
-        <name>Петля каплевидная СИБРТЕХ 10х65 мм 92026</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996157085</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
-      </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
         <vendor>Sparta</vendor>
@@ -11435,6 +11424,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27000</price>
+      </offer>
+      <offer sku="00000031834">
+        <name>Стремянка свободностоящая 4 ступени CORDA</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38500</price>
       </offer>
       <offer sku="00000031852">
         <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
@@ -26431,14 +26428,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69510</price>
-      </offer>
-      <offer sku="УТ-00089532">
-        <name>Лестница трехсекционная PROFSET 3х10 ступеней DLE310</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>85630</price>
       </offer>
       <offer sku="УТ-00089533">
         <name>Лестница трехсекционная PROFSET 3х14 ступеней DLE314</name>

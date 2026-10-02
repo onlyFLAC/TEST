@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 16:09">
+<fm_catalog date="2026-10-02 16:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1231,6 +1231,17 @@
         </pickup-options>
         <price>1995</price>
       </offer>
+      <offer sku="УТ-00009497">
+        <name>Маркер черный, перманентный, тонкий, 0,5 мм, МП-50, ЗУБР</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373418808</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>390</price>
+      </offer>
       <offer sku="УТ-00009845">
         <name>Набор: чистящий ролик для одежды с двумя сменными блоками, 20 слоев, Home// Palisad</name>
         <vendor>Palisad</vendor>
@@ -1888,6 +1899,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
+      </offer>
+      <offer sku="УТ-00014834">
+        <name>ЗУБР 10x30мм, хвостовик 8мм, фреза пазовая прямая с нижними подрезателями, серия Профессионал 28755-10-30</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4590</price>
       </offer>
       <offer sku="УТ-00014838">
         <name>Фреза пазовая ЗУБР "ПРОФЕССИОНАЛ" прямая 8 мм 28753-16-30</name>
@@ -6402,6 +6421,17 @@
         </pickup-options>
         <price>17390</price>
       </offer>
+      <offer sku="00000006456">
+        <name>Изолента ЗУБР Х-50 черная 50 мм 10 м 1237-2</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373298158</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>890</price>
+      </offer>
       <offer sku="00000006505">
         <name>ЗУБР Шланг напорно-всасывающий со спиралью ПВХ, 10 атм, 25мм х 15м</name>
         <vendor>ЗУБР</vendor>
@@ -7495,6 +7525,17 @@
         </pickup-options>
         <price>7590</price>
       </offer>
+      <offer sku="00000008707">
+        <name>Нож STAYER складной с обрезиненной ручкой, большой</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229120283</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3790</price>
+      </offer>
       <offer sku="00000008708">
         <name>Нож складной STAYER 75 мм 47600-1_z01</name>
         <vendor>STAYER</vendor>
@@ -8282,6 +8323,17 @@
         </pickup-options>
         <price>6190</price>
       </offer>
+      <offer sku="00000010639">
+        <name>Топорище ЗУБР "СТАНДАРТ" деревянное, 540мм</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373112454</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2390</price>
+      </offer>
       <offer sku="00000010653">
         <name>Торцовая головка KRAFTOOL "INDUSTRIE QUALITAT", Cr-V, FLANK, хромосатинированная, 1/2", 22 мм</name>
         <vendor>KRAFTOOL</vendor>
@@ -8531,6 +8583,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390</price>
+      </offer>
+      <offer sku="00000011357">
+        <name>Шпатель STAYER "PROFESSIONAL" нержавеющий зубчатый с пластмассовой ручкой, 250мм, зуб 10х10мм</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229093563</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1390</price>
       </offer>
       <offer sku="00000011393">
         <name>Шпатель резиновый ЗУБР "МАСТЕР" 60 мм 1016-60_z01</name>
@@ -11820,17 +11883,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>54200</price>
-      </offer>
-      <offer sku="00000032384">
-        <name>Дрель ударная Bosch EasyImpact 550</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140840651</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28999</price>
       </offer>
       <offer sku="00000032387">
         <name>Дрель ударная сетевая Bosch GSB 16 RE 060114E500</name>
@@ -22271,6 +22323,14 @@
         </pickup-options>
         <price>8390</price>
       </offer>
+      <offer sku="УТ-00056466">
+        <name>ЗУБР Мастер-НС, 380 х 208 х 1500 мм, полотно 2 мм, нержавеющая сталь, закалено, дерев. лакир. черенок высш. сорт, тип ЛКО, штыковая лопата (39443)</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9990</price>
+      </offer>
       <offer sku="УТ-00056479">
         <name>GRINDA 280 x 180 x 1200 мм, антикор. покрытие, деревянный черенок высш. сорт, с пластиковой рукояткой, вилы садовые, PROLine (39727)</name>
         <vendor>Grinda</vendor>
@@ -24979,6 +25039,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2890</price>
+      </offer>
+      <offer sku="УТ-00065016">
+        <name>ЗУБР Колибри-20 красный, наконечник L 20 мм, ᴓ 2 мм, перманентный маркер для отверстийл (06328-3)</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
       </offer>
       <offer sku="УТ-00065018">
         <name>ЗУБР Колибри-30 красный, наконечник L 30 мм, ᴓ 2.8 мм, перманентный маркер для отверстий (06338-3)</name>
@@ -27821,6 +27889,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>50600</price>
+      </offer>
+      <offer sku="УТ-00100514">
+        <name>Ударный мини-уровень 10см TMT921306</name>
+        <vendor>Total</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7100</price>
       </offer>
     </offers>
   </shop>

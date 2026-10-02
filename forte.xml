@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 06:50">
+<fm_catalog date="2026-10-02 07:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5222,17 +5222,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="00000002922">
-        <name>STAYER Hercules-B13 набор: отвертка-битодержатель с насадками 13 шт</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229217419</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2790</price>
-      </offer>
       <offer sku="00000002924">
         <name>Ключ трубный с прямыми губками STAYER Hercules-L 27331-0</name>
         <vendor>STAYER</vendor>
@@ -9214,17 +9203,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3290</price>
-      </offer>
-      <offer sku="00000015189">
-        <name>Рулетка Experte, 5 м x 27 мм, двухкомпон. корпус, магнит, двухстор. разметка, нейлон// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996167626</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8090</price>
       </offer>
       <offer sku="00000015200">
         <name>Рулетка 3 м х 13 мм, пластиковый корпус</name>
@@ -17206,14 +17184,6 @@
         </pickup-options>
         <price>198100</price>
       </offer>
-      <offer sku="00000061208">
-        <name>Комплект угольных щеток BOSCH 1619P11715</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2895</price>
-      </offer>
       <offer sku="00000061209">
         <name>Агрегат покрасочный WAGNER TITAN COMPACT 190 2429263</name>
         <vendor>WAGNER</vendor>
@@ -21474,17 +21444,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12500</price>
-      </offer>
-      <offer sku="УТ-00050326">
-        <name>Съемник клипс A1tools 230 мм PZ102</name>
-        <vendor>A1tools</vendor>
-        <barcodes>
-          <barcode>745314726207</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1390</price>
       </offer>
       <offer sku="УТ-00050413">
         <name>Нож для разрезки на мерные длины 41807134110</name>
@@ -26414,14 +26373,6 @@
       </offer>
       <offer sku="УТ-00089284">
         <name>Подгузники MARTI NB90 0-5 кг</name>
-        <vendor>MARTI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
-      </offer>
-      <offer sku="УТ-00089285">
-        <name>Подгузники MARTI S82 4-8 кг</name>
         <vendor>MARTI</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

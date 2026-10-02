@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 14:11">
+<fm_catalog date="2026-10-02 14:40">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -879,6 +879,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40350</price>
+      </offer>
+      <offer sku="УТ-00006311">
+        <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>79800</price>
       </offer>
       <offer sku="УТ-00006352">
         <name>Двухсторонняя стремянка DOPPLO 2х5 ступ.</name>
@@ -11456,6 +11464,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>116500</price>
+      </offer>
+      <offer sku="00000031905">
+        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>42700</price>
+      </offer>
+      <offer sku="00000031911">
+        <name>Стремянка анодированная Krause "SEPURO" 4 ступ. 126429</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>72900</price>
       </offer>
       <offer sku="00000031941">
         <name>Подставка складная TOPPY XL 2 ступ.</name>
@@ -25105,6 +25129,14 @@
         </pickup-options>
         <price>115990</price>
       </offer>
+      <offer sku="УТ-00072410">
+        <name>Клещи для удаления оболочки KNIPEX 13 42 165</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36925</price>
+      </offer>
       <offer sku="УТ-00072431">
         <name>Клещи переставные-гаечный ключ KNIPEX 86 03 150</name>
         <vendor>KNIPEX</vendor>
@@ -25788,6 +25820,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27760</price>
+      </offer>
+      <offer sku="УТ-00084847">
+        <name>Стремянка анодированная Krause "SEPRO" 6 ступ. 124203</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>109200</price>
       </offer>
       <offer sku="УТ-00084942">
         <name>Газонокосилка электрическая Bosch EasyRotak 32-205 06008A6300</name>
@@ -27700,14 +27740,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22610</price>
-      </offer>
-      <offer sku="УТ-00095492">
-        <name>Душевой трап 70x700 мм TAP T-6057-19 Хром</name>
-        <vendor>TAP</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20200</price>
       </offer>
       <offer sku="УТ-00096158">
         <name>Лезвие для шпателя BIHUI 40 см, толщина 0.5 мм PTKB40-SB</name>

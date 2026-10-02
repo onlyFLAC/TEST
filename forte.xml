@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 07:49">
+<fm_catalog date="2026-10-02 08:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -857,17 +857,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>495319</price>
-      </offer>
-      <offer sku="УТ-00005944">
-        <name>Уровень тип 70, 120 см STABILA 02289</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022891</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22490</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -2626,17 +2615,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
-      </offer>
-      <offer sku="УТ-00022271">
-        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245909</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7100</price>
       </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
@@ -10719,17 +10697,6 @@
         </pickup-options>
         <price>7900</price>
       </offer>
-      <offer sku="00000024780">
-        <name>Фен строительный ALTECO HG 0609 27142</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216453282</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19500</price>
-      </offer>
       <offer sku="00000024798">
         <name>Лобзик электрический ALTECO JS 750 22983</name>
         <vendor>ALTECO</vendor>
@@ -12086,6 +12053,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9156</price>
+      </offer>
+      <offer sku="00000032598">
+        <name>Набор сверл Bosch PointTeQ 1-10 мм 18 шт. 2608577350</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140917681</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7628</price>
       </offer>
       <offer sku="00000032599">
         <name>Набор сверл Bosch PointTeQ ProBox 1-10 мм 19 шт. 2608577351</name>
@@ -27904,14 +27882,6 @@
         </pickup-options>
         <price>1890</price>
       </offer>
-      <offer sku="УТ-00096168">
-        <name>Охолождающий воск BIHUI DBCW20</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1390</price>
-      </offer>
       <offer sku="УТ-00096203">
         <name>Присоска аккумуляторная с двойной ручкой BIHUI, LFBSL(EURO)</name>
         <vendor>BIHUI</vendor>
@@ -27943,14 +27913,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
-      </offer>
-      <offer sku="УТ-00099543">
-        <name>23018HX Машина полировальная аккумуляторная 20V, 5Ач, 1200-3400 об/мин, 180мм, бесщеточная CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

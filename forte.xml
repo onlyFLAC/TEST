@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 08:47">
+<fm_catalog date="2026-10-02 09:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22839,7 +22839,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8883</price>
+        <price>6900</price>
       </offer>
       <offer sku="УТ-00059648">
         <name>Коврик для глажки белья малый Nika КГМ/3 с линиями на сером</name>
@@ -25689,7 +25689,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11300</price>
+        <price>9800</price>
       </offer>
       <offer sku="УТ-00075509">
         <name>Санки игрушка Nika "ТИМКА 3К УНИВЕРСАЛ+" Т3КУ+/Г голубой</name>

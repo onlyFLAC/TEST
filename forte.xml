@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-02 12:13">
+<fm_catalog date="2026-10-02 12:43">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -196,17 +196,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>680600</price>
-      </offer>
-      <offer sku="УТ-00003231">
-        <name>Нож Viking</name>
-        <vendor>Viking</vendor>
-        <barcodes>
-          <barcode>795711935511</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13860</price>
       </offer>
       <offer sku="УТ-00003234">
         <name>Велосипед детский Nika ВДН4/5 орхидея</name>
@@ -868,17 +857,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19190</price>
-      </offer>
-      <offer sku="УТ-00005962">
-        <name>Уровень тип 80AS, 60 см STABILA 19165</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191658</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22190</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -2066,6 +2044,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>990</price>
+      </offer>
+      <offer sku="УТ-00015348">
+        <name>KRAFTOOL SPECTRA, удлинённый экран 220х385мм, поликарбонат 2мм, храповик, защитный лицевой щиток (110811) 110811</name>
+        <vendor>KRAFTOOL</vendor>
+        <barcodes>
+          <barcode>4034229245887</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
       </offer>
       <offer sku="УТ-00015355">
         <name>ЗУБР БАРЬЕР прозрачные, облегчённые, линза устойчивая к царапинам и запотеванию, открытого типа, защитные очки (110487) 110487</name>
@@ -9170,17 +9159,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4190</price>
-      </offer>
-      <offer sku="00000015174">
-        <name>Рулетка "Doppelhaken", 3 м x 16 мм, односторонний зацеп, нейлон, двуст. шкала, автоматич// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996086804</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3290</price>
       </offer>
       <offer sku="00000015200">
         <name>Рулетка 3 м х 13 мм, пластиковый корпус</name>
@@ -20936,17 +20914,6 @@
         </pickup-options>
         <price>104300</price>
       </offer>
-      <offer sku="УТ-00045679">
-        <name>Нож для газонокосилок 63717020102</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661282982</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17160</price>
-      </offer>
       <offer sku="УТ-00045682">
         <name>Цепная звёздочка 1/4" Picco 7 зубьев 12506421200</name>
         <vendor>STIHL</vendor>
@@ -20954,17 +20921,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8320</price>
-      </offer>
-      <offer sku="УТ-00045695">
-        <name>Многофункциональный нож 63647020100</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661230853</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21120</price>
       </offer>
       <offer sku="УТ-00045882">
         <name>ЗУБР НР-4 UniLock, OIS-хвост., 4 предм., набор насадок для реноватора, Профессионал (15572)</name>
@@ -21313,17 +21269,6 @@
         </pickup-options>
         <price>4860</price>
       </offer>
-      <offer sku="УТ-00048839">
-        <name>Нож для RM 655.0 V 63747020100</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661231089</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22560</price>
-      </offer>
       <offer sku="УТ-00049305">
         <name>Средство для удаления смолы Stihl Superclean 300 мл 07825168101</name>
         <vendor>STIHL</vendor>
@@ -21408,17 +21353,6 @@
         </pickup-options>
         <price>60600</price>
       </offer>
-      <offer sku="УТ-00050185">
-        <name>Нож для газонокосилок 63587020100</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711935665</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12500</price>
-      </offer>
       <offer sku="УТ-00050413">
         <name>Нож для разрезки на мерные длины 41807134110</name>
         <vendor>STIHL</vendor>
@@ -21448,14 +21382,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6010</price>
-      </offer>
-      <offer sku="УТ-00051284">
-        <name>Нож 37cm (ME) 63207020100</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13420</price>
       </offer>
       <offer sku="УТ-00051518">
         <name>Газонокосилка STIHL RM 253.3 T WB220113415</name>
@@ -21553,17 +21479,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13800</price>
-      </offer>
-      <offer sku="УТ-00052915">
-        <name>Нож 63507020105</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661571321</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15620</price>
       </offer>
       <offer sku="УТ-00052918">
         <name>Корпус вентилятора с пусковым устройством STIHL 11480802108</name>
@@ -23882,17 +23797,6 @@
         </pickup-options>
         <price>4740</price>
       </offer>
-      <offer sku="УТ-00061327">
-        <name>Нож 63757609991</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711892517</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14400</price>
-      </offer>
       <offer sku="УТ-00061340">
         <name>Дозатор жидкого мыла встраиваемый Gappo сатин G406-5</name>
         <vendor>GAPPO</vendor>
@@ -24268,33 +24172,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23085</price>
-      </offer>
-      <offer sku="УТ-00062735">
-        <name>Нож</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17930</price>
-      </offer>
-      <offer sku="УТ-00062741">
-        <name>Нож</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661873586</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21720</price>
-      </offer>
-      <offer sku="УТ-00062742">
-        <name>Нож</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21480</price>
       </offer>
       <offer sku="УТ-00063240">
         <name>Доска гладильная Nika Н3 (в ассортименте)</name>
@@ -25362,17 +25239,6 @@
         </pickup-options>
         <price>19400</price>
       </offer>
-      <offer sku="УТ-00072602">
-        <name>Плоскогубцы комбинированные KNIPEX 03 02 160</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773023203</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16505</price>
-      </offer>
       <offer sku="УТ-00072656">
         <name>Щипцы колец KNIPEX 48 11 J2</name>
         <vendor>KNIPEX</vendor>
@@ -25383,17 +25249,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13055</price>
-      </offer>
-      <offer sku="УТ-00072667">
-        <name>Клещи электромонтажные KNIPEX 13 82 200</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773075080</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44780</price>
       </offer>
       <offer sku="УТ-00072727">
         <name>Санки детские Nika "ТИМКА 5 УНИВЕРСАЛ" Т5У/Ч черный</name>
@@ -25905,14 +25760,6 @@
         </pickup-options>
         <price>74000</price>
       </offer>
-      <offer sku="УТ-00081647">
-        <name>Нож Stihl WA417020105</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20240</price>
-      </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
         <vendor>STIHL</vendor>
@@ -25956,14 +25803,6 @@
         </pickup-options>
         <price>190</price>
       </offer>
-      <offer sku="УТ-00084647">
-        <name>Зажим горизонтальный с открытым плечом Bessey STC-HA20</name>
-        <vendor>Bessey</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19590</price>
-      </offer>
       <offer sku="УТ-00084680">
         <name>Ножницы для резки кабелей KNIPEX 165 мм 95 12 165</name>
         <vendor>KNIPEX</vendor>
@@ -25971,14 +25810,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27760</price>
-      </offer>
-      <offer sku="УТ-00084690">
-        <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15590</price>
       </offer>
       <offer sku="УТ-00084942">
         <name>Газонокосилка электрическая Bosch EasyRotak 32-205 06008A6300</name>

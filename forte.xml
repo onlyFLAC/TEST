@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-03 11:11">
+<fm_catalog date="2026-10-03 11:40">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24242,17 +24242,6 @@
         </pickup-options>
         <price>113500</price>
       </offer>
-      <offer sku="УТ-00063391">
-        <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393080347268</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
-      </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
         <vendor>BOSCH</vendor>
@@ -25233,6 +25222,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25269</price>
+      </offer>
+      <offer sku="УТ-00072730">
+        <name>Санки детские Nika "ТИМКА 6 УНИВЕРСАЛ" Т6У/З2 зеленые</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4640047364527</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25705</price>
       </offer>
       <offer sku="УТ-00072732">
         <name>Санки детские Nika "NIKKI 3" N3/Г2 голубой</name>

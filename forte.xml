@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-03 07:45">
+<fm_catalog date="2026-10-03 08:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6431,17 +6431,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15434</price>
-      </offer>
-      <offer sku="00000006456">
-        <name>Изолента ЗУБР Х-50 черная 50 мм 10 м 1237-2</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373298158</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>880</price>
       </offer>
       <offer sku="00000006505">
         <name>ЗУБР Шланг напорно-всасывающий со спиралью ПВХ, 10 атм, 25мм х 15м</name>
@@ -19478,17 +19467,6 @@
         </pickup-options>
         <price>9999</price>
       </offer>
-      <offer sku="УТ-00000202">
-        <name>СОПЛО Bosch F016800581</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140941877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9990</price>
-      </offer>
       <offer sku="УТ-00000204">
         <name>Нож для травы Bosch Multi-Click (Isio Grass Blade) F016800616</name>
         <vendor>BOSCH</vendor>
@@ -24017,18 +23995,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00061471">
-        <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/ТС темно-серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032741809</barcode>
-          <barcode>7392930546356</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7777</price>
       </offer>
       <offer sku="УТ-00061472">
         <name>Доска гладильная Nika НТ11/4 с линиями на сером</name>

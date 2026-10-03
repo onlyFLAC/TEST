@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-03 11:40">
+<fm_catalog date="2026-10-03 12:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10915,6 +10915,17 @@
         </pickup-options>
         <price>39990</price>
       </offer>
+      <offer sku="00000025385">
+        <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5/Ч черный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075838437</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9890</price>
+      </offer>
       <offer sku="00000025386">
         <name>Вешалка настенная Nika ВП8М/Ч черный</name>
         <vendor>Nika</vendor>
@@ -21016,6 +21027,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>552200</price>
+      </offer>
+      <offer sku="УТ-00048210">
+        <name>Масло 2Т 1л HP Husqvarna 587 80 85-10</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245893</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7200</price>
       </offer>
       <offer sku="УТ-00048211">
         <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>

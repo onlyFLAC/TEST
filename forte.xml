@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-03 08:14">
+<fm_catalog date="2026-10-03 08:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5844,17 +5844,6 @@
         </pickup-options>
         <price>8480</price>
       </offer>
-      <offer sku="00000004832">
-        <name>Набор шлифовальных лент ЗУБР 100х914 мм 35548-180</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373117459</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3417</price>
-      </offer>
       <offer sku="00000004896">
         <name>Набор метчиков и сверл ЗУБР 28115-H18_z01</name>
         <vendor>ЗУБР</vendor>
@@ -8584,17 +8573,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000011357">
-        <name>Шпатель STAYER "PROFESSIONAL" нержавеющий зубчатый с пластмассовой ручкой, 250мм, зуб 10х10мм</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229093563</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1380</price>
-      </offer>
       <offer sku="00000011393">
         <name>Шпатель резиновый ЗУБР "МАСТЕР" 60 мм 1016-60_z01</name>
         <vendor>ЗУБР</vendor>
@@ -9573,17 +9551,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2190</price>
-      </offer>
-      <offer sku="00000017134">
-        <name>Бур садовый шнековый Сибртех 150х1085 мм 64398</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800056276</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7490</price>
       </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
@@ -10789,17 +10756,6 @@
         </pickup-options>
         <price>19580</price>
       </offer>
-      <offer sku="00000024898">
-        <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216450427</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28900</price>
-      </offer>
       <offer sku="00000024981">
         <name>Краскопульт электрический ALTECO SG 2203 27633</name>
         <vendor>ALTECO</vendor>
@@ -10950,17 +10906,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39990</price>
-      </offer>
-      <offer sku="00000025385">
-        <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075838437</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9890</price>
       </offer>
       <offer sku="00000025386">
         <name>Вешалка настенная Nika ВП8М/Ч черный</name>
@@ -22239,17 +22184,6 @@
         </pickup-options>
         <price>17860</price>
       </offer>
-      <offer sku="УТ-00056310">
-        <name>KRAFTOOL TK-10, 0.05 - 10 мм2, автоматический стриппер (22639)</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229217914</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16590</price>
-      </offer>
       <offer sku="УТ-00056355">
         <name>KRAFTOOL KB-2 для сумок с быстросъёмным креплением FastClip, 80-122 см, широкий кушак, пояс монтажника (38763)</name>
         <vendor>KRAFTOOL</vendor>
@@ -26129,14 +26063,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7090</price>
-      </offer>
-      <offer sku="УТ-00087349">
-        <name>Пылесос строительный TT ПС-25/1600</name>
-        <vendor>Total Tools</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31500</price>
       </offer>
       <offer sku="УТ-00087352">
         <name>Станок точильный TT СТЭП-150</name>

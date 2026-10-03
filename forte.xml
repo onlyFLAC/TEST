@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-03 14:07">
+<fm_catalog date="2026-10-03 14:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -26205,17 +26205,6 @@
         <vendor>MARTI</vendor>
         <barcodes>
           <barcode>4580664610082</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
-      </offer>
-      <offer sku="УТ-00089290">
-        <name>Трусики MARTI L44 9-14 кг</name>
-        <vendor>MARTI</vendor>
-        <barcodes>
-          <barcode>4580664610105</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>

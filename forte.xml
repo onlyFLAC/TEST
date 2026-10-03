@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-03 08:44">
+<fm_catalog date="2026-10-03 09:13">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2631,6 +2631,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
+      </offer>
+      <offer sku="УТ-00022271">
+        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245909</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7100</price>
       </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
@@ -11313,17 +11324,6 @@
         </pickup-options>
         <price>9600</price>
       </offer>
-      <offer sku="00000031548">
-        <name>Тачка строительная двухколесная Total Tools Т2-1035</name>
-        <vendor>Total Tools</vendor>
-        <barcodes>
-          <barcode>4870024393039</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22405</price>
-      </offer>
       <offer sku="00000031550">
         <name>Тачка строительная одноколесная TotalTools Т-1122</name>
         <vendor>Total Tools</vendor>
@@ -11483,22 +11483,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>116500</price>
-      </offer>
-      <offer sku="00000031905">
-        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>42700</price>
-      </offer>
-      <offer sku="00000031911">
-        <name>Стремянка анодированная Krause "SEPURO" 4 ступ. 126429</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72900</price>
       </offer>
       <offer sku="00000031941">
         <name>Подставка складная TOPPY XL 2 ступ.</name>
@@ -15198,17 +15182,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6640</price>
-      </offer>
-      <offer sku="00000040070">
-        <name>Муфта кулачковая Dremel 4486 2615448632</name>
-        <vendor>DREMEL</vendor>
-        <barcodes>
-          <barcode>8710364012978</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7999</price>
       </offer>
       <offer sku="00000040074">
         <name>НАСАДКА НА ПАЯЛЬНИК ( ПАЙКА), 2 шт</name>
@@ -25274,17 +25247,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25269</price>
-      </offer>
-      <offer sku="УТ-00072730">
-        <name>Санки детские Nika "ТИМКА 6 УНИВЕРСАЛ" Т6У/З2 зеленые</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047364527</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25705</price>
       </offer>
       <offer sku="УТ-00072732">
         <name>Санки детские Nika "NIKKI 3" N3/Г2 голубой</name>

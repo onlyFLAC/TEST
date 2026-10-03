@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-03 09:13">
+<fm_catalog date="2026-10-03 09:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1497,17 +1497,6 @@
         </pickup-options>
         <price>13800</price>
       </offer>
-      <offer sku="УТ-00013025">
-        <name>Шлифмашина угловая (болгарка) ALTECO AGH 1100-125 E 61286</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244611180</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23900</price>
-      </offer>
       <offer sku="УТ-00013463">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 белая</name>
         <vendor>ЗМИ</vendor>
@@ -2747,6 +2736,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
+      </offer>
+      <offer sku="УТ-00022494">
+        <name>Мелки маркировочные графитовые (12шт в упаковке)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
       </offer>
       <offer sku="УТ-00022528">
         <name>Очки защитные Husqvarna Yellow X</name>
@@ -14797,17 +14794,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4157</price>
-      </offer>
-      <offer sku="00000038766">
-        <name>Диск пильный по дереву Bosch ECO WO 190x30-48T 2608644377</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140890991</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6532</price>
       </offer>
       <offer sku="00000038770">
         <name>Диск пильный BOSCH Т24 230х30 мм 2608644381</name>

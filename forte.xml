@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-04 07:13">
+<fm_catalog date="2026-10-04 07:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7032,17 +7032,6 @@
         </pickup-options>
         <price>26600</price>
       </offer>
-      <offer sku="00000007873">
-        <name>Лопата автомобильная ЗУБР "БЕРКУТ" 4-39506_z02</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373094378</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8589</price>
-      </offer>
       <offer sku="00000007874">
         <name>Лопата ''БЕРКУТ'' штыковая, деревянный черенок, с рукояткой, ЗУБР Профессионал</name>
         <vendor>ЗУБР</vendor>
@@ -7565,17 +7554,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1490</price>
-      </offer>
-      <offer sku="00000008788">
-        <name>Ножницы ЗУБР "Мастер" хозяйственные, двухкомпонентные ручки, 175мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373081675</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1478</price>
       </offer>
       <offer sku="00000008813">
         <name>Ножовка по дереву (пила) "МОЛНИЯ-5" 400 мм, 5 TPI, прямой крупный зуб, быстрый рез поперек волокон, для крупных и средних заготовок, ЗУБР</name>
@@ -19238,17 +19216,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8978</price>
-      </offer>
-      <offer sku="00000076086">
-        <name>ЗУБР СЦ-4 сцепка для мотоблоков, универсальная</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373467905</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13490</price>
       </offer>
       <offer sku="00000076129">
         <name>ЗУБР УШМ 150 мм, 1400 Вт, компакт</name>

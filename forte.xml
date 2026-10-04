@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-04 07:42">
+<fm_catalog date="2026-10-04 08:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1474,17 +1474,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6900</price>
-      </offer>
-      <offer sku="УТ-00012980">
-        <name>Доска гладильная Nika "ЛИНА ЭКОНОМ" ЭК1 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830301</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7500</price>
       </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 (в ассортименте)</name>
@@ -8416,17 +8405,6 @@
         </pickup-options>
         <price>590</price>
       </offer>
-      <offer sku="00000011192">
-        <name>Набор шлифовальных сеток STAYER 11х27 см 10 листов 3547-080</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229008741</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2780</price>
-      </offer>
       <offer sku="00000011256">
         <name>Шнур Сибин капрон 1.5 мм 100 м 50526</name>
         <vendor>Сибин</vendor>
@@ -8896,17 +8874,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>855</price>
-      </offer>
-      <offer sku="00000013206">
-        <name>Набор ключей комбинированных, 6 - 22 мм, 12 шт., CrV, полированный хром// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996016856</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7279</price>
       </offer>
       <offer sku="00000013425">
         <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
@@ -10402,17 +10369,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000022791">
-        <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800042309</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4280</price>
-      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -11277,6 +11233,17 @@
         </pickup-options>
         <price>9600</price>
       </offer>
+      <offer sku="00000031548">
+        <name>Тачка строительная двухколесная Total Tools Т2-1035</name>
+        <vendor>Total Tools</vendor>
+        <barcodes>
+          <barcode>4870024393039</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22405</price>
+      </offer>
       <offer sku="00000031550">
         <name>Тачка строительная одноколесная TotalTools Т-1122</name>
         <vendor>Total Tools</vendor>
@@ -11853,17 +11820,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1390</price>
-      </offer>
-      <offer sku="00000032486">
-        <name>Дальномер лазерный Bosch GLM 40 Professional 0601072900</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140790406</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41200</price>
       </offer>
       <offer sku="00000032505">
         <name>Уровень лазерный Bosch GLL 3Х 0601063CJ0</name>
@@ -17183,17 +17139,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
-      </offer>
-      <offer sku="00000063687">
-        <name>Уплотнитель резиновый, 6 м, профиль "P", белый// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996198422</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1390</price>
       </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 шт. 14151</name>

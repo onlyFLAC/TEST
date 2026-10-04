@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-04 09:10">
+<fm_catalog date="2026-10-04 09:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4858,18 +4858,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4480</price>
-      </offer>
-      <offer sku="00000001944">
-        <name>Сучкорез штанговый с пилой GRINDA H-300</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925530488</barcode>
-          <barcode>4893925602277</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8499</price>
       </offer>
       <offer sku="00000001961">
         <name>KRAFTOOL 15 мм скобы для степлера узкие тип 55, 5000 шт</name>
@@ -15660,17 +15648,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1890</price>
-      </offer>
-      <offer sku="00000042385">
-        <name>Набор пилок для сабельной пилы по дереву Bosch S1131L 2шт. 2609256702</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140390590</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3690</price>
       </offer>
       <offer sku="00000042407">
         <name>Автосигнализация SL A93 V2 2CAN+2LIN</name>

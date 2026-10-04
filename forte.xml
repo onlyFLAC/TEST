@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-04 15:01">
+<fm_catalog date="2026-10-04 15:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7788,17 +7788,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8719</price>
-      </offer>
-      <offer sku="00000009316">
-        <name>Полировальная насадка STAYER "MASTER" из фетра на липучке d=125мм</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229208462</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1980</price>
       </offer>
       <offer sku="00000009415">
         <name>Набор полотен для ножовки по металлу STAYER 300 мм 24 TPI 10 шт. 1588-S10</name>

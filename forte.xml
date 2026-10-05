@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 09:06">
+<fm_catalog date="2026-10-05 09:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1475,17 +1475,6 @@
         </pickup-options>
         <price>6900</price>
       </offer>
-      <offer sku="УТ-00012980">
-        <name>Доска гладильная Nika "ЛИНА ЭКОНОМ" ЭК1 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830301</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7500</price>
-      </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -1847,17 +1836,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1780</price>
-      </offer>
-      <offer sku="УТ-00014776">
-        <name>ЗУБР МАСТЕР 12 x 400 мм сверло по бетону 2922-400-12</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373411984</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2080</price>
       </offer>
       <offer sku="УТ-00014777">
         <name>ЗУБР МАСТЕР 10 x 400 мм сверло по бетону 2922-400-10</name>
@@ -24966,14 +24944,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>670000</price>
-      </offer>
-      <offer sku="УТ-00072931">
-        <name>Газонокосилка-робот Husqvarna Automower 315 Mark II 970 52 68-11</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>970000</price>
       </offer>
       <offer sku="УТ-00072972">
         <name>Кусторез Husqvarna 545F 967 88 45-02</name>

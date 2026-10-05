@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 12:01">
+<fm_catalog date="2026-10-05 12:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1978,17 +1978,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6279</price>
-      </offer>
-      <offer sku="УТ-00015260">
-        <name>ЗУБР S1344D, L-280/300, Cr-V, Полотно для сабельной пилы (155711-28) 155711-28</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373102646</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2050</price>
       </offer>
       <offer sku="УТ-00015266">
         <name>ЗУБР ПОХОДНАЯ 9 205 мм, Ножовка для быстрого реза сырой древесины (15169-18) 15169-18</name>
@@ -22830,17 +22819,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14174</price>
-      </offer>
-      <offer sku="УТ-00059805">
-        <name>Пылесос аккум. LXT BL 18В, циклон, 18 кПа, 250мл, сух.</name>
-        <vendor>Makita</vendor>
-        <barcodes>
-          <barcode>088381781619</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30195</price>
       </offer>
       <offer sku="УТ-00059821">
         <name>Сушилка напольная Nika СБТ18/РЗ розовое золото</name>

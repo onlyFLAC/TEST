@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 14:57">
+<fm_catalog date="2026-10-05 15:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21079,22 +21079,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34700</price>
-      </offer>
-      <offer sku="УТ-00049707">
-        <name>12305 - "P.I.T." Инверторная Сварка 230 А</name>
-        <vendor>P.I.T.</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36300</price>
-      </offer>
-      <offer sku="УТ-00049757">
-        <name>4211 - "P.I.T." Тележка 1 колесная</name>
-        <vendor>P.I.T.</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18900</price>
       </offer>
       <offer sku="УТ-00049797">
         <name>745010 - PRO - "P.I.T." Бензопила 55 CC 22"</name>

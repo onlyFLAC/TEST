@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 10:34">
+<fm_catalog date="2026-10-05 11:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10143,17 +10143,6 @@
         </pickup-options>
         <price>890</price>
       </offer>
-      <offer sku="00000022440">
-        <name>Лента сигнальная, 50 мм х 200 м черно-желтая Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800061669</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1490</price>
-      </offer>
       <offer sku="00000022444">
         <name>Лента армированная, влагостойкая, 48мм х 25м, серебристая// Matrix</name>
         <vendor>Matrix</vendor>
@@ -10847,7 +10836,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14790</price>
+        <price>14190</price>
       </offer>
       <offer sku="00000026373">
         <name>Набор инструментов ROCKFORCE 108 шт. KT-108</name>
@@ -10880,7 +10869,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14090</price>
+        <price>13490</price>
       </offer>
       <offer sku="00000027293">
         <name>Пила торцовочная ЗУБР ЗПТК-210-1500</name>
@@ -18647,7 +18636,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>32400</price>
+        <price>23190</price>
       </offer>
       <offer sku="00000074672">
         <name>Шуруповерт пневматический Rock FORCE RF-RP7222L</name>
@@ -27293,7 +27282,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7120</price>
+        <price>5900</price>
       </offer>
       <offer sku="УТ-00098555">
         <name>Домкрат бутылочный гидравлический 5,5т RF-T90604DX RF-T90604DX</name>
@@ -27301,7 +27290,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>52340</price>
+        <price>46900</price>
       </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>

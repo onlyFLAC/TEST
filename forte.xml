@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 15:26">
+<fm_catalog date="2026-10-05 15:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -245,18 +245,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33990</price>
-      </offer>
-      <offer sku="УТ-00003993">
-        <name>Перфоратор CROWN с аксессуарами CT18212 BMC</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640372182213</barcode>
-          <barcode>7640372697724</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38800</price>
       </offer>
       <offer sku="УТ-00004016">
         <name>Термодетектор CROWN CT44037</name>
@@ -891,17 +879,6 @@
         </pickup-options>
         <price>26790</price>
       </offer>
-      <offer sku="УТ-00006068">
-        <name>Электрический водоподогреватель ЭВП-4,5М на 220</name>
-        <vendor>Теплотех</vendor>
-        <barcodes>
-          <barcode>4670002530049</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40350</price>
-      </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
         <vendor>Krause</vendor>
@@ -1529,17 +1506,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13800</price>
-      </offer>
-      <offer sku="УТ-00013064">
-        <name>4222 корыто для тачки 110 л</name>
-        <vendor>IVT</vendor>
-        <barcodes>
-          <barcode>7630005242223</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7560</price>
       </offer>
       <offer sku="УТ-00013463">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 белая</name>

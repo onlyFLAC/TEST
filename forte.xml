@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 08:36">
+<fm_catalog date="2026-10-05 09:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5144,17 +5144,6 @@
         </pickup-options>
         <price>680</price>
       </offer>
-      <offer sku="00000002918">
-        <name>STAYER Hercules-19 набор: отвертка-битодержатель с насадками 19 шт</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229216986</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4338</price>
-      </offer>
       <offer sku="00000002924">
         <name>Ключ трубный с прямыми губками STAYER Hercules-L 27331-0</name>
         <vendor>STAYER</vendor>
@@ -8794,17 +8783,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15390</price>
-      </offer>
-      <offer sku="00000013177">
-        <name>Ключ комбинированный Gross 12 мм 15131</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996052311</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>855</price>
       </offer>
       <offer sku="00000013206">
         <name>Набор ключей комбинированных, 6 - 22 мм, 12 шт., CrV, полированный хром// Matrix</name>

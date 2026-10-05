@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 15:56">
+<fm_catalog date="2026-10-05 16:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -878,6 +878,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26790</price>
+      </offer>
+      <offer sku="УТ-00006058">
+        <name>Электрический водоподогреватель ЭВП-12М на 380</name>
+        <vendor>Теплотех</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>54850</price>
       </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
@@ -9015,6 +9023,17 @@
         </pickup-options>
         <price>4180</price>
       </offer>
+      <offer sku="00000014939">
+        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4606800027177</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>680</price>
+      </offer>
       <offer sku="00000015200">
         <name>Рулетка 3 м х 13 мм, пластиковый корпус</name>
         <vendor>Natan</vendor>
@@ -9180,6 +9199,28 @@
         </pickup-options>
         <price>140</price>
       </offer>
+      <offer sku="00000016138">
+        <name>Анкер, регулируемый по высоте, ARH(100)-24, цинк, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800045065</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8380</price>
+      </offer>
+      <offer sku="00000016208">
+        <name>Набор винтов, гаек, шайб, 420 предм.// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996118352</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4180</price>
+      </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
         <vendor>STELS</vendor>
@@ -9324,6 +9365,17 @@
         </pickup-options>
         <price>13180</price>
       </offer>
+      <offer sku="00000016716">
+        <name>Нож садовый складной, копулировочный, 173 мм, деревянная рукоятка// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996073712</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2400</price>
+      </offer>
       <offer sku="00000016727">
         <name>Сучкорез ручной Palisad 700 мм 60521</name>
         <vendor>Palisad</vendor>
@@ -9334,6 +9386,86 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4590</price>
+      </offer>
+      <offer sku="00000016752">
+        <name>Лопата снеговая без черенка Сибртех 420х425 мм 61430</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996062693</barcode>
+          <barcode>4606800032836</barcode>
+          <barcode>4607116630105</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2190</price>
+      </offer>
+      <offer sku="00000016779">
+        <name>Лопата снеговая без черенка Сибртех 330х365 мм 61536</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996063782</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3970</price>
+      </offer>
+      <offer sku="00000016786">
+        <name>Лопата для уборки снега пластиковая, 360х405х1550 мм, деревянный черенок в/с, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996063775</barcode>
+          <barcode>4606800032843</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6990</price>
+      </offer>
+      <offer sku="00000016790">
+        <name>Лопата снеговая Сибртех 360х405х1550 мм 61574</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800043740</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6790</price>
+      </offer>
+      <offer sku="00000016794">
+        <name>Лопата снеговая Сибртех 420х425х1550 мм 61580</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800033079</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3530</price>
+      </offer>
+      <offer sku="00000016826">
+        <name>Лопата для уборки снега пластиковая LUXE, 540х375х1520 мм, стальной черенок// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996163352</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17280</price>
+      </offer>
+      <offer sku="00000016829">
+        <name>Снеговая лопата PALISAD LUXE COLOR LINE 460 х 335 мм 615915</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996163376</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7690</price>
       </offer>
       <offer sku="00000017077">
         <name>Лопата штыковая, 205х275 мм, ребра жесткости, без черенка// Россия</name>
@@ -9346,6 +9478,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2190</price>
+      </offer>
+      <offer sku="00000017156">
+        <name>Горшочек для рассады, 90х90х95 мм, полистирол, 5 шт.// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4044996218434</barcode>
+          <barcode>4606800072276</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>490</price>
       </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
@@ -10041,6 +10185,14 @@
         </pickup-options>
         <price>2256</price>
       </offer>
+      <offer sku="00000021901">
+        <name>Кисть мочальная// Россия</name>
+        <vendor>Россия</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>980</price>
+      </offer>
       <offer sku="00000021949">
         <name>Набор малярных карандашей Sparta 180 мм 12 шт. 848045</name>
         <vendor>Sparta</vendor>
@@ -10240,6 +10392,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3995</price>
+      </offer>
+      <offer sku="00000023362">
+        <name>Лампа керосиновая Sparta "ЛЕТУЧАЯ МЫШЬ" 932305</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996061535</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4790</price>
       </offer>
       <offer sku="00000023509">
         <name>Шнур кручёный полипропиленовый, 2 мм, L 50 м, на катушке, Россия// Сибртех</name>
@@ -10465,6 +10628,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27900</price>
+      </offer>
+      <offer sku="00000024898">
+        <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216450427</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28900</price>
       </offer>
       <offer sku="00000024981">
         <name>Краскопульт электрический ALTECO SG 2203 27633</name>
@@ -10817,6 +10991,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>56400</price>
+      </offer>
+      <offer sku="00000026447">
+        <name>Набор инструментов 82+6пр.1/4"1/2"(6гр.)+(головка-бита 1/4" T40; биты 5/16": М8,10,12,14;головки 1/2": 10,12,13мм;ключи комбинир.:15,16мм)</name>
+        <vendor>Rock FORCE</vendor>
+        <barcodes>
+          <barcode>4631140308587</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43240</price>
       </offer>
       <offer sku="00000026504">
         <name>Набор инструментов для обслуживания тормозных цилиндров Rock FORCE 8 шт. RF-907B1</name>
@@ -15722,6 +15907,14 @@
         </pickup-options>
         <price>14888</price>
       </offer>
+      <offer sku="00000050351">
+        <name>Штроборез-бороздодел Фиолент Б1-30 1100 Вт ИДФР298416001-К1</name>
+        <vendor>Фиолент</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>67100</price>
+      </offer>
       <offer sku="00000050361">
         <name>Доска гладильная Nika "ВЕРОНА 1" ДВ1/1 с девушкой и лошадью</name>
         <vendor>Nika</vendor>
@@ -16926,6 +17119,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63600</price>
+      </offer>
+      <offer sku="00000063527">
+        <name>Движок для уборки снега пластиковый, 570х470х1300 мм, стальная рукоятка, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800082862</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8390</price>
       </offer>
       <offer sku="00000063541">
         <name>Перчатки трикотажные, двойные, верблюжья и овечья шерсть, ПВХ покрытие, Россия// Сибртех</name>
@@ -18901,6 +19105,14 @@
         </pickup-options>
         <price>7390</price>
       </offer>
+      <offer sku="00000075464">
+        <name>Передвижной пескоструйный аппарат напорного типа (бак 19л, 170-566л/мин, 4-8,5атм)пневмо</name>
+        <vendor>ROCKFORCE</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>85700</price>
+      </offer>
       <offer sku="00000075510">
         <name>Фен строительный MOLOT MHG 6020 2000 Вт MHG602000011</name>
         <vendor>MOLOT</vendor>
@@ -19856,6 +20068,17 @@
         </pickup-options>
         <price>2780</price>
       </offer>
+      <offer sku="УТ-00001777">
+        <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800092397</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11880</price>
+      </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -19863,6 +20086,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6591</price>
+      </offer>
+      <offer sku="УТ-00001925">
+        <name>Венец полиамидный СИБРТЕХ для БСЛ-120 95448005</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800091505</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9080</price>
       </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
@@ -21084,6 +21318,14 @@
         </pickup-options>
         <price>6010</price>
       </offer>
+      <offer sku="УТ-00051292">
+        <name>Защитный кожух цепи 50-55 см 00007929176</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3000</price>
+      </offer>
       <offer sku="УТ-00051518">
         <name>Газонокосилка STIHL RM 253.3 T WB220113415</name>
         <vendor>STIHL</vendor>
@@ -21462,6 +21704,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>147700</price>
+      </offer>
+      <offer sku="УТ-00055218">
+        <name>Всасывающий измельчитель SH 56 42410110927</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>208800</price>
       </offer>
       <offer sku="УТ-00055241">
         <name>Бензопила STIHL MS 661 63 см 11440113050К63</name>

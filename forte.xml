@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 11:03">
+<fm_catalog date="2026-10-05 11:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -828,14 +828,6 @@
         </pickup-options>
         <price>3200</price>
       </offer>
-      <offer sku="УТ-00005432">
-        <name>Кожух защитный BOSCH 1600A025XT</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5830</price>
-      </offer>
       <offer sku="УТ-00005437">
         <name>Решетка конусообразная STIHL 42037086700</name>
         <vendor>STIHL</vendor>
@@ -947,6 +939,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>172030</price>
+      </offer>
+      <offer sku="УТ-00006519">
+        <name>Акк фрезер Bosch AdvancedTrimRouter 18V-8 solo</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952582443</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>84540</price>
       </offer>
       <offer sku="УТ-00006788">
         <name>Аккумулятор для электроинструментов Bosch GBA 12V 2 Ач 0602494020</name>
@@ -2845,6 +2848,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>61790</price>
+      </offer>
+      <offer sku="УТ-00024857">
+        <name>Бензиновая снегоуборочная машина SBL 711D PRO, 302cc, эл.старт, фара, обогрев, блок. дифф.// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996195773</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>717860</price>
       </offer>
       <offer sku="УТ-00024995">
         <name>Фильтр полиуретановый для пылесоса Denzel 28210</name>
@@ -10508,17 +10522,6 @@
         </pickup-options>
         <price>19580</price>
       </offer>
-      <offer sku="00000024898">
-        <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216450427</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28900</price>
-      </offer>
       <offer sku="00000024981">
         <name>Краскопульт электрический ALTECO SG 2203 27633</name>
         <vendor>ALTECO</vendor>
@@ -11425,6 +11428,17 @@
         </pickup-options>
         <price>20090</price>
       </offer>
+      <offer sku="00000032299">
+        <name>Бокс для аксессуаров Bosch для SystemBox малый 1600A016CU</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140951890</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3620</price>
+      </offer>
       <offer sku="00000032300">
         <name>Бокс для аксессуаров средний для SystemBox (2/9)</name>
         <vendor>BOSCH</vendor>
@@ -11435,6 +11449,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4470</price>
+      </offer>
+      <offer sku="00000032301">
+        <name>Бокс для инструментов Bosch SystemBox пустой S</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140951883</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12800</price>
       </offer>
       <offer sku="00000032316">
         <name>Воздуходувка аккумуляторная Bosch GBL 18V-120 БЕЗ ЗУ И АКБ 06019F5100</name>
@@ -11565,6 +11590,17 @@
         </pickup-options>
         <price>91100</price>
       </offer>
+      <offer sku="00000032390">
+        <name>Дрель ударная Universallmpact 800 Bosch</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140840835</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>79460</price>
+      </offer>
       <offer sku="00000032399">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 12V-30 Professional 2 Акб 06019G9000</name>
         <vendor>BOSCH</vendor>
@@ -11587,6 +11623,17 @@
         </pickup-options>
         <price>24700</price>
       </offer>
+      <offer sku="00000032422">
+        <name>Набор из 2 аккумуляторов и ЗУ BOSCH GAL 12V-40 + GBA 2 Aч 1600A019R8</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140968188</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>61150</price>
+      </offer>
       <offer sku="00000032427">
         <name>Измерительная рейка GR 240 0601094100</name>
         <vendor>BOSCH</vendor>
@@ -11597,6 +11644,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>36800</price>
+      </offer>
+      <offer sku="00000032453">
+        <name>Контейнер Lidbox(50295317)</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140961905</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4830</price>
       </offer>
       <offer sku="00000032455">
         <name>Краскопульт электрический BOSCH PFS 2000 0603207300</name>
@@ -11664,6 +11722,28 @@
         </pickup-options>
         <price>155420</price>
       </offer>
+      <offer sku="00000032519">
+        <name>Лобзик электрический BOSCH PST 700 E 06033A0020</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140526852</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50930</price>
+      </offer>
+      <offer sku="00000032521">
+        <name>Лобзик электрический Bosch PST 900 PEL 06033A0220</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140526975</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>80130</price>
+      </offer>
       <offer sku="00000032522">
         <name>Лобзик электрический Bosch PST 650 06033A0720</name>
         <vendor>BOSCH</vendor>
@@ -11685,6 +11765,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>163330</price>
+      </offer>
+      <offer sku="00000032526">
+        <name>Пила мини-цепная аккумуляторная Bosch EasyCut12 06033C9020</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140830836</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>104820</price>
       </offer>
       <offer sku="00000032535">
         <name>Мойка высокого давления Bosch AdvancedAquatak 150</name>
@@ -11785,6 +11876,17 @@
         </pickup-options>
         <price>9156</price>
       </offer>
+      <offer sku="00000032598">
+        <name>Набор сверл Bosch PointTeQ 1-10 мм 18 шт. 2608577350</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140917681</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7628</price>
+      </offer>
       <offer sku="00000032599">
         <name>Набор сверл Bosch PointTeQ ProBox 1-10 мм 19 шт. 2608577351</name>
         <vendor>BOSCH</vendor>
@@ -11806,6 +11908,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14952</price>
+      </offer>
+      <offer sku="00000032601">
+        <name>Набор сверл PointTeQ 7pcs Mini X</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140917650</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3576</price>
       </offer>
       <offer sku="00000032617">
         <name>Пила дисковая настольная BOSCH GTS 10 J 0601B30500</name>
@@ -12391,6 +12504,17 @@
         </pickup-options>
         <price>72940</price>
       </offer>
+      <offer sku="00000032918">
+        <name>Фрезер Bosch POF 1400 ACE 060326C820</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140452540</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>113880</price>
+      </offer>
       <offer sku="00000032919">
         <name>Фрезер Bosch GKF 550 06016A0020</name>
         <vendor>BOSCH</vendor>
@@ -12445,6 +12569,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>70950</price>
+      </offer>
+      <offer sku="00000032955">
+        <name>Шуруповерт аккумуляторный GSR 12V-30 Без акк. и ЗУ</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140959100</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>55130</price>
       </offer>
       <offer sku="00000032966">
         <name>Лобзик электрический BOSCH GST 8000 E 060158H000</name>
@@ -14583,6 +14718,17 @@
         </pickup-options>
         <price>3020</price>
       </offer>
+      <offer sku="00000039019">
+        <name>10 HSS PointTeQ Сверл 4.5mm</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140907224</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2107</price>
+      </offer>
       <offer sku="00000039074">
         <name>Набор сверл по металлу BOSCH 10 мм 10 шт. 2608577268</name>
         <vendor>BOSCH</vendor>
@@ -16624,6 +16770,14 @@
         </pickup-options>
         <price>158000</price>
       </offer>
+      <offer sku="00000059388">
+        <name>Детектор Bosch D-tect 200 C + L-boxx + Li-Ion 0601081601</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>451759</price>
+      </offer>
       <offer sku="00000059392">
         <name>Уровень лазерный Bosch Atino 0603663A00</name>
         <vendor>BOSCH</vendor>
@@ -16938,6 +17092,50 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2030</price>
+      </offer>
+      <offer sku="00000063940">
+        <name>Бензиновая снегоуборочная машина SB 560, 212cc, ручной старт// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996195735</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>296250</price>
+      </offer>
+      <offer sku="00000063941">
+        <name>Бензиновая снегоуборочная машина SB 560 LP, 212cc, эл.старт, фара// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996195742</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>360430</price>
+      </offer>
+      <offer sku="00000063942">
+        <name>Бензиновая снегоуборочная машина SBM 610, 212cc, ручной старт, фара// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996195759</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>286380</price>
+      </offer>
+      <offer sku="00000063943">
+        <name>Бензиновая снегоуборочная машина SBM 610S PRO, 212cc, эл.старт, фара, обогрев// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996195766</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>567160</price>
       </offer>
       <offer sku="00000063977">
         <name>Грабли веерные стальные, 565 мм, 22 плоских зуба, эмалированные, усиленные, без черенка// Palisad</name>
@@ -18185,6 +18383,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>185760</price>
+      </offer>
+      <offer sku="00000071961">
+        <name>Насос EasyPump 0603947000 Bosch</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140997010</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>51570</price>
       </offer>
       <offer sku="00000072091">
         <name>Пылесос бытовой Centek CT-2514 черный 00000021944</name>
@@ -22589,6 +22798,17 @@
         </pickup-options>
         <price>14174</price>
       </offer>
+      <offer sku="УТ-00059805">
+        <name>Пылесос аккум. LXT BL 18В, циклон, 18 кПа, 250мл, сух.</name>
+        <vendor>Makita</vendor>
+        <barcodes>
+          <barcode>088381781619</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>30195</price>
+      </offer>
       <offer sku="УТ-00059821">
         <name>Сушилка напольная Nika СБТ18/РЗ розовое золото</name>
         <vendor>Nika</vendor>
@@ -24642,6 +24862,17 @@
         </pickup-options>
         <price>19790</price>
       </offer>
+      <offer sku="УТ-00069675">
+        <name>Машина подметальная WORTEX HPS 6518 механическая 1334415</name>
+        <vendor>Wortex</vendor>
+        <barcodes>
+          <barcode>6900602864151</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>72100</price>
+      </offer>
       <offer sku="УТ-00070098">
         <name>Садовый измельчитель WORTEX SE 4524</name>
         <vendor>Wortex</vendor>
@@ -25925,6 +26156,30 @@
         </pickup-options>
         <price>40500</price>
       </offer>
+      <offer sku="УТ-00090888">
+        <name>БОКС ДЛЯ ИНСТРУМЕНТОВ SYSTEMBOX ПУСТОЙ S 1600A016CT</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12800</price>
+      </offer>
+      <offer sku="УТ-00090889">
+        <name>БОКС ДЛЯ АКСЕССУАРОВ СРЕДНИЙ (2/9) 1600A016CV</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4470</price>
+      </offer>
+      <offer sku="УТ-00090891">
+        <name>БОКС ДЛЯ АКСЕССУАРОВ БОЛЬШОЙ (3/9) 1600A016CW</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4470</price>
+      </offer>
       <offer sku="УТ-00090915">
         <name>Аккумулятор для инструмента BOSCH EXPERT EXBA18V-150 1600A036ZM</name>
         <vendor>BOSCH</vendor>
@@ -26299,6 +26554,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20000</price>
+      </offer>
+      <offer sku="УТ-00091425">
+        <name>Лазерный уровень Bosch линейный Bosch GLL 80-33 G Professional 0601065500</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>248563</price>
       </offer>
       <offer sku="УТ-00091503">
         <name>Набор ножей BOSCH 2 шт. 1600A016BM</name>
@@ -26819,6 +27082,17 @@
         </pickup-options>
         <price>7600</price>
       </offer>
+      <offer sku="УТ-00091611">
+        <name>Японская пила Ryoba BOSCH 250 мм 1600A02ZB5</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255157</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12100</price>
+      </offer>
       <offer sku="УТ-00091612">
         <name>Пила японская BOSCH Kataba 270 мм 1600A02ZB6</name>
         <vendor>BOSCH</vendor>
@@ -26983,25 +27257,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12888</price>
-      </offer>
-      <offer sku="УТ-00092188">
-        <name>Bosch набор бит 2608522517 36 шт</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26194</price>
-      </offer>
-      <offer sku="УТ-00092222">
-        <name>Пильное полотно Bosch 50 мм 1 шт. арт. Полотно погружное PRO Starlock BIM 32x50 мм Hard Wood AIZ 32 BSPIB / артикул: 2608669070</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952629278</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4955</price>
       </offer>
       <offer sku="УТ-00092572">
         <name>Комбо: Аккум. Воздуходувка Einhell GP-LB 36/270 Li E + Зарядное устройство + 2 аккум. 18V 4,0Ah Einhell (343357012)</name>
@@ -27318,6 +27573,86 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>50600</price>
+      </offer>
+      <offer sku="УТ-00100791">
+        <name>Гайковерт ударный BOSCH GDS 18V-780 06019P4021</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>195000</price>
+      </offer>
+      <offer sku="УТ-00100792">
+        <name>БАТАРЕЙКА Bosch GBA18V-20 1600A03K19</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29500</price>
+      </offer>
+      <offer sku="УТ-00100795">
+        <name>Молоток отбойный Bosch GSH5MX 0611338901</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>169000</price>
+      </offer>
+      <offer sku="УТ-00100796">
+        <name>Пила настольная BOSCH GTS 70-216 0601B30600</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>345000</price>
+      </offer>
+      <offer sku="УТ-00100797">
+        <name>Машина полировальная Bosch GPO 11-180 S 06013A2300</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>52500</price>
+      </offer>
+      <offer sku="УТ-00100798">
+        <name>Нивелир лазерный Bosch GLL 20-22 G + LB10 0601065600</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>99500</price>
+      </offer>
+      <offer sku="УТ-00100799">
+        <name>Нивелир лазерный Bosch GLL 20-22 G + LB10 + BT150 0601065601</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>115000</price>
+      </offer>
+      <offer sku="УТ-00100800">
+        <name>Нивелир лазерный Bosch GLL 20-22 G + LB10 + BA3.7VXL + кейс 0601065602</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>132250</price>
+      </offer>
+      <offer sku="УТ-00100801">
+        <name>Нивелир лазерный Bosch GLL 80-33 G + LB10+ DK20 + BA3.7VXL + кейс 0601065501</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>240000</price>
+      </offer>
+      <offer sku="УТ-00100802">
+        <name>Нивелир лазерный Bosch GLL 12V-100-33 CG + LB10 + AA1 0601065400</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>250000</price>
       </offer>
     </offers>
   </shop>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 16:54">
+<fm_catalog date="2026-10-05 17:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4658,7 +4658,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>319290</price>
+        <price>312490</price>
       </offer>
       <offer sku="00000000709">
         <name>Дрель-шуруповерт аккумуляторная Вихрь ДА-24Л-2КУ 72/14/19</name>
@@ -4669,7 +4669,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>36690</price>
+        <price>35090</price>
       </offer>
       <offer sku="00000000888">
         <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
@@ -4680,7 +4680,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>32490</price>
+        <price>31990</price>
       </offer>
       <offer sku="00000001076">
         <name>Секатор Вихрь 200 мм 73/7/3/3</name>
@@ -4691,7 +4691,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3990</price>
+        <price>3710</price>
       </offer>
       <offer sku="00000001493">
         <name>Водонагреватель накопительный Ресанта ВН-10Н 74/5/7</name>
@@ -4699,7 +4699,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>46890</price>
+        <price>47390</price>
       </offer>
       <offer sku="00000001644">
         <name>140C Секатор с алюминиевыми рукоятками, плоскостной, 210 мм, RACO</name>
@@ -23950,7 +23950,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>142040</price>
+        <price>127880</price>
       </offer>
       <offer sku="УТ-00060869">
         <name>Набор пневмоинструмента ECO SGK-5 (5 предметов,верх. бак)</name>

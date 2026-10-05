@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 08:07">
+<fm_catalog date="2026-10-05 08:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4562,17 +4562,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34450</price>
-      </offer>
-      <offer sku="УТ-00040253">
-        <name>Стол складной туристический Nika ТСТ/С дуб сонома</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111522960</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11400</price>
       </offer>
       <offer sku="УТ-00040254">
         <name>Стол складной туристический Nika ТСТ/ЯС ясень черный</name>
@@ -10190,17 +10179,6 @@
         </pickup-options>
         <price>3980</price>
       </offer>
-      <offer sku="00000022413">
-        <name>Лента металлизированная углоформирующая защитная, 15 м// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800059581</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2880</price>
-      </offer>
       <offer sku="00000022415">
         <name>Лента углозащитная бумажная Сибртех 48 мм 50 м 88732</name>
         <vendor>Сибртех</vendor>
@@ -10442,14 +10420,6 @@
         </pickup-options>
         <price>40990</price>
       </offer>
-      <offer sku="00000023856">
-        <name>Шлифмашина угловая (болгарка) CROWN CT13003</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20990</price>
-      </offer>
       <offer sku="00000023859">
         <name>Шлифмашина угловая (болгарка) CROWN CT13034</name>
         <vendor>CROWN</vendor>
@@ -10573,17 +10543,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>121000</price>
-      </offer>
-      <offer sku="00000024798">
-        <name>Лобзик электрический ALTECO JS 750 22983</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216452384</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25900</price>
       </offer>
       <offer sku="00000024820">
         <name>Пила дисковая ALTECO CS 1200-185 31014</name>
@@ -13170,17 +13129,6 @@
         </pickup-options>
         <price>3165</price>
       </offer>
-      <offer sku="00000034629">
-        <name>Набор пилок для лобзика BOSCH T244D 5 шт. 2608630058</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140006859</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2690</price>
-      </offer>
       <offer sku="00000034630">
         <name>5 ЛОБЗИКОВЫХ ПИЛОК T 119 ВО, HCS</name>
         <vendor>BOSCH</vendor>
@@ -13730,17 +13678,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3760</price>
-      </offer>
-      <offer sku="00000035611">
-        <name>Сверло SDS plus-5X 15x200x260</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509223760</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4641</price>
       </offer>
       <offer sku="00000035629">
         <name>Набор буров по бетону Bosch SDS-Plus 8x150x210 мм 10 шт. 2608833900</name>
@@ -16255,17 +16192,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18888</price>
-      </offer>
-      <offer sku="00000059105">
-        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952531144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>122320</price>
       </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>
@@ -22992,14 +22918,6 @@
         </pickup-options>
         <price>31050</price>
       </offer>
-      <offer sku="УТ-00059962">
-        <name>Смеситель GAPPO с гигиеническим душем G7217-9 оружейная сталь встраиваемый</name>
-        <vendor>GAPPO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>51220</price>
-      </offer>
       <offer sku="УТ-00059996">
         <name>Душевая система с изливом Gappo G2406-3 Золото Сатин</name>
         <vendor>GAPPO</vendor>
@@ -25539,14 +25457,6 @@
         </pickup-options>
         <price>34500</price>
       </offer>
-      <offer sku="УТ-00085223">
-        <name>Пила дисковая аккумуляторная Makita SP001GZ02(R) (в подарок набор DC40RA+BL4040)</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>314910</price>
-      </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>
         <vendor>Nika</vendor>
@@ -25600,22 +25510,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7550</price>
-      </offer>
-      <offer sku="УТ-00085490">
-        <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2995</price>
-      </offer>
-      <offer sku="УТ-00085494">
-        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

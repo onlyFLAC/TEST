@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 17:24">
+<fm_catalog date="2026-10-05 17:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7375,17 +7375,6 @@
         </pickup-options>
         <price>7380</price>
       </offer>
-      <offer sku="00000008443">
-        <name>Набор колец для подвязки растений GRINDA, 50 шт</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925529857</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>490</price>
-      </offer>
       <offer sku="00000008446">
         <name>Набор кольцевых коронок ЗУБР 8 шт. 33350-H8_z01</name>
         <vendor>ЗУБР</vendor>
@@ -9388,17 +9377,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8380</price>
-      </offer>
-      <offer sku="00000016208">
-        <name>Набор винтов, гаек, шайб, 420 предм.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996118352</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4180</price>
       </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
@@ -16097,14 +16075,6 @@
         </pickup-options>
         <price>14888</price>
       </offer>
-      <offer sku="00000050351">
-        <name>Штроборез-бороздодел Фиолент Б1-30 1100 Вт ИДФР298416001-К1</name>
-        <vendor>Фиолент</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67100</price>
-      </offer>
       <offer sku="00000050361">
         <name>Доска гладильная Nika "ВЕРОНА 1" ДВ1/1 с девушкой и лошадью</name>
         <vendor>Nika</vendor>
@@ -16201,7 +16171,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>82137</price>
+        <price>75350</price>
       </offer>
       <offer sku="00000051476">
         <name>Таль ручная рычажная TOR ТРР-ТРШСР 6 т 3 м 10263</name>
@@ -25507,7 +25477,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13055</price>
+        <price>15165</price>
       </offer>
       <offer sku="УТ-00072727">
         <name>Санки детские Nika "ТИМКА 5 УНИВЕРСАЛ" Т5У/Ч черный</name>
@@ -27737,14 +27707,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2890</price>
-      </offer>
-      <offer sku="УТ-00093022">
-        <name>ЗУБР 1900 Вт, 70 мм, универсальный фрезер (ФМУ-1970)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>71980</price>
       </offer>
       <offer sku="УТ-00093320">
         <name>KRAFTOOL GT-160/60, 160/60 мм, универсальная, быстрозажимная, в T-track, пистолетная струбцина (32237)</name>

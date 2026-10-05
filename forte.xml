@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 17:53">
+<fm_catalog date="2026-10-05 18:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17221,7 +17221,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>111000</price>
+        <price>120100</price>
       </offer>
       <offer sku="00000061231">
         <name>Триммер для газона HYUNDAI HY-600</name>
@@ -21579,7 +21579,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>530400</price>
+        <price>591000</price>
       </offer>
       <offer sku="УТ-00051636">
         <name>Сетка фильтрующая PROFSET 1095</name>
@@ -21885,7 +21885,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>330000</price>
+        <price>354500</price>
       </offer>
       <offer sku="УТ-00055120">
         <name>Газонокосилка бензиновая STIHL RM 248.3 T WB210113415</name>

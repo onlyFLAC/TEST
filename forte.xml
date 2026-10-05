@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 07:38">
+<fm_catalog date="2026-10-05 08:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1475,6 +1475,17 @@
         </pickup-options>
         <price>6900</price>
       </offer>
+      <offer sku="УТ-00012980">
+        <name>Доска гладильная Nika "ЛИНА ЭКОНОМ" ЭК1 (в ассортименте)</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830301</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7500</price>
+      </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -1866,17 +1877,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7778</price>
-      </offer>
-      <offer sku="УТ-00014833">
-        <name>Фреза пазовая ЗУБР 12х30 мм 28755-12-30</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373407949</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4890</price>
       </offer>
       <offer sku="УТ-00014834">
         <name>ЗУБР 10x30мм, хвостовик 8мм, фреза пазовая прямая с нижними подрезателями, серия Профессионал 28755-10-30</name>
@@ -2706,22 +2706,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022494">
-        <name>Мелки маркировочные графитовые (12шт в упаковке)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9900</price>
-      </offer>
-      <offer sku="УТ-00022528">
-        <name>Очки защитные Husqvarna Yellow X</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11500</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -8833,6 +8817,17 @@
         </pickup-options>
         <price>855</price>
       </offer>
+      <offer sku="00000013206">
+        <name>Набор ключей комбинированных, 6 - 22 мм, 12 шт., CrV, полированный хром// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996016856</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7279</price>
+      </offer>
       <offer sku="00000013425">
         <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10294,17 +10289,6 @@
         </pickup-options>
         <price>590</price>
       </offer>
-      <offer sku="00000022662">
-        <name>Кобура для шуруповерта с карманом для бит и сверл// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996047447</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4380</price>
-      </offer>
       <offer sku="00000022664">
         <name>Раскладка для инструмента настенная Matrix 675х450 мм 90245</name>
         <vendor>Matrix</vendor>
@@ -11180,17 +11164,6 @@
         </pickup-options>
         <price>9600</price>
       </offer>
-      <offer sku="00000031548">
-        <name>Тачка строительная двухколесная Total Tools Т2-1035</name>
-        <vendor>Total Tools</vendor>
-        <barcodes>
-          <barcode>4870024393039</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22405</price>
-      </offer>
       <offer sku="00000031550">
         <name>Тачка строительная одноколесная TotalTools Т-1122</name>
         <vendor>Total Tools</vendor>
@@ -11350,17 +11323,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>116500</price>
-      </offer>
-      <offer sku="00000031941">
-        <name>Подставка складная TOPPY XL 2 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31100</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -12362,17 +12324,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>256380</price>
-      </offer>
-      <offer sku="00000032809">
-        <name>Набор бит и сверл Bosch X-Line 34 шт. 2607010608</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140563147</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8690</price>
       </offer>
       <offer sku="00000032811">
         <name>Сумка Bosch Professional большая 1600A003BK</name>
@@ -17487,17 +17438,6 @@
         </pickup-options>
         <price>20570</price>
       </offer>
-      <offer sku="00000064332">
-        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093784921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13500</price>
-      </offer>
       <offer sku="00000064335">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 коричневая</name>
         <vendor>ЗМИ</vendor>
@@ -18410,14 +18350,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15880</price>
-      </offer>
-      <offer sku="00000072924">
-        <name>Фланец опорный BOSCH 1607000D62</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15970</price>
       </offer>
       <offer sku="00000072926">
         <name>Комплект угольных щеток BOSCH 1607014176</name>
@@ -20832,17 +20764,6 @@
         </pickup-options>
         <price>552200</price>
       </offer>
-      <offer sku="УТ-00048210">
-        <name>Масло 2Т 1л HP Husqvarna 587 80 85-10</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245893</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7200</price>
-      </offer>
       <offer sku="УТ-00048211">
         <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
         <vendor>Husqvarna</vendor>
@@ -20853,14 +20774,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1880</price>
-      </offer>
-      <offer sku="УТ-00048212">
-        <name>Масло 4Т SAE-30 0.6л Husqvarna (в коробке 12 шт) 577 41 92-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4220</price>
       </offer>
       <offer sku="УТ-00048213">
         <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
@@ -26044,14 +25957,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69510</price>
-      </offer>
-      <offer sku="УТ-00089533">
-        <name>Лестница трехсекционная PROFSET 3х14 ступеней DLE314</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>119960</price>
       </offer>
       <offer sku="УТ-00089534">
         <name>Лестница двухсекционная PROFSET 2х9 ступеней DLE209</name>

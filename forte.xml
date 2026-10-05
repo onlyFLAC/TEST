@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 14:28">
+<fm_catalog date="2026-10-05 14:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -215,6 +215,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
+      </offer>
+      <offer sku="УТ-00003923">
+        <name>Фен строительный аккумуляторный CROWN CT60001HX</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640186246897</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27100</price>
       </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
@@ -8740,17 +8751,6 @@
         </pickup-options>
         <price>8379</price>
       </offer>
-      <offer sku="00000012803">
-        <name>Набор ключей трубчатых торцевых 9 пр// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996069722</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4480</price>
-      </offer>
       <offer sku="00000012830">
         <name>Ключ-крест баллонный, 17 х 19 х 21 мм, под квадрат 1/2", толщина 14 мм// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -8817,17 +8817,6 @@
         </pickup-options>
         <price>1880</price>
       </offer>
-      <offer sku="00000013738">
-        <name>Набор пробойников для кожи 2; 3; 4; 5; 6; 8; 9; 10; 13 мм, 9 шт, чехол// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996163567</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6301</price>
-      </offer>
       <offer sku="00000013790">
         <name>Зубило, 200 х 20 мм, оцинкованное// Россия</name>
         <vendor>Россия</vendor>
@@ -8839,17 +8828,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2880</price>
-      </offer>
-      <offer sku="00000013869">
-        <name>Пистолет продувочный пневматический Matrix с насадками 6 шт. 57336</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996019635</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2165</price>
       </offer>
       <offer sku="00000013944">
         <name>Скобы для пнев. степл., 22 мм, шир. - 1,2 мм, тол. - 0,6 мм, шир. скобы - 11,2 мм, 5000 шт// Matrix</name>
@@ -19737,17 +19715,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="УТ-00001246">
-        <name>Сальник коленвала STIHL DIN3760-AS 12x22x7 мм 96390031230</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711681166</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1940</price>
-      </offer>
       <offer sku="УТ-00001249">
         <name>Крышка звездочки цепи (комплект быстрого натяжения цепи) для бензопилы STIHL 11230071008</name>
         <vendor>STIHL</vendor>
@@ -21112,6 +21079,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34700</price>
+      </offer>
+      <offer sku="УТ-00049707">
+        <name>12305 - "P.I.T." Инверторная Сварка 230 А</name>
+        <vendor>P.I.T.</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36300</price>
+      </offer>
+      <offer sku="УТ-00049757">
+        <name>4211 - "P.I.T." Тележка 1 колесная</name>
+        <vendor>P.I.T.</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18900</price>
       </offer>
       <offer sku="УТ-00049797">
         <name>745010 - PRO - "P.I.T." Бензопила 55 CC 22"</name>
@@ -27502,6 +27485,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
+      </offer>
+      <offer sku="УТ-00099520">
+        <name>31015 Краскопульт CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44990</price>
       </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>

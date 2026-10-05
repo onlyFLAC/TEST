@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-05 13:00">
+<fm_catalog date="2026-10-05 13:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -858,47 +858,6 @@
         </pickup-options>
         <price>495319</price>
       </offer>
-      <offer sku="УТ-00005908">
-        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195700</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3290</price>
-      </offer>
-      <offer sku="УТ-00005937">
-        <name>Уровень тип 70 Electric, 43 см, для электриков STABILA 16135</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069161354</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22490</price>
-      </offer>
-      <offer sku="УТ-00005950">
-        <name>Уровень Stabila тип 70, 50 см 02283</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12590</price>
-      </offer>
-      <offer sku="УТ-00005957">
-        <name>Уровень тип 80AS, 100 см STABILA 19168</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191689</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23190</price>
-      </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
         <vendor>STABILA</vendor>
@@ -909,17 +868,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16490</price>
-      </offer>
-      <offer sku="УТ-00005962">
-        <name>Уровень тип 80AS, 60 см STABILA 19165</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191658</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18990</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -10574,17 +10522,6 @@
         </pickup-options>
         <price>27900</price>
       </offer>
-      <offer sku="00000024831">
-        <name>Шлифмашина эксцентриковая ALTECO EX 0910 (EX 480-125 E) 27462</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216453442</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19580</price>
-      </offer>
       <offer sku="00000024981">
         <name>Краскопульт электрический ALTECO SG 2203 27633</name>
         <vendor>ALTECO</vendor>
@@ -12390,17 +12327,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88630</price>
-      </offer>
-      <offer sku="00000032791">
-        <name>РУБАНОК/ЭЛЕКТРОИНСТРУМЕНТ GHO 12V-20 (Без акк. и з.у.)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140866583</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>143860</price>
       </offer>
       <offer sku="00000032796">
         <name>Насадка сверлильная для BOSCH IXO Collection 1600A00B9P</name>
@@ -24960,33 +24886,6 @@
         </pickup-options>
         <price>115990</price>
       </offer>
-      <offer sku="УТ-00072368">
-        <name>Клещи KNIPEX 90 70 220</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15720</price>
-      </offer>
-      <offer sku="УТ-00072381">
-        <name>Инструмент для опрессовки екеров KNIPEX 97 51 13</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773087908</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41675</price>
-      </offer>
-      <offer sku="УТ-00072397">
-        <name>Инструмент для удаления оболочки KNIPEX 16 80 125 SB</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18385</price>
-      </offer>
       <offer sku="УТ-00072410">
         <name>Клещи для удаления оболочки KNIPEX 13 42 165</name>
         <vendor>KNIPEX</vendor>
@@ -25323,14 +25222,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
-      </offer>
-      <offer sku="УТ-00074377">
-        <name>Материал полировальный FESTOOL 5шт. PF-STF-D150x20 488348</name>
-        <vendor>Festool</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23490</price>
       </offer>
       <offer sku="УТ-00074508">
         <name>Подшипник Россия 30х62 мм 206</name>

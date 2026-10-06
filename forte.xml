@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-06 15:33">
+<fm_catalog date="2026-10-06 16:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15722,18 +15722,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9100</price>
-      </offer>
-      <offer sku="00000050314">
-        <name>Вешалка настенная Nika ВН5/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111516341</barcode>
-          <barcode>4640047369577</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4999</price>
       </offer>
       <offer sku="00000050315">
         <name>Вешалка настенная Nika ВП4МЧ матово-черный</name>

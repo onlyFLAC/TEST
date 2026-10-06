@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-06 13:06">
+<fm_catalog date="2026-10-06 13:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6193,17 +6193,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25210</price>
-      </offer>
-      <offer sku="00000006308">
-        <name>ЗУБР СЦ-300 заточной станок для пильных цепей, d145 мм, 230 Вт</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373358111</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>53390</price>
       </offer>
       <offer sku="00000006311">
         <name>Домкрат подкатной гидравлический ЗУБР Т-30 2 т 43053-2</name>
@@ -25035,17 +25024,6 @@
         </pickup-options>
         <price>25480</price>
       </offer>
-      <offer sku="УТ-00072496">
-        <name>Кусачки KNIPEX 78 61 125 ESD</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773025184</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20890</price>
-      </offer>
       <offer sku="УТ-00072499">
         <name>Кусачки боковые KNIPEX 77 72 115 SB</name>
         <vendor>KNIPEX</vendor>
@@ -25683,14 +25661,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>190</price>
-      </offer>
-      <offer sku="УТ-00084675">
-        <name>Кусачки прецизионные KNIPEX 125 мм 7813125SB</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19685</price>
       </offer>
       <offer sku="УТ-00084680">
         <name>Ножницы для резки кабелей KNIPEX 165 мм 95 12 165</name>

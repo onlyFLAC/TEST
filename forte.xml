@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-06 07:05">
+<fm_catalog date="2026-10-06 07:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -878,14 +878,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26790</price>
-      </offer>
-      <offer sku="УТ-00006058">
-        <name>Электрический водоподогреватель ЭВП-12М на 380</name>
-        <vendor>Теплотех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54850</price>
       </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
@@ -6435,17 +6427,6 @@
         </pickup-options>
         <price>12880</price>
       </offer>
-      <offer sku="00000006514">
-        <name>ЗУБР Шланг напорно-всасывающий со спиралью ПВХ, 3 атм, 38мм х 15м</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373298653</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18600</price>
-      </offer>
       <offer sku="00000006518">
         <name>ЗУБР ЭКСПЕРТ 3/4", 25 м, 22 атм, трёхслойный поливочный шланг, армированный</name>
         <vendor>ЗУБР</vendor>
@@ -9367,17 +9348,6 @@
         </pickup-options>
         <price>140</price>
       </offer>
-      <offer sku="00000016138">
-        <name>Анкер, регулируемый по высоте, ARH(100)-24, цинк, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800045065</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8380</price>
-      </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
         <vendor>STELS</vendor>
@@ -9522,17 +9492,6 @@
         </pickup-options>
         <price>13180</price>
       </offer>
-      <offer sku="00000016716">
-        <name>Нож садовый складной, копулировочный, 173 мм, деревянная рукоятка// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996073712</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2400</price>
-      </offer>
       <offer sku="00000016727">
         <name>Сучкорез ручной Palisad 700 мм 60521</name>
         <vendor>Palisad</vendor>
@@ -9635,18 +9594,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2190</price>
-      </offer>
-      <offer sku="00000017156">
-        <name>Горшочек для рассады, 90х90х95 мм, полистирол, 5 шт.// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4044996218434</barcode>
-          <barcode>4606800072276</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>490</price>
       </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
@@ -10352,14 +10299,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2256</price>
-      </offer>
-      <offer sku="00000021901">
-        <name>Кисть мочальная// Россия</name>
-        <vendor>Россия</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>980</price>
       </offer>
       <offer sku="00000021949">
         <name>Набор малярных карандашей Sparta 180 мм 12 шт. 848045</name>
@@ -11159,17 +11098,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>56400</price>
-      </offer>
-      <offer sku="00000026447">
-        <name>Набор инструментов 82+6пр.1/4"1/2"(6гр.)+(головка-бита 1/4" T40; биты 5/16": М8,10,12,14;головки 1/2": 10,12,13мм;ключи комбинир.:15,16мм)</name>
-        <vendor>Rock FORCE</vendor>
-        <barcodes>
-          <barcode>4631140308587</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43240</price>
       </offer>
       <offer sku="00000026504">
         <name>Набор инструментов для обслуживания тормозных цилиндров Rock FORCE 8 шт. RF-907B1</name>
@@ -13656,17 +13584,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1790</price>
-      </offer>
-      <offer sku="00000035246">
-        <name>Диск отрезной по металлу Bosch 125х2.5 мм 2608603166</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140658256</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
       </offer>
       <offer sku="00000035249">
         <name>Диск отрезной BOSCH 230х3 мм 2608603162</name>
@@ -20307,17 +20224,6 @@
         </pickup-options>
         <price>6591</price>
       </offer>
-      <offer sku="УТ-00001925">
-        <name>Венец полиамидный СИБРТЕХ для БСЛ-120 95448005</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800091505</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9080</price>
-      </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
         <vendor>Einhell</vendor>
@@ -25217,17 +25123,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88080</price>
-      </offer>
-      <offer sku="УТ-00065340">
-        <name>ЗУБР 125 мм, Мини бокорезы, Профессионал-Чисторез (22172)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373540189</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1720</price>
       </offer>
       <offer sku="УТ-00065425">
         <name>Штроборез ЗУБР "МАСТЕР" ЗШ-30-1205 Т</name>

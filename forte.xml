@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-06 10:01">
+<fm_catalog date="2026-10-06 11:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2007,17 +2007,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1380</price>
-      </offer>
-      <offer sku="УТ-00015312">
-        <name>ЗУБР МЕХАНИК, тонкое нитриловое покрытие, размер L, маслобензостойкие перчатки, Профессионал (11276-L) 11276-L_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373114700</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
       </offer>
       <offer sku="УТ-00015348">
         <name>KRAFTOOL SPECTRA, удлинённый экран 220х385мм, поликарбонат 2мм, храповик, защитный лицевой щиток (110811) 110811</name>
@@ -8333,6 +8322,17 @@
         </pickup-options>
         <price>590</price>
       </offer>
+      <offer sku="00000011126">
+        <name>Центрирующее сверло ЗУБР "Мастер" для коронок по бетону, 8 мм, цилиндрический хвостовик</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373260452</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>580</price>
+      </offer>
       <offer sku="00000011256">
         <name>Шнур Сибин капрон 1.5 мм 100 м 50526</name>
         <vendor>Сибин</vendor>
@@ -11548,17 +11548,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4470</price>
-      </offer>
-      <offer sku="00000032301">
-        <name>Бокс для инструментов Bosch SystemBox пустой S</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140951883</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12800</price>
       </offer>
       <offer sku="00000032316">
         <name>Воздуходувка аккумуляторная Bosch GBL 18V-120 БЕЗ ЗУ И АКБ 06019F5100</name>
@@ -17908,6 +17897,14 @@
         </pickup-options>
         <price>435034</price>
       </offer>
+      <offer sku="00000070156">
+        <name>Крюк самозакрывающийся с проушиной TOR 3,15 т, шт</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7049</price>
+      </offer>
       <offer sku="00000070234">
         <name>Стяжка цепная TOR R 6-8 мм 1179 кг (2600 lbs, талреп с храповиком), шт</name>
         <vendor>TOR</vendor>
@@ -20827,6 +20824,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130620</price>
+      </offer>
+      <offer sku="УТ-00047292">
+        <name>Тележка для тали TOR Тип А (GCT) 0,5 т без механизма передвижения, шт</name>
+        <vendor>TOR</vendor>
+        <barcodes>
+          <barcode>4630034060105</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18888</price>
       </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>
@@ -25086,6 +25094,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>47865</price>
+      </offer>
+      <offer sku="УТ-00072574">
+        <name>Ножницы электрика KNIPEX 95 05 155 SB</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773077725</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18580</price>
       </offer>
       <offer sku="УТ-00072582">
         <name>Клещи сантехнические KNIPEX 88 01 250</name>

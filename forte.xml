@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-06 14:05">
+<fm_catalog date="2026-10-06 14:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2863,17 +2863,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>717860</price>
-      </offer>
-      <offer sku="УТ-00024995">
-        <name>Фильтр полиуретановый для пылесоса Denzel 28210</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996238548</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>790</price>
       </offer>
       <offer sku="УТ-00025069">
         <name>Удлинитель шнека мотобура EXT-1000, длина 1000мм,соединение 20мм// Denzel</name>
@@ -21621,14 +21610,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>147700</price>
-      </offer>
-      <offer sku="УТ-00055218">
-        <name>Всасывающий измельчитель SH 56 42410110927</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>208800</price>
       </offer>
       <offer sku="УТ-00055241">
         <name>Бензопила STIHL MS 661 63 см 11440113050К63</name>

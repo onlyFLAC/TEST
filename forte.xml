@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-06 11:38">
+<fm_catalog date="2026-10-06 12:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -856,6 +856,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>495319</price>
+      </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -24983,6 +24994,17 @@
         </pickup-options>
         <price>115990</price>
       </offer>
+      <offer sku="УТ-00072393">
+        <name>Инструмент для удаления изоляции KNIPEX 16 60 06 SB</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773077961</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12150</price>
+      </offer>
       <offer sku="УТ-00072410">
         <name>Клещи для удаления оболочки KNIPEX 13 42 165</name>
         <vendor>KNIPEX</vendor>
@@ -25031,6 +25053,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25480</price>
+      </offer>
+      <offer sku="УТ-00072496">
+        <name>Кусачки KNIPEX 78 61 125 ESD</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773025184</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20890</price>
       </offer>
       <offer sku="УТ-00072499">
         <name>Кусачки боковые KNIPEX 77 72 115 SB</name>
@@ -25322,6 +25355,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
+      </offer>
+      <offer sku="УТ-00074333">
+        <name>Вставка-ячейка FESTOOL 10шт. Box 50x50x68/10 204858</name>
+        <vendor>Festool</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11990</price>
       </offer>
       <offer sku="УТ-00074508">
         <name>Подшипник Россия 30х62 мм 206</name>
@@ -25661,6 +25702,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>190</price>
+      </offer>
+      <offer sku="УТ-00084675">
+        <name>Кусачки прецизионные KNIPEX 125 мм 7813125SB</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19685</price>
       </offer>
       <offer sku="УТ-00084680">
         <name>Ножницы для резки кабелей KNIPEX 165 мм 95 12 165</name>

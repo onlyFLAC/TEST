@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-06 07:34">
+<fm_catalog date="2026-10-06 08:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1097,17 +1097,6 @@
         </pickup-options>
         <price>1779</price>
       </offer>
-      <offer sku="УТ-00008235">
-        <name>Ножовка для быстрого реза сырой древесины ЗУБР "ПОХОДНАЯ 7" 270 мм 15166-35</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373390883</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4028</price>
-      </offer>
       <offer sku="УТ-00008693">
         <name>Колонки Microlab B55(13) черный 17322</name>
         <vendor>Microlab</vendor>
@@ -1386,17 +1375,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1590</price>
-      </offer>
-      <offer sku="УТ-00011527">
-        <name>Набор скоб ЗУБР "МАСТЕР" тип 53 8 мм 1000 шт. 31625-08</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373235030</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
       </offer>
       <offer sku="УТ-00011761">
         <name>Стол раскладной и 4 табурета GREENWAY 8833В -4</name>
@@ -1803,14 +1781,6 @@
         </pickup-options>
         <price>2580</price>
       </offer>
-      <offer sku="УТ-00014205">
-        <name>KRAFTOOL EXTREM 0-360°, точность 0,05°, HOLD, IP67, Электронный уровень-уклономер (34686) 34686</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37080</price>
-      </offer>
       <offer sku="УТ-00014223">
         <name>Рулетка Kraftool "X-DRIVE" ударостойкая 3 м 19 мм 34122-03-19_z02</name>
         <vendor>KRAFTOOL</vendor>
@@ -1821,17 +1791,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2270</price>
-      </offer>
-      <offer sku="УТ-00014271">
-        <name>STAYER SG-25 25 мм, Чугунная струбцина G (3215-025) 3215-025</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229229542</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>680</price>
       </offer>
       <offer sku="УТ-00014456">
         <name>ЗУБР ПВЛ 12 х 0.5 мм, 25 м, перфорированная вентиляционная лента прямая, цинк (310247-12-05) 310247-12-05</name>
@@ -2284,14 +2243,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>780</price>
-      </offer>
-      <offer sku="УТ-00015775">
-        <name>STAYER Post-Level, Магнитный уровень-угольник (3456)</name>
-        <vendor>STAYER</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1380</price>
       </offer>
       <offer sku="УТ-00015851">
         <name>Бур по бетону ЗУБР SDS+ 12х310 мм 29314-310-12_z02</name>
@@ -5946,28 +5897,6 @@
         </pickup-options>
         <price>25010</price>
       </offer>
-      <offer sku="00000005477">
-        <name>ЗУБР Быстрый рез 235 x 30мм 24Т, диск пильный по дереву</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373116155</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6380</price>
-      </offer>
-      <offer sku="00000005479">
-        <name>ЗУБР ВИНТ-100 система крепления штукатурных маяков, 100 шт</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373403248</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2070</price>
-      </offer>
       <offer sku="00000005490">
         <name>Сетевая дрель-шуруповерт ЗУБР ДШ-М3-500-2</name>
         <vendor>ЗУБР</vendor>
@@ -6416,17 +6345,6 @@
         </pickup-options>
         <price>14690</price>
       </offer>
-      <offer sku="00000006513">
-        <name>ЗУБР Шланг напорно-всасывающий со спиралью ПВХ, 3 атм, 32мм х 15м</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373298646</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12880</price>
-      </offer>
       <offer sku="00000006518">
         <name>ЗУБР ЭКСПЕРТ 3/4", 25 м, 22 атм, трёхслойный поливочный шланг, армированный</name>
         <vendor>ЗУБР</vendor>
@@ -6526,17 +6444,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2680</price>
-      </offer>
-      <offer sku="00000006729">
-        <name>КЕРАМО-22 110 мм, диск алмазный отрезной сплошной по керамограниту, мрамору, плитке, ЗУБР Профессионал</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373291548</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>680</price>
       </offer>
       <offer sku="00000006735">
         <name>Диск алмазный отрезной по керамограниту ЗУБР "КЕРАМО-22" 180 мм 36615-180_z01</name>
@@ -6704,17 +6611,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390</price>
-      </offer>
-      <offer sku="00000007078">
-        <name>Ключ имбусовый ЗУБР "Мастер", хромованадиевая сталь, хромированное покрытие, 12мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373216367</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1989</price>
       </offer>
       <offer sku="00000007108">
         <name>Ключ разводной SlimWide, 300 / 60 мм, KRAFTOOL</name>
@@ -7852,17 +7748,6 @@
         </pickup-options>
         <price>8719</price>
       </offer>
-      <offer sku="00000009315">
-        <name>Полировальная насадка STAYER "MASTER" из поролона на липучке d=180мм</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229208455</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2200</price>
-      </offer>
       <offer sku="00000009415">
         <name>Набор полотен для ножовки по металлу STAYER 300 мм 24 TPI 10 шт. 1588-S10</name>
         <vendor>STAYER</vendor>
@@ -8601,17 +8486,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2880</price>
-      </offer>
-      <offer sku="00000011565">
-        <name>Щетка-крацовка чашечная для УШМ, жгутированная стальная проволока 0,5 мм, d=100 мм, MIRAX 35104-100</name>
-        <vendor>Mirax</vendor>
-        <barcodes>
-          <barcode>4034229215958</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3480</price>
       </offer>
       <offer sku="00000011618">
         <name>Ящик для инструмента "НЕВА-12" пластиковый, ЗУБР</name>
@@ -14531,17 +14405,6 @@
         </pickup-options>
         <price>2890</price>
       </offer>
-      <offer sku="00000036779">
-        <name>КОНУСНЫЙ ЧАШЕЧНЫЙ ШЛИФКРУГ 110MM K36 КАМ</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140026383</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9545</price>
-      </offer>
       <offer sku="00000036860">
         <name>Фреза карнизная BOSCH 3х8х11 мм 2608628344</name>
         <vendor>BOSCH</vendor>
@@ -16981,17 +16844,6 @@
         </pickup-options>
         <price>42100</price>
       </offer>
-      <offer sku="00000059390">
-        <name>Сушилка напольная Nika СБ2/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111505017</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8050</price>
-      </offer>
       <offer sku="00000059393">
         <name>Дрель-шуруповерт аккумуляторная ЗУБР ДШЛ-185-22</name>
         <vendor>ЗУБР</vendor>
@@ -18436,17 +18288,6 @@
         </pickup-options>
         <price>4090</price>
       </offer>
-      <offer sku="00000071333">
-        <name>STAYER OPTIMA 235 x 32/30мм 36Т, диск пильный по дереву, оптимальный рез</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229238766</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4940</price>
-      </offer>
       <offer sku="00000071365">
         <name>Магнитный уровень KRAFTOOL с зеркальным глазком, 600 мм 34785-60</name>
         <vendor>KRAFTOOL</vendor>
@@ -18490,14 +18331,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14840</price>
-      </offer>
-      <offer sku="00000071449">
-        <name>ЗУБР Бур SDS-plus 25 х 260 мм</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4292</price>
       </offer>
       <offer sku="00000071455">
         <name>Фреза кромочная калевочная ЗУБР 28785-28.6</name>
@@ -19296,17 +19129,6 @@
         </pickup-options>
         <price>18270</price>
       </offer>
-      <offer sku="00000075906">
-        <name>ЗУБР № 5 ПОЛУФУГАНОК рубанок металлический 350х60 мм.</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373370113</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25380</price>
-      </offer>
       <offer sku="00000075950">
         <name>ЗУБР Бур SDS-max 22 x 410/520 мм, Профессионал</name>
         <vendor>ЗУБР</vendor>
@@ -19325,17 +19147,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12190</price>
-      </offer>
-      <offer sku="00000075979">
-        <name>ЗУБР НВ-48 насадка-заклепочник на шуруповерт, Профессионал</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373407192</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11020</price>
       </offer>
       <offer sku="00000076002">
         <name>УГОЛ-40 угломер электронный, 400 мм, Диапазон 0-230°, Точность ±0,1°, HOLD, Подсветка, Фиксация угла</name>
@@ -19564,17 +19375,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7680</price>
-      </offer>
-      <offer sku="УТ-00000439">
-        <name>STAYER FAST 230 x 32/30мм 24Т, диск пильный по дереву, быстрый рез</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229237325</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4980</price>
       </offer>
       <offer sku="УТ-00000467">
         <name>Снеговая лопата ЗУБР АРКТИКА 500 мм пластиковая с алюминиевой планкой, эргономичный металлический черенок, V-ручка</name>
@@ -22962,17 +22762,6 @@
         </pickup-options>
         <price>13200</price>
       </offer>
-      <offer sku="УТ-00059658">
-        <name>Пуф Nika HPF1/P гусиная лапка</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111519526</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18350</price>
-      </offer>
       <offer sku="УТ-00059659">
         <name>Стремянка с широкими ступенями Nika СМШ2/Б белый</name>
         <vendor>Nika</vendor>
@@ -25097,22 +24886,6 @@
         </pickup-options>
         <price>8119</price>
       </offer>
-      <offer sku="УТ-00065100">
-        <name>ЗУБР 10 мм, белый, набор для крепления унитазов, Профессионал (44210)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
-      </offer>
-      <offer sku="УТ-00065299">
-        <name>5 х 8 мм, 18 м, самоклеящийся уплотнитель (40901-05-18)</name>
-        <vendor>Без ТМ</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1380</price>
-      </offer>
       <offer sku="УТ-00065307">
         <name>ЗУБР 2700 Вт, d230 мм, УШМ, АВТ защита, фланец ″МИГ″, Профессионал (УШМ-П230-2700 ПВСТ)</name>
         <vendor>ЗУБР</vendor>
@@ -25488,14 +25261,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>300000</price>
-      </offer>
-      <offer sku="УТ-00072906">
-        <name>Бензопила Husqvarna 365 18"; 3/8 1.5 68DL C85 X-Cut HLM X-Force 970 71 85-18</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>410000</price>
       </offer>
       <offer sku="УТ-00072929">
         <name>Газонокосилка-робот Husqvarna ASPIRE R4 970 56 85-11</name>
@@ -27610,14 +27375,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19950</price>
-      </offer>
-      <offer sku="УТ-00093417">
-        <name>KRAFTOOL KOMPAKT-300, 300 мм, усиленный профиль, с зеркальным глазком, компактный магнитный уровень (34784)</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9445</price>
       </offer>
       <offer sku="УТ-00093438">
         <name>KRAFTOOL 25 мм, 5 шт, сегментированные лезвия (09602-25-S5)</name>

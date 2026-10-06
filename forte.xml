@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-06 12:37">
+<fm_catalog date="2026-10-06 13:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17908,14 +17908,6 @@
         </pickup-options>
         <price>435034</price>
       </offer>
-      <offer sku="00000070156">
-        <name>Крюк самозакрывающийся с проушиной TOR 3,15 т, шт</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7049</price>
-      </offer>
       <offer sku="00000070234">
         <name>Стяжка цепная TOR R 6-8 мм 1179 кг (2600 lbs, талреп с храповиком), шт</name>
         <vendor>TOR</vendor>
@@ -20835,17 +20827,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130620</price>
-      </offer>
-      <offer sku="УТ-00047292">
-        <name>Тележка для тали TOR Тип А (GCT) 0,5 т без механизма передвижения, шт</name>
-        <vendor>TOR</vendor>
-        <barcodes>
-          <barcode>4630034060105</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18888</price>
       </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>

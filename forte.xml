@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 07:39">
+<fm_catalog date="2026-10-07 08:08">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2310,17 +2310,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2500</price>
-      </offer>
-      <offer sku="УТ-00016719">
-        <name>Набор перовых сверл Bosch 20/22/25 мм 3 шт. 2608900331</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952534053</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6528</price>
       </offer>
       <offer sku="УТ-00016733">
         <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
@@ -10430,17 +10419,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40990</price>
-      </offer>
-      <offer sku="00000023859">
-        <name>Шлифмашина угловая (болгарка) CROWN CT13034</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640186249652</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29990</price>
       </offer>
       <offer sku="00000023888">
         <name>Фен строительный CROWN CT19007BMC</name>
@@ -18816,17 +18794,6 @@
         </pickup-options>
         <price>23300</price>
       </offer>
-      <offer sku="00000074791">
-        <name>Сушилка на радиатор Nika СБ5-65П/С серебряный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076028902</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1800</price>
-      </offer>
       <offer sku="00000074985">
         <name>Шлифмашина угловая (болгарка) DeWALT DWE4157</name>
         <vendor>DeWALT</vendor>
@@ -19102,17 +19069,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39690</price>
-      </offer>
-      <offer sku="00000076137">
-        <name>Пила дисковая аккумуляторная IVT СSL-165/20V-FS</name>
-        <vendor>IVT</vendor>
-        <barcodes>
-          <barcode>7630005266465</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>73278</price>
       </offer>
       <offer sku="00000076324">
         <name>Коленвал для бензопилы STIHL 11320300402</name>
@@ -21270,14 +21226,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8100</price>
-      </offer>
-      <offer sku="УТ-00052936">
-        <name>Крюк зацеп для рулетки 505 69 72-10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3350</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
@@ -25175,14 +25123,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>487000</price>
-      </offer>
-      <offer sku="УТ-00072975">
-        <name>Масло синтетическое с дозатором Husqvarna 2Т 1л XP 547 92 98-02</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16500</price>
       </offer>
       <offer sku="УТ-00072976">
         <name>Масло для смазки цепи Husqvarna 1л Veg X-GUARD BIO биоразлагаемое 596 45 73-01</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 11:04">
+<fm_catalog date="2026-10-07 11:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1714,17 +1714,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1280</price>
-      </offer>
-      <offer sku="УТ-00013909">
-        <name>Черенок для грабель Grinda 1300 мм 39630-13</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925602772</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1580</price>
       </offer>
       <offer sku="УТ-00013920">
         <name>STAYER HEAVY DUTY 300 л, чёрные, 10шт, особопрочные, строительные мусорные мешки (39157-300) 39157-300</name>
@@ -7539,17 +7528,6 @@
         </pickup-options>
         <price>6790</price>
       </offer>
-      <offer sku="00000009047">
-        <name>Перфоратор электрический ЗУБР ЗП-26-800 К</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373134821</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35668</price>
-      </offer>
       <offer sku="00000009137">
         <name>Пила дисковая ЗУБР 900 Вт ЗПД-900</name>
         <vendor>ЗУБР</vendor>
@@ -10348,17 +10326,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65780</price>
-      </offer>
-      <offer sku="00000023639">
-        <name>Стремянка двухсторонняя Сибртех 4 ступеней 97984</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800072030</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18990</price>
       </offer>
       <offer sku="00000023732">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
@@ -22117,17 +22084,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>48100</price>
-      </offer>
-      <offer sku="УТ-00057355">
-        <name>Аккумуляторный кусторез CHT 21-45 Solo ALTECO, шт</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244618370</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28100</price>
       </offer>
       <offer sku="УТ-00057357">
         <name>Аккумуляторный триммер CT 21-25 Solo ALTECO, шт</name>

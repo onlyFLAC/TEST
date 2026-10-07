@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 13:01">
+<fm_catalog date="2026-10-07 13:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8465,17 +8465,6 @@
         </pickup-options>
         <price>13534</price>
       </offer>
-      <offer sku="00000011642">
-        <name>Молоток слесарный, 200 г, круглый боек, деревянная рукоятка// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4631147515056</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1658</price>
-      </offer>
       <offer sku="00000011690">
         <name>Молоток слесарный Matrix 1 кг 10360</name>
         <vendor>Matrix</vendor>
@@ -8725,17 +8714,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2833</price>
-      </offer>
-      <offer sku="00000012939">
-        <name>Ключ комбинированный, 8 мм, оцинкованный (КЗСМИ)// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4607165250552</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
       </offer>
       <offer sku="00000013077">
         <name>Набор ключей рожковых, 6 - 19 мм, 6 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
@@ -9288,17 +9266,6 @@
         </pickup-options>
         <price>6440</price>
       </offer>
-      <offer sku="00000016519">
-        <name>Ареометр для измерения плотности электролита// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996035680</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1590</price>
-      </offer>
       <offer sku="00000016544">
         <name>Органайзер автомобильный на спинку сиденья // Stels</name>
         <vendor>STELS</vendor>
@@ -9490,18 +9457,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2190</price>
-      </offer>
-      <offer sku="00000017163">
-        <name>Кассета для рассады Россия 180х135х60 мм 9 ячеек 5 шт. 64347</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4044996218502</barcode>
-          <barcode>4606800072344</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>841</price>
       </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
@@ -10112,17 +10067,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000021176">
-        <name>Скребок SPARTA 51 мм, фиксированное лезвие 795405</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996100210</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>645</price>
-      </offer>
       <offer sku="00000021210">
         <name>Нож канцелярский Matrix 18 мм 78933</name>
         <vendor>Matrix</vendor>
@@ -10259,17 +10203,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1540</price>
-      </offer>
-      <offer sku="00000022155">
-        <name>Кельма угловая Сибртех 110х75х75 мм 86313</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800046925</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2450</price>
       </offer>
       <offer sku="00000022192">
         <name>Терка полиуретановая Сибртех 180х320 мм 86630</name>
@@ -25424,17 +25357,6 @@
         </pickup-options>
         <price>24590</price>
       </offer>
-      <offer sku="УТ-00075739">
-        <name>Отвертка с набором насадок WERA 05051030001</name>
-        <vendor>Wera</vendor>
-        <barcodes>
-          <barcode>4013288180360</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43105</price>
-      </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
         <vendor>Nika</vendor>
@@ -27554,14 +27476,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>50600</price>
-      </offer>
-      <offer sku="УТ-00100585">
-        <name>Секатор 205мм, двухкомпонентная рукоятка алюминий + TPR пластик. THT15308</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6300</price>
       </offer>
       <offer sku="УТ-00100791">
         <name>Гайковерт ударный BOSCH GDS 18V-780 06019P4021</name>

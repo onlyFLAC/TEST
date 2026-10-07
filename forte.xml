@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 15:27">
+<fm_catalog date="2026-10-07 15:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10492,6 +10492,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>400500</price>
+      </offer>
+      <offer sku="00000024070">
+        <name>Станция насосная автоматическая MATEUS TGP125 MS05403</name>
+        <vendor>Mateus</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>33000</price>
       </offer>
       <offer sku="00000024071">
         <name>Станция насосная автоматическая Mateus MS05404 (TGP125C)</name>
@@ -22265,6 +22273,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>151000</price>
+      </offer>
+      <offer sku="УТ-00058577">
+        <name>Компрессор безмасляный Mateus MS03405 (2-1450X2F50 220V/50hz)</name>
+        <vendor>Mateus</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>125500</price>
       </offer>
       <offer sku="УТ-00058697">
         <name>Прокладка STIHL 41403528100</name>

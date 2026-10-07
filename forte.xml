@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 14:29">
+<fm_catalog date="2026-10-07 14:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -878,6 +878,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26790</price>
+      </offer>
+      <offer sku="УТ-00006068">
+        <name>Электрический водоподогреватель ЭВП-4,5М на 220</name>
+        <vendor>Теплотех</vendor>
+        <barcodes>
+          <barcode>4670002530049</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40350</price>
       </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
@@ -2321,6 +2332,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>165320</price>
+      </offer>
+      <offer sku="УТ-00017026">
+        <name>Насадка для многофункционального инструмента DeWALT 44х30 мм DT20737-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4790</price>
       </offer>
       <offer sku="УТ-00018715">
         <name>Валик малярный механический Wagner Handi-Roll 550</name>
@@ -9591,17 +9610,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21020</price>
-      </offer>
-      <offer sku="00000017681">
-        <name>Лейка садовая Россия 2 л 67505</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4607116630044</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1490</price>
       </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
@@ -22998,17 +23006,6 @@
         </pickup-options>
         <price>104950</price>
       </offer>
-      <offer sku="УТ-00059873">
-        <name>Смеситель Frap для кухни F4044-9 Оружейная Сталь</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477626548</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25150</price>
-      </offer>
       <offer sku="УТ-00059890">
         <name>Смеситель для ванны Gappo черный/хром G2203-6</name>
         <vendor>GAPPO</vendor>
@@ -25346,17 +25343,6 @@
         </pickup-options>
         <price>24590</price>
       </offer>
-      <offer sku="УТ-00075739">
-        <name>Отвертка с набором насадок WERA 05051030001</name>
-        <vendor>Wera</vendor>
-        <barcodes>
-          <barcode>4013288180360</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43105</price>
-      </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
         <vendor>Nika</vendor>
@@ -25559,6 +25545,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>67980</price>
+      </offer>
+      <offer sku="УТ-00085039">
+        <name>Шлифмашина угловая (болгарка) ALTECO AG 1100-125 94242</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16900</price>
       </offer>
       <offer sku="УТ-00085111">
         <name>Кровать раскладная с матрасом Nika РК4-М/ГП с графическими перьями</name>
@@ -25901,6 +25895,14 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00089277">
+        <name>Трусики Altyn bala 4-L 9-14 кг 42 шт.</name>
+        <vendor>Altyn bala</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="УТ-00089281">
         <name>Подгузники MARTI S25 4-8 кг</name>
         <vendor>MARTI</vendor>
@@ -25938,6 +25940,17 @@
         <vendor>MARTI</vendor>
         <barcodes>
           <barcode>4580664610082</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6800</price>
+      </offer>
+      <offer sku="УТ-00089290">
+        <name>Трусики MARTI L44 9-14 кг</name>
+        <vendor>MARTI</vendor>
+        <barcodes>
+          <barcode>4580664610105</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -27426,6 +27439,14 @@
         </pickup-options>
         <price>108500</price>
       </offer>
+      <offer sku="УТ-00096671">
+        <name>Стяжка резиновая багажная с крючками D10х600мм (108) TOLSEN 62237</name>
+        <vendor>Tolsen</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
+      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -27556,6 +27577,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00102963">
+        <name>05480172001-Биты для винтов Phillips 851/1 TIN PH2/25 Wera</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1500</price>
       </offer>
       <offer sku="УТ-00103268">
         <name>Набор пистолетов для заклепок и гаек Jadever 16 дюймов JDHR5B16</name>

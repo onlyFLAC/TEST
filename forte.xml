@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 09:07">
+<fm_catalog date="2026-10-07 09:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14863,17 +14863,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6109</price>
-      </offer>
-      <offer sku="00000039617">
-        <name>Набор бумажных мешков BOSCH для UniversalVac 15 5 шт. 2609256F32</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140912334</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5790</price>
       </offer>
       <offer sku="00000039619">
         <name>Картридж-фильтр д/VAC</name>

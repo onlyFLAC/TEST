@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 07:10">
+<fm_catalog date="2026-10-07 07:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16974,17 +16974,6 @@
         </pickup-options>
         <price>8390</price>
       </offer>
-      <offer sku="00000063541">
-        <name>Перчатки трикотажные, двойные, верблюжья и овечья шерсть, ПВХ покрытие, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800083524</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2380</price>
-      </offer>
       <offer sku="00000063556">
         <name>Бур по бетону, 7 x 110 мм, SDS PLUS// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -25235,17 +25224,6 @@
         </pickup-options>
         <price>13290</price>
       </offer>
-      <offer sku="УТ-00073146">
-        <name>Перфоратор SDS PLUS RH 950-30 AVS ALTECO</name>
-        <vendor>Stalker</vendor>
-        <barcodes>
-          <barcode>4870244619919</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35900</price>
-      </offer>
       <offer sku="УТ-00074310">
         <name>Полоски измерительные BOSCH MS 90 1600A038D2</name>
         <vendor>BOSCH</vendor>
@@ -26547,14 +26525,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16710</price>
-      </offer>
-      <offer sku="УТ-00091504">
-        <name>Уровень магнитный BOSCH 25 см 1600A016BN</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14630</price>
       </offer>
       <offer sku="УТ-00091505">
         <name>Уровень BOSCH 60 см 1600A016BP</name>

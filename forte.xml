@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 14:58">
+<fm_catalog date="2026-10-07 15:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -878,17 +878,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26790</price>
-      </offer>
-      <offer sku="УТ-00006068">
-        <name>Электрический водоподогреватель ЭВП-4,5М на 220</name>
-        <vendor>Теплотех</vendor>
-        <barcodes>
-          <barcode>4670002530049</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40350</price>
       </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
@@ -2332,14 +2321,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>165320</price>
-      </offer>
-      <offer sku="УТ-00017026">
-        <name>Насадка для многофункционального инструмента DeWALT 44х30 мм DT20737-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4790</price>
       </offer>
       <offer sku="УТ-00018715">
         <name>Валик малярный механический Wagner Handi-Roll 550</name>
@@ -20804,17 +20785,6 @@
         </pickup-options>
         <price>99990</price>
       </offer>
-      <offer sku="УТ-00047891">
-        <name>Аппарат высокого давления ALTECO CPW 120-6, шт</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244612484</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35990</price>
-      </offer>
       <offer sku="УТ-00047894">
         <name>Аппарат высокого давления ALTECO CPW 140-8 Home &amp; Car, шт</name>
         <vendor>ALTECO</vendor>
@@ -25546,14 +25516,6 @@
         </pickup-options>
         <price>67980</price>
       </offer>
-      <offer sku="УТ-00085039">
-        <name>Шлифмашина угловая (болгарка) ALTECO AG 1100-125 94242</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16900</price>
-      </offer>
       <offer sku="УТ-00085111">
         <name>Кровать раскладная с матрасом Nika РК4-М/ГП с графическими перьями</name>
         <vendor>Nika</vendor>
@@ -27439,14 +27401,6 @@
         </pickup-options>
         <price>108500</price>
       </offer>
-      <offer sku="УТ-00096671">
-        <name>Стяжка резиновая багажная с крючками D10х600мм (108) TOLSEN 62237</name>
-        <vendor>Tolsen</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
-      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -27577,22 +27531,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00102963">
-        <name>05480172001-Биты для винтов Phillips 851/1 TIN PH2/25 Wera</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1500</price>
-      </offer>
-      <offer sku="УТ-00103268">
-        <name>Набор пистолетов для заклепок и гаек Jadever 16 дюймов JDHR5B16</name>
-        <vendor>Jadever</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23500</price>
       </offer>
     </offers>
   </shop>

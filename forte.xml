@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 13:59">
+<fm_catalog date="2026-10-07 14:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1484,17 +1484,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6900</price>
-      </offer>
-      <offer sku="УТ-00012980">
-        <name>Доска гладильная Nika "ЛИНА ЭКОНОМ" ЭК1 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830301</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7500</price>
       </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 (в ассортименте)</name>
@@ -25356,6 +25345,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24590</price>
+      </offer>
+      <offer sku="УТ-00075739">
+        <name>Отвертка с набором насадок WERA 05051030001</name>
+        <vendor>Wera</vendor>
+        <barcodes>
+          <barcode>4013288180360</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43105</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>

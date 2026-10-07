@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 12:31">
+<fm_catalog date="2026-10-07 13:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8465,6 +8465,17 @@
         </pickup-options>
         <price>13534</price>
       </offer>
+      <offer sku="00000011642">
+        <name>Молоток слесарный, 200 г, круглый боек, деревянная рукоятка// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4631147515056</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1658</price>
+      </offer>
       <offer sku="00000011690">
         <name>Молоток слесарный Matrix 1 кг 10360</name>
         <vendor>Matrix</vendor>
@@ -8693,6 +8704,17 @@
         </pickup-options>
         <price>8368</price>
       </offer>
+      <offer sku="00000012819">
+        <name>Ключ баллонный Г - образный 1/2" телескопический, 17 х 19 мм// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996060941</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4079</price>
+      </offer>
       <offer sku="00000012830">
         <name>Ключ-крест баллонный, 17 х 19 х 21 мм, под квадрат 1/2", толщина 14 мм// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -8703,6 +8725,39 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2833</price>
+      </offer>
+      <offer sku="00000012939">
+        <name>Ключ комбинированный, 8 мм, оцинкованный (КЗСМИ)// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4607165250552</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>590</price>
+      </offer>
+      <offer sku="00000013077">
+        <name>Набор ключей рожковых, 6 - 19 мм, 6 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996042121</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3179</price>
+      </offer>
+      <offer sku="00000013078">
+        <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996042107</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5790</price>
       </offer>
       <offer sku="00000013085">
         <name>Набор ключей рожковых, 6 х 17 мм, 6 шт., хромированные// Sparta</name>
@@ -9167,6 +9222,17 @@
         </pickup-options>
         <price>140</price>
       </offer>
+      <offer sku="00000016200">
+        <name>Набор саморезов, винтов, гаек, шайб Сибртех 347 шт. 47609</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996118512</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4564</price>
+      </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
         <vendor>STELS</vendor>
@@ -9221,6 +9287,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6440</price>
+      </offer>
+      <offer sku="00000016519">
+        <name>Ареометр для измерения плотности электролита// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996035680</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1590</price>
       </offer>
       <offer sku="00000016544">
         <name>Органайзер автомобильный на спинку сиденья // Stels</name>
@@ -9414,6 +9491,18 @@
         </pickup-options>
         <price>2190</price>
       </offer>
+      <offer sku="00000017163">
+        <name>Кассета для рассады Россия 180х135х60 мм 9 ячеек 5 шт. 64347</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4044996218502</barcode>
+          <barcode>4606800072344</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>841</price>
+      </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9559,6 +9648,17 @@
         </pickup-options>
         <price>21020</price>
       </offer>
+      <offer sku="00000017681">
+        <name>Лейка садовая Россия 2 л 67505</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4607116630044</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1490</price>
+      </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9613,6 +9713,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7590</price>
+      </offer>
+      <offer sku="00000018272">
+        <name>Решетка гриль 260х350мм антиприг. Camping// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996086286</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3739</price>
       </offer>
       <offer sku="00000018340">
         <name>Набор приствольных кругов Россия 65 см 5 шт. 93927</name>
@@ -10001,6 +10112,17 @@
         </pickup-options>
         <price>490</price>
       </offer>
+      <offer sku="00000021176">
+        <name>Скребок SPARTA 51 мм, фиксированное лезвие 795405</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996100210</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>645</price>
+      </offer>
       <offer sku="00000021210">
         <name>Нож канцелярский Matrix 18 мм 78933</name>
         <vendor>Matrix</vendor>
@@ -10137,6 +10259,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1540</price>
+      </offer>
+      <offer sku="00000022155">
+        <name>Кельма угловая Сибртех 110х75х75 мм 86313</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800046925</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2450</price>
       </offer>
       <offer sku="00000022192">
         <name>Терка полиуретановая Сибртех 180х320 мм 86630</name>
@@ -10337,6 +10470,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65780</price>
+      </offer>
+      <offer sku="00000023614">
+        <name>Стремянка двусторонняя 4ст., стальная, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800053398</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21130</price>
       </offer>
       <offer sku="00000023732">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
@@ -11249,6 +11393,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>195400</price>
+      </offer>
+      <offer sku="00000031968">
+        <name>Малые передвижные монтажные подмости 3 м CORDA PB Krause</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>137900</price>
       </offer>
       <offer sku="00000031981">
         <name>Сейф VALBERG ASM-120 Т</name>
@@ -16940,6 +17092,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>540</price>
+      </offer>
+      <offer sku="00000063669">
+        <name>Лента клейкая двусторонняя, 50мм х 10м, на тканевой основе// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996193915</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1780</price>
       </offer>
       <offer sku="00000063671">
         <name>Лента клейкая алюминиевая, 50мм х 40м// Сибртех</name>
@@ -27479,6 +27642,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00103268">
+        <name>Набор пистолетов для заклепок и гаек Jadever 16 дюймов JDHR5B16</name>
+        <vendor>Jadever</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23500</price>
       </offer>
     </offers>
   </shop>

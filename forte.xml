@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-07 15:56">
+<fm_catalog date="2026-10-07 16:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2890,14 +2890,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6490</price>
-      </offer>
-      <offer sku="УТ-00025651">
-        <name>Топор, 1000 г, кованый, буковое топорище// Denzel</name>
-        <vendor>Denzel</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7180</price>
       </offer>
       <offer sku="УТ-00025716">
         <name>Распылитель, 8 режимов// Palisad</name>
@@ -10493,14 +10485,6 @@
         </pickup-options>
         <price>400500</price>
       </offer>
-      <offer sku="00000024070">
-        <name>Станция насосная автоматическая MATEUS TGP125 MS05403</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>33000</price>
-      </offer>
       <offer sku="00000024071">
         <name>Станция насосная автоматическая Mateus MS05404 (TGP125C)</name>
         <vendor>Mateus</vendor>
@@ -11556,17 +11540,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>59480</price>
-      </offer>
-      <offer sku="00000032355">
-        <name>Диск алмазный Bosch Standard for Concrete по бетону 125х22,23 мм 2608602197</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140441254</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6327</price>
       </offer>
       <offer sku="00000032356">
         <name>Диск алмазный BOSCH 230х22.2 мм 2608615031</name>
@@ -19415,17 +19388,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="УТ-00000864">
-        <name>Набор уплотнений 11210071050</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711495039</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4390</price>
-      </offer>
       <offer sku="УТ-00000907">
         <name>Аккумулятор пусковой многофункциональный PATRIOT MAGNUM 8 650201608</name>
         <vendor>Patriot</vendor>
@@ -21108,14 +21070,6 @@
         </pickup-options>
         <price>60600</price>
       </offer>
-      <offer sku="УТ-00050413">
-        <name>Нож для разрезки на мерные длины 41807134110</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1100</price>
-      </offer>
       <offer sku="УТ-00051211">
         <name>Отвертка аккумуляторная Bosch GO Gen 3 06019H2201</name>
         <vendor>BOSCH</vendor>
@@ -21536,14 +21490,6 @@
         </pickup-options>
         <price>186300</price>
       </offer>
-      <offer sku="УТ-00055296">
-        <name>Валочный/распорный клин 23 см. 00008812213</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14560</price>
-      </offer>
       <offer sku="УТ-00055311">
         <name>Масло моторное STIHL 1:50 5 л красное 07813198468лб5</name>
         <vendor>STIHL</vendor>
@@ -21567,17 +21513,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7040</price>
-      </offer>
-      <offer sku="УТ-00055358">
-        <name>Нож измельчитель Shredru 270 мм. Для FS 350, FS 400 40007133903</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711318291</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18290</price>
       </offer>
       <offer sku="УТ-00055373">
         <name>Станок заточный Einhell TH-XG75Kit 4412560</name>
@@ -22273,14 +22208,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>151000</price>
-      </offer>
-      <offer sku="УТ-00058577">
-        <name>Компрессор безмасляный Mateus MS03405 (2-1450X2F50 220V/50hz)</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>125500</price>
       </offer>
       <offer sku="УТ-00058697">
         <name>Прокладка STIHL 41403528100</name>
@@ -25706,14 +25633,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4999</price>
-      </offer>
-      <offer sku="УТ-00085775">
-        <name>Лесовалочная лопатка 130см 3,400гр</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67300</price>
       </offer>
       <offer sku="УТ-00087281">
         <name>Колесо для мотоблока правое TT 4.00-8 4870024326877</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 12:27">
+<fm_catalog date="2026-10-08 12:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2546,6 +2546,17 @@
         </pickup-options>
         <price>7100</price>
       </offer>
+      <offer sku="УТ-00022274">
+        <name>Масло 4T SAE-30 1.4л Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883696668</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8800</price>
+      </offer>
       <offer sku="УТ-00022288">
         <name>Головка триммерная S35 M12L 135R 143RII 535RXT (ручная)</name>
         <vendor>Husqvarna</vendor>
@@ -2588,6 +2599,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9900</price>
+      </offer>
+      <offer sku="УТ-00022326">
+        <name>НАПИЛЬНИК 5.5ММ INTENSIVE CUT (комплект из 12ШТ)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13200</price>
       </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
@@ -2639,6 +2658,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
+      </offer>
+      <offer sku="УТ-00022520">
+        <name>Шлем защитный Husqvarna Classic с сеткой и наушниками</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393080392091</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -5120,17 +5150,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>890</price>
-      </offer>
-      <offer sku="00000003158">
-        <name>Набор напильников STAYER "PROFESSIONAL" 200 мм 5 шт. 1682-20-H5_z01</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229136758</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11190</price>
       </offer>
       <offer sku="00000003162">
         <name>STAYER PROFI просекатель для тонкостенных металлоконструкций</name>
@@ -21089,6 +21108,14 @@
         </pickup-options>
         <price>29900</price>
       </offer>
+      <offer sku="УТ-00052833">
+        <name>НАПРАВЛЯЮЩАЯ ТРИММЕРНОГО КОРДА Т25 Т35 Т35ХT45X 1ШТ. (537 18 59-02) 501 33 04-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2200</price>
+      </offer>
       <offer sku="УТ-00052870">
         <name>Система наливки горючего 00008905005</name>
         <vendor>STIHL</vendor>
@@ -21118,6 +21145,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8100</price>
+      </offer>
+      <offer sku="УТ-00052936">
+        <name>Крюк зацеп для рулетки 505 69 72-10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3350</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
@@ -23855,6 +23890,17 @@
         </pickup-options>
         <price>113500</price>
       </offer>
+      <offer sku="УТ-00063391">
+        <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393080347268</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6500</price>
+      </offer>
       <offer sku="УТ-00063410">
         <name>Мультиметр Bosch GDM 600-15 0601077300</name>
         <vendor>BOSCH</vendor>
@@ -25397,6 +25443,14 @@
         </pickup-options>
         <price>92060</price>
       </offer>
+      <offer sku="УТ-00085482">
+        <name>Кнопка триммерной головки Husqvarna T25 537 33 87-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2200</price>
+      </offer>
       <offer sku="УТ-00085483">
         <name>Кнопка триммерной головки Husqvarna T35X 544 45 53-01</name>
         <vendor>Husqvarna</vendor>
@@ -25420,6 +25474,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7550</price>
+      </offer>
+      <offer sku="УТ-00085490">
+        <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2995</price>
+      </offer>
+      <offer sku="УТ-00085493">
+        <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

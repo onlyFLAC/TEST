@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 11:58">
+<fm_catalog date="2026-10-08 12:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4933,17 +4933,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11868</price>
-      </offer>
-      <offer sku="00000002475">
-        <name>RACO 721C 490 м2 полив, головка, распылитель импульсный, металлический</name>
-        <vendor>RACO</vendor>
-        <barcodes>
-          <barcode>4034229103262</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4200</price>
       </offer>
       <offer sku="00000002481">
         <name>RACO CLASSIC 1/2", 20 м, 25 атм, трёхслойный поливочный шланг, армированный</name>
@@ -21772,17 +21761,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>41260</price>
-      </offer>
-      <offer sku="УТ-00056120">
-        <name>ЗУБР ПРОФИ-4Х 8 шт: 5/6х110, 6/8/10х160, 8/10/12х210 мм, набор SDS-plus буров (29313-H8-1)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373567117</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13218</price>
       </offer>
       <offer sku="УТ-00056132">
         <name>ЗУБР АГК d 70 мм (центр. сверло, трехгр. хвост, Р60), Алмазная коронка, Профессионал (29850-70)</name>

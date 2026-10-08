@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 10:00">
+<fm_catalog date="2026-10-08 10:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14831,6 +14831,17 @@
         </pickup-options>
         <price>6109</price>
       </offer>
+      <offer sku="00000039618">
+        <name>Набор бумажных мешков Bosch для AdvancedVac 20 5 шт. 2609256F33</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140912341</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5609</price>
+      </offer>
       <offer sku="00000039619">
         <name>Картридж-фильтр д/VAC</name>
         <vendor>BOSCH</vendor>
@@ -18329,7 +18340,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>48300</price>
+        <price>50555</price>
       </offer>
       <offer sku="00000072858">
         <name>Шланг поливочный армированный ЭКСПЕРТ 50 м 0202-1/2-50</name>
@@ -20862,7 +20873,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22990</price>
+        <price>19990</price>
       </offer>
       <offer sku="УТ-00048806">
         <name>Кольцо компрессионное поршневое 43 х1,2 мм 41800343001</name>

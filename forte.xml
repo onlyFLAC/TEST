@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 13:54">
+<fm_catalog date="2026-10-08 14:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11252,14 +11252,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>195400</price>
-      </offer>
-      <offer sku="00000031968">
-        <name>Малые передвижные монтажные подмости 3 м CORDA PB Krause</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>137900</price>
       </offer>
       <offer sku="00000031981">
         <name>Сейф VALBERG ASM-120 Т</name>
@@ -26280,14 +26272,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>248563</price>
-      </offer>
-      <offer sku="УТ-00091503">
-        <name>Набор ножей BOSCH 2 шт. 1600A016BM</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16710</price>
       </offer>
       <offer sku="УТ-00091505">
         <name>Уровень BOSCH 60 см 1600A016BP</name>

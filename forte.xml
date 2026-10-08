@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 10:30">
+<fm_catalog date="2026-10-08 10:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1495,6 +1495,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13800</price>
+      </offer>
+      <offer sku="УТ-00013064">
+        <name>4222 корыто для тачки 110 л</name>
+        <vendor>IVT</vendor>
+        <barcodes>
+          <barcode>7630005242223</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7560</price>
       </offer>
       <offer sku="УТ-00013463">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 белая</name>
@@ -10047,6 +10058,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1480</price>
+      </offer>
+      <offer sku="00000021471">
+        <name>Валик малярный Сибртех 150 мм 81033</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800074232</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1715</price>
       </offer>
       <offer sku="00000021495">
         <name>Мини-валик сменный MTX "ВЕЛЮР" 16х150 мм 80617</name>
@@ -27160,6 +27182,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7440</price>
+      </offer>
+      <offer sku="УТ-00094931">
+        <name>Корыто пластиковое для тачки IVT 4334</name>
+        <vendor>IVT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8625</price>
       </offer>
       <offer sku="УТ-00095264">
         <name>Обогреватель газовый портативный ALTECO PH 2 ECO</name>

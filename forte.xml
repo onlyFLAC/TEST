@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 07:05">
+<fm_catalog date="2026-10-08 07:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4193,17 +4193,6 @@
         </pickup-options>
         <price>39990</price>
       </offer>
-      <offer sku="УТ-00028791">
-        <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Б белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633103</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4930</price>
-      </offer>
       <offer sku="УТ-00028792">
         <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Ч черная</name>
         <vendor>ЗМИ</vendor>
@@ -7409,17 +7398,6 @@
         </pickup-options>
         <price>1580</price>
       </offer>
-      <offer sku="00000008781">
-        <name>Ножницы изогнутые ЗУБР "МАСТЕР" 190 мм 40442-19</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373081682</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1717</price>
-      </offer>
       <offer sku="00000008787">
         <name>Ножницы ЗУБР "Мастер" хозяйственные, двухкомпонентные ручки, 135мм</name>
         <vendor>ЗУБР</vendor>
@@ -9015,17 +8993,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4180</price>
-      </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>680</price>
       </offer>
       <offer sku="00000015200">
         <name>Рулетка 3 м х 13 мм, пластиковый корпус</name>
@@ -20049,18 +20016,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21730</price>
-      </offer>
-      <offer sku="УТ-00002305">
-        <name>Банкетка ЗМИ "ТОРОНТО 13S" БТ13С черный/серый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195632489</barcode>
-          <barcode>4610195634490</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21550</price>
       </offer>
       <offer sku="УТ-00002307">
         <name>Банкетка ЗМИ "ТОРОНТО 23S" графит/серая БТ23СГРС</name>

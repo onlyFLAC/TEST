@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 14:24">
+<fm_catalog date="2026-10-08 14:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2890,6 +2890,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6490</price>
+      </offer>
+      <offer sku="УТ-00025651">
+        <name>Топор, 1000 г, кованый, буковое топорище// Denzel</name>
+        <vendor>Denzel</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7180</price>
       </offer>
       <offer sku="УТ-00025716">
         <name>Распылитель, 8 режимов// Palisad</name>
@@ -10524,17 +10532,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27900</price>
-      </offer>
-      <offer sku="00000024898">
-        <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216450427</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28900</price>
       </offer>
       <offer sku="00000024981">
         <name>Краскопульт электрический ALTECO SG 2203 27633</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 12:56">
+<fm_catalog date="2026-10-08 13:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2546,17 +2546,6 @@
         </pickup-options>
         <price>7100</price>
       </offer>
-      <offer sku="УТ-00022274">
-        <name>Масло 4T SAE-30 1.4л Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883696668</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8800</price>
-      </offer>
       <offer sku="УТ-00022288">
         <name>Головка триммерная S35 M12L 135R 143RII 535RXT (ручная)</name>
         <vendor>Husqvarna</vendor>
@@ -2599,14 +2588,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9900</price>
-      </offer>
-      <offer sku="УТ-00022326">
-        <name>НАПИЛЬНИК 5.5ММ INTENSIVE CUT (комплект из 12ШТ)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
       </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
@@ -2658,17 +2639,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022520">
-        <name>Шлем защитный Husqvarna Classic с сеткой и наушниками</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393080392091</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -19210,17 +19180,6 @@
         </pickup-options>
         <price>3623</price>
       </offer>
-      <offer sku="УТ-00000400">
-        <name>Степлер Kraftool Expert-53 тип 53 (4-14мм) 3187_z01</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229154080</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6790</price>
-      </offer>
       <offer sku="УТ-00000407">
         <name>Чашка обдирочно-шлифовальная №1 125 мм 33435-1</name>
         <vendor>ЗУБР</vendor>
@@ -21108,14 +21067,6 @@
         </pickup-options>
         <price>29900</price>
       </offer>
-      <offer sku="УТ-00052833">
-        <name>НАПРАВЛЯЮЩАЯ ТРИММЕРНОГО КОРДА Т25 Т35 Т35ХT45X 1ШТ. (537 18 59-02) 501 33 04-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2200</price>
-      </offer>
       <offer sku="УТ-00052870">
         <name>Система наливки горючего 00008905005</name>
         <vendor>STIHL</vendor>
@@ -22100,6 +22051,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>51700</price>
+      </offer>
+      <offer sku="УТ-00058172">
+        <name>MIG Инверторные полуавтоматы MIG 200 (N2H3) JASIC евро горелка</name>
+        <vendor>JASIC</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>140000</price>
       </offer>
       <offer sku="УТ-00058196">
         <name>Упор зубчатый STIHL 11426640501</name>
@@ -25443,14 +25402,6 @@
         </pickup-options>
         <price>92060</price>
       </offer>
-      <offer sku="УТ-00085482">
-        <name>Кнопка триммерной головки Husqvarna T25 537 33 87-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2200</price>
-      </offer>
       <offer sku="УТ-00085483">
         <name>Кнопка триммерной головки Husqvarna T35X 544 45 53-01</name>
         <vendor>Husqvarna</vendor>
@@ -25482,14 +25433,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
-      </offer>
-      <offer sku="УТ-00085493">
-        <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

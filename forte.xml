@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 06:35">
+<fm_catalog date="2026-10-08 07:05">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4944,6 +4944,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11868</price>
+      </offer>
+      <offer sku="00000002475">
+        <name>RACO 721C 490 м2 полив, головка, распылитель импульсный, металлический</name>
+        <vendor>RACO</vendor>
+        <barcodes>
+          <barcode>4034229103262</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4200</price>
       </offer>
       <offer sku="00000002481">
         <name>RACO CLASSIC 1/2", 20 м, 25 атм, трёхслойный поливочный шланг, армированный</name>

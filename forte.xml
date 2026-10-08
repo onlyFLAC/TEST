@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 10:59">
+<fm_catalog date="2026-10-08 11:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10655,7 +10655,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>95790</price>
+        <price>99210</price>
       </offer>
       <offer sku="00000025343">
         <name>Шуруповерт Makita DDF485Z</name>
@@ -10688,7 +10688,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>62062</price>
+        <price>54485</price>
       </offer>
       <offer sku="00000025363">
         <name>Лобзик электрический Makita 4350CT</name>

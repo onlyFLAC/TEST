@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 08:03">
+<fm_catalog date="2026-10-08 08:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8993,17 +8993,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4180</price>
-      </offer>
-      <offer sku="00000015200">
-        <name>Рулетка 3 м х 13 мм, пластиковый корпус</name>
-        <vendor>Natan</vendor>
-        <barcodes>
-          <barcode>4044996119946</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>680</price>
       </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
@@ -18470,17 +18459,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>93870</price>
-      </offer>
-      <offer sku="00000073886">
-        <name>Аккумуляторная дрель-шуруповерт Bosch GSR 185-LI ЗУ + Акб, кейс 06019K3001</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423230123</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>77560</price>
       </offer>
       <offer sku="00000073887">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 185-LI 1 Акб 06019K3005</name>

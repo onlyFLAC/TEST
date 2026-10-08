@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 16:21">
+<fm_catalog date="2026-10-08 16:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10453,14 +10453,6 @@
         </pickup-options>
         <price>32990</price>
       </offer>
-      <offer sku="00000023818">
-        <name>Пила дисковая CROWN CT15188-190</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40990</price>
-      </offer>
       <offer sku="00000023888">
         <name>Фен строительный CROWN CT19007BMC</name>
         <vendor>CROWN</vendor>
@@ -19040,17 +19032,6 @@
         </pickup-options>
         <price>12190</price>
       </offer>
-      <offer sku="00000076002">
-        <name>УГОЛ-40 угломер электронный, 400 мм, Диапазон 0-230°, Точность ±0,1°, HOLD, Подсветка, Фиксация угла</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373323539</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23140</price>
-      </offer>
       <offer sku="00000076052">
         <name>Снеговой движок (скрепер) ЗУБР СКАНДИНАВИЯ 800 мм пластиковый ковш с алюминиевой планкой с колесикам</name>
         <vendor>ЗУБР</vendor>
@@ -25216,6 +25197,14 @@
         </pickup-options>
         <price>24590</price>
       </offer>
+      <offer sku="УТ-00075728">
+        <name>Отвертка динамометрическая Wera 05075810001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>46290</price>
+      </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
         <vendor>Nika</vendor>
@@ -27445,6 +27434,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00101596">
+        <name>M9204B Машина шлифовальная эксцентриковая,240Вт,125мм,12000об/мин.,ампл 2.8мм</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38790</price>
+      </offer>
+      <offer sku="УТ-00102457">
+        <name>D-81832 Пильный диск универсальный для алюминия/дерева/пластика, 260x30x2.6/1.8x120T</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20025</price>
       </offer>
     </offers>
   </shop>

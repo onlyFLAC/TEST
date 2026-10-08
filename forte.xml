@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 07:34">
+<fm_catalog date="2026-10-08 08:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14930,17 +14930,6 @@
         </pickup-options>
         <price>13900</price>
       </offer>
-      <offer sku="00000039895">
-        <name>ПИЛЬНОЕ ПОЛОТНО KEO 5ШТ</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140643504</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9990</price>
-      </offer>
       <offer sku="00000039958">
         <name>Насадка для гравера DREMEL 7.8 мм 2 шт. 26150114JA</name>
         <vendor>DREMEL</vendor>
@@ -20760,17 +20749,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>552200</price>
-      </offer>
-      <offer sku="УТ-00048211">
-        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245848</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1880</price>
       </offer>
       <offer sku="УТ-00048213">
         <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>

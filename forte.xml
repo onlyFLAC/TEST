@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-08 15:22">
+<fm_catalog date="2026-10-08 15:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8933,17 +8933,6 @@
         </pickup-options>
         <price>22580</price>
       </offer>
-      <offer sku="00000014621">
-        <name>Насадки с тефлоновым покрытием к аппарату для сварки полипропилен. труб, 20 мм, 25 мм// Kronwerk</name>
-        <vendor>Kronwerk</vendor>
-        <barcodes>
-          <barcode>4044996135281</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2480</price>
-      </offer>
       <offer sku="00000014649">
         <name>Струбцина зажимная Сибртех 20788</name>
         <vendor>Сибртех</vendor>
@@ -9610,17 +9599,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1390</price>
-      </offer>
-      <offer sku="00000018022">
-        <name>Тележка садовая, объем 50л, грузоподъемность 30кг// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996155654</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27678</price>
       </offer>
       <offer sku="00000018209">
         <name>Гамак Palisad "CAMPING" 200х100 см без планок 69585</name>
@@ -10352,17 +10330,6 @@
         </pickup-options>
         <price>8980</price>
       </offer>
-      <offer sku="00000022794">
-        <name>Ящик для инструментов 16, с органайзерами СИБРТЕХ 90807</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800064073</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4890</price>
-      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10381,28 +10348,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1780</price>
-      </offer>
-      <offer sku="00000023215">
-        <name>Замок навесной ЗН2-3, 70 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996048062</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3380</price>
-      </offer>
-      <offer sku="00000023248">
-        <name>Замок навесной, защищенная дужка 60 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996048246</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3990</price>
       </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
@@ -10425,17 +10370,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4790</price>
-      </offer>
-      <offer sku="00000023502">
-        <name>Шнур вязаный полипропиленовый с серд."Радуга", 8 мм, L 20 м, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800041821</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1790</price>
       </offer>
       <offer sku="00000023509">
         <name>Шнур кручёный полипропиленовый, 2 мм, L 50 м, на катушке, Россия// Сибртех</name>
@@ -11336,6 +11270,14 @@
         </pickup-options>
         <price>27000</price>
       </offer>
+      <offer sku="00000031834">
+        <name>Стремянка свободностоящая 4 ступени CORDA</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38500</price>
+      </offer>
       <offer sku="00000031852">
         <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
         <vendor>Krause</vendor>
@@ -11373,14 +11315,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26080</price>
-      </offer>
-      <offer sku="00000031896">
-        <name>Стремянка STABILO 5 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>116500</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -15824,14 +15758,6 @@
         </pickup-options>
         <price>26800</price>
       </offer>
-      <offer sku="00000050326">
-        <name>Велосипед детский Nika ВД1/1 красный/желтый</name>
-        <vendor>Nika</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14888</price>
-      </offer>
       <offer sku="00000050361">
         <name>Доска гладильная Nika "ВЕРОНА 1" ДВ1/1 с девушкой и лошадью</name>
         <vendor>Nika</vendor>
@@ -17103,17 +17029,6 @@
         </pickup-options>
         <price>2780</price>
       </offer>
-      <offer sku="00000063684">
-        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996198392</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2350</price>
-      </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 шт. 14151</name>
         <vendor>Gross</vendor>
@@ -17135,17 +17050,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>143680</price>
-      </offer>
-      <offer sku="00000063844">
-        <name>Коронка по металлу твердосплавная, 27 мм //Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996184890</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3879</price>
       </offer>
       <offer sku="00000063869">
         <name>Коронка по металлу Denzel 38 мм 724111</name>
@@ -17235,28 +17139,6 @@
         </pickup-options>
         <price>550</price>
       </offer>
-      <offer sku="00000064058">
-        <name>Салфетки универсальные из нетканого материала в рулоне, 240x210 мм, 100 шт., Home// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4606800088734</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2478</price>
-      </offer>
-      <offer sku="00000064068">
-        <name>Губки для посуды Coral, 95x64x36 мм, 4 шт., Home// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4606800076502</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
-      </offer>
       <offer sku="00000064070">
         <name>Губка хозяйственная 200x140x60 мм, Home// Palisad</name>
         <vendor>Palisad</vendor>
@@ -17264,17 +17146,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>690</price>
-      </offer>
-      <offer sku="00000064097">
-        <name>Щетка-сметка Palisad 270 мм 935535</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4610083572347</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1190</price>
       </offer>
       <offer sku="00000064131">
         <name>Вешалка с полкой 2х ярусная 80 ЗМИ Белый</name>
@@ -21153,14 +21024,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>60600</price>
-      </offer>
-      <offer sku="УТ-00049871">
-        <name>Конвектор электрический XCE-1000, 230 В, 1000 Вт, белый, сушилка, колеса, Х-элемент// Denzel</name>
-        <vendor>Denzel</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22630</price>
       </offer>
       <offer sku="УТ-00051211">
         <name>Отвертка аккумуляторная Bosch GO Gen 3 06019H2201</name>

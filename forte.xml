@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 12:20">
+<fm_catalog date="2026-10-09 12:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22113,14 +22113,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>51700</price>
-      </offer>
-      <offer sku="УТ-00058172">
-        <name>MIG Инверторные полуавтоматы MIG 200 (N2H3) JASIC евро горелка</name>
-        <vendor>JASIC</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>140000</price>
       </offer>
       <offer sku="УТ-00058196">
         <name>Упор зубчатый STIHL 11426640501</name>

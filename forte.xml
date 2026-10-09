@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 15:45">
+<fm_catalog date="2026-10-09 16:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9389,7 +9389,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3530</price>
+        <price>3500</price>
       </offer>
       <offer sku="00000016826">
         <name>Лопата для уборки снега пластиковая LUXE, 540х375х1520 мм, стальной черенок// Palisad</name>
@@ -9400,7 +9400,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17280</price>
+        <price>16020</price>
       </offer>
       <offer sku="00000016829">
         <name>Снеговая лопата PALISAD LUXE COLOR LINE 460 х 335 мм 615915</name>
@@ -9411,7 +9411,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7690</price>
+        <price>8250</price>
       </offer>
       <offer sku="00000017077">
         <name>Лопата штыковая, 205х275 мм, ребра жесткости, без черенка// Россия</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 11:51">
+<fm_catalog date="2026-10-09 12:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8638,17 +8638,6 @@
         </pickup-options>
         <price>1592</price>
       </offer>
-      <offer sku="00000013156">
-        <name>Ключ комбинированный трещоточный, 10мм, CrV, шарнирный, зерк.хром// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996052472</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2245</price>
-      </offer>
       <offer sku="00000013167">
         <name>Набор ключей комбинированных, трещоточных, шарнирных Matrix 6 шт. 14897</name>
         <vendor>Matrix</vendor>
@@ -8946,17 +8935,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4180</price>
-      </offer>
-      <offer sku="00000015189">
-        <name>Рулетка Experte, 5 м x 27 мм, двухкомпон. корпус, магнит, двухстор. разметка, нейлон// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996167626</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8380</price>
       </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
@@ -9392,17 +9370,6 @@
         </pickup-options>
         <price>2190</price>
       </offer>
-      <offer sku="00000017250">
-        <name>Плодосъемник Россия 130 мм 64436</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4607116630440</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>585</price>
-      </offer>
       <offer sku="00000017266">
         <name>Чехол на молнии для парника 500 х 110 см, СУФ42// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9825,18 +9792,6 @@
         </pickup-options>
         <price>3890</price>
       </offer>
-      <offer sku="00000019967">
-        <name>Круг шлифовальный, 125 х 16 х 12,7 мм, 63С, F60, K (Луга)// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4603347370940</barcode>
-          <barcode>4603347506479</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3380</price>
-      </offer>
       <offer sku="00000020001">
         <name>Диск отрезной по металлу LUGAABRASIV 150х22.2 мм 73664</name>
         <vendor>Россия</vendor>
@@ -9858,17 +9813,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1060</price>
-      </offer>
-      <offer sku="00000020130">
-        <name>Набор шлифовальных дисков Сибртех Р40 125 мм 5 шт. 738027</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996129396</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>860</price>
       </offer>
       <offer sku="00000020134">
         <name>Набор абразивных дисков СИБРТЕХ Р120 125 мм 5 шт. 738067</name>
@@ -10002,17 +9946,6 @@
         </pickup-options>
         <price>1375</price>
       </offer>
-      <offer sku="00000020871">
-        <name>Плашка М12 х 1,25 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996096292</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1780</price>
-      </offer>
       <offer sku="00000020911">
         <name>Набор метчиков и плашек Sparta М3-М12 20 шт. 773105</name>
         <vendor>Sparta</vendor>
@@ -10067,17 +10000,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2290</price>
-      </offer>
-      <offer sku="00000021304">
-        <name>Валик сменный "ИСКУССТВЕННЫЙ МЕХ" , 200 мм, ворс 15 мм, D 48 мм, D руч. - 6 мм, полиэстер// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800036827</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>795</price>
       </offer>
       <offer sku="00000021317">
         <name>Валик с ручкой Сибртех 200 мм 80134</name>
@@ -10283,17 +10205,6 @@
         </pickup-options>
         <price>3868</price>
       </offer>
-      <offer sku="00000022375">
-        <name>Лента малярная Сибртех 19 мм 40 м 88700</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800059420</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>740</price>
-      </offer>
       <offer sku="00000022388">
         <name>Лента малярная Сибртех 30 мм 15 м 88884</name>
         <vendor>Сибртех</vendor>
@@ -10434,28 +10345,6 @@
         </pickup-options>
         <price>8980</price>
       </offer>
-      <offer sku="00000022760">
-        <name>Органайзер двухсторонний 425х330х85 мм, пластик Россия// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996122991</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6860</price>
-      </offer>
-      <offer sku="00000022794">
-        <name>Ящик для инструментов 16, с органайзерами СИБРТЕХ 90807</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800064073</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4890</price>
-      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10474,14 +10363,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1780</price>
-      </offer>
-      <offer sku="00000022969">
-        <name>Веник-метла из сорго, деревянный черенок// Россия</name>
-        <vendor>Россия</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2489</price>
       </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
@@ -17144,17 +17025,6 @@
         </pickup-options>
         <price>2350</price>
       </offer>
-      <offer sku="00000063687">
-        <name>Уплотнитель резиновый, 6 м, профиль "P", белый// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996198422</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1390</price>
-      </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 шт. 14151</name>
         <vendor>Gross</vendor>
@@ -21232,6 +21102,17 @@
       <offer sku="УТ-00051834">
         <name>Аккум. Пылесос Einhell TE-VC 18 Li-Solo (2347120)</name>
         <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29900</price>
+      </offer>
+      <offer sku="УТ-00052702">
+        <name>Сетев. Станок для заточки цепей Einhell GC-CS 85 E Set (4499924)</name>
+        <vendor>Einhell</vendor>
+        <barcodes>
+          <barcode>4006825664331</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

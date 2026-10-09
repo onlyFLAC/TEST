@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 21:07">
+<fm_catalog date="2026-10-09 21:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6702,17 +6702,6 @@
         </pickup-options>
         <price>590</price>
       </offer>
-      <offer sku="00000007597">
-        <name>Лебедка рычажная тросовая STAYER 1.5 т 2.4 м 4310-1.5</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229096427</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12379</price>
-      </offer>
       <offer sku="00000007598">
         <name>Лебедка автомобильная STAYER 1 т 1.8 м 4310-1</name>
         <vendor>STAYER</vendor>
@@ -12453,17 +12442,6 @@
         </pickup-options>
         <price>133290</price>
       </offer>
-      <offer sku="00000032858">
-        <name>Машина шлифовальная угловая (болгарка) Bosch GWS 750 S 0601394121</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140938068</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36800</price>
-      </offer>
       <offer sku="00000032860">
         <name>Шлифмашина угловая (болгарка) BOSCH GWS 750-125</name>
         <vendor>BOSCH</vendor>
@@ -14996,17 +14974,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>357950</price>
-      </offer>
-      <offer sku="00000040942">
-        <name>Станок фуговально-рейсмусовый, ЗУБР СРФ-254-1600С, ширина строгания 254мм, толщина заготовки до 120мм, 2 ножа, 9000 об/мин, станина, 1600Вт, 6м/мин</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373235016</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>220690</price>
       </offer>
       <offer sku="00000040951">
         <name>Культиватор бензиновый ЗУБР 196 см3 МКТ-170</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 07:28">
+<fm_catalog date="2026-10-09 07:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2310,17 +2310,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2500</price>
-      </offer>
-      <offer sku="УТ-00016733">
-        <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
-        <vendor>TYTAN</vendor>
-        <barcodes>
-          <barcode>5902120110933</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3890</price>
       </offer>
       <offer sku="УТ-00016958">
         <name>DeWalt, DCG418NT, Машина углошлифовальная аккумуляторная 155 мм</name>
@@ -5765,17 +5754,6 @@
         </pickup-options>
         <price>11490</price>
       </offer>
-      <offer sku="00000005060">
-        <name>Домкрат бутылочный гидравлический ЗУБР 4 т 43060-4-K_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373275517</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12300</price>
-      </offer>
       <offer sku="00000005128">
         <name>Набор метчиков и плашек ЗУБР 65 шт. 28118-H65_z01</name>
         <vendor>ЗУБР</vendor>
@@ -8667,17 +8645,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2833</price>
-      </offer>
-      <offer sku="00000013077">
-        <name>Набор ключей рожковых, 6 - 19 мм, 6 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996042121</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3179</price>
       </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
@@ -16728,17 +16695,6 @@
         </pickup-options>
         <price>42100</price>
       </offer>
-      <offer sku="00000059390">
-        <name>Сушилка напольная Nika СБ2/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111505017</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8050</price>
-      </offer>
       <offer sku="00000059393">
         <name>Дрель-шуруповерт аккумуляторная ЗУБР ДШЛ-185-22</name>
         <vendor>ЗУБР</vendor>
@@ -17867,17 +17823,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29000</price>
-      </offer>
-      <offer sku="00000070584">
-        <name>Лобзик электрический Фиолент ПМ7-720Э ИДФР298256007</name>
-        <vendor>Фиолент</vendor>
-        <barcodes>
-          <barcode>4670016121776</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>34100</price>
       </offer>
       <offer sku="00000070600">
         <name>Краска аэрозольная NOVA серебро 450 мл Nova36</name>
@@ -23444,17 +23389,6 @@
         </pickup-options>
         <price>7990</price>
       </offer>
-      <offer sku="УТ-00061409">
-        <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/SC scandinavian</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111505079</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31000</price>
-      </offer>
       <offer sku="УТ-00061457">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/6 с линиями на сливовом</name>
         <vendor>Nika</vendor>
@@ -24697,14 +24631,6 @@
         </pickup-options>
         <price>84470</price>
       </offer>
-      <offer sku="УТ-00071163">
-        <name>Пила торцовочная WORTEX MS 2112 LMB 1200 Вт 0329323</name>
-        <vendor>Wortex</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>94160</price>
-      </offer>
       <offer sku="УТ-00071571">
         <name>Циркулярная пила погружная с шиной 1,4 м WORTEX CS 1612-1 в кор. 1200 Вт, до 59 мм, 6000 об/мин</name>
         <vendor>Wortex</vendor>
@@ -25185,14 +25111,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24590</price>
-      </offer>
-      <offer sku="УТ-00075728">
-        <name>Отвертка динамометрическая Wera 05075810001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>46290</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
@@ -27423,14 +27341,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101596">
-        <name>M9204B Машина шлифовальная эксцентриковая,240Вт,125мм,12000об/мин.,ампл 2.8мм</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38790</price>
       </offer>
       <offer sku="УТ-00102457">
         <name>D-81832 Пильный диск универсальный для алюминия/дерева/пластика, 260x30x2.6/1.8x120T</name>

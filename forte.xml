@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 20:38">
+<fm_catalog date="2026-10-09 21:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2048,17 +2048,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1190</price>
-      </offer>
-      <offer sku="УТ-00015465">
-        <name>STEHER 2.2 л.с., бензиновый культиватор (GK-100)</name>
-        <vendor>STEHER</vendor>
-        <barcodes>
-          <barcode>4034229247218</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>78890</price>
       </offer>
       <offer sku="УТ-00015474">
         <name>STEHER для пистолета G-180, 15 м, шланг для прочистки труб (75414-180-15)</name>
@@ -8484,17 +8473,6 @@
         </pickup-options>
         <price>3390</price>
       </offer>
-      <offer sku="00000011907">
-        <name>Набор бит PZ2х25, сталь S2, 10 шт.// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996067605</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2369</price>
-      </offer>
       <offer sku="00000011916">
         <name>Набор бит Gross PH3х50 мм 2 шт. 11359</name>
         <vendor>Gross</vendor>
@@ -14578,17 +14556,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4501</price>
-      </offer>
-      <offer sku="00000038457">
-        <name>Диск алмазный Bosch ECO Universal (125х22.2 мм) 2608615028</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140857055</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3520</price>
       </offer>
       <offer sku="00000038459">
         <name>Диск алмазный BOSCH 180х22.2 мм 2608615030</name>
@@ -20857,17 +20824,6 @@
         </pickup-options>
         <price>19990</price>
       </offer>
-      <offer sku="УТ-00048806">
-        <name>Кольцо компрессионное поршневое 43 х1,2 мм 41800343001</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711562175</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4860</price>
-      </offer>
       <offer sku="УТ-00049305">
         <name>Средство для удаления смолы Stihl Superclean 300 мл 07825168101</name>
         <vendor>STIHL</vendor>
@@ -21173,17 +21129,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4730</price>
-      </offer>
-      <offer sku="УТ-00053711">
-        <name>Отвертка аккумуляторная Bosch GO 06019H2200</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952639567</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29100</price>
       </offer>
       <offer sku="УТ-00053799">
         <name>HS004GZ Пила дисковая аккум XGT BL 40В, 185/190 мм</name>

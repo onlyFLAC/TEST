@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 10:53">
+<fm_catalog date="2026-10-09 11:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -19593,6 +19593,17 @@
         </pickup-options>
         <price>25888</price>
       </offer>
+      <offer sku="УТ-00001316">
+        <name>Патрон для DRE 1617000598 Bosch</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952136363</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15900</price>
+      </offer>
       <offer sku="УТ-00001331">
         <name>Комплект угольных щеток BOSCH 1607000CZ1</name>
         <vendor>BOSCH</vendor>
@@ -24740,17 +24751,6 @@
         </pickup-options>
         <price>24680</price>
       </offer>
-      <offer sku="УТ-00072728">
-        <name>Санки детские Nika "ТИМКА 5 УНИВЕРСАЛ" Т5У/ОЛ оливковый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111513579</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25269</price>
-      </offer>
       <offer sku="УТ-00072730">
         <name>Санки детские Nika "ТИМКА 6 УНИВЕРСАЛ" Т6У/З2 зеленые</name>
         <vendor>Nika</vendor>
@@ -25501,14 +25501,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>329690</price>
-      </offer>
-      <offer sku="УТ-00087605">
-        <name>Аккумулятор ALTECO BL 20-2A 36999</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7800</price>
       </offer>
       <offer sku="УТ-00087646">
         <name>Полотенцесушитель электрический I-образный Profset T1 1 секция</name>

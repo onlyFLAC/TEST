@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 17:13">
+<fm_catalog date="2026-10-09 17:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1499,17 +1499,6 @@
         </pickup-options>
         <price>13800</price>
       </offer>
-      <offer sku="УТ-00013064">
-        <name>4222 корыто для тачки 110 л</name>
-        <vendor>IVT</vendor>
-        <barcodes>
-          <barcode>7630005242223</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7560</price>
-      </offer>
       <offer sku="УТ-00013463">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 белая</name>
         <vendor>ЗМИ</vendor>
@@ -2664,6 +2653,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
+      </offer>
+      <offer sku="УТ-00022496">
+        <name>Рулетка 20м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089124921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37000</price>
+      </offer>
+      <offer sku="УТ-00022528">
+        <name>Очки защитные Husqvarna Yellow X</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11500</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -5239,17 +5247,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6909</price>
-      </offer>
-      <offer sku="00000003470">
-        <name>STAYER штатив для 2-х прожекторов телескопический</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229135621</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9927</price>
       </offer>
       <offer sku="00000003484">
         <name>Тиски поворотные настольные STAYER "STANDARD" 70 мм 3247-70_z01</name>
@@ -9156,28 +9153,6 @@
         </pickup-options>
         <price>140</price>
       </offer>
-      <offer sku="00000016200">
-        <name>Набор саморезов, винтов, гаек, шайб Сибртех 347 шт. 47609</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996118512</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4564</price>
-      </offer>
-      <offer sku="00000016208">
-        <name>Набор винтов, гаек, шайб, 420 предм.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996118352</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4169</price>
-      </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
         <vendor>STELS</vendor>
@@ -10100,17 +10075,6 @@
         </pickup-options>
         <price>1480</price>
       </offer>
-      <offer sku="00000021470">
-        <name>Валик прижимной резиновый с ручкой Сибртех 6х50 мм 81032</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800074225</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1140</price>
-      </offer>
       <offer sku="00000021471">
         <name>Валик малярный Сибртех 150 мм 81033</name>
         <vendor>Сибртех</vendor>
@@ -10197,17 +10161,6 @@
         </pickup-options>
         <price>2256</price>
       </offer>
-      <offer sku="00000021923">
-        <name>Порошок меловой красный, 115 г, для разметочных шнуров// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996023083</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1330</price>
-      </offer>
       <offer sku="00000021949">
         <name>Набор малярных карандашей Sparta 180 мм 12 шт. 848045</name>
         <vendor>Sparta</vendor>
@@ -10218,17 +10171,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>729</price>
-      </offer>
-      <offer sku="00000021970">
-        <name>Миксер для красок и штукатурных смесей, 100 х 600 мм, оцинкованный, хвостовик SDS Plus// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996182674</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2535</price>
       </offer>
       <offer sku="00000022142">
         <name>Кельма печника, стальная, пластиковая ручка Россия// Сибртех</name>
@@ -10388,17 +10330,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1790</price>
-      </offer>
-      <offer sku="00000022755">
-        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996123127</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8980</price>
       </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
@@ -17025,17 +16956,6 @@
         </pickup-options>
         <price>540</price>
       </offer>
-      <offer sku="00000063669">
-        <name>Лента клейкая двусторонняя, 50мм х 10м, на тканевой основе// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996193915</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1780</price>
-      </offer>
       <offer sku="00000063671">
         <name>Лента клейкая алюминиевая, 50мм х 40м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -20768,6 +20688,17 @@
         </pickup-options>
         <price>552200</price>
       </offer>
+      <offer sku="УТ-00048211">
+        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245848</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1880</price>
+      </offer>
       <offer sku="УТ-00048213">
         <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
         <vendor>Husqvarna</vendor>
@@ -23917,6 +23848,17 @@
         </pickup-options>
         <price>6500</price>
       </offer>
+      <offer sku="УТ-00063392">
+        <name>Смазка подшипника 100гр Husqvarna 535 56 00-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930984622</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7000</price>
+      </offer>
       <offer sku="УТ-00063410">
         <name>Мультиметр Bosch GDM 600-15 0601077300</name>
         <vendor>BOSCH</vendor>
@@ -25471,6 +25413,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
+      </offer>
+      <offer sku="УТ-00085496">
+        <name>Набор напильников Husqvarna 5.5 мм 3 шт. 597 35 61-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
@@ -27261,6 +27211,9 @@
       <offer sku="УТ-00095267">
         <name>Мультитул BOSCH 16-в-0 1600A02Z98</name>
         <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423254082</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

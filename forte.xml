@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 09:25">
+<fm_catalog date="2026-10-09 09:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2302,6 +2302,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2500</price>
+      </offer>
+      <offer sku="УТ-00016733">
+        <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
+        <vendor>TYTAN</vendor>
+        <barcodes>
+          <barcode>5902120110933</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3890</price>
       </offer>
       <offer sku="УТ-00016958">
         <name>DeWalt, DCG418NT, Машина углошлифовальная аккумуляторная 155 мм</name>

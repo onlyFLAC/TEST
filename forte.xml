@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 14:17">
+<fm_catalog date="2026-10-09 14:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8660,17 +8660,6 @@
         </pickup-options>
         <price>1869</price>
       </offer>
-      <offer sku="00000013669">
-        <name>Нож многофункциональный, компактный размер, 15 функций, 90 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996160757</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1720</price>
-      </offer>
       <offer sku="00000013771">
         <name>Тиски, 75 мм, крепление для стола// Sparta красный</name>
         <vendor>Sparta</vendor>
@@ -16970,17 +16959,6 @@
         </pickup-options>
         <price>2780</price>
       </offer>
-      <offer sku="00000063684">
-        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996198392</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2350</price>
-      </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 шт. 14151</name>
         <vendor>Gross</vendor>
@@ -18866,17 +18844,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16550</price>
-      </offer>
-      <offer sku="00000075604">
-        <name>Этажерка Nika ЭТК3/МС матово-серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111514798</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11797</price>
       </offer>
       <offer sku="00000075610">
         <name>Корпус мотора Bosch 1605108283</name>
@@ -26221,6 +26188,9 @@
       <offer sku="УТ-00091100">
         <name>Сушилка электрическая для обуви СТАРТ SD04</name>
         <vendor>СТАРТ</vendor>
+        <barcodes>
+          <barcode>4680024811675</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 13:48">
+<fm_catalog date="2026-10-09 14:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8594,17 +8594,6 @@
         </pickup-options>
         <price>4079</price>
       </offer>
-      <offer sku="00000012830">
-        <name>Ключ-крест баллонный, 17 х 19 х 21 мм, под квадрат 1/2", толщина 14 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996055862</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2833</price>
-      </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -8858,17 +8847,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22580</price>
-      </offer>
-      <offer sku="00000014621">
-        <name>Насадки с тефлоновым покрытием к аппарату для сварки полипропилен. труб, 20 мм, 25 мм// Kronwerk</name>
-        <vendor>Kronwerk</vendor>
-        <barcodes>
-          <barcode>4044996135281</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2480</price>
       </offer>
       <offer sku="00000014649">
         <name>Струбцина зажимная Сибртех 20788</name>
@@ -13235,17 +13213,6 @@
         </pickup-options>
         <price>13390</price>
       </offer>
-      <offer sku="00000034622">
-        <name>5 ЛОБЗИКОВЫХ ПИЛОК T 101 BR, HCS</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140012454</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3165</price>
-      </offer>
       <offer sku="00000034630">
         <name>5 ЛОБЗИКОВЫХ ПИЛОК T 119 ВО, HCS</name>
         <vendor>BOSCH</vendor>
@@ -16268,17 +16235,6 @@
         </pickup-options>
         <price>11195</price>
       </offer>
-      <offer sku="00000059130">
-        <name>Вешалка с полкой ЗМИ ''Эра 5'' Белый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093784723</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4155</price>
-      </offer>
       <offer sku="00000059133">
         <name>Вешалка с полкой 80 ЗМИ Белый</name>
         <vendor>ЗМИ</vendor>
@@ -18554,17 +18510,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>52020</price>
-      </offer>
-      <offer sku="00000073956">
-        <name>ЗУБР СРЦ-254 1900 Вт настольный распиловочный станок</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373404160</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>108530</price>
       </offer>
       <offer sku="00000073958">
         <name>Станок точильный с шлифовальной лентой ЗУБР 150 мм ПТЛ-150</name>
@@ -27379,14 +27324,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00102457">
-        <name>D-81832 Пильный диск универсальный для алюминия/дерева/пластика, 260x30x2.6/1.8x120T</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20025</price>
       </offer>
     </offers>
   </shop>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 06:59">
+<fm_catalog date="2026-10-09 07:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5916,17 +5916,6 @@
         </pickup-options>
         <price>9990</price>
       </offer>
-      <offer sku="00000005687">
-        <name>Набор сверл по металлу ЗУБР 1-10 мм 10 шт. 29605-H10</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373291210</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4974</price>
-      </offer>
       <offer sku="00000005697">
         <name>ЗУБР Мастер 130х270 мм гладилка нержавеющая с пластиковой ручкой</name>
         <vendor>ЗУБР</vendor>
@@ -6846,17 +6835,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20590</price>
-      </offer>
-      <offer sku="00000007785">
-        <name>Лист шлифовальный ЗУБР "Мастер", без отверстий, для ПШМ на зажимах, Р320, 93х230мм, 5шт</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373087233</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>880</price>
       </offer>
       <offer sku="00000007836">
         <name>Лобзик электрический ЗУБР Л-400</name>
@@ -16464,6 +16442,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4780</price>
+      </offer>
+      <offer sku="00000059224">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011875639</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12060</price>
       </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>

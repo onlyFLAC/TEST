@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 09:54">
+<fm_catalog date="2026-10-09 10:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8848,6 +8848,17 @@
         </pickup-options>
         <price>22580</price>
       </offer>
+      <offer sku="00000014621">
+        <name>Насадки с тефлоновым покрытием к аппарату для сварки полипропилен. труб, 20 мм, 25 мм// Kronwerk</name>
+        <vendor>Kronwerk</vendor>
+        <barcodes>
+          <barcode>4044996135281</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2480</price>
+      </offer>
       <offer sku="00000014649">
         <name>Струбцина зажимная Сибртех 20788</name>
         <vendor>Сибртех</vendor>
@@ -16357,17 +16368,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4780</price>
-      </offer>
-      <offer sku="00000059224">
-        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011875639</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12060</price>
       </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-09 07:57">
+<fm_catalog date="2026-10-09 08:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -886,14 +886,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79800</price>
-      </offer>
-      <offer sku="УТ-00006352">
-        <name>Двухсторонняя стремянка DOPPLO 2х5 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>68200</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -6114,17 +6106,6 @@
         </pickup-options>
         <price>25210</price>
       </offer>
-      <offer sku="00000006311">
-        <name>Домкрат подкатной гидравлический ЗУБР Т-30 2 т 43053-2</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373264146</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21590</price>
-      </offer>
       <offer sku="00000006312">
         <name>Домкрат подкатной гидравлический ЗУБР Т-30-К 2 т 43053-2-K</name>
         <vendor>ЗУБР</vendor>
@@ -6813,17 +6794,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20590</price>
-      </offer>
-      <offer sku="00000007836">
-        <name>Лобзик электрический ЗУБР Л-400</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373229251</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18180</price>
       </offer>
       <offer sku="00000007839">
         <name>Лобзик электрический ЗУБР Л-570</name>
@@ -8505,17 +8475,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1161</price>
-      </offer>
-      <offer sku="00000012365">
-        <name>Отвертка Сибртех SL5х150 мм 12265</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996148779</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>730</price>
       </offer>
       <offer sku="00000012395">
         <name>Набор шоферского инструмента Россия 8 шт. 13440</name>
@@ -12636,17 +12595,6 @@
         </pickup-options>
         <price>2690</price>
       </offer>
-      <offer sku="00000033229">
-        <name>X-LOCK Алмазный диск Standard for Universal 125 x 22,23 x 1,6 x 10мм</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140933834</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6032</price>
-      </offer>
       <offer sku="00000033316">
         <name>Зубило пиковое BOSCH SDS-max 250 мм 1618600005</name>
         <vendor>BOSCH</vendor>
@@ -12723,17 +12671,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15110</price>
-      </offer>
-      <offer sku="00000033533">
-        <name>Коронка универсальная BOSCH 64 мм 2608580744</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140618588</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15520</price>
       </offer>
       <offer sku="00000033537">
         <name>Коронка универсальная BOSCH 70 мм 2608580748</name>
@@ -24868,14 +24805,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6888</price>
-      </offer>
-      <offer sku="УТ-00072887">
-        <name>Уровень Stabila 61 см 19829</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>162735</price>
       </offer>
       <offer sku="УТ-00072893">
         <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 12:43">
+<fm_catalog date="2026-10-10 13:12">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11779,6 +11779,17 @@
         </pickup-options>
         <price>164340</price>
       </offer>
+      <offer sku="00000032558">
+        <name>Набор бит Bosch 25 шт. 2607019503</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140416214</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3466</price>
+      </offer>
       <offer sku="00000032560">
         <name>Набор буров Bosch SDS-Plus-1 5 шт. 5/6.5/8х110 мм 10х12/160 мм 2608579121</name>
         <vendor>BOSCH</vendor>
@@ -12285,6 +12296,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>256380</price>
+      </offer>
+      <offer sku="00000032809">
+        <name>Набор бит и сверл Bosch X-Line 34 шт. 2607010608</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140563147</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8690</price>
       </offer>
       <offer sku="00000032811">
         <name>Сумка Bosch Professional большая 1600A003BK</name>
@@ -13120,6 +13142,17 @@
         </pickup-options>
         <price>3134</price>
       </offer>
+      <offer sku="00000034679">
+        <name>5 ЛОБЗИКОВЫХ ПИЛОК T 344 DP, HCS</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140264198</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4384</price>
+      </offer>
       <offer sku="00000034687">
         <name>Набор лобзиковых пилок BOSCH T101BF 5 шт. 2608634234</name>
         <vendor>BOSCH</vendor>
@@ -13351,6 +13384,17 @@
         </pickup-options>
         <price>2790</price>
       </offer>
+      <offer sku="00000035409">
+        <name>Набор сабельных пилок Bosch S1542K 2 шт. 2608650681</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140016773</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3999</price>
+      </offer>
       <offer sku="00000035423">
         <name>Набор пилок для сабельной пилы Bosch S2345X 2 шт. 2608654403</name>
         <vendor>BOSCH</vendor>
@@ -13383,6 +13427,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6158</price>
+      </offer>
+      <offer sku="00000035438">
+        <name>Набор сабельных пилок BOSCH S922BF 5 шт. 2608656014</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140093507</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7209</price>
       </offer>
       <offer sku="00000035442">
         <name>Набор сабельных пилок BOSCH S1122AF 5 шт. 2608656018</name>
@@ -13669,6 +13724,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>36603</price>
+      </offer>
+      <offer sku="00000035639">
+        <name>Сверло SDS plus-5X 5шт Набор 6/6/8/8/10мм</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>6949509224057</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7293</price>
       </offer>
       <offer sku="00000035865">
         <name>Набор сверл по бетону Bosch SilverPerc CYL-3 6х100 мм 2608597660</name>
@@ -24327,14 +24393,6 @@
         </pickup-options>
         <price>8106</price>
       </offer>
-      <offer sku="УТ-00065092">
-        <name>ЗУБР ЭКСПЕРТ, 3 м х 16 мм, рулетка с автостопом, Профессионал (34057-03-16)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2280</price>
-      </offer>
       <offer sku="УТ-00065307">
         <name>ЗУБР 2700 Вт, d230 мм, УШМ, АВТ защита, фланец ″МИГ″, Профессионал (УШМ-П230-2700 ПВСТ)</name>
         <vendor>ЗУБР</vendor>
@@ -26450,6 +26508,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7550</price>
+      </offer>
+      <offer sku="УТ-00091603">
+        <name>Молоток-гвоздодер BOSCH 225 г 1600A02ZA3</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423254402</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5300</price>
       </offer>
       <offer sku="УТ-00091604">
         <name>Кувалда BOSCH 1000 г 1600A02ZA4</name>

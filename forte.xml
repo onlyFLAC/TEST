@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 10:17">
+<fm_catalog date="2026-10-10 10:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2130,17 +2130,6 @@
         </pickup-options>
         <price>1380</price>
       </offer>
-      <offer sku="УТ-00015572">
-        <name>KRAFTOOL ATLANT до 120кг, каркас и платформа из алюминия, платформа 48,5 х 35см, колёса d18см, вес 6,9кг, складная хозяйственная тележка (38751-120)</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229247812</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>74990</price>
-      </offer>
       <offer sku="УТ-00015580">
         <name>ЗУБР HEX-18, 900 мм, Лом-гвоздодер (2164-90)</name>
         <vendor>ЗУБР</vendor>
@@ -2291,6 +2280,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2500</price>
+      </offer>
+      <offer sku="УТ-00016733">
+        <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
+        <vendor>TYTAN</vendor>
+        <barcodes>
+          <barcode>5902120110933</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3890</price>
       </offer>
       <offer sku="УТ-00016958">
         <name>DeWalt, DCG418NT, Машина углошлифовальная аккумуляторная 155 мм</name>
@@ -2620,17 +2620,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -16913,7 +16902,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>567160</price>
+        <price>481810</price>
       </offer>
       <offer sku="00000063977">
         <name>Грабли веерные стальные, 565 мм, 22 плоских зуба, эмалированные, усиленные, без черенка// Palisad</name>
@@ -23697,17 +23686,6 @@
         </pickup-options>
         <price>6500</price>
       </offer>
-      <offer sku="УТ-00063392">
-        <name>Смазка подшипника 100гр Husqvarna 535 56 00-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7392930984622</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7000</price>
-      </offer>
       <offer sku="УТ-00063410">
         <name>Мультиметр Bosch GDM 600-15 0601077300</name>
         <vendor>BOSCH</vendor>
@@ -25229,14 +25207,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
-      </offer>
-      <offer sku="УТ-00085496">
-        <name>Набор напильников Husqvarna 5.5 мм 3 шт. 597 35 61-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

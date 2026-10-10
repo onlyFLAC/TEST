@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 09:19">
+<fm_catalog date="2026-10-10 09:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -867,17 +867,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26790</price>
-      </offer>
-      <offer sku="УТ-00006068">
-        <name>Электрический водоподогреватель ЭВП-4,5М на 220</name>
-        <vendor>Теплотех</vendor>
-        <barcodes>
-          <barcode>4670002530049</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40350</price>
       </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>

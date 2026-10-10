@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 08:20">
+<fm_catalog date="2026-10-10 08:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6531,28 +6531,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390</price>
-      </offer>
-      <offer sku="00000007104">
-        <name>Ключ разводной KRAFTOOL SlimWide-S 200 / 38 мм 27263-20</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229211226</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13380</price>
-      </offer>
-      <offer sku="00000007106">
-        <name>Ключ разводной SlimWide, 200 / 38 мм, KRAFTOOL</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229143039</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11510</price>
       </offer>
       <offer sku="00000007108">
         <name>Ключ разводной SlimWide, 300 / 60 мм, KRAFTOOL</name>
@@ -24031,17 +24009,6 @@
         </pickup-options>
         <price>34010</price>
       </offer>
-      <offer sku="УТ-00063829">
-        <name>Набор плоскогубцев Bosch 3 шт. 1600A02C0S</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952655857</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18760</price>
-      </offer>
       <offer sku="УТ-00063830">
         <name>Клещи переставные (водяные) Bosch 1600A027PR</name>
         <vendor>BOSCH</vendor>
@@ -24107,17 +24074,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12470</price>
-      </offer>
-      <offer sku="УТ-00063838">
-        <name>Набор отверток Bosch 6 шт. 1600A02BX7</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952643274</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11330</price>
       </offer>
       <offer sku="УТ-00063839">
         <name>Плоскогубцы комбинированные BOSCH 1600A02ZH0</name>

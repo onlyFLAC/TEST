@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 10:46">
+<fm_catalog date="2026-10-10 11:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
-      <offer sku="УТ-00002542">
-        <name>Набор уплотнений 41480071600</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711933203</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
-      </offer>
       <offer sku="УТ-00002566">
         <name>Компрессор масляный HYUNDAI HY-50LV</name>
         <vendor>HYUNDAI</vendor>
@@ -10357,14 +10346,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32990</price>
-      </offer>
-      <offer sku="00000023888">
-        <name>Фен строительный CROWN CT19007BMC</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19200</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -20920,17 +20901,6 @@
         </pickup-options>
         <price>29900</price>
       </offer>
-      <offer sku="УТ-00052870">
-        <name>Система наливки горючего 00008905005</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711255237</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13800</price>
-      </offer>
       <offer sku="УТ-00052918">
         <name>Корпус вентилятора с пусковым устройством STIHL 11480802108</name>
         <vendor>STIHL</vendor>
@@ -21055,17 +21025,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>28990</price>
-      </offer>
-      <offer sku="УТ-00054033">
-        <name>Карбюратор HDA348A 41481200603</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661492589</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54400</price>
       </offer>
       <offer sku="УТ-00054438">
         <name>Карандаш автоматический ЗУБР черный 149 мм АСК 06311-2</name>
@@ -21247,14 +21206,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27800</price>
-      </offer>
-      <offer sku="УТ-00055341">
-        <name>Система заправки цепным маслом 00008905004</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14300</price>
       </offer>
       <offer sku="УТ-00055342">
         <name>Масло моторное STIHL 1:50 красное 07813198468лб</name>
@@ -23000,14 +22951,6 @@
         </pickup-options>
         <price>9450</price>
       </offer>
-      <offer sku="УТ-00060525">
-        <name>Корпус рукоятки STIHL 11457901006</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7400</price>
-      </offer>
       <offer sku="УТ-00060530">
         <name>Этажерка Nika ЭТ4/Ч черный</name>
         <vendor>Nika</vendor>
@@ -23103,17 +23046,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6626</price>
-      </offer>
-      <offer sku="УТ-00060687">
-        <name>Двухсторонний зубчатый ремень</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661651191</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>55500</price>
       </offer>
       <offer sku="УТ-00060804">
         <name>Компрессор безмасляный ECO AE-50-OF1</name>

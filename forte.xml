@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 16:08">
+<fm_catalog date="2026-10-10 16:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1561,17 +1561,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2380</price>
-      </offer>
-      <offer sku="УТ-00013591">
-        <name>ЗУБР ВИТОЙ КВАДРАТ, 1.6 мм, 15 м, леска для триммера, Профессионал (71030-1.6) 71030-1.6</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373435997</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>980</price>
       </offer>
       <offer sku="УТ-00013600">
         <name>ЗУБР КРУГ, 1.6 мм, 15 м, леска для триммера, Профессионал (71010-1.6) 71010-1.6</name>

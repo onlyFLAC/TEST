@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 15:10">
+<fm_catalog date="2026-10-10 15:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8299,6 +8299,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>490</price>
+      </offer>
+      <offer sku="00000011357">
+        <name>Шпатель STAYER "PROFESSIONAL" нержавеющий зубчатый с пластмассовой ручкой, 250мм, зуб 10х10мм</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229093563</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1380</price>
       </offer>
       <offer sku="00000011393">
         <name>Шпатель резиновый ЗУБР "МАСТЕР" 60 мм 1016-60_z01</name>
@@ -26045,6 +26056,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>248563</price>
+      </offer>
+      <offer sku="УТ-00091503">
+        <name>Набор ножей BOSCH 2 шт. 1600A016BM</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16710</price>
       </offer>
       <offer sku="УТ-00091505">
         <name>Уровень BOSCH 60 см 1600A016BP</name>

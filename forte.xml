@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 11:16">
+<fm_catalog date="2026-10-10 11:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -834,6 +834,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>495319</price>
+      </offer>
+      <offer sku="УТ-00005926">
+        <name>Уровень Pocket Pro Magnetic с чехлом STABILA 17953</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069179533</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12390</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -22623,17 +22634,6 @@
         </pickup-options>
         <price>31900</price>
       </offer>
-      <offer sku="УТ-00059920">
-        <name>Раковина накладная без перелива GAPPO GT-403 (370mm*480mm*130mm) Прямоугольная " цвет Белый</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477655098</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20100</price>
-      </offer>
       <offer sku="УТ-00059933">
         <name>Душевой трап GAPPO G87007-3 7*70 см</name>
         <vendor>GAPPO</vendor>
@@ -24462,6 +24462,17 @@
         </pickup-options>
         <price>25480</price>
       </offer>
+      <offer sku="УТ-00072496">
+        <name>Кусачки KNIPEX 78 61 125 ESD</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773025184</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20890</price>
+      </offer>
       <offer sku="УТ-00072499">
         <name>Кусачки боковые KNIPEX 77 72 115 SB</name>
         <vendor>KNIPEX</vendor>
@@ -24543,6 +24554,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19400</price>
+      </offer>
+      <offer sku="УТ-00072650">
+        <name>Труборез для пластиковых труб KNIPEX 90 25 40</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773045182</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>78625</price>
       </offer>
       <offer sku="УТ-00072656">
         <name>Щипцы колец KNIPEX 48 11 J2</name>
@@ -24631,6 +24653,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6888</price>
+      </offer>
+      <offer sku="УТ-00072880">
+        <name>Карманная рулетка Stabila BM 300 8 м 19574</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195748</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16990</price>
       </offer>
       <offer sku="УТ-00072893">
         <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>
@@ -27072,6 +27105,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00102398">
+        <name>D-51627 Сабельная пилка для металла 152x0,9x14TPI, 2 шт.</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2850</price>
       </offer>
     </offers>
   </shop>

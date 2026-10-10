@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 09:48">
+<fm_catalog date="2026-10-10 10:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2292,17 +2292,6 @@
         </pickup-options>
         <price>2500</price>
       </offer>
-      <offer sku="УТ-00016733">
-        <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
-        <vendor>TYTAN</vendor>
-        <barcodes>
-          <barcode>5902120110933</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3890</price>
-      </offer>
       <offer sku="УТ-00016958">
         <name>DeWalt, DCG418NT, Машина углошлифовальная аккумуляторная 155 мм</name>
         <vendor>DeWALT</vendor>
@@ -2642,14 +2631,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37000</price>
-      </offer>
-      <offer sku="УТ-00022528">
-        <name>Очки защитные Husqvarna Yellow X</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11500</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -25068,17 +25049,6 @@
         </pickup-options>
         <price>7504</price>
       </offer>
-      <offer sku="УТ-00078023">
-        <name>Вешалка настенная Nika ВП6М/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111541442</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7504</price>
-      </offer>
       <offer sku="УТ-00078025">
         <name>Стол журнальный Nika HHST2/3 ель умбра/черный</name>
         <vendor>Nika</vendor>
@@ -26511,17 +26481,6 @@
         </pickup-options>
         <price>20730</price>
       </offer>
-      <offer sku="УТ-00091598">
-        <name>Клещи плотницкие BOSCH 200 мм 1600A02Z9W</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423255027</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5640</price>
-      </offer>
       <offer sku="УТ-00091599">
         <name>Кусачки для арматуры BOSCH 225 мм 1600A02Z9X</name>
         <vendor>BOSCH</vendor>
@@ -26713,14 +26672,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5530</price>
-      </offer>
-      <offer sku="УТ-00091638">
-        <name>Плоскогубцы комбинированные BOSCH 1600A032VB</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5740</price>
       </offer>
       <offer sku="УТ-00091639">
         <name>Плоскогубцы удлиненные BOSCH 180 мм 1600A032VC</name>

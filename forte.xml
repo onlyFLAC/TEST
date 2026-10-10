@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 12:14">
+<fm_catalog date="2026-10-10 12:43">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2291,6 +2291,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>165320</price>
+      </offer>
+      <offer sku="УТ-00018550">
+        <name>Диск отрезной по металлу Bosch 230х1.9 мм 2608619770</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952631370</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>780</price>
       </offer>
       <offer sku="УТ-00018715">
         <name>Валик малярный механический Wagner Handi-Roll 550</name>
@@ -14456,6 +14467,17 @@
         </pickup-options>
         <price>4157</price>
       </offer>
+      <offer sku="00000038716">
+        <name>Ящик для оснастки BOSCH размер L 2608522363</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140851534</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6090</price>
+      </offer>
       <offer sku="00000038770">
         <name>Диск пильный BOSCH Т24 230х30 мм 2608644381</name>
         <vendor>BOSCH</vendor>
@@ -14477,6 +14499,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6383</price>
+      </offer>
+      <offer sku="00000038903">
+        <name>Набор лобзиковых пилок BOSCH 10 шт. 2607011170</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140913416</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6342</price>
       </offer>
       <offer sku="00000038965">
         <name>Набор сверл по металлу BOSCH PointTeQ 3х33х61 мм 2 шт. 2608577158</name>
@@ -15398,6 +15431,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1890</price>
+      </offer>
+      <offer sku="00000042385">
+        <name>Набор пилок для сабельной пилы по дереву Bosch S1131L 2шт. 2609256702</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140390590</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3690</price>
       </offer>
       <offer sku="00000042407">
         <name>Автосигнализация SL A93 V2 2CAN+2LIN</name>
@@ -23599,6 +23643,17 @@
         </pickup-options>
         <price>6500</price>
       </offer>
+      <offer sku="УТ-00063409">
+        <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423330045</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27300</price>
+      </offer>
       <offer sku="УТ-00063410">
         <name>Мультиметр Bosch GDM 600-15 0601077300</name>
         <vendor>BOSCH</vendor>
@@ -26454,6 +26509,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7600</price>
+      </offer>
+      <offer sku="УТ-00091611">
+        <name>Японская пила Ryoba BOSCH 250 мм 1600A02ZB5</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255157</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12100</price>
       </offer>
       <offer sku="УТ-00091612">
         <name>Пила японская BOSCH Kataba 270 мм 1600A02ZB6</name>

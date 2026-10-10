@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 08:49">
+<fm_catalog date="2026-10-10 09:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10522,17 +10522,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19500</price>
-      </offer>
-      <offer sku="00000024820">
-        <name>Пила дисковая ALTECO CS 1200-185 31014</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216454821</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27900</price>
       </offer>
       <offer sku="00000024898">
         <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>

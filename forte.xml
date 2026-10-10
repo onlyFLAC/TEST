@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-10 14:41">
+<fm_catalog date="2026-10-10 15:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21856,14 +21856,6 @@
         </pickup-options>
         <price>196400</price>
       </offer>
-      <offer sku="УТ-00056686">
-        <name>Трекер SL M66 S v2 GPS/ГЛОНАСС</name>
-        <vendor>Starline</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48100</price>
-      </offer>
       <offer sku="УТ-00057357">
         <name>Аккумуляторный триммер CT 21-25 Solo ALTECO, шт</name>
         <vendor>ALTECO</vendor>
@@ -24057,17 +24049,6 @@
         </pickup-options>
         <price>7030</price>
       </offer>
-      <offer sku="УТ-00063841">
-        <name>Рулетка измерительная BOSCH 3 м 19 мм 1600A027PJ</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952614144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4110</price>
-      </offer>
       <offer sku="УТ-00063867">
         <name>Интерфейс StarLine 2CAN-2LIN Мастер</name>
         <vendor>Starline</vendor>
@@ -26080,14 +26061,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44660</price>
-      </offer>
-      <offer sku="УТ-00091508">
-        <name>Лезвия для ножа BOSCH 10 шт 1600A016ZH</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3150</price>
       </offer>
       <offer sku="УТ-00091523">
         <name>Отвертка шлицевая BOSCH SL3.5x75 1600A01TF8</name>

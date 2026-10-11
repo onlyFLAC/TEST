@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-11 10:10">
+<fm_catalog date="2026-10-11 10:40">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -245,17 +245,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7990</price>
-      </offer>
-      <offer sku="УТ-00004174">
-        <name>Алмазная коронка 112*450 ALTECO Professional</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216459871</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16730</price>
       </offer>
       <offer sku="УТ-00004215">
         <name>Сварочный аппарат ARC-200 ALTECO</name>
@@ -17334,6 +17323,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20570</price>
+      </offer>
+      <offer sku="00000064332">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13500</price>
       </offer>
       <offer sku="00000064335">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 коричневая</name>

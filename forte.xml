@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-11 09:12">
+<fm_catalog date="2026-10-11 09:41">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4331,17 +4331,6 @@
         </pickup-options>
         <price>8990</price>
       </offer>
-      <offer sku="УТ-00040140">
-        <name>Доска гладильная Nika "ЛИНА 2" ДЛ2 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830455</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8500</price>
-      </offer>
       <offer sku="УТ-00040230">
         <name>Велосипед детский Nika ВДН4/4 черный с лимонным</name>
         <vendor>Nika</vendor>
@@ -8582,17 +8571,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5790</price>
-      </offer>
-      <offer sku="00000013085">
-        <name>Набор ключей рожковых, 6 х 17 мм, 6 шт., хромированные// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996106717</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2590</price>
       </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
@@ -20410,14 +20388,6 @@
         </pickup-options>
         <price>136200</price>
       </offer>
-      <offer sku="УТ-00045551">
-        <name>Бензопила STIHL MS 172 40 см 11480113030K40</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>115000</price>
-      </offer>
       <offer sku="УТ-00045552">
         <name>Бензопила STIHL MS 172 35 см 11480113030K35</name>
         <vendor>STIHL</vendor>
@@ -24354,17 +24324,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88080</price>
-      </offer>
-      <offer sku="УТ-00065425">
-        <name>Штроборез ЗУБР "МАСТЕР" ЗШ-30-1205 Т</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373558566</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>63070</price>
       </offer>
       <offer sku="УТ-00065434">
         <name>ЗУБР 24 мм, витая стальная латунированная проволока 0.3 мм, набор кистевых щеток для дрели, Профессионал (35225-24-H2)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-11 14:34">
+<fm_catalog date="2026-10-11 15:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22169,6 +22169,9 @@
       <offer sku="УТ-00059646">
         <name>Коврик для глажки белья Nika КГ/3 с линиями на сером</name>
         <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111506397</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-11 10:40">
+<fm_catalog date="2026-10-11 11:09">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5973,6 +5973,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64920</price>
+      </offer>
+      <offer sku="00000005941">
+        <name>ЗУБР ПРОФ-А 1.3х38мм, Сверло по металлу, сталь Р6М5, класс А</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373288968</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>990</price>
       </offer>
       <offer sku="00000005951">
         <name>ЗУБР ПРОФ-А 10шт(0.5-2.2мм), Набор сверл по металлу, для печатных плат, сталь Р6М5, класс А</name>
@@ -15627,6 +15638,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26800</price>
+      </offer>
+      <offer sku="00000050326">
+        <name>Велосипед детский Nika ВД1/1 красный/желтый</name>
+        <vendor>Nika</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14888</price>
       </offer>
       <offer sku="00000050361">
         <name>Доска гладильная Nika "ВЕРОНА 1" ДВ1/1 с девушкой и лошадью</name>

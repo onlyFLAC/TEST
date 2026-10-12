@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 13:59">
+<fm_catalog date="2026-10-12 14:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -730,17 +730,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4999</price>
-      </offer>
-      <offer sku="УТ-00005418">
-        <name>Стул складной с мягкой спинкой Nika "НИКА 1М" ССН1М/9 коричневый/коричневый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111521765</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14888</price>
       </offer>
       <offer sku="УТ-00005419">
         <name>Стул складной с мягкой спинкой Nika "НИКА 1М" ССН1М/8 светло-серый/матово-серый</name>
@@ -8590,17 +8579,6 @@
         </pickup-options>
         <price>694</price>
       </offer>
-      <offer sku="00000014104">
-        <name>Леска для триммера двухкомпонентная квадрат 2,65мм 15 м EXTRA CORD// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996166711</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1284</price>
-      </offer>
       <offer sku="00000014138">
         <name>Леска для триммера круглая Denzel 96180</name>
         <vendor>Denzel</vendor>
@@ -9864,17 +9842,6 @@
         </pickup-options>
         <price>1338</price>
       </offer>
-      <offer sku="00000021495">
-        <name>Мини-валик сменный MTX "ВЕЛЮР" 16х150 мм 80617</name>
-        <vendor>MTX</vendor>
-        <barcodes>
-          <barcode>4044996027609</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>580</price>
-      </offer>
       <offer sku="00000021616">
         <name>Кювета пластмассовая для валиков, 350х330 мм// Sparta</name>
         <vendor>Sparta</vendor>
@@ -10231,6 +10198,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32990</price>
+      </offer>
+      <offer sku="00000023888">
+        <name>Фен строительный CROWN CT19007BMC</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19200</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -20813,17 +20788,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27990</price>
-      </offer>
-      <offer sku="УТ-00053261">
-        <name>Шлифмашина угловая (болгарка) ALTECO AG 800-125 80138</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244616116</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13990</price>
       </offer>
       <offer sku="УТ-00053325">
         <name>Крышка для выравнивания 100 шт BIHUI SLC100, шт 77463</name>

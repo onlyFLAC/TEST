@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 07:38">
+<fm_catalog date="2026-10-12 08:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4308,17 +4308,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44100</price>
-      </offer>
-      <offer sku="УТ-00040139">
-        <name>Доска гладильная Nika "ЛИНА 1" ДЛ1 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830431</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8990</price>
       </offer>
       <offer sku="УТ-00040230">
         <name>Велосипед детский Nika ВДН4/4 черный с лимонным</name>
@@ -8936,17 +8925,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000015842">
-        <name>Хомуты, 150 х 2,5 мм, пластиковые, черные, 100 шт.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996109497</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>890</price>
-      </offer>
       <offer sku="00000015916">
         <name>Набор металлических хомутов Сибртех 16-27 мм 100 шт. 47558</name>
         <vendor>Сибртех</vendor>
@@ -11095,14 +11073,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26730</price>
-      </offer>
-      <offer sku="00000031828">
-        <name>Тачка строительная двухколесная IVT 4225 250 кг-110л-2к</name>
-        <vendor>IVT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27000</price>
       </offer>
       <offer sku="00000031852">
         <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
@@ -17331,17 +17301,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20570</price>
-      </offer>
-      <offer sku="00000064332">
-        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093784921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13500</price>
       </offer>
       <offer sku="00000064335">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 коричневая</name>
@@ -24390,17 +24349,6 @@
         </pickup-options>
         <price>72100</price>
       </offer>
-      <offer sku="УТ-00070098">
-        <name>Садовый измельчитель WORTEX SE 4524</name>
-        <vendor>Wortex</vendor>
-        <barcodes>
-          <barcode>6900602864601</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>77430</price>
-      </offer>
       <offer sku="УТ-00070496">
         <name>Секатор контактный FISKARS Solid P361</name>
         <vendor>FISKARS</vendor>
@@ -26414,17 +26362,6 @@
         </pickup-options>
         <price>7550</price>
       </offer>
-      <offer sku="УТ-00091603">
-        <name>Молоток-гвоздодер BOSCH 225 г 1600A02ZA3</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423254402</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5300</price>
-      </offer>
       <offer sku="УТ-00091604">
         <name>Кувалда BOSCH 1000 г 1600A02ZA4</name>
         <vendor>BOSCH</vendor>
@@ -26927,17 +26864,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24530</price>
-      </offer>
-      <offer sku="УТ-00095267">
-        <name>Мультитул BOSCH 16-в-0 1600A02Z98</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423254082</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12030</price>
       </offer>
       <offer sku="УТ-00095268">
         <name>Стартовый набор ручных инструментов BOSCH 14 предметов 1600A027PT</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 15:56">
+<fm_catalog date="2026-10-12 16:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2756,17 +2756,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8980</price>
-      </offer>
-      <offer sku="УТ-00025088">
-        <name>Лопата для уборки снега полипропиленовая, 275х365х870 мм, деревянный черенок, Россия// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4606800096111</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4950</price>
       </offer>
       <offer sku="УТ-00025325">
         <name>Круг абразивный на ворсовой подложке под "липучку", перфорированный, P 220, 125 мм, 5 шт.// Сибртех</name>
@@ -9347,17 +9336,6 @@
         </pickup-options>
         <price>21020</price>
       </offer>
-      <offer sku="00000017681">
-        <name>Лейка садовая Россия 2 л 67505</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4607116630044</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1500</price>
-      </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
         <vendor>Palisad</vendor>
@@ -10099,17 +10077,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
-      </offer>
-      <offer sku="00000022519">
-        <name>Фумлента, 25 мм х 10м// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996157917</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
       </offer>
       <offer sku="00000022645">
         <name>Правило алюминиевое "Трапеция", 1 ребро жесткости, L-1,5 м Россия// Сибртех</name>
@@ -18683,6 +18650,14 @@
         </pickup-options>
         <price>7390</price>
       </offer>
+      <offer sku="00000075402">
+        <name>Набор инструмента 94 предмета 1/4"&amp;1/2" (6-гран.)(4-32мм)</name>
+        <vendor>Forsage</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31500</price>
+      </offer>
       <offer sku="00000075510">
         <name>Фен строительный MOLOT MHG 6020 2000 Вт MHG602000011</name>
         <vendor>MOLOT</vendor>
@@ -21093,6 +21068,14 @@
         </pickup-options>
         <price>612800</price>
       </offer>
+      <offer sku="УТ-00055184">
+        <name>Бензопила MS 382 (40 см.) 11190113051К40</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>389100</price>
+      </offer>
       <offer sku="УТ-00055189">
         <name>Измельчитель садовый STIHL GHE 140.0 L 60130111150</name>
         <vendor>STIHL</vendor>
@@ -21307,6 +21290,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
+      </offer>
+      <offer sku="УТ-00055883">
+        <name>ВЕНТИЛЯЦИОННАЯ СИСТЕМА ТОПЛИВНОГО БАКА 00003505812</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4390</price>
       </offer>
       <offer sku="УТ-00055911">
         <name>Сиденье в ванну Nika "ЭКОНОМ" СВ1</name>
@@ -21677,6 +21668,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>48990</price>
+      </offer>
+      <offer sku="УТ-00056643">
+        <name>Комбоустройство SilverStone F-1 HYBRID S-BOT PRO</name>
+        <vendor>SilverStone</vendor>
+        <barcodes>
+          <barcode>8804294716003</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>116990</price>
       </offer>
       <offer sku="УТ-00056647">
         <name>Камера заднего вида IP-360 (для uno sport,city scanner, elbrus)</name>
@@ -23059,6 +23061,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>49060</price>
+      </offer>
+      <offer sku="УТ-00061328">
+        <name>Электронный модуль</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711585624</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17600</price>
       </offer>
       <offer sku="УТ-00061340">
         <name>Дозатор жидкого мыла встраиваемый Gappo сатин G406-5</name>
@@ -24866,6 +24879,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9999</price>
+      </offer>
+      <offer sku="УТ-00079720">
+        <name>Кабельный жгут Stihl 11404403012</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
       </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
@@ -26832,14 +26853,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
-      </offer>
-      <offer sku="УТ-00099898">
-        <name>Аккумуляторный Li-Ion гайковёрт 20V, 400 N.m (без батареек) TIWLI20401</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>33800</price>
       </offer>
       <offer sku="УТ-00099923">
         <name>Аккумуляторный перфоратор 20V, посадка SDS-Plus TRHLI20248</name>

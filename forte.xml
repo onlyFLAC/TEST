@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 11:32">
+<fm_catalog date="2026-10-12 12:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8466,7 +8466,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8368</price>
+        <price>8367</price>
       </offer>
       <offer sku="00000012819">
         <name>Ключ баллонный Г - образный 1/2" телескопический, 17 х 19 мм// Matrix</name>
@@ -8488,7 +8488,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5790</price>
+        <price>4990</price>
       </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
@@ -8532,7 +8532,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1869</price>
+        <price>1620</price>
       </offer>
       <offer sku="00000013771">
         <name>Тиски, 75 мм, крепление для стола// Sparta красный</name>
@@ -8588,7 +8588,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1306</price>
+        <price>1284</price>
       </offer>
       <offer sku="00000014138">
         <name>Леска для триммера круглая Denzel 96180</name>
@@ -8698,7 +8698,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14710</price>
+        <price>13456</price>
       </offer>
       <offer sku="00000014550">
         <name>Дрель ударная ID-650, 650 Вт, 0-3000 об/мин, 48000 уд/мин// Denzel</name>
@@ -8775,7 +8775,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4180</price>
+        <price>4175</price>
       </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
@@ -8841,7 +8841,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>790</price>
+        <price>737</price>
       </offer>
       <offer sku="00000015681">
         <name>Кронштейн стальной Сибртех 250x300 мм 94038</name>
@@ -8874,7 +8874,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7459</price>
+        <price>7458</price>
       </offer>
       <offer sku="00000015921">
         <name>Набор металлических хомутов Сибртех 50-70 мм 50 шт. 47563</name>
@@ -8885,7 +8885,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4686</price>
+        <price>4685</price>
       </offer>
       <offer sku="00000015949">
         <name>Набор стальных хомутов Сибртех 120-140 мм 25 шт. 47591</name>
@@ -8984,7 +8984,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6440</price>
+        <price>6328</price>
       </offer>
       <offer sku="00000016544">
         <name>Органайзер автомобильный на спинку сиденья // Stels</name>
@@ -9620,7 +9620,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1060</price>
+        <price>1055</price>
       </offer>
       <offer sku="00000020134">
         <name>Набор абразивных дисков СИБРТЕХ Р120 125 мм 5 шт. 738067</name>
@@ -9677,17 +9677,6 @@
         </pickup-options>
         <price>1880</price>
       </offer>
-      <offer sku="00000020390">
-        <name>Щетка выгнутая для УШМ Matrix М14 125 мм 74611</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996116884</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2130</price>
-      </offer>
       <offer sku="00000020563">
         <name>Сетка абразивная, P 220, 115 х 280 мм, 5 шт.// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -9730,7 +9719,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1480</price>
+        <price>1372</price>
       </offer>
       <offer sku="00000020723">
         <name>Губка для шлифования, 100 х 70 х 25 мм, мягкая, P 120// Matrix</name>
@@ -9752,7 +9741,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1375</price>
+        <price>1373</price>
       </offer>
       <offer sku="00000020911">
         <name>Набор метчиков и плашек Sparta М3-М12 20 шт. 773105</name>
@@ -9763,7 +9752,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9258</price>
+        <price>9257</price>
       </offer>
       <offer sku="00000020955">
         <name>Набор полотен для ножовки Сибртех 300 мм 12 шт. 77764</name>
@@ -9774,7 +9763,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3277</price>
+        <price>1388</price>
       </offer>
       <offer sku="00000021175">
         <name>Скребок SPARTA 795305</name>
@@ -9818,7 +9807,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1790</price>
+        <price>1071</price>
       </offer>
       <offer sku="00000021323">
         <name>Валик "Поролон", в сборе, 100 мм, D – 48 мм, D ручки – 6 мм, крепление шплинтом// Сибртех</name>
@@ -9862,7 +9851,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1715</price>
+        <price>1338</price>
       </offer>
       <offer sku="00000021495">
         <name>Мини-валик сменный MTX "ВЕЛЮР" 16х150 мм 80617</name>
@@ -9907,7 +9896,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>679</price>
+        <price>678</price>
       </offer>
       <offer sku="00000021804">
         <name>Кисть плоская MTX "Евро 4" 83057</name>
@@ -9948,7 +9937,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>729</price>
+        <price>728</price>
       </offer>
       <offer sku="00000022142">
         <name>Кельма печника, стальная, пластиковая ручка Россия// Сибртех</name>
@@ -10167,7 +10156,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21130</price>
+        <price>20876</price>
       </offer>
       <offer sku="00000023732">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
@@ -19513,7 +19502,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6576</price>
+        <price>6571</price>
       </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>

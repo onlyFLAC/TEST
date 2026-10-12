@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 15:27">
+<fm_catalog date="2026-10-12 15:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5236,17 +5236,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2150</price>
-      </offer>
-      <offer sku="00000003932">
-        <name>Болторез Титан компактный, Cr-V, max d=7 / HRC 40 d=2, 200 мм, ЗУБР Профессионал</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373302619</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7248</price>
       </offer>
       <offer sku="00000003955">
         <name>Брусок STAYER "MASTER" абразивный "Лодочка", 200мм</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 09:06">
+<fm_catalog date="2026-10-12 09:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2572,14 +2572,6 @@
         </pickup-options>
         <price>21000</price>
       </offer>
-      <offer sku="УТ-00022447">
-        <name>Шнур кордовый 3,3x65 Opti Quadra Husqvarna (квадратный)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12100</price>
-      </offer>
       <offer sku="УТ-00022449">
         <name>ПИЛА САДОВАЯ HUSQVARNA 220ММ</name>
         <vendor>Husqvarna</vendor>
@@ -2598,14 +2590,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022534">
-        <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30800</price>
       </offer>
       <offer sku="УТ-00022548">
         <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL LIGHT Р.10</name>
@@ -11085,14 +11069,6 @@
         </pickup-options>
         <price>109190</price>
       </offer>
-      <offer sku="00000031867">
-        <name>Двухсторонняя стремянка DOPPLO 2х6 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>82600</price>
-      </offer>
       <offer sku="00000031882">
         <name>Приставная пестница SIBILO 1х6</name>
         <vendor>Krause</vendor>
@@ -11100,17 +11076,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26080</price>
-      </offer>
-      <offer sku="00000031886">
-        <name>Площадка - полка</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199122063</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18100</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -24018,14 +23983,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="УТ-00064584">
-        <name>ЗУБР КРЕММЕР-50, 50 шт, крепление для установки маячковых профилей (30950-50)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>979</price>
-      </offer>
       <offer sku="УТ-00064598">
         <name>KRAFTOOL X5 Metal 125x1.0 мм по металлу отрезной диск для УШМ (36255-125-1.0)</name>
         <vendor>KRAFTOOL</vendor>
@@ -24168,17 +24125,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>990</price>
-      </offer>
-      <offer sku="УТ-00065019">
-        <name>ЗУБР Колибри-30 черный, наконечник L 30 мм, ᴓ 2.8 мм, перманентный маркер для отверстий (06338-2)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373559495</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1590</price>
       </offer>
       <offer sku="УТ-00065038">
         <name>ЗУБР МК-800 синий, 2-8 мм клиновидный маркер-краска (06327-7)</name>

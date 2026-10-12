@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 12:31">
+<fm_catalog date="2026-10-12 13:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6994,6 +6994,17 @@
         </pickup-options>
         <price>7380</price>
       </offer>
+      <offer sku="00000008378">
+        <name>Набор ЗУБР "Мастер": Патрон ключевой 13 мм, "SDS+" адаптер, ключ для патрона, посадочная резьба 1/2", Д 2,0-13мм</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373250798</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3397</price>
+      </offer>
       <offer sku="00000008446">
         <name>Набор кольцевых коронок ЗУБР 8 шт. 33350-H8_z01</name>
         <vendor>ЗУБР</vendor>
@@ -9886,6 +9897,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
+      </offer>
+      <offer sku="00000021636">
+        <name>Таз прямоугольный строительный, 40 л Россия// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4606800068378</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2780</price>
       </offer>
       <offer sku="00000021752">
         <name>Кисть плоская Сибртех 100 мм 82266</name>
@@ -18147,17 +18169,6 @@
         </pickup-options>
         <price>13838</price>
       </offer>
-      <offer sku="00000073684">
-        <name>Подставка для обуви с сиденьем и ящиком ЗМИ "АЛЬФА 13" ПДОА13СЯЧ черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093788349</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13500</price>
-      </offer>
       <offer sku="00000073690">
         <name>Подставка для обуви ЗМИ "АЛЬФА 32" ПДОА32Б белая</name>
         <vendor>ЗМИ</vendor>
@@ -18458,6 +18469,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23300</price>
+      </offer>
+      <offer sku="00000074791">
+        <name>Сушилка на радиатор Nika СБ5-65П/С серебряный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4640076028902</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1800</price>
       </offer>
       <offer sku="00000074985">
         <name>Шлифмашина угловая (болгарка) DeWALT DWE4157</name>

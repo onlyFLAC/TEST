@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 09:35">
+<fm_catalog date="2026-10-12 10:04">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1739,17 +1739,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1851</price>
-      </offer>
-      <offer sku="УТ-00014456">
-        <name>ЗУБР ПВЛ 12 х 0.5 мм, 25 м, перфорированная вентиляционная лента прямая, цинк (310247-12-05) 310247-12-05</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373316098</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2880</price>
       </offer>
       <offer sku="УТ-00014457">
         <name>Лента вентиляционная перфорированная ЗУБР 25 м 310246-12</name>
@@ -8041,17 +8030,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4268</price>
-      </offer>
-      <offer sku="00000010927">
-        <name>УНИВЕРСАЛ 125 мм, диск алмазный отрезной сегментный по бетону, кирпичу, камню, ЗУБР</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373126918</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2018</price>
       </offer>
       <offer sku="00000010930">
         <name>Диск отрезной алмазный ЗУБР 230 мм 36610-230_z01</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 10:04">
+<fm_catalog date="2026-10-12 10:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6397,17 +6397,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390</price>
-      </offer>
-      <offer sku="00000007108">
-        <name>Ключ разводной SlimWide, 300 / 60 мм, KRAFTOOL</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229174569</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23680</price>
       </offer>
       <offer sku="00000007143">
         <name>Ключ цепной STAYER с пластиковой ручкой для снятия автомобильных фильтров</name>

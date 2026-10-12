@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 17:24">
+<fm_catalog date="2026-10-12 17:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -12047,6 +12047,17 @@
         </pickup-options>
         <price>159100</price>
       </offer>
+      <offer sku="00000032631">
+        <name>Нивелир оптический GOL26 D+BT160+GR500 0601068002 Bosch</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140744997</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>217700</price>
+      </offer>
       <offer sku="00000032634">
         <name>Нож сменный для газонокосилки Bosch ROTAK 32/320 F016800340</name>
         <vendor>BOSCH</vendor>
@@ -13244,6 +13255,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2356</price>
+      </offer>
+      <offer sku="00000034632">
+        <name>Набор лобзиковых пилок BOSCH T101D 3 шт. 2608630558</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140006965</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1522</price>
       </offer>
       <offer sku="00000034643">
         <name>Набор лобзиковых пилок BOSCH T118G 5 шт. 2608631012</name>
@@ -14778,6 +14800,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3020</price>
+      </offer>
+      <offer sku="00000039023">
+        <name>Набор сверл по металлу Bosch PointTeQ 4.9 мм 10 шт. 2608577217</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140907262</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2279</price>
       </offer>
       <offer sku="00000039074">
         <name>Набор сверл по металлу BOSCH 10 мм 10 шт. 2608577268</name>
@@ -19971,6 +20004,17 @@
         </pickup-options>
         <price>165500</price>
       </offer>
+      <offer sku="УТ-00002270">
+        <name>Машина шлифовальная угловая (болгарка) Bosch GWS 12-125 S 06013A6020</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952631639</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>71130</price>
+      </offer>
       <offer sku="УТ-00002272">
         <name>Дрель ударная Bosch GSB 1600 RE</name>
         <vendor>BOSCH</vendor>
@@ -20339,6 +20383,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>30189</price>
+      </offer>
+      <offer sku="УТ-00041551">
+        <name>Ремень привода (50492065) F016L66677</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952489704</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7999</price>
       </offer>
       <offer sku="УТ-00041597">
         <name>Вешалка настенная "ТОРОНТО 3" (Графит)</name>
@@ -24168,6 +24223,17 @@
         </pickup-options>
         <price>69760</price>
       </offer>
+      <offer sku="УТ-00063834">
+        <name>Молоток инженерный BOSCH 300 г 1600A027PH</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952614137</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7030</price>
+      </offer>
       <offer sku="УТ-00063835">
         <name>Набор отверток BOSCH 8 шт. 1600A02BX8</name>
         <vendor>BOSCH</vendor>
@@ -26661,6 +26727,17 @@
         </pickup-options>
         <price>7550</price>
       </offer>
+      <offer sku="УТ-00091603">
+        <name>Молоток-гвоздодер BOSCH 225 г 1600A02ZA3</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423254402</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5300</price>
+      </offer>
       <offer sku="УТ-00091604">
         <name>Кувалда BOSCH 1000 г 1600A02ZA4</name>
         <vendor>BOSCH</vendor>
@@ -27353,6 +27430,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7790</price>
+      </offer>
+      <offer sku="УТ-00103372">
+        <name>Набор ручного инструмента универсальный Bosch 25 предметов (V3) (50654391)</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>34880</price>
       </offer>
     </offers>
   </shop>

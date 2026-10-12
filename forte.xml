@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-12 14:58">
+<fm_catalog date="2026-10-12 15:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -205,28 +205,6 @@
         </pickup-options>
         <price>64990</price>
       </offer>
-      <offer sku="УТ-00003923">
-        <name>Фен строительный аккумуляторный CROWN CT60001HX</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640186246897</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27100</price>
-      </offer>
-      <offer sku="УТ-00003961">
-        <name>Лобзик электрический CROWN CT15287</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640372697731</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20990</price>
-      </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
         <vendor>CROWN</vendor>
@@ -286,14 +264,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17390</price>
-      </offer>
-      <offer sku="УТ-00004313">
-        <name>Magnetta, IG9000, Инверторный генератор 7 кВт, 220 В</name>
-        <vendor>Magnetta</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>341950</price>
       </offer>
       <offer sku="УТ-00004323">
         <name>Лестница трансформер шарнирная PROFSET 4х3 ступеней DLM403</name>
@@ -840,6 +810,17 @@
         </pickup-options>
         <price>495319</price>
       </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
+      </offer>
       <offer sku="УТ-00005922">
         <name>Набор уровней тип 70 CLASSIC SET 40, 60, 100 см STABILA 19819</name>
         <vendor>STABILA</vendor>
@@ -847,6 +828,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33970</price>
+      </offer>
+      <offer sku="УТ-00005950">
+        <name>Уровень Stabila тип 70, 50 см 02283</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12590</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -870,14 +859,6 @@
         </pickup-options>
         <price>26790</price>
       </offer>
-      <offer sku="УТ-00006058">
-        <name>Электрический водоподогреватель ЭВП-12М на 380</name>
-        <vendor>Теплотех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54850</price>
-      </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
         <vendor>Krause</vendor>
@@ -885,14 +866,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79800</price>
-      </offer>
-      <offer sku="УТ-00006312">
-        <name>SAFETY Складная стремянка 7 ступ. с полочкой</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>95100</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -2299,14 +2272,6 @@
         </pickup-options>
         <price>165320</price>
       </offer>
-      <offer sku="УТ-00017026">
-        <name>Насадка для многофункционального инструмента DeWALT 44х30 мм DT20737-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4790</price>
-      </offer>
       <offer sku="УТ-00018550">
         <name>Диск отрезной по металлу Bosch 230х1.9 мм 2608619770</name>
         <vendor>BOSCH</vendor>
@@ -2791,6 +2756,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8980</price>
+      </offer>
+      <offer sku="УТ-00025088">
+        <name>Лопата для уборки снега полипропиленовая, 275х365х870 мм, деревянный черенок, Россия// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4606800096111</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4950</price>
       </offer>
       <offer sku="УТ-00025325">
         <name>Круг абразивный на ворсовой подложке под "липучку", перфорированный, P 220, 125 мм, 5 шт.// Сибртех</name>
@@ -4106,17 +4082,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1790</price>
-      </offer>
-      <offer sku="УТ-00026295">
-        <name>Компрессор безмасляный ALTECO ACO 50L 63425</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244611616</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>132250</price>
       </offer>
       <offer sku="УТ-00026329">
         <name>Доска гладильная Nika "BELL CLASSY 3" тефлон БКТ3 (в ассортименте)</name>
@@ -8627,6 +8592,17 @@
         </pickup-options>
         <price>2880</price>
       </offer>
+      <offer sku="00000013823">
+        <name>Шланг спиральный воздушный, 15 м, с быстросъемными соединениями// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996019505</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3990</price>
+      </offer>
       <offer sku="00000013944">
         <name>Скобы для пнев. степл., 22 мм, шир. - 1,2 мм, тол. - 0,6 мм, шир. скобы - 11,2 мм, 5000 шт// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9382,6 +9358,17 @@
         </pickup-options>
         <price>21020</price>
       </offer>
+      <offer sku="00000017681">
+        <name>Лейка садовая Россия 2 л 67505</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4607116630044</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1500</price>
+      </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
         <vendor>Palisad</vendor>
@@ -10124,6 +10111,17 @@
         </pickup-options>
         <price>590</price>
       </offer>
+      <offer sku="00000022519">
+        <name>Фумлента, 25 мм х 10м// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996157917</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
+      </offer>
       <offer sku="00000022645">
         <name>Правило алюминиевое "Трапеция", 1 ребро жесткости, L-1,5 м Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10217,17 +10215,6 @@
         </pickup-options>
         <price>20876</price>
       </offer>
-      <offer sku="00000023716">
-        <name>Аппарат сварочный инверторный CROWN MINI CT33102</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177422309</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>51990</price>
-      </offer>
       <offer sku="00000023732">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
         <vendor>CROWN</vendor>
@@ -10280,17 +10267,6 @@
         </pickup-options>
         <price>32990</price>
       </offer>
-      <offer sku="00000023825">
-        <name>Лобзик электрический CROWN CT15189</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177420688</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36990</price>
-      </offer>
       <offer sku="00000023888">
         <name>Фен строительный CROWN CT19007BMC</name>
         <vendor>CROWN</vendor>
@@ -10298,14 +10274,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19200</price>
-      </offer>
-      <offer sku="00000023908">
-        <name>Машина шлифовальная прямая CROWN CT13308</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19990</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -10411,28 +10379,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>121000</price>
-      </offer>
-      <offer sku="00000024487">
-        <name>Алмазная коронка 112*350 PS</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455101</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12290</price>
-      </offer>
-      <offer sku="00000024488">
-        <name>Алмазная коронка 112*350 ВТ</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455118</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11490</price>
       </offer>
       <offer sku="00000024780">
         <name>Фен строительный ALTECO HG 0609 27142</name>
@@ -10863,17 +10809,6 @@
         </pickup-options>
         <price>189400</price>
       </offer>
-      <offer sku="00000027593">
-        <name>Аккумулятор DeWALT 18V 2.0Ah XR DCB183-XJ</name>
-        <vendor>DeWALT</vendor>
-        <barcodes>
-          <barcode>5035048438886</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30520</price>
-      </offer>
       <offer sku="00000027671">
         <name>Бур по бетону DeWALT XLR SDS-Plus 10х250х310 мм DT8931</name>
         <vendor>DeWALT</vendor>
@@ -11182,14 +11117,6 @@
         </pickup-options>
         <price>26080</price>
       </offer>
-      <offer sku="00000031885">
-        <name>Распорка - ограничитель</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40600</price>
-      </offer>
       <offer sku="00000031886">
         <name>Площадка - полка</name>
         <vendor>Krause</vendor>
@@ -11200,33 +11127,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18100</price>
-      </offer>
-      <offer sku="00000031902">
-        <name>Складная подставка TREPPO 2x3 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>77800</price>
-      </offer>
-      <offer sku="00000031903">
-        <name>Складная подставка TREPPO 2x4 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>97600</price>
-      </offer>
-      <offer sku="00000031906">
-        <name>Стремянка односторонняя Krause "SOLIDY" 5 ступеней 126238</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126238</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>50000</price>
       </offer>
       <offer sku="00000031908">
         <name>Стремянка свободностоящая 7 ступенек, раб.высота 3,50 м SOLIDY Krause</name>
@@ -11246,30 +11146,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>87400</price>
-      </offer>
-      <offer sku="00000031914">
-        <name>Стремянка анодированная Krause "MONTO" SECURO 1х7 126450</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>112500</price>
-      </offer>
-      <offer sku="00000031917">
-        <name>Стремянка SECURY MultiGrip 5 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>76900</price>
-      </offer>
-      <offer sku="00000031924">
-        <name>Стремянка анодированная Krause "SEPURO" 4 ступ. 127228</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>69000</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -18643,14 +18519,6 @@
         </pickup-options>
         <price>18800</price>
       </offer>
-      <offer sku="00000074236">
-        <name>Анодированная стремянка SEPRO 4 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>84600</price>
-      </offer>
       <offer sku="00000074239">
         <name>Подставка ROLLY 2х2 ступ. зеленая</name>
         <vendor>Krause</vendor>
@@ -20418,22 +20286,6 @@
         </pickup-options>
         <price>5440</price>
       </offer>
-      <offer sku="УТ-00045280">
-        <name>Гайковерт аккумуляторный DeWALT DCF921NT-XJ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>142360</price>
-      </offer>
-      <offer sku="УТ-00045416">
-        <name>Magnetta, GW220, Сварочный генератор бензиновый 5 кВт</name>
-        <vendor>Magnetta</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>224110</price>
-      </offer>
       <offer sku="УТ-00045515">
         <name>Эмаль ПФ-115 вишнева 2,6кг Оптима_(8668)</name>
         <vendor>Оптима</vendor>
@@ -21065,14 +20917,6 @@
         </pickup-options>
         <price>27990</price>
       </offer>
-      <offer sku="УТ-00053274">
-        <name>Зажим для СВП 2 мм 250 штук BIHUI BLSN250, шт 77309</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3850</price>
-      </offer>
       <offer sku="УТ-00053325">
         <name>Крышка для выравнивания 100 шт BIHUI SLC100, шт 77463</name>
         <vendor>BIHUI</vendor>
@@ -21088,22 +20932,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6640</price>
-      </offer>
-      <offer sku="УТ-00053348">
-        <name>Шпатель малярный 300мм, BIHUI PTK30, шт 77402</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2890</price>
-      </offer>
-      <offer sku="УТ-00053350">
-        <name>Шпатель малярный 600мм, BIHUI PTK60, шт 77404</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4650</price>
       </offer>
       <offer sku="УТ-00053690">
         <name>Дрель ударная сетевая Bosch GSB 600 06011A0320</name>
@@ -21896,14 +21724,6 @@
         </pickup-options>
         <price>196400</price>
       </offer>
-      <offer sku="УТ-00057216">
-        <name>Удлинитель на катушке Mateus MS12207 (25m, CCA 3x2,5)</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15400</price>
-      </offer>
       <offer sku="УТ-00057357">
         <name>Аккумуляторный триммер CT 21-25 Solo ALTECO, шт</name>
         <vendor>ALTECO</vendor>
@@ -22051,14 +21871,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>135154</price>
-      </offer>
-      <offer sku="УТ-00058888">
-        <name>Стремянка KRAUSE "SEPRO S" 5 ступеней 124197</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>95000</price>
       </offer>
       <offer sku="УТ-00059138">
         <name>Компрессор безмасляный DGM AC-225F DG2720-4</name>
@@ -22291,7 +22103,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5200</price>
+        <price>4200</price>
       </offer>
       <offer sku="УТ-00059650">
         <name>Коврик для глажки белья малый Nika КГМ/4 КГМ/4 стрекозы на синем</name>
@@ -22299,7 +22111,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4990</price>
+        <price>4550</price>
       </offer>
       <offer sku="УТ-00059651">
         <name>Кресло-шезлонг с матрасом Nika HHK4Р/T принт с туканами</name>
@@ -24430,14 +24242,6 @@
         </pickup-options>
         <price>1680</price>
       </offer>
-      <offer sku="УТ-00065639">
-        <name>Конвектор Eurolux ОК-EU-2000C 67/4/30</name>
-        <vendor>Eurolux</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13490</price>
-      </offer>
       <offer sku="УТ-00068061">
         <name>Кожух вытяжной для УШМ WORTEX DS 125 D DS125D0018</name>
         <vendor>Wortex</vendor>
@@ -24582,6 +24386,17 @@
         </pickup-options>
         <price>19300</price>
       </offer>
+      <offer sku="УТ-00072511">
+        <name>Кусачки диагональные KNIPEX 74 02 180</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773023074</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26710</price>
+      </offer>
       <offer sku="УТ-00072512">
         <name>Кусачки диагональные KNIPEX 74 02 200</name>
         <vendor>KNIPEX</vendor>
@@ -24603,6 +24418,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27145</price>
+      </offer>
+      <offer sku="УТ-00072564">
+        <name>Ножницы для резки кабелей KNIPEX 95 16 200</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>51075</price>
       </offer>
       <offer sku="УТ-00072566">
         <name>Ножницы для резки кабелей KNIPEX 95 26 165</name>
@@ -25143,14 +24966,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34500</price>
-      </offer>
-      <offer sku="УТ-00085210">
-        <name>Угловая шлифовальная машина Crown CT13677-125RSV</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41990</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>
@@ -26981,14 +26796,6 @@
         </pickup-options>
         <price>22610</price>
       </offer>
-      <offer sku="УТ-00095849">
-        <name>Молоток сварщика KRASS 300 г, дерев. ручка (50 шт) 2995047</name>
-        <vendor>KRASS</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2140</price>
-      </offer>
       <offer sku="УТ-00096158">
         <name>Лезвие для шпателя BIHUI 40 см, толщина 0.5 мм PTKB40-SB</name>
         <vendor>BIHUI</vendor>
@@ -27013,22 +26820,6 @@
         </pickup-options>
         <price>46900</price>
       </offer>
-      <offer sku="УТ-00099422">
-        <name>Набор бит ударных DeWALT IMPACT TORSION T25 89 мм (2 шт.), DT70569T-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1990</price>
-      </offer>
-      <offer sku="УТ-00099445">
-        <name>Набор бит DeWALT FLEXTORQ PZ2 25 мм (7 шт.), DT70811-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2490</price>
-      </offer>
       <offer sku="УТ-00099520">
         <name>31015 Краскопульт CROWN</name>
         <vendor>CROWN</vendor>
@@ -27045,38 +26836,6 @@
         </pickup-options>
         <price>94990</price>
       </offer>
-      <offer sku="УТ-00099539">
-        <name>29006HX Пила цепная аккумуляторная CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>65990</price>
-      </offer>
-      <offer sku="УТ-00099543">
-        <name>23018HX Машина полировальная аккумуляторная 20V, 5Ач, 1200-3400 об/мин, 180мм, бесщеточная CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35990</price>
-      </offer>
-      <offer sku="УТ-00099548">
-        <name>42112 Пылесос промышленный CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43990</price>
-      </offer>
-      <offer sku="УТ-00099560">
-        <name>13577 Машина шлифовальная прямая CROWN "600 Вт 6 мм 220 ~ 230 В"</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26990</price>
-      </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>
         <vendor>STIHL</vendor>
@@ -27084,6 +26843,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
+      </offer>
+      <offer sku="УТ-00099898">
+        <name>Аккумуляторный Li-Ion гайковёрт 20V, 400 N.m (без батареек) TIWLI20401</name>
+        <vendor>Total</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>33800</price>
       </offer>
       <offer sku="УТ-00099923">
         <name>Аккумуляторный перфоратор 20V, посадка SDS-Plus TRHLI20248</name>
@@ -27175,14 +26942,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101916">
-        <name>A-86898 Пилки для лобзика 5шт ассорти</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2805</price>
       </offer>
       <offer sku="УТ-00102450">
         <name>D-81206 Пильный диск универсальный для алюминия/дерева/пластика, 165x20x2.2/1.4x60T</name>

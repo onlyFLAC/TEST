@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 15:23">
+<fm_catalog date="2026-10-13 15:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15983,6 +15983,28 @@
         </pickup-options>
         <price>1880</price>
       </offer>
+      <offer sku="00000059140">
+        <name>Вешалка настенная ЗМИ "НОРМА 5" ВН24 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011871976</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2140</price>
+      </offer>
+      <offer sku="00000059141">
+        <name>Вешалка настенная ЗМИ "НОРМА 7" ВН66 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093785812</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3888</price>
+      </offer>
       <offer sku="00000059150">
         <name>Подставка для обуви ЗМИ "АЛЬФА 22" ПДОА22 коричневая (ПДО12М)</name>
         <vendor>ЗМИ</vendor>
@@ -16082,6 +16104,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22470</price>
+      </offer>
+      <offer sku="00000059179">
+        <name>Подставка для цветов ЗМИ "АРКА 5" ПДЦ414 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011879095</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8510</price>
       </offer>
       <offer sku="00000059189">
         <name>Вешалка гардеробная ЗМИ "РАДУГА 1" ВГАР1 черная</name>
@@ -16250,6 +16283,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12010</price>
+      </offer>
+      <offer sku="00000059315">
+        <name>Вешалка гардеробная ЗМИ "РАДУГА 1" ВГАР1 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784808</barcode>
+          <barcode>4610195637613</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9040</price>
       </offer>
       <offer sku="00000059316">
         <name>Шина R 35см/14"1,3мм/0.50" 3/8 P Stihl</name>
@@ -16926,6 +16971,17 @@
         </pickup-options>
         <price>20960</price>
       </offer>
+      <offer sku="00000064210">
+        <name>Подставка для обуви ЗМИ ''ЖЕНЕВА 13'' Белый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787939</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12530</price>
+      </offer>
       <offer sku="00000064216">
         <name>ЗМИ Подставка для обуви ЖЕНЕВА 15 Белый</name>
         <vendor>ЗМИ</vendor>
@@ -17069,6 +17125,17 @@
         </pickup-options>
         <price>14770</price>
       </offer>
+      <offer sku="00000064287">
+        <name>ЗМИ Этажерка "Ладья 24" Графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195630225</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16501</price>
+      </offer>
       <offer sku="00000064296">
         <name>Этажерка на колесиках ЗМИ "ЛАДЬЯ 14К" Э372 серая</name>
         <vendor>ЗМИ</vendor>
@@ -17099,6 +17166,14 @@
         </pickup-options>
         <price>21091</price>
       </offer>
+      <offer sku="00000064316">
+        <name>Этажерка на колесиках и столешницей ЗМИ "ЛАДЬЯ 34КС" Э357 графит</name>
+        <vendor>ЗМИ</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9999</price>
+      </offer>
       <offer sku="00000064318">
         <name>Этажерка на колесиках и столешницей ЗМИ "ЛАДЬЯ 34КС" черная Э357</name>
         <vendor>ЗМИ</vendor>
@@ -17109,6 +17184,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20570</price>
+      </offer>
+      <offer sku="00000064332">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14580</price>
+      </offer>
+      <offer sku="00000064334">
+        <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784907</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11600</price>
       </offer>
       <offer sku="00000064335">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 коричневая</name>
@@ -17132,6 +17229,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9400</price>
+      </offer>
+      <offer sku="00000064347">
+        <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784945</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14890</price>
       </offer>
       <offer sku="00000064348">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 коричневая</name>
@@ -17190,6 +17298,17 @@
         </pickup-options>
         <price>5250</price>
       </offer>
+      <offer sku="00000064362">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л бежевый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874489</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4320</price>
+      </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>
         <vendor>ЗМИ</vendor>
@@ -17211,6 +17330,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5310</price>
+      </offer>
+      <offer sku="00000064366">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л серый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874472</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4980</price>
       </offer>
       <offer sku="00000064367">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 ваниль</name>
@@ -17256,6 +17386,17 @@
         </pickup-options>
         <price>7310</price>
       </offer>
+      <offer sku="00000064372">
+        <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 ваниль</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011877961</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4980</price>
+      </offer>
       <offer sku="00000064373">
         <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 коричневый</name>
         <vendor>ЗМИ</vendor>
@@ -17277,6 +17418,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5400</price>
+      </offer>
+      <offer sku="00000064376">
+        <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 серый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874458</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5100</price>
       </offer>
       <offer sku="00000064411">
         <name>Станция насосная Magnetta AUTOGJSm800+24L</name>
@@ -17518,6 +17670,28 @@
         </pickup-options>
         <price>15320</price>
       </offer>
+      <offer sku="00000070609">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787113</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14010</price>
+      </offer>
+      <offer sku="00000070610">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787120</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13960</price>
+      </offer>
       <offer sku="00000070611">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М белая</name>
         <vendor>ЗМИ</vendor>
@@ -17528,6 +17702,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15500</price>
+      </offer>
+      <offer sku="00000070612">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787144</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14070</price>
       </offer>
       <offer sku="00000070655">
         <name>Цепь STIHL 66 зв. 3/8" 1.6 мм 36RM RAPID MICRO 36520000066</name>
@@ -18097,6 +18282,17 @@
         </pickup-options>
         <price>13050</price>
       </offer>
+      <offer sku="00000073693">
+        <name>Подставка для обуви с сиденьем ЗМИ "АЛЬФА 32" ПДОА32С белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093789032</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9640</price>
+      </offer>
       <offer sku="00000073885">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 185-LI 06019K3000</name>
         <vendor>BOSCH</vendor>
@@ -18569,6 +18765,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17490</price>
+      </offer>
+      <offer sku="00000075880">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093789995</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10790</price>
       </offer>
       <offer sku="00000075885">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 графит</name>
@@ -19554,6 +19761,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>98753</price>
+      </offer>
+      <offer sku="УТ-00002288">
+        <name>Вешалка с полкой ЗМИ "ТОРОНТО 22" белая ВСП Т22</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195630744</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16790</price>
       </offer>
       <offer sku="УТ-00002301">
         <name>Подставка для обуви ЗМИ "ВЕРОНА 24" графит ПДОВ24</name>
@@ -21114,6 +21332,14 @@
         </pickup-options>
         <price>4999</price>
       </offer>
+      <offer sku="УТ-00055704">
+        <name>Тумба прикроватная ЗМИ "ТОРОНТО 12Л" ТПТ12Л черная</name>
+        <vendor>ЗМИ</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8920</price>
+      </offer>
       <offer sku="УТ-00055705">
         <name>Этажерка Nika ЭТ2/МС матово-серый</name>
         <vendor>Nika</vendor>
@@ -21214,6 +21440,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9970</price>
+      </offer>
+      <offer sku="УТ-00055922">
+        <name>Тумба прикроватная ЗМИ "ТОРОНТО 12Л" ТПТ12Л графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195635763</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8920</price>
       </offer>
       <offer sku="УТ-00055930">
         <name>Вешалка напольная ЗМИ "ТОРОНТО 1" ВНПТ1 графит</name>
@@ -21958,7 +22195,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4550</price>
+        <price>3990</price>
       </offer>
       <offer sku="УТ-00059651">
         <name>Кресло-шезлонг с матрасом Nika HHK4Р/T принт с туканами</name>

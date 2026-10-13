@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 16:51">
+<fm_catalog date="2026-10-13 17:21">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2496,6 +2496,14 @@
         </pickup-options>
         <price>9900</price>
       </offer>
+      <offer sku="УТ-00022346">
+        <name>Цепь 10"; 1/4"; 1.3 58DL H00 Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13200</price>
+      </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2539,6 +2547,25 @@
         </pickup-options>
         <price>13200</price>
       </offer>
+      <offer sku="УТ-00022464">
+        <name>Топор универсальный 65см 0,85кг</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883620687</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>53000</price>
+      </offer>
+      <offer sku="УТ-00022468">
+        <name>Топор-колун 80см 2,5кг</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>74000</price>
+      </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
         <vendor>Husqvarna</vendor>
@@ -2546,6 +2573,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
+      </offer>
+      <offer sku="УТ-00022495">
+        <name>Рулетка 15м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -16173,6 +16208,17 @@
         </pickup-options>
         <price>5160</price>
       </offer>
+      <offer sku="00000059224">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011875639</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13020</price>
+      </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>
         <vendor>ЗМИ</vendor>
@@ -17135,17 +17181,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14770</price>
-      </offer>
-      <offer sku="00000064287">
-        <name>ЗМИ Этажерка "Ладья 24" Графит</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195630225</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16501</price>
       </offer>
       <offer sku="00000064296">
         <name>Этажерка на колесиках ЗМИ "ЛАДЬЯ 14К" Э372 серая</name>
@@ -22754,17 +22789,6 @@
         </pickup-options>
         <price>5000</price>
       </offer>
-      <offer sku="УТ-00060121">
-        <name>Смеситель встраиваемый для раковины Gappo G1206-6 черный</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477647406</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36760</price>
-      </offer>
       <offer sku="УТ-00060159">
         <name>Смеситель GAPPO для раковины G1007-9 Оружейная Сталь</name>
         <vendor>GAPPO</vendor>
@@ -24633,6 +24657,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>487000</price>
+      </offer>
+      <offer sku="УТ-00072975">
+        <name>Масло синтетическое с дозатором Husqvarna 2Т 1л XP 547 92 98-02</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16500</price>
       </offer>
       <offer sku="УТ-00072998">
         <name>Смазка Husqvarna ECO 100гр. 503 97 64-01</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 14:24">
+<fm_catalog date="2026-10-13 14:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4406,7 +4406,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7999</price>
+        <price>7500</price>
       </offer>
       <offer sku="00000000297">
         <name>Аппарат сварочный EUROLUX IWM160 65/26</name>
@@ -10267,6 +10267,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17900</price>
+      </offer>
+      <offer sku="00000024997">
+        <name>Дрель Makita 6413</name>
+        <vendor>Makita</vendor>
+        <barcodes>
+          <barcode>088381081177</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44485</price>
       </offer>
       <offer sku="00000025002">
         <name>Аккумулятор для инструментов Makita BL 1850B 197280-8</name>
@@ -18729,17 +18740,6 @@
         </pickup-options>
         <price>21500</price>
       </offer>
-      <offer sku="УТ-00000228">
-        <name>Щиток лицевой защитный ЗУБР "СЕКТОР" 11085_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373454301</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4367</price>
-      </offer>
       <offer sku="УТ-00000276">
         <name>PK-26 стриппер многофункциональный, 0.6 - 2.6 мм, KRAFTOOL</name>
         <vendor>KRAFTOOL</vendor>
@@ -22184,7 +22184,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15559</price>
+        <price>15300</price>
       </offer>
       <offer sku="УТ-00059824">
         <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/O orchid</name>
@@ -22739,7 +22739,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13469</price>
+        <price>9998</price>
       </offer>
       <offer sku="УТ-00060533">
         <name>Вешалка напольная Nika "КОМФОРТ 6" ВК6/З золотистый</name>

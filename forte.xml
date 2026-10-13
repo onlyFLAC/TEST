@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 11:58">
+<fm_catalog date="2026-10-13 12:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1791,17 +1791,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4552</price>
-      </offer>
-      <offer sku="УТ-00014838">
-        <name>Фреза пазовая ЗУБР "ПРОФЕССИОНАЛ" прямая 8 мм 28753-16-30</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373258565</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2569</price>
       </offer>
       <offer sku="УТ-00014859">
         <name>ЗУБР 12.7x25мм, хвостовик 8мм, фреза кромочная с нижним подшипником 28727-12.7-25</name>
@@ -24646,6 +24635,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24590</price>
+      </offer>
+      <offer sku="УТ-00075725">
+        <name>Набор ударных торцовых головок Wera 05004580001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48370</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>

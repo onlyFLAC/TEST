@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 07:04">
+<fm_catalog date="2026-10-13 07:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2125,17 +2125,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11580</price>
-      </offer>
-      <offer sku="УТ-00015587">
-        <name>Набор шпателей ЗУБР 4 шт. 1015-H4</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373550003</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1480</price>
       </offer>
       <offer sku="УТ-00015588">
         <name>ЗУБР 90 л, первичный высокопрочный пластик, Усиленный прямоугольный строительный таз, МАСТЕР (06096-90)</name>
@@ -4415,17 +4404,6 @@
         </pickup-options>
         <price>44100</price>
       </offer>
-      <offer sku="УТ-00040139">
-        <name>Доска гладильная Nika "ЛИНА 1" ДЛ1 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830431</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8990</price>
-      </offer>
       <offer sku="УТ-00040230">
         <name>Велосипед детский Nika ВДН4/4 черный с лимонным</name>
         <vendor>Nika</vendor>
@@ -6036,17 +6014,6 @@
         </pickup-options>
         <price>2690</price>
       </offer>
-      <offer sku="00000005801">
-        <name>ЗУБР Мастер-53 cтеплер стальной, тип 53</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373101595</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4978</price>
-      </offer>
       <offer sku="00000005802">
         <name>ЗУБР Мастер-6 набор отверток 6 шт</name>
         <vendor>ЗУБР</vendor>
@@ -7063,17 +7030,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24040</price>
-      </offer>
-      <offer sku="00000008026">
-        <name>Мешок-пылесборник тканевый для пылесоса ЗУБР многоразовый 20 л МТ-20-М3</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373251542</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2054</price>
       </offer>
       <offer sku="00000008027">
         <name>Мешок-пылесборник тканевый для пылесоса ЗУБР многоразовый 30 л МТ-30-М3</name>
@@ -12249,17 +12205,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1590</price>
-      </offer>
-      <offer sku="00000032661">
-        <name>Диск отрезной по металлу Bosch 355х2.8х25.4 мм 2608601238</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140777230</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2610</price>
       </offer>
       <offer sku="00000032668">
         <name>Мойка высокого давления Bosch GHP 5-65 W/EEU 0600910500</name>
@@ -18940,17 +18885,6 @@
         </pickup-options>
         <price>23300</price>
       </offer>
-      <offer sku="00000074791">
-        <name>Сушилка на радиатор Nika СБ5-65П/С серебряный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076028902</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1800</price>
-      </offer>
       <offer sku="00000074985">
         <name>Шлифмашина угловая (болгарка) DeWALT DWE4157</name>
         <vendor>DeWALT</vendor>
@@ -22029,14 +21963,6 @@
         </pickup-options>
         <price>6989</price>
       </offer>
-      <offer sku="УТ-00056409">
-        <name>ЗУБР ЛЕГИОНЕР, серая, ударопрочный корпус, укороченный козырёк 55мм, размер от 54 до 59см, защитная каскетка (11098)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8380</price>
-      </offer>
       <offer sku="УТ-00056463">
         <name>Лопата снеговая ЗУБР "УРАЛ" 400 мм 39927</name>
         <vendor>ЗУБР</vendor>
@@ -23611,17 +23537,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34500</price>
-      </offer>
-      <offer sku="УТ-00061458">
-        <name>Доска гладильная Nika Н3МТ/5 оливковый с ракушками</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111512121</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20888</price>
       </offer>
       <offer sku="УТ-00061459">
         <name>Доска гладильная Nika Н3МТ/П пудровый</name>
@@ -26936,14 +26851,6 @@
         </pickup-options>
         <price>4290</price>
       </offer>
-      <offer sku="УТ-00091607">
-        <name>Ножовка по металлу BOSCH 300 мм 1600A02ZA8</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10750</price>
-      </offer>
       <offer sku="УТ-00091608">
         <name>Пила ручная BOSCH 400 мм 1600A02ZA9</name>
         <vendor>BOSCH</vendor>
@@ -27593,14 +27500,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>117580</price>
-      </offer>
-      <offer sku="УТ-00102450">
-        <name>D-81206 Пильный диск универсальный для алюминия/дерева/пластика, 165x20x2.2/1.4x60T</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7790</price>
       </offer>
       <offer sku="УТ-00103372">
         <name>Набор ручного инструмента универсальный Bosch 25 предметов (V3) (50654391)</name>

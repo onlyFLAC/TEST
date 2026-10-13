@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 08:03">
+<fm_catalog date="2026-10-13 08:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2458,18 +2458,6 @@
         </pickup-options>
         <price>450000</price>
       </offer>
-      <offer sku="УТ-00022213">
-        <name>Триммер бензиновый Husqvarna 541RST 967 66 09-04</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391736558716</barcode>
-          <barcode>7392930511415</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>250000</price>
-      </offer>
       <offer sku="УТ-00022226">
         <name>Воздуходувка бензиновая Husqvarna 125 В 952 71 56-43</name>
         <vendor>Husqvarna</vendor>
@@ -2480,14 +2468,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>199000</price>
-      </offer>
-      <offer sku="УТ-00022258">
-        <name>Устройство зарядное 40-С80</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18700</price>
       </offer>
       <offer sku="УТ-00022268">
         <name>Масло 4T 10W-40 1.4л Husqvarna</name>
@@ -2551,14 +2531,6 @@
         </pickup-options>
         <price>9900</price>
       </offer>
-      <offer sku="УТ-00022322">
-        <name>НАПИЛЬНИК 4.0ММ INTENSIVE CUT (комплект из 12ШТ)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
-      </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2570,25 +2542,6 @@
       <offer sku="УТ-00022371">
         <name>Цепь 15"; 3/8"; 1.5 56DL C85 X-Cut Husqvarna</name>
         <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9900</price>
-      </offer>
-      <offer sku="УТ-00022375">
-        <name>ШИНА 16'' 3/8 1.3 56DL 7T 1КЛ HSM HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
-      </offer>
-      <offer sku="УТ-00022389">
-        <name>ШПРИЦ - МАСЛЕНКА ДЛЯ КОНСИСТЕНТНОЙ СМАЗКИ HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883819715</barcode>
-        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -2620,36 +2573,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
-      </offer>
-      <offer sku="УТ-00022460">
-        <name>Топор плотницкий 50см 1кг</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883620717</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>57000</price>
-      </offer>
-      <offer sku="УТ-00022464">
-        <name>Топор универсальный 65см 0,85кг</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883620687</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>53000</price>
-      </offer>
-      <offer sku="УТ-00022473">
-        <name>Топор универсальный A2400 70см 2.4кг</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>68000</price>
       </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
@@ -11136,17 +11059,6 @@
         </pickup-options>
         <price>26080</price>
       </offer>
-      <offer sku="00000031886">
-        <name>Площадка - полка</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199122063</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18100</price>
-      </offer>
       <offer sku="00000031908">
         <name>Стремянка свободностоящая 7 ступенек, раб.высота 3,50 м SOLIDY Krause</name>
         <vendor>Krause</vendor>
@@ -11154,17 +11066,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69900</price>
-      </offer>
-      <offer sku="00000031912">
-        <name>Стремянка анодированная Krause "SECURO" 5 ступ. 126436</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126436</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>87400</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -24704,14 +24605,6 @@
         </pickup-options>
         <price>16990</price>
       </offer>
-      <offer sku="УТ-00072893">
-        <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7150</price>
-      </offer>
       <offer sku="УТ-00072904">
         <name>Бензопила Husqvarna 353 15"; 0.325 1.5 64DL H25 HSM 970 65 04-15</name>
         <vendor>Husqvarna</vendor>
@@ -24735,22 +24628,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>487000</price>
-      </offer>
-      <offer sku="УТ-00072975">
-        <name>Масло синтетическое с дозатором Husqvarna 2Т 1л XP 547 92 98-02</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16500</price>
-      </offer>
-      <offer sku="УТ-00072976">
-        <name>Масло для смазки цепи Husqvarna 1л Veg X-GUARD BIO биоразлагаемое 596 45 73-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7200</price>
       </offer>
       <offer sku="УТ-00072998">
         <name>Смазка Husqvarna ECO 100гр. 503 97 64-01</name>
@@ -25219,30 +25096,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
-      </offer>
-      <offer sku="УТ-00085492">
-        <name>Набор напильников Husqvarna 4 мм 3 шт. 597 35 48-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
-      <offer sku="УТ-00085494">
-        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
-      <offer sku="УТ-00085496">
-        <name>Набор напильников Husqvarna 5.5 мм 3 шт. 597 35 61-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
@@ -26538,14 +26391,6 @@
         </pickup-options>
         <price>4290</price>
       </offer>
-      <offer sku="УТ-00091608">
-        <name>Пила ручная BOSCH 400 мм 1600A02ZA9</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9440</price>
-      </offer>
       <offer sku="УТ-00091609">
         <name>Набор напильников BOSCH 5 шт. 1600A02ZB0</name>
         <vendor>BOSCH</vendor>
@@ -26553,14 +26398,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13810</price>
-      </offer>
-      <offer sku="УТ-00091610">
-        <name>Набор рашпилей BOSCH 200 мм, 3 шт 1600A02ZB1</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7600</price>
       </offer>
       <offer sku="УТ-00091611">
         <name>Японская пила Ryoba BOSCH 250 мм 1600A02ZB5</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 13:54">
+<fm_catalog date="2026-10-13 14:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5122,17 +5122,6 @@
         </pickup-options>
         <price>690</price>
       </offer>
-      <offer sku="00000003638">
-        <name>Аккумуляторная батарея "М1" 18 В, Li-Ion, 1.5 Ач, ЗУБР</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373217371</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9999</price>
-      </offer>
       <offer sku="00000003683">
         <name>Набор алюминиевых заклепок STAYER 4х8 мм 50 шт. 3120-40-08</name>
         <vendor>STAYER</vendor>
@@ -9311,17 +9300,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7590</price>
-      </offer>
-      <offer sku="00000018272">
-        <name>Решетка гриль 260х350мм антиприг. Camping// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996086286</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3739</price>
       </offer>
       <offer sku="00000018340">
         <name>Набор приствольных кругов Россия 65 см 5 шт. 93927</name>
@@ -15176,14 +15154,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9850</price>
-      </offer>
-      <offer sku="00000041781">
-        <name>Кожух цепи STIHL для шин до 35 см 00007929171</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2620</price>
       </offer>
       <offer sku="00000041965">
         <name>Набор крючков YATO 4 шт. YT-0843 00000007679</name>

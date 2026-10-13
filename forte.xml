@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 10:00">
+<fm_catalog date="2026-10-13 10:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -31,7 +31,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21310</price>
+        <price>22590</price>
       </offer>
       <offer sku="УТ-00002953">
         <name>Коленвал для бензореза STIHL TS 700, TS 800 42240300400</name>
@@ -1268,7 +1268,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15520</price>
+        <price>17070</price>
       </offer>
       <offer sku="УТ-00010792">
         <name>Процессор (CPU) INTEL Core i3 10105 1200 38458</name>
@@ -1469,7 +1469,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>33260</price>
+        <price>34920</price>
       </offer>
       <offer sku="УТ-00013464">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 графит</name>
@@ -1480,7 +1480,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>31390</price>
+        <price>32960</price>
       </offer>
       <offer sku="УТ-00013465">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 черная</name>
@@ -1491,7 +1491,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>33260</price>
+        <price>34920</price>
       </offer>
       <offer sku="УТ-00013512">
         <name>GRINDA TT-34E, 3/4", с внешней резьбой, для шланга, быстросъемный соединитель, PROLine (8-426502) 8-426502</name>
@@ -1800,6 +1800,9 @@
       <offer sku="УТ-00014834">
         <name>ЗУБР 10x30мм, хвостовик 8мм, фреза пазовая прямая с нижними подрезателями, серия Профессионал 28755-10-30</name>
         <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373407932</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -4194,7 +4197,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22800</price>
+        <price>25080</price>
       </offer>
       <offer sku="УТ-00028802">
         <name>Вешалка с полкой ЗМИ "ТОРОНТО 32" графит ВСПТ32ГР</name>
@@ -4205,7 +4208,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18830</price>
+        <price>20710</price>
       </offer>
       <offer sku="УТ-00028803">
         <name>Вешалка с полкой двухярусная ЗМИ "ТОРОНТО 32" ВСПТ32Ч черная</name>
@@ -4216,7 +4219,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18600</price>
+        <price>20460</price>
       </offer>
       <offer sku="УТ-00029146">
         <name>Колонка портативная XIAOMI Mi Portable Bluetooth Speaker 38731</name>
@@ -16080,7 +16083,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7100</price>
+        <price>8170</price>
       </offer>
       <offer sku="00000059153">
         <name>Подставка для обуви двухполочная с сиденьем ЗМИ ПДОСС81Б коричневая/цвет сиденья бежевый (замена замена 00000073696)</name>
@@ -16102,7 +16105,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9210</price>
+        <price>9950</price>
       </offer>
       <offer sku="00000059163">
         <name>Подставка для обуви ЗМИ "АЛЬФА 33" ПДОА33 черная</name>
@@ -16113,7 +16116,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9990</price>
+        <price>10790</price>
       </offer>
       <offer sku="00000059166">
         <name>Подставка для обуви с сиденьем и ящиком ЗМИ "АЛЬФА 33" ПДОА33СЯ черная</name>
@@ -16124,7 +16127,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19050</price>
+        <price>20960</price>
       </offer>
       <offer sku="00000059168">
         <name>Подставка для обуви ЗМИ "АЛЬФА 15" ПДОА15 черная (ПДО240)</name>
@@ -16191,7 +16194,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8370</price>
+        <price>9040</price>
       </offer>
       <offer sku="00000059190">
         <name>Вешалка гардеробная колесная ЗМИ "РАДУГА 2" ВГАР2 черная</name>
@@ -16203,7 +16206,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11830</price>
+        <price>12660</price>
       </offer>
       <offer sku="00000059195">
         <name>Табурет-стремянка ЗМИ "КОНЕК" ТС277 коричневый</name>
@@ -16214,7 +16217,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14040</price>
+        <price>15160</price>
       </offer>
       <offer sku="00000059210">
         <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 бежевый</name>
@@ -16225,7 +16228,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4780</price>
+        <price>5160</price>
       </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>
@@ -16347,7 +16350,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11220</price>
+        <price>12010</price>
       </offer>
       <offer sku="00000059316">
         <name>Шина R 35см/14"1,3мм/0.50" 3/8 P Stihl</name>
@@ -16370,7 +16373,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8920</price>
+        <price>9630</price>
       </offer>
       <offer sku="00000059330">
         <name>Перфоратор электрический Bosch GBH 220 06112A6020</name>
@@ -16959,7 +16962,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7860</price>
+        <price>9040</price>
       </offer>
       <offer sku="00000064180">
         <name>Подставка для обуви ЗМИ "АЛЬФА 22" ПДОА22 черная (ПДО12Ч)</name>
@@ -16970,7 +16973,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7630</price>
+        <price>8770</price>
       </offer>
       <offer sku="00000064187">
         <name>ЗМИ Подставка для обуви 3-х полочная 45 с сиденьем с ящиком Белый замена 00000073682</name>
@@ -16978,7 +16981,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12160</price>
+        <price>13380</price>
       </offer>
       <offer sku="00000064189">
         <name>Подставка для обуви ЗМИ "АЛЬФА 23" ПДОА23 белая</name>
@@ -16989,7 +16992,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9110</price>
+        <price>9840</price>
       </offer>
       <offer sku="00000064191">
         <name>Подставка для обуви с сиденьем ЗМИ "АЛЬФА 23" ПДОА23С белая (ПДОСС89)</name>
@@ -17000,7 +17003,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13690</price>
+        <price>15060</price>
       </offer>
       <offer sku="00000064195">
         <name>Подставка для обуви ЗМИ ''Альфа 23'' с сиденьем с ящиком Черный</name>
@@ -17011,7 +17014,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14690</price>
+        <price>16160</price>
       </offer>
       <offer sku="00000064201">
         <name>Подставка для обуви с сиденьем и ящиком ЗМИ "АЛЬФА 33" ПДОА33СЯ белая</name>
@@ -17022,7 +17025,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19050</price>
+        <price>20960</price>
       </offer>
       <offer sku="00000064216">
         <name>ЗМИ Подставка для обуви ЖЕНЕВА 15 Белый</name>
@@ -17074,7 +17077,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19640</price>
+        <price>20620</price>
       </offer>
       <offer sku="00000064227">
         <name>Подставка для обуви ЗМИ ''ВЕРОНА 25'' Черный</name>
@@ -17085,7 +17088,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17260</price>
+        <price>18120</price>
       </offer>
       <offer sku="00000064230">
         <name>ЗМИ Подставка для обуви ГРАНАДА 23 Белый</name>
@@ -17104,7 +17107,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14140</price>
+        <price>15270</price>
       </offer>
       <offer sku="00000064262">
         <name>Вешалка гардеробная колесная ЗМИ "РАДУГА 2" ВНП299 коричневая</name>
@@ -17115,7 +17118,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13200</price>
+        <price>14120</price>
       </offer>
       <offer sku="00000064264">
         <name>Вешалка гардеробная ЗМИ "РАДУГА 3" ВНП 391 черный</name>
@@ -17275,7 +17278,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7230</price>
+        <price>7590</price>
       </offer>
       <offer sku="00000064361">
         <name>Табурет квадратный ЗМИ "ПЕНЕК КРЕПКИЙ" 224 Т269 серый</name>
@@ -17286,7 +17289,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4998</price>
+        <price>5250</price>
       </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>
@@ -17297,7 +17300,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5860</price>
+        <price>6330</price>
       </offer>
       <offer sku="00000064364">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л оливковый</name>
@@ -17308,7 +17311,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4920</price>
+        <price>5310</price>
       </offer>
       <offer sku="00000064367">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 ваниль</name>
@@ -17319,7 +17322,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7230</price>
+        <price>7590</price>
       </offer>
       <offer sku="00000064368">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 коричневый</name>
@@ -17330,7 +17333,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6500</price>
+        <price>6830</price>
       </offer>
       <offer sku="00000064369">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 оливковый</name>
@@ -17341,7 +17344,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6590</price>
+        <price>6920</price>
       </offer>
       <offer sku="00000064371">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 серый</name>
@@ -17352,7 +17355,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6960</price>
+        <price>7310</price>
       </offer>
       <offer sku="00000064373">
         <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 коричневый</name>
@@ -17363,7 +17366,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4930</price>
+        <price>5320</price>
       </offer>
       <offer sku="00000064375">
         <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" пыльная роза Т270</name>
@@ -17374,7 +17377,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>5400</price>
       </offer>
       <offer sku="00000064411">
         <name>Станция насосная Magnetta AUTOGJSm800+24L</name>
@@ -18182,7 +18185,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13838</price>
+        <price>15220</price>
       </offer>
       <offer sku="00000073690">
         <name>Подставка для обуви ЗМИ "АЛЬФА 32" ПДОА32Б белая</name>
@@ -18193,7 +18196,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11977</price>
+        <price>13050</price>
       </offer>
       <offer sku="00000073885">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 185-LI 06019K3000</name>
@@ -18538,7 +18541,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>30680</price>
+        <price>32210</price>
       </offer>
       <offer sku="00000075234">
         <name>Система гардеробная ЗМИ "СКАНДИНАВИЯ 1" ГСС1 белый</name>
@@ -18549,7 +18552,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>30680</price>
+        <price>32210</price>
       </offer>
       <offer sku="00000075250">
         <name>Цилиндр с поршнем для бензопилы STIHL 42.5 мм 11230201209</name>
@@ -18636,7 +18639,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16792</price>
+        <price>18300</price>
       </offer>
       <offer sku="00000075864">
         <name>Подставка для обуви с ящиком ЗМИ "ГРАНАДА 23" ПДОГ23В белая</name>
@@ -18658,7 +18661,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21500</price>
+        <price>22580</price>
       </offer>
       <offer sku="00000075879">
         <name>ЗМИ Стеллаж "Валенсия 15" Графит</name>
@@ -18666,7 +18669,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16660</price>
+        <price>17490</price>
       </offer>
       <offer sku="00000075885">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 графит</name>
@@ -19695,7 +19698,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21630</price>
+        <price>23360</price>
       </offer>
       <offer sku="УТ-00002304">
         <name>Банкетка ЗМИ "ТОРОНТО 13S" БТ13С графит/серый</name>
@@ -19706,7 +19709,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21730</price>
+        <price>23470</price>
       </offer>
       <offer sku="УТ-00002307">
         <name>Банкетка ЗМИ "ТОРОНТО 23S" графит/серая БТ23СГРС</name>
@@ -19717,7 +19720,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23888</price>
+        <price>25320</price>
       </offer>
       <offer sku="УТ-00002309">
         <name>Вешалка гардеробная ЗМИ "АЛАБАМА 22" ВГА22 черная</name>
@@ -19728,7 +19731,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23680</price>
+        <price>25570</price>
       </offer>
       <offer sku="УТ-00002310">
         <name>Вешалка гардеробная ЗМИ "АЛАБАМА 22" ВГА22 белая</name>
@@ -19740,7 +19743,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19550</price>
+        <price>21110</price>
       </offer>
       <offer sku="УТ-00002312">
         <name>Вешалка гардеробная ЗМИ "АЛАБАМА 32" ВГА32 черная</name>
@@ -19751,7 +19754,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>29980</price>
+        <price>32080</price>
       </offer>
       <offer sku="УТ-00002313">
         <name>ЗМИ Вешалка гардеробная "Алабама 32" Белый</name>
@@ -19759,7 +19762,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27330</price>
+        <price>29240</price>
       </offer>
       <offer sku="УТ-00002321">
         <name>ЗМИ Стеллаж "Валенсия 25" Белый</name>
@@ -19814,7 +19817,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21680</price>
+        <price>22110</price>
       </offer>
       <offer sku="УТ-00002338">
         <name>Стеллаж ЗМИ "АТЛАНТИК 23" СТА23 графит</name>
@@ -19825,7 +19828,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15930</price>
+        <price>16250</price>
       </offer>
       <offer sku="УТ-00002424">
         <name>Машина шлифовальная эксцентриковая Bosch GEX 185-LI без АКБ и ЗУ</name>
@@ -20031,7 +20034,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3980</price>
+        <price>4380</price>
       </offer>
       <offer sku="УТ-00041771">
         <name>Фреза пазовая прямая PROFSET 6х20х6 мм 000060200</name>
@@ -21311,7 +21314,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>46130</price>
+        <price>53050</price>
       </offer>
       <offer sku="УТ-00055921">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12Л" ТПТ12Л белая</name>
@@ -21344,7 +21347,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23970</price>
+        <price>26370</price>
       </offer>
       <offer sku="УТ-00055948">
         <name>Обувница ЗМИ "ТОРОНТО 23Л" СКТ23Л черная</name>
@@ -21396,7 +21399,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7970</price>
+        <price>8770</price>
       </offer>
       <offer sku="УТ-00056009">
         <name>Сушилка настенно-потолочная Nika СНП1,8 белый</name>
@@ -21719,14 +21722,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>249490</price>
-      </offer>
-      <offer sku="УТ-00057859">
-        <name>Комбидвигатель аккумуляторный KMA 135 R (Без АК и ЗУ) FA020116811</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>293200</price>
       </offer>
       <offer sku="УТ-00057913">
         <name>Бензопила STIHL MS 260 40 см 11212000369К40</name>
@@ -23013,17 +23008,6 @@
         </pickup-options>
         <price>49060</price>
       </offer>
-      <offer sku="УТ-00061328">
-        <name>Электронный модуль</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711585624</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17600</price>
-      </offer>
       <offer sku="УТ-00061340">
         <name>Дозатор жидкого мыла встраиваемый Gappo сатин G406-5</name>
         <vendor>GAPPO</vendor>
@@ -23434,14 +23418,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9999</price>
-      </offer>
-      <offer sku="УТ-00063288">
-        <name>Корпус</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7280</price>
       </offer>
       <offer sku="УТ-00063319">
         <name>Доска гладильная Nika БЮ1 (в ассортименте)</name>

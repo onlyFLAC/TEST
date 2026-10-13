@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 13:25">
+<fm_catalog date="2026-10-13 13:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22341,17 +22341,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>642250</price>
-      </offer>
-      <offer sku="УТ-00059843">
-        <name>Машина шлифовальная плоская Bosch GSS 20-18 A 0601070101</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423327366</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44460</price>
       </offer>
       <offer sku="УТ-00059844">
         <name>Перфоратор аккумуляторный Bosch GBH 18V-18 0611927001</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 15:52">
+<fm_catalog date="2026-10-13 16:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,6 +204,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
+      </offer>
+      <offer sku="УТ-00003952">
+        <name>Дрель ударная, мощность 810w,БЗП патрон до 13мм,обороты 0-2800</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28990</price>
+      </offer>
+      <offer sku="УТ-00003970">
+        <name>Машина шлифовальная щеточная CROWN CT13551-110RSV</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>45990</price>
       </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
@@ -8634,6 +8650,17 @@
         </pickup-options>
         <price>22580</price>
       </offer>
+      <offer sku="00000014637">
+        <name>Аппарат для сварки пластиковых труб DWP-750, 750Вт, 260-300 град.,компл насадок, 20 - 40 мм// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996035673</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17230</price>
+      </offer>
       <offer sku="00000014649">
         <name>Струбцина зажимная Сибртех 20788</name>
         <vendor>Сибртех</vendor>
@@ -10129,6 +10156,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19200</price>
+      </offer>
+      <offer sku="00000023908">
+        <name>Машина шлифовальная прямая CROWN CT13308</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19990</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -22658,6 +22693,17 @@
         </pickup-options>
         <price>28940</price>
       </offer>
+      <offer sku="УТ-00059936">
+        <name>Трап душевой GAPPO 70х600 мм хром G86007-4</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477696749</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26450</price>
+      </offer>
       <offer sku="УТ-00059943">
         <name>Душевой трап GAPPO G85007-39 из нержавеющей стали боковой 70*500 оружейная сталь</name>
         <vendor>GAPPO</vendor>
@@ -22668,6 +22714,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31050</price>
+      </offer>
+      <offer sku="УТ-00059962">
+        <name>Смеситель GAPPO с гигиеническим душем G7217-9 оружейная сталь встраиваемый</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>51220</price>
       </offer>
       <offer sku="УТ-00059996">
         <name>Душевая система с изливом Gappo G2406-3 Золото Сатин</name>
@@ -22701,6 +22755,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94020</price>
+      </offer>
+      <offer sku="УТ-00060075">
+        <name>Душевая стойка Gappo G2491-3 с термостатом Золотой Сатин</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477659942</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>136870</price>
       </offer>
       <offer sku="УТ-00060076">
         <name>Стойка душевая Gappo хром G2491</name>
@@ -22798,6 +22863,17 @@
         </pickup-options>
         <price>34600</price>
       </offer>
+      <offer sku="УТ-00060245">
+        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477625770</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23630</price>
+      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -22884,6 +22960,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12650</price>
+      </offer>
+      <offer sku="УТ-00060442">
+        <name>Смеситель для раковины Frap высокий черный F10806-26</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477630514</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19260</price>
       </offer>
       <offer sku="УТ-00060447">
         <name>Смеситель для раковины Frap черный F10802-6</name>
@@ -24399,17 +24486,6 @@
         </pickup-options>
         <price>25480</price>
       </offer>
-      <offer sku="УТ-00072496">
-        <name>Кусачки KNIPEX 78 61 125 ESD</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773025184</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20890</price>
-      </offer>
       <offer sku="УТ-00072499">
         <name>Кусачки боковые KNIPEX 77 72 115 SB</name>
         <vendor>KNIPEX</vendor>
@@ -24491,17 +24567,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19400</price>
-      </offer>
-      <offer sku="УТ-00072650">
-        <name>Труборез для пластиковых труб KNIPEX 90 25 40</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773045182</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>78625</price>
       </offer>
       <offer sku="УТ-00072656">
         <name>Щипцы колец KNIPEX 48 11 J2</name>
@@ -24590,17 +24655,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6888</price>
-      </offer>
-      <offer sku="УТ-00072880">
-        <name>Карманная рулетка Stabila BM 300 8 м 19574</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195748</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16990</price>
       </offer>
       <offer sku="УТ-00072904">
         <name>Бензопила Husqvarna 353 15"; 0.325 1.5 64DL H25 HSM 970 65 04-15</name>
@@ -25410,6 +25464,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
+      </offer>
+      <offer sku="УТ-00089479">
+        <name>Стойка душевая GAPPO золотой сатин G2448-3</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>114890</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
@@ -26906,6 +26968,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
+      </offer>
+      <offer sku="УТ-00099555">
+        <name>13313 Машина шлифовальная прямая CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

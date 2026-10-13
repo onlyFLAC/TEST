@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 09:30">
+<fm_catalog date="2026-10-13 10:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17860,17 +17860,6 @@
         </pickup-options>
         <price>11690</price>
       </offer>
-      <offer sku="00000071297">
-        <name>GRINDA 22 плоских зубца, 440х260х1500 мм, грабли садовые веерные, с деревянным черенком</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925602765</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4880</price>
-      </offer>
       <offer sku="00000071299">
         <name>GRINDA PROLine 12 витых зубцов, грабли с алюминиевым черенком</name>
         <vendor>Grinda</vendor>
@@ -22868,17 +22857,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7300</price>
-      </offer>
-      <offer sku="УТ-00060531">
-        <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/С серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032741793</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10200</price>
       </offer>
       <offer sku="УТ-00060532">
         <name>Доска гладильная Nika Н5 (в ассортименте)</name>

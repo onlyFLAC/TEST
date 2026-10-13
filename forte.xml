@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 16:22">
+<fm_catalog date="2026-10-13 16:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,22 +204,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
-      </offer>
-      <offer sku="УТ-00003952">
-        <name>Дрель ударная, мощность 810w,БЗП патрон до 13мм,обороты 0-2800</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28990</price>
-      </offer>
-      <offer sku="УТ-00003970">
-        <name>Машина шлифовальная щеточная CROWN CT13551-110RSV</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>45990</price>
       </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
@@ -10157,14 +10141,6 @@
         </pickup-options>
         <price>19200</price>
       </offer>
-      <offer sku="00000023908">
-        <name>Машина шлифовальная прямая CROWN CT13308</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19990</price>
-      </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
         <vendor>Mateus</vendor>
@@ -18801,17 +18777,6 @@
         </pickup-options>
         <price>17490</price>
       </offer>
-      <offer sku="00000075880">
-        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 графит</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093789995</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10790</price>
-      </offer>
       <offer sku="00000075885">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 графит</name>
         <vendor>ЗМИ</vendor>
@@ -22863,17 +22828,6 @@
         </pickup-options>
         <price>34600</price>
       </offer>
-      <offer sku="УТ-00060245">
-        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477625770</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23630</price>
-      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -24874,14 +24828,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24590</price>
-      </offer>
-      <offer sku="УТ-00075725">
-        <name>Набор ударных торцовых головок Wera 05004580001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48370</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
@@ -26968,14 +26914,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>94990</price>
-      </offer>
-      <offer sku="УТ-00099555">
-        <name>13313 Машина шлифовальная прямая CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 10:29">
+<fm_catalog date="2026-10-13 10:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -234,14 +234,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7990</price>
-      </offer>
-      <offer sku="УТ-00004211">
-        <name>Электропила ECS-1900-40 ALTECO</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29900</price>
       </offer>
       <offer sku="УТ-00004215">
         <name>Сварочный аппарат ARC-200 ALTECO</name>
@@ -809,14 +801,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>495319</price>
-      </offer>
-      <offer sku="УТ-00005922">
-        <name>Набор уровней тип 70 CLASSIC SET 40, 60, 100 см STABILA 19819</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>33970</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -4478,17 +4462,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31990</price>
-      </offer>
-      <offer sku="00000001076">
-        <name>Секатор Вихрь 200 мм 73/7/3/3</name>
-        <vendor>Вихрь</vendor>
-        <barcodes>
-          <barcode>4606059025856</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3710</price>
       </offer>
       <offer sku="00000001493">
         <name>Водонагреватель накопительный Ресанта ВН-10Н 74/5/7</name>
@@ -8322,17 +8295,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000012238">
-        <name>Прибор для обнаружения скрытой проводки и металла// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996085029</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4080</price>
-      </offer>
       <offer sku="00000012332">
         <name>Отвертка, SL8,0 х 150 мм, CrV, 3-х компонентная рукоятка// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10993,17 +10955,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46400</price>
-      </offer>
-      <offer sku="00000031837">
-        <name>Стремянка CORDA 6 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000736</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54800</price>
       </offer>
       <offer sku="00000031852">
         <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
@@ -20662,14 +20613,6 @@
         </pickup-options>
         <price>128700</price>
       </offer>
-      <offer sku="УТ-00049488">
-        <name>51208 - PRO - "P.I.T." Генератор 1,2 kW</name>
-        <vendor>P.I.T.</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>68900</price>
-      </offer>
       <offer sku="УТ-00049617">
         <name>22001 - "P.I.T." Перфоратор 20ᶲ 1,5 J 700 W</name>
         <vendor>P.I.T.</vendor>
@@ -24143,17 +24086,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8105</price>
-      </offer>
-      <offer sku="УТ-00065299">
-        <name>5 х 8 мм, 18 м, самоклеящийся уплотнитель (40901-05-18)</name>
-        <vendor>Без ТМ</vendor>
-        <barcodes>
-          <barcode>4606373065248</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3500</price>
       </offer>
       <offer sku="УТ-00065307">
         <name>ЗУБР 2700 Вт, d230 мм, УШМ, АВТ защита, фланец ″МИГ″, Профессионал (УШМ-П230-2700 ПВСТ)</name>

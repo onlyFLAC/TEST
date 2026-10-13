@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-13 09:01">
+<fm_catalog date="2026-10-13 09:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20368,14 +20368,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130620</price>
-      </offer>
-      <offer sku="УТ-00047419">
-        <name>Тележка платформенная 600 кг TOR PH600 (720х470) со складной ручкой (пластиковые колеса 100 мм), шт</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>42595</price>
       </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>

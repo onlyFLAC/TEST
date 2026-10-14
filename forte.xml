@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 07:58">
+<fm_catalog date="2026-10-14 08:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4681,17 +4681,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7580</price>
-      </offer>
-      <offer sku="00000002000">
-        <name>Ножницы по металлу KRAFTOOL правые 250 мм 2328-R</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229210502</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8590</price>
       </offer>
       <offer sku="00000002002">
         <name>Прямые удлинённые ножницы по металлу KRAFTOOL Alligator 290 мм 2328-SL</name>
@@ -13465,17 +13454,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3375</price>
-      </offer>
-      <offer sku="00000035603">
-        <name>Бур по бетону BOSCH SDS+ 13x200/260 мм 2608833815</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509223685</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4239</price>
       </offer>
       <offer sku="00000035605">
         <name>Бур по бетону BOSCH SDS+ 14х150/210 мм 2608833817</name>

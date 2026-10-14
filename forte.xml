@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 12:21">
+<fm_catalog date="2026-10-14 12:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24783,17 +24783,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12990</price>
-      </offer>
-      <offer sku="УТ-00077917">
-        <name>Смеситель для раковины Frap черный F10802-62</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477624957</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20060</price>
       </offer>
       <offer sku="УТ-00078017">
         <name>Крышка для бензопилы STIHL MS 462, MS 462 C, MS 462 C-M, MS 462 C-M R 11420211101</name>

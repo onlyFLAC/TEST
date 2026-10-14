@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 16:15">
+<fm_catalog date="2026-10-14 16:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2563,6 +2563,17 @@
         </pickup-options>
         <price>30800</price>
       </offer>
+      <offer sku="УТ-00022535">
+        <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL LIGHT Р.10</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930544697</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12100</price>
+      </offer>
       <offer sku="УТ-00022548">
         <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL LIGHT Р.10</name>
         <vendor>Husqvarna</vendor>
@@ -2570,6 +2581,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24200</price>
+      </offer>
+      <offer sku="УТ-00022551">
+        <name>Перчатки Husqvarna Technical р.9</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28600</price>
       </offer>
       <offer sku="УТ-00023575">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/19 в стиле Де Жуи</name>
@@ -24499,6 +24518,14 @@
         </pickup-options>
         <price>487000</price>
       </offer>
+      <offer sku="УТ-00072976">
+        <name>Масло для смазки цепи Husqvarna 1л Veg X-GUARD BIO биоразлагаемое 596 45 73-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7200</price>
+      </offer>
       <offer sku="УТ-00072998">
         <name>Смазка Husqvarna ECO 100гр. 503 97 64-01</name>
         <vendor>Husqvarna</vendor>
@@ -24947,6 +24974,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
+      </offer>
+      <offer sku="УТ-00085492">
+        <name>Набор напильников Husqvarna 4 мм 3 шт. 597 35 48-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
@@ -25424,6 +25459,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130500</price>
+      </offer>
+      <offer sku="УТ-00090927">
+        <name>Триммер бензиновый Husqvarna 545RXT AutoTune 967 17 67-06</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>510000</price>
       </offer>
       <offer sku="УТ-00090989">
         <name>Детский комплект (КНД1/Г голубой)</name>

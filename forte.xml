@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 09:54">
+<fm_catalog date="2026-10-14 10:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8589,17 +8589,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13456</price>
-      </offer>
-      <offer sku="00000014550">
-        <name>Дрель ударная ID-650, 650 Вт, 0-3000 об/мин, 48000 уд/мин// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996175386</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22580</price>
       </offer>
       <offer sku="00000014637">
         <name>Аппарат для сварки пластиковых труб DWP-750, 750Вт, 260-300 град.,компл насадок, 20 - 40 мм// Denzel</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 17:14">
+<fm_catalog date="2026-10-14 17:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10214,17 +10214,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>28900</price>
-      </offer>
-      <offer sku="00000024981">
-        <name>Краскопульт электрический ALTECO SG 2203 27633</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216453688</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17900</price>
       </offer>
       <offer sku="00000024997">
         <name>Дрель Makita 6413</name>

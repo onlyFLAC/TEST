@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 07:28">
+<fm_catalog date="2026-10-14 07:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10063,17 +10063,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3995</price>
-      </offer>
-      <offer sku="00000023362">
-        <name>Лампа керосиновая Sparta "ЛЕТУЧАЯ МЫШЬ" 932305</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996061535</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4790</price>
       </offer>
       <offer sku="00000023590">
         <name>Лестница шарнирная Сибртех 4х2 97879</name>

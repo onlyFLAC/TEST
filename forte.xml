@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 06:59">
+<fm_catalog date="2026-10-14 07:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8581,17 +8581,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000014262">
-        <name>Катушка для триммера универсальная гайка М10х1,25 левая// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996167329</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3540</price>
-      </offer>
       <offer sku="00000014265">
         <name>Катушка триммерная Denzel 96365</name>
         <vendor>Denzel</vendor>
@@ -9799,17 +9788,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1480</price>
-      </offer>
-      <offer sku="00000021471">
-        <name>Валик малярный Сибртех 150 мм 81033</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800074232</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1338</price>
       </offer>
       <offer sku="00000021616">
         <name>Кювета пластмассовая для валиков, 350х330 мм// Sparta</name>
@@ -16207,17 +16185,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5160</price>
-      </offer>
-      <offer sku="00000059224">
-        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011875639</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13020</price>
       </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>

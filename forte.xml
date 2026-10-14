@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 11:22">
+<fm_catalog date="2026-10-14 11:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4459,17 +4459,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7780</price>
-      </offer>
-      <offer sku="00000001651">
-        <name>150C Секатор с алюминиевыми рукоятками, с эфесом, контактный, 200 мм, RACO</name>
-        <vendor>RACO</vendor>
-        <barcodes>
-          <barcode>4034229102753</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11590</price>
       </offer>
       <offer sku="00000001769">
         <name>G-22 Секатор с двухкомпонентными рукоятками, плоскостной, 200 мм, GRINDA</name>
@@ -26917,6 +26906,38 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00101942">
+        <name>B-10730 Абразивный отрезной диск для стали A36P, 355х3х25,4, 1 шт.</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3500</price>
+      </offer>
+      <offer sku="УТ-00102429">
+        <name>D-72768 Сабельная пилка для дерева/металла 300x1,25x10TPI, 2 ш</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8660</price>
+      </offer>
+      <offer sku="УТ-00102450">
+        <name>D-81206 Пильный диск универсальный для алюминия/дерева/пластика, 165x20x2.2/1.4x60T</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7790</price>
+      </offer>
+      <offer sku="УТ-00102791">
+        <name>05027208001 Г-образный метрический ключ 950 BM Hex-Plus SW</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>790</price>
       </offer>
       <offer sku="УТ-00103372">
         <name>Набор ручного инструмента универсальный Bosch 25 предметов (V3) (50654391)</name>

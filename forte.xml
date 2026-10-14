@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-14 15:46">
+<fm_catalog date="2026-10-14 16:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10900,14 +10900,6 @@
         </pickup-options>
         <price>82600</price>
       </offer>
-      <offer sku="00000031876">
-        <name>Универсальная шарнирная лестница MULTIMATIC 4х4</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>149990</price>
-      </offer>
       <offer sku="00000031882">
         <name>Приставная пестница SIBILO 1х6</name>
         <vendor>Krause</vendor>
@@ -10915,33 +10907,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26080</price>
-      </offer>
-      <offer sku="00000031897">
-        <name>Стремянка STABILO 6 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>136400</price>
-      </offer>
-      <offer sku="00000031898">
-        <name>Стремянка STABILO 7 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>152600</price>
-      </offer>
-      <offer sku="00000031906">
-        <name>Стремянка односторонняя Krause "SOLIDY" 5 ступеней 126238</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126238</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>50000</price>
       </offer>
       <offer sku="00000031908">
         <name>Стремянка свободностоящая 7 ступенек, раб.высота 3,50 м SOLIDY Krause</name>
@@ -10951,33 +10916,6 @@
         </pickup-options>
         <price>69900</price>
       </offer>
-      <offer sku="00000031911">
-        <name>Стремянка анодированная Krause "SEPURO" 4 ступ. 126429</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72900</price>
-      </offer>
-      <offer sku="00000031916">
-        <name>Стремянка SECURY MultiGrip 4 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67100</price>
-      </offer>
-      <offer sku="00000031942">
-        <name>Подставка складная TOPPY XL 3 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47300</price>
-      </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
         <vendor>Krause</vendor>
@@ -10985,14 +10923,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>195400</price>
-      </offer>
-      <offer sku="00000031945">
-        <name>Ведро пластиковое для стремянки SECURY MultiGrip</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5800</price>
       </offer>
       <offer sku="00000031981">
         <name>Сейф VALBERG ASM-120 Т</name>
@@ -26937,6 +26867,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7790</price>
+      </offer>
+      <offer sku="УТ-00103136">
+        <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195636807</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17990</price>
+      </offer>
+      <offer sku="УТ-00103137">
+        <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ белый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195636814</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17990</price>
       </offer>
       <offer sku="УТ-00103372">
         <name>Набор ручного инструмента универсальный Bosch 25 предметов (V3) (50654391)</name>

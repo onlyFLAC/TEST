@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-15 11:18">
+<fm_catalog date="2026-10-15 11:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -831,14 +831,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79800</price>
-      </offer>
-      <offer sku="УТ-00006465">
-        <name>Рычаг шарнира лестницы-трансформера 293 мм MONTO+STABILO</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -11808,17 +11800,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20885</price>
-      </offer>
-      <offer sku="00000032746">
-        <name>Диск пильный по металлу BOSCH ECO AL T64 210x30 мм 2608644391</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140891127</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11353</price>
       </offer>
       <offer sku="00000032754">
         <name>Пильный диск OP WO H 230*30-48</name>

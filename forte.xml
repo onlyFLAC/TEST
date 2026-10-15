@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-15 06:54">
+<fm_catalog date="2026-10-15 07:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6561,17 +6561,6 @@
         </pickup-options>
         <price>2990</price>
       </offer>
-      <offer sku="00000007652">
-        <name>Лезвия OLFA сегментированные, 9х80х0,38мм, 13 сегментов, 50 шт</name>
-        <vendor>Olfa</vendor>
-        <barcodes>
-          <barcode>091511500110</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9760</price>
-      </offer>
       <offer sku="00000007682">
         <name>Леска для триммера КРУГ 2.0 мм 15 м ЗУБР</name>
         <vendor>ЗУБР</vendor>
@@ -8189,17 +8178,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4890</price>
-      </offer>
-      <offer sku="00000011753">
-        <name>Кувалда, 2000 г, кованая головка, деревянная двухцветная рукоятка// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996000152</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4980</price>
       </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
@@ -20844,17 +20822,6 @@
         </pickup-options>
         <price>29900</price>
       </offer>
-      <offer sku="УТ-00052702">
-        <name>Сетев. Станок для заточки цепей Einhell GC-CS 85 E Set (4499924)</name>
-        <vendor>Einhell</vendor>
-        <barcodes>
-          <barcode>4006825664331</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29900</price>
-      </offer>
       <offer sku="УТ-00052918">
         <name>Корпус вентилятора с пусковым устройством STIHL 11480802108</name>
         <vendor>STIHL</vendor>
@@ -26709,14 +26676,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7440</price>
-      </offer>
-      <offer sku="УТ-00094931">
-        <name>Корыто пластиковое для тачки IVT 4334</name>
-        <vendor>IVT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8625</price>
       </offer>
       <offer sku="УТ-00095264">
         <name>Обогреватель газовый портативный ALTECO PH 2 ECO</name>

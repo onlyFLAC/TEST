@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-15 14:14">
+<fm_catalog date="2026-10-15 14:43">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -802,6 +802,25 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
+      </offer>
+      <offer sku="УТ-00005950">
+        <name>Уровень Stabila тип 70, 50 см 02283</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12590</price>
+      </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
         <vendor>STABILA</vendor>
@@ -812,6 +831,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16490</price>
+      </offer>
+      <offer sku="УТ-00005972">
+        <name>Уровень тип 80АS-2, 80 см, 3 глазка STABILA 19171</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191719</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26290</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -9903,6 +9933,17 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="00000022772">
+        <name>Ящик для инструмента STELS 285х155х125 мм 90723</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4606800068569</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2880</price>
+      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10937,17 +10978,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4999</price>
-      </offer>
-      <offer sku="00000032196">
-        <name>Диск отрезной по нержавеющей стали Bosch X-LOCK (125x1x22.2 мм; 10 шт.) 2608619267</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140947572</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6056</price>
       </offer>
       <offer sku="00000032205">
         <name>Дрель-шуруповерт аккумуляторная GSR 12V-35 Без Акк. и ЗУ Картон Bosch</name>
@@ -22488,6 +22518,17 @@
         </pickup-options>
         <price>5000</price>
       </offer>
+      <offer sku="УТ-00060121">
+        <name>Смеситель встраиваемый для раковины Gappo G1206-6 черный</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477647406</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36760</price>
+      </offer>
       <offer sku="УТ-00060159">
         <name>Смеситель GAPPO для раковины G1007-9 Оружейная Сталь</name>
         <vendor>GAPPO</vendor>
@@ -22604,6 +22645,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>92150</price>
+      </offer>
+      <offer sku="УТ-00060361">
+        <name>Душевая система Frap F2476 хром</name>
+        <vendor>Frap</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>88190</price>
       </offer>
       <offer sku="УТ-00060385">
         <name>Смеситель для ванны Frap сатин F22806</name>
@@ -22878,6 +22927,17 @@
         </pickup-options>
         <price>17900</price>
       </offer>
+      <offer sku="УТ-00061349">
+        <name>Душевая стойка Frap F2487-3 золотой сатин</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477632198</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96680</price>
+      </offer>
       <offer sku="УТ-00061350">
         <name>Душевая стойка Frap F2487-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -23066,14 +23126,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15675</price>
-      </offer>
-      <offer sku="УТ-00061507">
-        <name>Штроборез ЗУБР ЗШ-П30-1600 ПСТК</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>92440</price>
       </offer>
       <offer sku="УТ-00061577">
         <name>Сушилка для белья Essence Hausler</name>
@@ -24103,6 +24155,17 @@
         </pickup-options>
         <price>62260</price>
       </offer>
+      <offer sku="УТ-00072449">
+        <name>Клещи сантехнические KNIPEX 87 02 300</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773029144</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37505</price>
+      </offer>
       <offer sku="УТ-00072475">
         <name>Плоскогубцы KNIPEX 03 02 180</name>
         <vendor>KNIPEX</vendor>
@@ -24284,6 +24347,17 @@
         </pickup-options>
         <price>6888</price>
       </offer>
+      <offer sku="УТ-00072890">
+        <name>Карманная измерительная рулетка Stabila 3 м BM 150 19839</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069198398</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8490</price>
+      </offer>
       <offer sku="УТ-00072904">
         <name>Бензопила Husqvarna 353 15"; 0.325 1.5 64DL H25 HSM 970 65 04-15</name>
         <vendor>Husqvarna</vendor>
@@ -24350,6 +24424,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
+      </offer>
+      <offer sku="УТ-00074387">
+        <name>Отрезная система FESTOOL DIAMANT DSC-AG 125 PLUS 576547</name>
+        <vendor>Festool</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>355630</price>
+      </offer>
+      <offer sku="УТ-00074397">
+        <name>Подвижная втулка FESTOOL TS 55 200173</name>
+        <vendor>Festool</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12090</price>
       </offer>
       <offer sku="УТ-00074508">
         <name>Подшипник Россия 30х62 мм 206</name>
@@ -26519,14 +26609,6 @@
         </pickup-options>
         <price>46900</price>
       </offer>
-      <offer sku="УТ-00099520">
-        <name>31015 Краскопульт CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44990</price>
-      </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>
         <vendor>CROWN</vendor>
@@ -26633,6 +26715,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00101589">
+        <name>M5802B Пила дисковая,1050Вт,4900об/мин.,190х30мм,рез-68мм</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>67745</price>
       </offer>
       <offer sku="УТ-00102450">
         <name>D-81206 Пильный диск универсальный для алюминия/дерева/пластика, 165x20x2.2/1.4x60T</name>

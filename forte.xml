@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-15 12:17">
+<fm_catalog date="2026-10-15 12:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -841,7 +841,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>93940</price>
+        <price>89990</price>
       </offer>
       <offer sku="УТ-00006505">
         <name>Кусторез электрический Bosch AdvancedHedgeCut 70 06008C0903</name>
@@ -852,7 +852,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>103340</price>
+        <price>97790</price>
       </offer>
       <offer sku="УТ-00006510">
         <name>Дрель-шуруповерт аккумуляторная BOSCH GSR 18V-90 C 06019K6006</name>
@@ -2312,7 +2312,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>99999</price>
+        <price>85290</price>
       </offer>
       <offer sku="УТ-00020359">
         <name>СВЕРЛА-ФРЕЗА Expert SelfCut Speed</name>
@@ -11667,7 +11667,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>361440</price>
+        <price>327690</price>
       </offer>
       <offer sku="00000032681">
         <name>Перфоратор Bosch GBH 2-28 0611267500</name>
@@ -12193,7 +12193,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>208640</price>
+        <price>123990</price>
       </offer>
       <offer sku="00000033171">
         <name>X-LOCK Кольцевая щетка Витая 115мм СТАЛЬ 0.3мм</name>
@@ -12259,7 +12259,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9460</price>
+        <price>9690</price>
       </offer>
       <offer sku="00000033521">
         <name>Коронка универсальная BOSCH 30 мм 2608580732</name>
@@ -12270,7 +12270,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9999</price>
+        <price>11590</price>
       </offer>
       <offer sku="00000033527">
         <name>Коронка универсальная BOSCH 44 мм 2608580738</name>
@@ -12281,7 +12281,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11530</price>
+        <price>12290</price>
       </offer>
       <offer sku="00000033531">
         <name>Коронка универсальная BOSCH 57 мм 2608580742</name>
@@ -12292,7 +12292,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15110</price>
+        <price>14690</price>
       </offer>
       <offer sku="00000033537">
         <name>Коронка универсальная BOSCH 70 мм 2608580748</name>
@@ -12303,7 +12303,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15270</price>
+        <price>15990</price>
       </offer>
       <offer sku="00000033539">
         <name>Коронка универсальная BOSCH 76 мм 2608580750</name>
@@ -12314,7 +12314,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15590</price>
+        <price>15990</price>
       </offer>
       <offer sku="00000033542">
         <name>Коронка универсальная BOSCH 83 мм 2608580753</name>
@@ -12325,7 +12325,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15590</price>
+        <price>16290</price>
       </offer>
       <offer sku="00000033548">
         <name>Коронка универсальная BOSCH 102 мм 2608580759</name>
@@ -12336,7 +12336,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23490</price>
+        <price>23190</price>
       </offer>
       <offer sku="00000033579">
         <name>Диск алмазный BOSCH 200х25.4 мм 2608602636</name>
@@ -13404,7 +13404,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4990</price>
+        <price>4890</price>
       </offer>
       <offer sku="00000036009">
         <name>Сверло перовое по дереву BOSCH 18х152 мм 2608595489</name>
@@ -13415,7 +13415,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>5890</price>
       </offer>
       <offer sku="00000036011">
         <name>Сверло перовое по дереву BOSCH 20х152 мм 2608595491</name>
@@ -13426,7 +13426,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4510</price>
+        <price>4490</price>
       </offer>
       <offer sku="00000036034">
         <name>Сверло по дереву BOSCH 6х50 мм 2608596303</name>
@@ -13833,7 +13833,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2840</price>
+        <price>3090</price>
       </offer>
       <offer sku="00000036663">
         <name>Сверло универсальное BOSCH CYL-9 5х85 мм 2608596051</name>
@@ -13844,7 +13844,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2999</price>
+        <price>3190</price>
       </offer>
       <offer sku="00000036665">
         <name>Сверло CYL-9 MultiConstr 6X100 мм</name>
@@ -13855,7 +13855,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2300</price>
+        <price>2390</price>
       </offer>
       <offer sku="00000036667">
         <name>Сверло универсальное BOSCH CYL-9 8х120 мм 2608596055</name>
@@ -13866,7 +13866,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4640</price>
+        <price>4990</price>
       </offer>
       <offer sku="00000036729">
         <name>Сверло по керамике BOSCH CYL-9 4х70 мм 2608587158</name>
@@ -14080,7 +14080,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9999</price>
+        <price>8190</price>
       </offer>
       <offer sku="00000038241">
         <name>Диск шлифовальный BOSCH X431 K60 115 мм 2608603653</name>
@@ -14377,7 +14377,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16100</price>
+        <price>16690</price>
       </offer>
       <offer sku="00000039428">
         <name>Бур по бетону BOSCH SDS-max 16х400/540 мм 2608578613</name>
@@ -14388,7 +14388,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>32900</price>
+        <price>31090</price>
       </offer>
       <offer sku="00000039432">
         <name>Бур по бетону BOSCH SDS-max 18х400/540 мм 2608578620</name>
@@ -14399,7 +14399,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28330</price>
+        <price>27290</price>
       </offer>
       <offer sku="00000039440">
         <name>Бур по бетону BOSCH SDS-max 22х400/520 мм 2608578632</name>
@@ -14410,7 +14410,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>30460</price>
+        <price>29090</price>
       </offer>
       <offer sku="00000039523">
         <name>Набор оснастки по дереву BOSCH для OMT 2607017323</name>
@@ -14487,7 +14487,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>410505</price>
+        <price>293190</price>
       </offer>
       <offer sku="00000039804">
         <name>Нивелир оптический Bosch GOL 26D 0601068000</name>
@@ -15638,7 +15638,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>142170</price>
+        <price>108590</price>
       </offer>
       <offer sku="00000057792">
         <name>Кувалда PATRIOT SHF-6,0 350001260</name>
@@ -16174,7 +16174,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>124700</price>
+        <price>108890</price>
       </offer>
       <offer sku="00000059339">
         <name>Пила дисковая BOSCH GKS 140 06016B3020</name>
@@ -16306,7 +16306,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>311790</price>
+        <price>219390</price>
       </offer>
       <offer sku="00000059426">
         <name>Машина шлифовальная угловая (болгарка) BOSCH GWS 2200-230 RSP 06018C1320</name>
@@ -18060,7 +18060,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1500</price>
+        <price>1390</price>
       </offer>
       <offer sku="УТ-00000042">
         <name>Диск алмазный BOSCH 150х22.2 мм 2608615029</name>
@@ -21215,17 +21215,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9970</price>
-      </offer>
-      <offer sku="УТ-00055930">
-        <name>Вешалка напольная ЗМИ "ТОРОНТО 1" ВНПТ1 графит</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195635848</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18330</price>
       </offer>
       <offer sku="УТ-00055942">
         <name>Подставка для цветов ЗМИ "ШАФРАН 17Л" ПДЦШ17Л черная</name>
@@ -24849,7 +24838,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>54200</price>
+        <price>42490</price>
       </offer>
       <offer sku="УТ-00085741">
         <name>Выключатель для перфоратора BOSCH 160720032D</name>
@@ -24975,7 +24964,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>85000</price>
+        <price>82490</price>
       </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>
@@ -24983,7 +24972,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>140000</price>
+        <price>139990</price>
       </offer>
       <offer sku="УТ-00089269">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 2х4 Ач +GAL 1840 06019N9020</name>
@@ -24991,7 +24980,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>170000</price>
+        <price>161090</price>
       </offer>
       <offer sku="УТ-00089271">
         <name>Подгузники Altyn bala NEW 2-S 4-8 кг 56 шт.</name>

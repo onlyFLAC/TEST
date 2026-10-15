@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-15 09:20">
+<fm_catalog date="2026-10-15 09:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -800,7 +800,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>495319</price>
+        <price>466375</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -16637,7 +16637,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>481810</price>
+        <price>567160</price>
       </offer>
       <offer sku="00000063977">
         <name>Грабли веерные стальные, 565 мм, 22 плоских зуба, эмалированные, усиленные, без черенка// Palisad</name>
@@ -19843,7 +19843,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14900</price>
+        <price>13340</price>
       </offer>
       <offer sku="УТ-00040681">
         <name>Стремянка Nika 3 ступ. СМ3 оранжевый</name>
@@ -22854,14 +22854,6 @@
         </pickup-options>
         <price>6999</price>
       </offer>
-      <offer sku="УТ-00060565">
-        <name>Ведро мусорное круглое Viva 8 л VI-8859-8-M</name>
-        <vendor>VIVA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14999</price>
-      </offer>
       <offer sku="УТ-00060623">
         <name>Диск отрезной Bosch по дереву 2608901196, 76x10х1 мм</name>
         <vendor>BOSCH</vendor>
@@ -25150,17 +25142,6 @@
         </pickup-options>
         <price>6800</price>
       </offer>
-      <offer sku="УТ-00089291">
-        <name>Трусики MARTI XL38 12-20 кг</name>
-        <vendor>MARTI</vendor>
-        <barcodes>
-          <barcode>4580664610112</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
-      </offer>
       <offer sku="УТ-00089323">
         <name>Отрезной круг Standard for Metal 180x1,6мм PRO, прямой</name>
         <vendor>BOSCH</vendor>
@@ -25692,7 +25673,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>248563</price>
+        <price>209000</price>
       </offer>
       <offer sku="УТ-00091503">
         <name>Набор ножей BOSCH 2 шт. 1600A016BM</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-15 12:46">
+<fm_catalog date="2026-10-15 13:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9922,14 +9922,6 @@
         </pickup-options>
         <price>1780</price>
       </offer>
-      <offer sku="00000023197">
-        <name>Пружина дверная D-18,5 мм, L-250 мм, цинк, (Металлист)// Россия</name>
-        <vendor>Россия</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1675</price>
-      </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
         <vendor>Sparta</vendor>
@@ -17368,17 +17360,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>10450</price>
-      </offer>
-      <offer sku="00000064909">
-        <name>Набор бумажных мешков-пылесборников для пылесоса Ozone 5 шт. OP-403/5</name>
-        <vendor>Ozone</vendor>
-        <barcodes>
-          <barcode>4630127951518</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8360</price>
       </offer>
       <offer sku="00000064913">
         <name>Набор синтетических мешков-пылесборников для пылесоса Ozone 2 шт. MXT-3031/2</name>

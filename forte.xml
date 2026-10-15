@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-15 15:42">
+<fm_catalog date="2026-10-15 16:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -831,14 +831,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79800</price>
-      </offer>
-      <offer sku="УТ-00006352">
-        <name>Двухсторонняя стремянка DOPPLO 2х5 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>68200</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -2480,6 +2472,14 @@
         </pickup-options>
         <price>199000</price>
       </offer>
+      <offer sku="УТ-00022258">
+        <name>Устройство зарядное 40-С80</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18700</price>
+      </offer>
       <offer sku="УТ-00022268">
         <name>Масло 4T 10W-40 1.4л Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2585,6 +2585,14 @@
         </pickup-options>
         <price>13200</price>
       </offer>
+      <offer sku="УТ-00022463">
+        <name>Топор универсальный 36см 0,6кг</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>30800</price>
+      </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
         <vendor>Husqvarna</vendor>
@@ -2593,6 +2601,25 @@
         </pickup-options>
         <price>7700</price>
       </offer>
+      <offer sku="УТ-00022495">
+        <name>Рулетка 15м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35000</price>
+      </offer>
+      <offer sku="УТ-00022496">
+        <name>Рулетка 20м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089124921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37000</price>
+      </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
         <vendor>Husqvarna</vendor>
@@ -2600,6 +2627,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>30800</price>
+      </offer>
+      <offer sku="УТ-00022535">
+        <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL LIGHT Р.10</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930544697</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12100</price>
       </offer>
       <offer sku="УТ-00022548">
         <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL LIGHT Р.10</name>
@@ -7514,17 +7552,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390</price>
-      </offer>
-      <offer sku="00000009463">
-        <name>Правило "ДВУХВАТ", 3,0 м, ЗУБР 10721-3.0</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373105067</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14950</price>
       </offer>
       <offer sku="00000009472">
         <name>Правило Мастер, 3.0 м, ЗУБР 10727-3.0</name>
@@ -23596,6 +23623,17 @@
         </pickup-options>
         <price>6500</price>
       </offer>
+      <offer sku="УТ-00063392">
+        <name>Смазка подшипника 100гр Husqvarna 535 56 00-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930984622</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7000</price>
+      </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
         <vendor>BOSCH</vendor>
@@ -24603,6 +24641,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>487000</price>
+      </offer>
+      <offer sku="УТ-00072976">
+        <name>Масло для смазки цепи Husqvarna 1л Veg X-GUARD BIO биоразлагаемое 596 45 73-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7200</price>
       </offer>
       <offer sku="УТ-00072998">
         <name>Смазка Husqvarna ECO 100гр. 503 97 64-01</name>

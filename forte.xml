@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-15 16:41">
+<fm_catalog date="2026-10-15 17:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -242,6 +242,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7990</price>
+      </offer>
+      <offer sku="УТ-00004069">
+        <name>Адаптер для алмазных коронок BT M22 на 1-1/4-7UNC</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4640026090157</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5990</price>
       </offer>
       <offer sku="УТ-00004215">
         <name>Сварочный аппарат ARC-200 ALTECO</name>
@@ -810,6 +821,17 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005947">
+        <name>Уровень тип 70, 200 см STABILA 02292</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31865</price>
+      </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
         <vendor>STABILA</vendor>
@@ -847,6 +869,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
+      </offer>
+      <offer sku="УТ-00006309">
+        <name>SAFETY Складная стремянка 4 ступ. с полочкой</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58800</price>
       </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
@@ -2461,14 +2491,6 @@
         </pickup-options>
         <price>199000</price>
       </offer>
-      <offer sku="УТ-00022258">
-        <name>Устройство зарядное 40-С80</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18700</price>
-      </offer>
       <offer sku="УТ-00022268">
         <name>Масло 4T 10W-40 1.4л Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2606,14 +2628,6 @@
         </pickup-options>
         <price>13200</price>
       </offer>
-      <offer sku="УТ-00022463">
-        <name>Топор универсальный 36см 0,6кг</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30800</price>
-      </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
         <vendor>Husqvarna</vendor>
@@ -2621,25 +2635,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022495">
-        <name>Рулетка 15м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35000</price>
-      </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -10292,6 +10287,17 @@
         </pickup-options>
         <price>19500</price>
       </offer>
+      <offer sku="00000024802">
+        <name>Рубанок электрический PL 650 ALTECO</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216454302</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28500</price>
+      </offer>
       <offer sku="00000024898">
         <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
         <vendor>ALTECO</vendor>
@@ -10995,14 +11001,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>54800</price>
-      </offer>
-      <offer sku="00000031839">
-        <name>Стремянка CORDA 8 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72400</price>
       </offer>
       <offer sku="00000031840">
         <name>Лестница приставная KRAUSE "CORDA" 1х7 2.95 м 010070</name>
@@ -22355,6 +22353,17 @@
         </pickup-options>
         <price>13200</price>
       </offer>
+      <offer sku="УТ-00059658">
+        <name>Пуф Nika HPF1/P гусиная лапка</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111519526</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18350</price>
+      </offer>
       <offer sku="УТ-00059659">
         <name>Стремянка с широкими ступенями Nika СМШ2/Б белый</name>
         <vendor>Nika</vendor>
@@ -22870,6 +22879,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>38320</price>
+      </offer>
+      <offer sku="УТ-00060174">
+        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477645532</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>39180</price>
       </offer>
       <offer sku="УТ-00060202">
         <name>Смеситель Frap F7505-6 с гигиеническим душем Черный</name>
@@ -23713,17 +23733,6 @@
         </pickup-options>
         <price>6500</price>
       </offer>
-      <offer sku="УТ-00063392">
-        <name>Смазка подшипника 100гр Husqvarna 535 56 00-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7392930984622</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7000</price>
-      </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
         <vendor>BOSCH</vendor>
@@ -24472,6 +24481,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>115990</price>
+      </offer>
+      <offer sku="УТ-00072375">
+        <name>Инструмент для обжима контактных гильз KNIPEX 97 72 180</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773060185</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>32505</price>
       </offer>
       <offer sku="УТ-00072410">
         <name>Клещи для удаления оболочки KNIPEX 13 42 165</name>
@@ -25874,6 +25894,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8290</price>
+      </offer>
+      <offer sku="УТ-00091068">
+        <name>Батарейки GP 60 шт. 15AA21-2CRSWC60 Super</name>
+        <vendor>GP</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11990</price>
       </offer>
       <offer sku="УТ-00091077">
         <name>Лампа светодиодная СТАРТ ECO LEDCandle E14 12W 40-3 TL холодный</name>

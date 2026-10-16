@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 07:49">
+<fm_catalog date="2026-10-16 08:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1367,17 +1367,6 @@
         </pickup-options>
         <price>1590</price>
       </offer>
-      <offer sku="УТ-00011527">
-        <name>Набор скоб ЗУБР "МАСТЕР" тип 53 8 мм 1000 шт. 31625-08</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373235030</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>790</price>
-      </offer>
       <offer sku="УТ-00011761">
         <name>Стол раскладной и 4 табурета GREENWAY 8833В -4</name>
         <vendor>Greenway</vendor>
@@ -2576,14 +2565,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9900</price>
-      </offer>
-      <offer sku="УТ-00022375">
-        <name>ШИНА 16'' 3/8 1.3 56DL 7T 1КЛ HSM HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
       </offer>
       <offer sku="УТ-00022432">
         <name>Шнур кордовый 2,4x210 Opti Quadra Husqvarna (квадратный) (в коробке 12шт)</name>
@@ -11048,14 +11029,6 @@
         </pickup-options>
         <price>26080</price>
       </offer>
-      <offer sku="00000031895">
-        <name>Стремянка STABILO 4 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>104600</price>
-      </offer>
       <offer sku="00000031902">
         <name>Складная подставка TREPPO 2x3 ступ.</name>
         <vendor>Krause</vendor>
@@ -11072,17 +11045,6 @@
         </pickup-options>
         <price>42700</price>
       </offer>
-      <offer sku="00000031906">
-        <name>Стремянка односторонняя Krause "SOLIDY" 5 ступеней 126238</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126238</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>50000</price>
-      </offer>
       <offer sku="00000031908">
         <name>Стремянка свободностоящая 7 ступенек, раб.высота 3,50 м SOLIDY Krause</name>
         <vendor>Krause</vendor>
@@ -11098,17 +11060,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>72900</price>
-      </offer>
-      <offer sku="00000031912">
-        <name>Стремянка анодированная Krause "SECURO" 5 ступ. 126436</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126436</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>87400</price>
       </offer>
       <offer sku="00000031934">
         <name>Подставка ROLLY 2х2 ступ. алюм</name>

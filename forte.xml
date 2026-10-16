@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 16:38">
+<fm_catalog date="2026-10-16 17:08">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2469,17 +2469,6 @@
         </pickup-options>
         <price>398000</price>
       </offer>
-      <offer sku="УТ-00022170">
-        <name>Газонокосилка LC 141C электрическая</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391736235853</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>190000</price>
-      </offer>
       <offer sku="УТ-00022173">
         <name>Газонокосилка LC 253S</name>
         <vendor>Husqvarna</vendor>
@@ -2585,14 +2574,6 @@
         </pickup-options>
         <price>9900</price>
       </offer>
-      <offer sku="УТ-00022374">
-        <name>ШИНА 14'' 3/8 1.3 52DL 7T 1КЛ HSM HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12100</price>
-      </offer>
       <offer sku="УТ-00022432">
         <name>Шнур кордовый 2,4x210 Opti Quadra Husqvarna (квадратный) (в коробке 12шт)</name>
         <vendor>Husqvarna</vendor>
@@ -2643,17 +2624,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -11068,14 +11038,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69900</price>
-      </offer>
-      <offer sku="00000031911">
-        <name>Стремянка анодированная Krause "SEPURO" 4 ступ. 126429</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72900</price>
       </offer>
       <offer sku="00000031934">
         <name>Подставка ROLLY 2х2 ступ. алюм</name>
@@ -20456,6 +20418,14 @@
         </pickup-options>
         <price>5440</price>
       </offer>
+      <offer sku="УТ-00045416">
+        <name>Magnetta, GW220, Сварочный генератор бензиновый 5 кВт</name>
+        <vendor>Magnetta</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>224110</price>
+      </offer>
       <offer sku="УТ-00045515">
         <name>Эмаль ПФ-115 вишнева 2,6кг Оптима_(8668)</name>
         <vendor>Оптима</vendor>
@@ -21107,14 +21077,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6640</price>
-      </offer>
-      <offer sku="УТ-00053393">
-        <name>Шпатель малярный 4 дюймов из нержавеющей стали BIHUI PTS4, шт 77450</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5590</price>
       </offer>
       <offer sku="УТ-00053690">
         <name>Дрель ударная сетевая Bosch GSB 600 06011A0320</name>
@@ -27090,22 +27052,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7900</price>
-      </offer>
-      <offer sku="УТ-00096128">
-        <name>Маркировочный мелок, желтый, шестигранный, диаметр 12мм, длина 120 мм (12) Bleispitz 0150</name>
-        <vendor>Bleispitz</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
-      </offer>
-      <offer sku="УТ-00096130">
-        <name>Маркировочный мелок, синий, шестигранный, диаметр 12мм,длина 120 мм (12) Bleispitz 0143</name>
-        <vendor>Bleispitz</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
       </offer>
       <offer sku="УТ-00096156">
         <name>Лезвие для шпателя BIHUI 100 см, толщина 0.5 мм PTKB100-SB</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 10:15">
+<fm_catalog date="2026-10-16 10:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -12136,6 +12136,17 @@
         </pickup-options>
         <price>1590</price>
       </offer>
+      <offer sku="00000032661">
+        <name>Диск отрезной по металлу Bosch 355х2.8х25.4 мм 2608601238</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140777230</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2610</price>
+      </offer>
       <offer sku="00000032668">
         <name>Мойка высокого давления Bosch GHP 5-65 W/EEU 0600910500</name>
         <vendor>BOSCH</vendor>
@@ -12278,6 +12289,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20885</price>
+      </offer>
+      <offer sku="00000032746">
+        <name>Диск пильный по металлу BOSCH ECO AL T64 210x30 мм 2608644391</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140891127</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11353</price>
       </offer>
       <offer sku="00000032754">
         <name>Пильный диск OP WO H 230*30-48</name>
@@ -13213,6 +13235,17 @@
         </pickup-options>
         <price>13390</price>
       </offer>
+      <offer sku="00000034622">
+        <name>5 ЛОБЗИКОВЫХ ПИЛОК T 101 BR, HCS</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140012454</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3165</price>
+      </offer>
       <offer sku="00000034630">
         <name>5 ЛОБЗИКОВЫХ ПИЛОК T 119 ВО, HCS</name>
         <vendor>BOSCH</vendor>
@@ -13795,6 +13828,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3375</price>
+      </offer>
+      <offer sku="00000035603">
+        <name>Бур по бетону BOSCH SDS+ 13x200/260 мм 2608833815</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>6949509223685</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4239</price>
       </offer>
       <offer sku="00000035605">
         <name>Бур по бетону BOSCH SDS+ 14х150/210 мм 2608833817</name>
@@ -14615,6 +14659,17 @@
         </pickup-options>
         <price>4501</price>
       </offer>
+      <offer sku="00000038456">
+        <name>Диск алмазный Bosch ECO Universal (115х22.2 мм) 2608615027</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140857048</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3197</price>
+      </offer>
       <offer sku="00000038459">
         <name>Диск алмазный BOSCH 180х22.2 мм 2608615030</name>
         <vendor>BOSCH</vendor>
@@ -14680,6 +14735,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6383</price>
+      </offer>
+      <offer sku="00000038903">
+        <name>Набор лобзиковых пилок BOSCH 10 шт. 2607011170</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140913416</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6342</price>
       </offer>
       <offer sku="00000038965">
         <name>Набор сверл по металлу BOSCH PointTeQ 3х33х61 мм 2 шт. 2608577158</name>
@@ -14747,6 +14813,17 @@
         </pickup-options>
         <price>3020</price>
       </offer>
+      <offer sku="00000039019">
+        <name>10 HSS PointTeQ Сверл 4.5mm</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140907224</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2107</price>
+      </offer>
       <offer sku="00000039023">
         <name>Набор сверл по металлу Bosch PointTeQ 4.9 мм 10 шт. 2608577217</name>
         <vendor>BOSCH</vendor>
@@ -14790,6 +14867,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7614</price>
+      </offer>
+      <offer sku="00000039168">
+        <name>Набор бит PRO 32 шт</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140761734</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8261</price>
       </offer>
       <offer sku="00000039179">
         <name>Бур SDS Plus-5X 6x400x460</name>
@@ -14977,6 +15065,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>142100</price>
+      </offer>
+      <offer sku="00000039891">
+        <name>ЦЕПЬ Д/AKE 35</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140396462</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15999</price>
       </offer>
       <offer sku="00000039893">
         <name>Цепь для бензопилы Bosch UniversalChain F016800489</name>
@@ -18539,6 +18638,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15880</price>
+      </offer>
+      <offer sku="00000072924">
+        <name>Фланец опорный BOSCH 1607000D62</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15970</price>
       </offer>
       <offer sku="00000072926">
         <name>Комплект угольных щеток BOSCH 1607014176</name>
@@ -24292,6 +24399,17 @@
         </pickup-options>
         <price>6450</price>
       </offer>
+      <offer sku="УТ-00063832">
+        <name>Набор шестигранников BOSCH 9 шт 1600A02BX9</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952643298</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7030</price>
+      </offer>
       <offer sku="УТ-00063833">
         <name>Набор инструмента расширенный, 132 предмета</name>
         <vendor>BOSCH</vendor>
@@ -24346,6 +24464,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12470</price>
+      </offer>
+      <offer sku="УТ-00063838">
+        <name>Набор отверток Bosch 6 шт. 1600A02BX7</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952643274</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11330</price>
       </offer>
       <offer sku="УТ-00063839">
         <name>Плоскогубцы комбинированные BOSCH 1600A02ZH0</name>
@@ -25661,6 +25790,17 @@
         </pickup-options>
         <price>3999</price>
       </offer>
+      <offer sku="УТ-00085767">
+        <name>Смазка BOSCH 45 мл 1615430005</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140078450</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4999</price>
+      </offer>
       <offer sku="УТ-00087281">
         <name>Колесо для мотоблока правое TT 4.00-8 4870024326877</name>
         <vendor>Total Tools</vendor>
@@ -26212,14 +26352,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8290</price>
-      </offer>
-      <offer sku="УТ-00091068">
-        <name>Батарейки GP 60 шт. 15AA21-2CRSWC60 Super</name>
-        <vendor>GP</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11990</price>
       </offer>
       <offer sku="УТ-00091077">
         <name>Лампа светодиодная СТАРТ ECO LEDCandle E14 12W 40-3 TL холодный</name>

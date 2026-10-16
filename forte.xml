@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 15:40">
+<fm_catalog date="2026-10-16 16:09">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2447,6 +2447,17 @@
         </pickup-options>
         <price>290000</price>
       </offer>
+      <offer sku="УТ-00022131">
+        <name>Бензопила Husqvarna 120 Mark II 967 86 19-06</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391736617178</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>105000</price>
+      </offer>
       <offer sku="УТ-00022145">
         <name>Бензопила 555 15 ; 0.325 1.5 64DL S35G X-Cut HSM X-Force</name>
         <vendor>Husqvarna</vendor>
@@ -2457,6 +2468,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>398000</price>
+      </offer>
+      <offer sku="УТ-00022170">
+        <name>Газонокосилка LC 141C электрическая</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391736235853</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>190000</price>
       </offer>
       <offer sku="УТ-00022173">
         <name>Газонокосилка LC 253S</name>
@@ -2563,6 +2585,14 @@
         </pickup-options>
         <price>9900</price>
       </offer>
+      <offer sku="УТ-00022374">
+        <name>ШИНА 14'' 3/8 1.3 52DL 7T 1КЛ HSM HUSQVARNA</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12100</price>
+      </offer>
       <offer sku="УТ-00022432">
         <name>Шнур кордовый 2,4x210 Opti Quadra Husqvarna (квадратный) (в коробке 12шт)</name>
         <vendor>Husqvarna</vendor>
@@ -2613,6 +2643,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
+      </offer>
+      <offer sku="УТ-00022496">
+        <name>Рулетка 20м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089124921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>

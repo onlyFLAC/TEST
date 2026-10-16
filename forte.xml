@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 11:15">
+<fm_catalog date="2026-10-16 11:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4721,6 +4721,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7580</price>
+      </offer>
+      <offer sku="00000002000">
+        <name>Ножницы по металлу KRAFTOOL правые 250 мм 2328-R</name>
+        <vendor>KRAFTOOL</vendor>
+        <barcodes>
+          <barcode>4034229210502</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8590</price>
       </offer>
       <offer sku="00000002002">
         <name>Прямые удлинённые ножницы по металлу KRAFTOOL Alligator 290 мм 2328-SL</name>
@@ -23360,6 +23371,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7990</price>
+      </offer>
+      <offer sku="УТ-00061409">
+        <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/SC scandinavian</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111505079</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31000</price>
       </offer>
       <offer sku="УТ-00061457">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/6 с линиями на сливовом</name>

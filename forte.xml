@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 06:51">
+<fm_catalog date="2026-10-16 07:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10147,17 +10147,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65780</price>
-      </offer>
-      <offer sku="00000023614">
-        <name>Стремянка двусторонняя 4ст., стальная, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800053398</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20876</price>
       </offer>
       <offer sku="00000023710">
         <name>Воздуходувка электрическая CROWN CT17010</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 20:34">
+<fm_catalog date="2026-10-16 21:04">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8717,17 +8717,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4718</price>
-      </offer>
-      <offer sku="00000014864">
-        <name>Ножовка по дереву, 600 мм, шаг зубьев 12 мм, пластиковая рукоятка (Ижевск)// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4630001880552</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7580</price>
       </offer>
       <offer sku="00000014886">
         <name>Ножовка по дереву,450 мм,7-8 TPI,зуб-3D,каленый зуб,тефл.покр.полотна,2-х комп..рук-ка// Matrix</name>
@@ -20418,14 +20407,6 @@
         </pickup-options>
         <price>5440</price>
       </offer>
-      <offer sku="УТ-00045416">
-        <name>Magnetta, GW220, Сварочный генератор бензиновый 5 кВт</name>
-        <vendor>Magnetta</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>224110</price>
-      </offer>
       <offer sku="УТ-00045515">
         <name>Эмаль ПФ-115 вишнева 2,6кг Оптима_(8668)</name>
         <vendor>Оптима</vendor>
@@ -20972,14 +20953,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39900</price>
-      </offer>
-      <offer sku="УТ-00051719">
-        <name>Аккум. Углошлифмашина Einhell AXXIO 18/150 - Solo (4431144)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>59900</price>
       </offer>
       <offer sku="УТ-00051723">
         <name>Аккум. Углошлифмашина Einhell TP-AG 18/125 CE Q Li - Solo (4431155)</name>
@@ -21794,14 +21767,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7412</price>
-      </offer>
-      <offer sku="УТ-00056618">
-        <name>Видеорегистратор Inspector TUBUS (Wi-Fi)</name>
-        <vendor>Inspector</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32990</price>
       </offer>
       <offer sku="УТ-00056627">
         <name>Видеорегистратор Neoline Flash 2K Dual</name>
@@ -26568,14 +26533,6 @@
         </pickup-options>
         <price>7800</price>
       </offer>
-      <offer sku="УТ-00091601">
-        <name>Уровень с аксессуаром BOSCH 60 см 1600A02Z9Z</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11750</price>
-      </offer>
       <offer sku="УТ-00091602">
         <name>Молоток-гвоздодер BOSCH 450 г 1600A02ZA2</name>
         <vendor>BOSCH</vendor>
@@ -26689,17 +26646,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6170</price>
-      </offer>
-      <offer sku="УТ-00091632">
-        <name>Уровень BOSCH 12 см 1600A032V4</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423302271</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3890</price>
       </offer>
       <offer sku="УТ-00091636">
         <name>Клещи переставные BOSCH 250 мм 1600A032V9</name>
@@ -27109,14 +27055,6 @@
         </pickup-options>
         <price>1690</price>
       </offer>
-      <offer sku="УТ-00097680">
-        <name>Набор головок-бит Torx 6-лучевых, 6 предметов(Т30,Т40,Т45,Т50,Т55,Т60; L-100мм) 1/2", на планке F-40913L F-40913L</name>
-        <vendor>Forsage</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8500</price>
-      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -27133,14 +27071,6 @@
         </pickup-options>
         <price>5500</price>
       </offer>
-      <offer sku="УТ-00098387">
-        <name>Вороток шарнирный 600мм, 1/2'' RF-8014600UMPB RF-8014600UMPB</name>
-        <vendor>Rock FORCE</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8400</price>
-      </offer>
       <offer sku="УТ-00098555">
         <name>Домкрат бутылочный гидравлический 5,5т RF-T90604DX RF-T90604DX</name>
         <vendor>Rock FORCE</vendor>
@@ -27148,14 +27078,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
-      </offer>
-      <offer sku="УТ-00098652">
-        <name>Набор для обслуживания тормозных цилиндров 35 предметов(право/левосторонний привод) в кейсе RF-65807 RF-65807</name>
-        <vendor>Rock FORCE</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24700</price>
       </offer>
       <offer sku="УТ-00099520">
         <name>31015 Краскопульт CROWN</name>

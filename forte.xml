@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 14:12">
+<fm_catalog date="2026-10-16 14:41">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -12246,17 +12246,6 @@
         </pickup-options>
         <price>32900</price>
       </offer>
-      <offer sku="00000032862">
-        <name>Машина шлифовальная угловая (болгарка) Bosch GWS 9-125 S 0601396102</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140861038</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47830</price>
-      </offer>
       <offer sku="00000032865">
         <name>Машина шлифовальная угловая (болгарка) Bosch GWX 14-125 X-LOCK 06017B7000</name>
         <vendor>BOSCH</vendor>
@@ -14212,17 +14201,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6184</price>
-      </offer>
-      <offer sku="00000036919">
-        <name>ПАЗОВАЯ ФРЕЗА 16/12</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140420297</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6532</price>
       </offer>
       <offer sku="00000036922">
         <name>Фреза пазовая Bosch 12х30 мм 2608628470</name>
@@ -20799,17 +20777,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6950</price>
-      </offer>
-      <offer sku="УТ-00048669">
-        <name>Доска гладильная Nika Н3+ (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830042</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16490</price>
       </offer>
       <offer sku="УТ-00048671">
         <name>Доска гладильная Nika "ЛИНА 4" ДЛ4 (в ассортименте)</name>

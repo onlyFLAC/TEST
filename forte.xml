@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 14:41">
+<fm_catalog date="2026-10-16 15:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2252,6 +2252,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>165320</price>
+      </offer>
+      <offer sku="УТ-00017026">
+        <name>Насадка для многофункционального инструмента DeWALT 44х30 мм DT20737-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4790</price>
       </offer>
       <offer sku="УТ-00018550">
         <name>Диск отрезной по металлу Bosch 230х1.9 мм 2608619770</name>
@@ -5952,17 +5960,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34580</price>
-      </offer>
-      <offer sku="00000006248">
-        <name>ЗУБР ПТ-500 тачка с П-образной ручкой, строительная двухколесная, 260 кг</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373378713</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>52000</price>
       </offer>
       <offer sku="00000006256">
         <name>Опора резиновая для домкрата ЗУБР РШ-45 43005-45</name>
@@ -21070,6 +21067,14 @@
         </pickup-options>
         <price>6640</price>
       </offer>
+      <offer sku="УТ-00053393">
+        <name>Шпатель малярный 4 дюймов из нержавеющей стали BIHUI PTS4, шт 77450</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5590</price>
+      </offer>
       <offer sku="УТ-00053690">
         <name>Дрель ударная сетевая Bosch GSB 600 06011A0320</name>
         <vendor>BOSCH</vendor>
@@ -27025,6 +27030,30 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22610</price>
+      </offer>
+      <offer sku="УТ-00095786">
+        <name>Колесо 6.00-9 для мотокультиватора MK 9-700</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7900</price>
+      </offer>
+      <offer sku="УТ-00096128">
+        <name>Маркировочный мелок, желтый, шестигранный, диаметр 12мм, длина 120 мм (12) Bleispitz 0150</name>
+        <vendor>Bleispitz</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>590</price>
+      </offer>
+      <offer sku="УТ-00096130">
+        <name>Маркировочный мелок, синий, шестигранный, диаметр 12мм,длина 120 мм (12) Bleispitz 0143</name>
+        <vendor>Bleispitz</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>590</price>
       </offer>
       <offer sku="УТ-00096156">
         <name>Лезвие для шпателя BIHUI 100 см, толщина 0.5 мм PTKB100-SB</name>

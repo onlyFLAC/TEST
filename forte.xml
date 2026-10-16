@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 13:42">
+<fm_catalog date="2026-10-16 14:12">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -820,17 +820,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005944">
-        <name>Уровень тип 70, 120 см STABILA 02289</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022891</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19190</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -20581,17 +20570,6 @@
         </pickup-options>
         <price>285890</price>
       </offer>
-      <offer sku="УТ-00046722">
-        <name>Уровень STABILA "тип 70" 80 см 02286</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15090</price>
-      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -25072,14 +25050,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24590</price>
-      </offer>
-      <offer sku="УТ-00075731">
-        <name>Отвертка изолированная для винтов Wera 05006466001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17590</price>
       </offer>
       <offer sku="УТ-00075735">
         <name>Отвертка регулируемая динамометрическая Wera 05074800001</name>

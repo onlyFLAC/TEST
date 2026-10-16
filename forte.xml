@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 07:20">
+<fm_catalog date="2026-10-16 07:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1509,17 +1509,6 @@
         </pickup-options>
         <price>13800</price>
       </offer>
-      <offer sku="УТ-00013064">
-        <name>4222 корыто для тачки 110 л</name>
-        <vendor>IVT</vendor>
-        <barcodes>
-          <barcode>7630005242223</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7560</price>
-      </offer>
       <offer sku="УТ-00013463">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 белая</name>
         <vendor>ЗМИ</vendor>
@@ -1604,14 +1593,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2380</price>
-      </offer>
-      <offer sku="УТ-00013595">
-        <name>ЗУБР ЗВЕЗДА, 1.6 мм, 15 м, леска для триммера, Профессионал (71020-1.6) 71020-1.6</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>780</price>
       </offer>
       <offer sku="УТ-00013600">
         <name>ЗУБР КРУГ, 1.6 мм, 15 м, леска для триммера, Профессионал (71010-1.6) 71010-1.6</name>
@@ -2209,14 +2190,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2180</price>
-      </offer>
-      <offer sku="УТ-00015874">
-        <name>Сверло по бетону ЗУБР 6х150 мм 2916-150-06_z01</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1200</price>
       </offer>
       <offer sku="УТ-00015961">
         <name>STAYER 60 мм, 5 доп. лезвий, Компактный скребок (0851-H6)</name>
@@ -5617,17 +5590,6 @@
         </pickup-options>
         <price>1979</price>
       </offer>
-      <offer sku="00000004634">
-        <name>Замок ЗУБР "ЭКСПЕРТ" навесной, стальной корпус, классическая форма, закаленная дужка, 60мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373089329</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4819</price>
-      </offer>
       <offer sku="00000004670">
         <name>ЗУБР ЗПТ-305-1800 ПЛ пила торцовочная с протяжкой, d 305 х 30 мм, 1800 Вт</name>
         <vendor>ЗУБР</vendor>
@@ -5726,17 +5688,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11490</price>
-      </offer>
-      <offer sku="00000005085">
-        <name>ЗУБР 50х686 мм, P80, лента шлифовальная МАСТЕР, для точила ЗТШМ-150/686, 3 шт.</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373086342</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1767</price>
       </offer>
       <offer sku="00000005128">
         <name>Набор метчиков и плашек ЗУБР 65 шт. 28118-H65_z01</name>
@@ -6731,17 +6682,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20590</price>
-      </offer>
-      <offer sku="00000007791">
-        <name>Лист шлифовальный ЗУБР "Мастер", без отверстий, для ПШМ на зажимах, Р600, 93х230мм, 5шт</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373087240</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>880</price>
       </offer>
       <offer sku="00000007839">
         <name>Лобзик электрический ЗУБР Л-570</name>
@@ -18101,17 +18041,6 @@
         </pickup-options>
         <price>11690</price>
       </offer>
-      <offer sku="00000071298">
-        <name>GRINDA 22 круглых зубца, 400х260х1500 мм, грабли садовые веерные, с деревянным черенком</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925602758</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7600</price>
-      </offer>
       <offer sku="00000071299">
         <name>GRINDA PROLine 12 витых зубцов, грабли с алюминиевым черенком</name>
         <vendor>Grinda</vendor>
@@ -20583,14 +20512,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="УТ-00045909">
-        <name>ЗУБР Оптима, 216 x 30 мм, 40Т, пильный диск по дереву, Профессионал (36903-216-30-40)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8850</price>
       </offer>
       <offer sku="УТ-00045921">
         <name>Диск пильный по металлу ЗУБР "ПРОФЕССИОНАЛ" 100Т 315х30 мм 36907-315-30-100_z01</name>
@@ -24480,17 +24401,6 @@
         </pickup-options>
         <price>88080</price>
       </offer>
-      <offer sku="УТ-00065340">
-        <name>ЗУБР 125 мм, Мини бокорезы, Профессионал-Чисторез (22172)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373540189</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1790</price>
-      </offer>
       <offer sku="УТ-00065434">
         <name>ЗУБР 24 мм, витая стальная латунированная проволока 0.3 мм, набор кистевых щеток для дрели, Профессионал (35225-24-H2)</name>
         <vendor>ЗУБР</vendor>
@@ -26471,14 +26381,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11450</price>
-      </offer>
-      <offer sku="УТ-00091578">
-        <name>Нож складной BOSCH 1600A02W7M</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8810</price>
       </offer>
       <offer sku="УТ-00091580">
         <name>Молоток-гвоздодер BOSCH 550 г 1600A02W7X</name>

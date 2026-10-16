@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-16 09:46">
+<fm_catalog date="2026-10-16 10:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20597,6 +20597,9 @@
       <offer sku="УТ-00042919">
         <name>ДАЛЬНОМЕР GLM 50-22 Bosch 0601072S00</name>
         <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952518800</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -22751,6 +22754,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14174</price>
+      </offer>
+      <offer sku="УТ-00059805">
+        <name>Пылесос аккум. LXT BL 18В, циклон, 18 кПа, 250мл, сух.</name>
+        <vendor>Makita</vendor>
+        <barcodes>
+          <barcode>088381781619</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>30195</price>
       </offer>
       <offer sku="УТ-00059821">
         <name>Сушилка напольная Nika СБТ18/РЗ розовое золото</name>
@@ -24917,6 +24931,14 @@
         </pickup-options>
         <price>19400</price>
       </offer>
+      <offer sku="УТ-00072585">
+        <name>Пинцет для прецизионных работ KNIPEX 92 28 71 ESD</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16490</price>
+      </offer>
       <offer sku="УТ-00072593">
         <name>Плоскогубцы для работы с кабелем KNIPEX 13 02 160</name>
         <vendor>KNIPEX</vendor>
@@ -25726,14 +25748,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>214990</price>
-      </offer>
-      <offer sku="УТ-00087775">
-        <name>Лента для рулетки Husqvarna 15 м 505 69 73-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
       </offer>
       <offer sku="УТ-00089267">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 SOLO 06019N9000</name>

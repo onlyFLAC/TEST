@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 13:11">
+<fm_catalog date="2026-10-17 13:40">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
-      <offer sku="УТ-00002540">
-        <name>Головка фильтровальная всасывающая STIHL 00003503518</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661283200</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2890</price>
-      </offer>
       <offer sku="УТ-00002566">
         <name>Компрессор масляный HYUNDAI HY-50LV</name>
         <vendor>HYUNDAI</vendor>
@@ -16422,14 +16411,6 @@
         </pickup-options>
         <price>42179</price>
       </offer>
-      <offer sku="00000059410">
-        <name>Бензопила STIHL MS 250 C-BE (шина 45см, цепь 62зв., кожух)</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>227800</price>
-      </offer>
       <offer sku="00000059420">
         <name>Пила дисковая настольная Bosch GTS 254 0601B45000</name>
         <vendor>BOSCH</vendor>
@@ -21671,17 +21652,6 @@
         </pickup-options>
         <price>48990</price>
       </offer>
-      <offer sku="УТ-00056643">
-        <name>Комбоустройство SilverStone F-1 HYBRID S-BOT PRO</name>
-        <vendor>SilverStone</vendor>
-        <barcodes>
-          <barcode>8804294716003</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>116990</price>
-      </offer>
       <offer sku="УТ-00056647">
         <name>Камера заднего вида IP-360 (для uno sport,city scanner, elbrus)</name>
         <vendor>SilverStone</vendor>
@@ -25031,14 +25001,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="УТ-00080478">
-        <name>Комплект - Карбюраторные детали Stihl 11300071061</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10860</price>
-      </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
         <vendor>STIHL</vendor>
@@ -26933,14 +26895,6 @@
         </pickup-options>
         <price>1690</price>
       </offer>
-      <offer sku="УТ-00097673">
-        <name>Набор гидравлического оборудования для кузовных работ, 10т F-0010K F-0010K</name>
-        <vendor>Forsage</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>93900</price>
-      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -26999,14 +26953,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65990</price>
-      </offer>
-      <offer sku="УТ-00099726">
-        <name>Цепь пильная STIHL 18", 3/8", 1.6 мм, 66 звеньев 36210000066</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12400</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

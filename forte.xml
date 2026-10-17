@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 17:35">
+<fm_catalog date="2026-10-17 18:04">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21603,14 +21603,6 @@
         </pickup-options>
         <price>136200</price>
       </offer>
-      <offer sku="УТ-00056637">
-        <name>Сирена пьезоэлектрическая Pandora PS-330</name>
-        <vendor>Pandora</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7500</price>
-      </offer>
       <offer sku="УТ-00056639">
         <name>Видеорегистратор SilverStone F-1 INTEGRAL 2.0 Wi-Fi</name>
         <vendor>SilverStone</vendor>
@@ -23709,17 +23701,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>73010</price>
-      </offer>
-      <offer sku="УТ-00063822">
-        <name>Набор ключей Torx BOSCH 1600A01TH4</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952512518</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11720</price>
       </offer>
       <offer sku="УТ-00063823">
         <name>Рулетка измерительная BOSCH 8 м 27 мм 1600A01V3S</name>

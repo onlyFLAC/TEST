@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 13:40">
+<fm_catalog date="2026-10-17 14:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5041,17 +5041,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7602</price>
-      </offer>
-      <offer sku="00000003050">
-        <name>Горелка газовая STAYER MaxTerm 1300°С MG100 55584</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229211332</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2777</price>
       </offer>
       <offer sku="00000003103">
         <name>STAYER PROFESSIONAL 25 мм лезвия сегментированные, 5 шт</name>
@@ -20286,14 +20275,6 @@
         </pickup-options>
         <price>136200</price>
       </offer>
-      <offer sku="УТ-00045551">
-        <name>Бензопила STIHL MS 172 40 см 11480113030K40</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>115000</price>
-      </offer>
       <offer sku="УТ-00045552">
         <name>Бензопила STIHL MS 172 35 см 11480113030K35</name>
         <vendor>STIHL</vendor>
@@ -23973,14 +23954,6 @@
         </pickup-options>
         <price>28300</price>
       </offer>
-      <offer sku="УТ-00063889">
-        <name>GSM+GPS Мастер 6 V2 StarLine</name>
-        <vendor>Starline</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48100</price>
-      </offer>
       <offer sku="УТ-00063898">
         <name>Смазка для редукторов и гибкого вала STIHL 80 г 07811201117</name>
         <vendor>STIHL</vendor>
@@ -25570,14 +25543,6 @@
         </pickup-options>
         <price>60360</price>
       </offer>
-      <offer sku="УТ-00090765">
-        <name>Сетев. Ленточная шлифмашина Einhell TC-BF 500 E (4461020)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39900</price>
-      </offer>
       <offer sku="УТ-00090887">
         <name>Кейс для инструмента BOSCH L-BOXX Contractor 170 1600A037DZ</name>
         <vendor>BOSCH</vendor>
@@ -26563,6 +26528,14 @@
         </pickup-options>
         <price>12888</price>
       </offer>
+      <offer sku="УТ-00092080">
+        <name>Фильтр для пылесоса Bosch 1619PB1594 1 шт</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3000</price>
+      </offer>
       <offer sku="УТ-00092222">
         <name>Пильное полотно Bosch 50 мм 1 шт. арт. Полотно погружное PRO Starlock BIM 32x50 мм Hard Wood AIZ 32 BSPIB / артикул: 2608669070</name>
         <vendor>BOSCH</vendor>
@@ -26589,14 +26562,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79900</price>
-      </offer>
-      <offer sku="УТ-00092614">
-        <name>Комбо: Аккум. Шуруповерт TE-CD 18/40 Li BL + Зарядное устройство + 1 аккум. 18V 2,5Ah PXC Einhell (451399797)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27900</price>
       </offer>
       <offer sku="УТ-00092619">
         <name>Комбо: Аккум. Шуруповерт Ударный TP-CD 18/120 Li-i BL + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (451431042)</name>
@@ -26910,14 +26875,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5500</price>
-      </offer>
-      <offer sku="УТ-00098104">
-        <name>Пресс гидравлический напольный 20т JCB-TY20001 JCB-TY20001</name>
-        <vendor>JCB</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>251500</price>
       </offer>
       <offer sku="УТ-00098555">
         <name>Домкрат бутылочный гидравлический 5,5т RF-T90604DX RF-T90604DX</name>

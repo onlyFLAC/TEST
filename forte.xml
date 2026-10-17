@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 09:17">
+<fm_catalog date="2026-10-17 09:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6378,17 +6378,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390</price>
-      </offer>
-      <offer sku="00000007143">
-        <name>Ключ цепной STAYER с пластиковой ручкой для снятия автомобильных фильтров</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229066185</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3310</price>
       </offer>
       <offer sku="00000007190">
         <name>Ключ гаечный комбинированный ЗУБР 10 мм 27074-10_z01</name>
@@ -26975,14 +26964,6 @@
         </pickup-options>
         <price>46900</price>
       </offer>
-      <offer sku="УТ-00099520">
-        <name>31015 Краскопульт CROWN</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44990</price>
-      </offer>
       <offer sku="УТ-00099523">
         <name>25003HX-BMC Лобзик аккумуляторный CROWN</name>
         <vendor>CROWN</vendor>
@@ -27108,14 +27089,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101589">
-        <name>M5802B Пила дисковая,1050Вт,4900об/мин.,190х30мм,рез-68мм</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67745</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

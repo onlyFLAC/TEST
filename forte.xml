@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 07:49">
+<fm_catalog date="2026-10-17 08:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21756,17 +21756,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9976</price>
-      </offer>
-      <offer sku="УТ-00056514">
-        <name>Секатор Grinda GRINDA P-25 200 мм 423425</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925601836</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7412</price>
       </offer>
       <offer sku="УТ-00056627">
         <name>Видеорегистратор Neoline Flash 2K Dual</name>

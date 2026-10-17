@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 08:19">
+<fm_catalog date="2026-10-17 08:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7233,17 +7233,6 @@
         </pickup-options>
         <price>4267</price>
       </offer>
-      <offer sku="00000008865">
-        <name>Ножовка-ручка по металлу STAYER 1571_z02</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229156145</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>668</price>
-      </offer>
       <offer sku="00000008903">
         <name>Органайзер ЗУБР ДОН-42 38036-42</name>
         <vendor>ЗУБР</vendor>
@@ -10459,17 +10448,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23888</price>
-      </offer>
-      <offer sku="00000025421">
-        <name>Санки детские Nika "ТИМКА 5 УНИВЕРСАЛ" Т5У/С2 cиний (2 место)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047362806</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18900</price>
       </offer>
       <offer sku="00000025436">
         <name>Сушилка напольная Nika СБ3 серебряный</name>
@@ -17092,17 +17070,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21040</price>
-      </offer>
-      <offer sku="00000064221">
-        <name>Подставка для обуви ЗМИ "ЖЕНЕВА 35" ПДОЖ35 графит</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195630140</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23810</price>
       </offer>
       <offer sku="00000064223">
         <name>ЗМИ Подставка для обуви ВЕРОНА 15 Графит</name>

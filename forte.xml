@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 12:13">
+<fm_catalog date="2026-10-17 12:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -26533,14 +26533,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12888</price>
-      </offer>
-      <offer sku="УТ-00092080">
-        <name>Фильтр для пылесоса Bosch 1619PB1594 1 шт</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3000</price>
       </offer>
       <offer sku="УТ-00092222">
         <name>Пильное полотно Bosch 50 мм 1 шт. арт. Полотно погружное PRO Starlock BIM 32x50 мм Hard Wood AIZ 32 BSPIB / артикул: 2608669070</name>

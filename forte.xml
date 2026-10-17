@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 11:14">
+<fm_catalog date="2026-10-17 11:43">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -848,14 +848,6 @@
         </pickup-options>
         <price>23200</price>
       </offer>
-      <offer sku="УТ-00006309">
-        <name>SAFETY Складная стремянка 4 ступ. с полочкой</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>58800</price>
-      </offer>
       <offer sku="УТ-00006311">
         <name>SAFETY Складная стремянка 6 ступ. с полочкой</name>
         <vendor>Krause</vendor>
@@ -1452,7 +1444,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6900</price>
+        <price>7800</price>
       </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 (в ассортименте)</name>
@@ -4148,7 +4140,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6900</price>
+        <price>7800</price>
       </offer>
       <offer sku="УТ-00026626">
         <name>Машина снегоуборочная ALTECO SBG 318 59924</name>
@@ -10414,7 +10406,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6900</price>
+        <price>7800</price>
       </offer>
       <offer sku="00000025438">
         <name>Сушилка напольная Nika СБ2/С серебряный</name>
@@ -21966,6 +21958,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16890</price>
+      </offer>
+      <offer sku="УТ-00059636">
+        <name>Доска гладильная навесная Nika ДН1Т/2 шоколадный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111525299</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13990</price>
       </offer>
       <offer sku="УТ-00059637">
         <name>Доска гладильная настольная Nika НД2Т (в ассортименте)</name>

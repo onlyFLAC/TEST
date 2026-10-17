@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 10:45">
+<fm_catalog date="2026-10-17 11:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10969,17 +10969,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31100</price>
-      </offer>
-      <offer sku="00000031942">
-        <name>Подставка складная TOPPY XL 3 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47300</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 10:16">
+<fm_catalog date="2026-10-17 10:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6782,17 +6782,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>68370</price>
-      </offer>
-      <offer sku="00000008113">
-        <name>Мини-набор ЗУБР: Цанги хром, 3,2мм-1шт, 2,4мм-1шт, 1,6мм-1шт</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373108754</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1780</price>
       </offer>
       <offer sku="00000008166">
         <name>Монтировка, 200 мм, лопатка 6 мм, кованая, ЗУБР</name>

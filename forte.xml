@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 12:42">
+<fm_catalog date="2026-10-17 13:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
+      <offer sku="УТ-00002540">
+        <name>Головка фильтровальная всасывающая STIHL 00003503518</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661283200</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2890</price>
+      </offer>
       <offer sku="УТ-00002566">
         <name>Компрессор масляный HYUNDAI HY-50LV</name>
         <vendor>HYUNDAI</vendor>
@@ -9078,17 +9089,6 @@
         </pickup-options>
         <price>8180</price>
       </offer>
-      <offer sku="00000017276">
-        <name>Набор дуг для парника Россия 0.85х0.9 м 5 мм 6 шт. 64408</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800032881</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2640</price>
-      </offer>
       <offer sku="00000017327">
         <name>Набор для подключения шланга 1/2" (распылитель, 3 адаптера к распылителю)// Palisad</name>
         <vendor>Palisad</vendor>
@@ -10723,6 +10723,17 @@
         </pickup-options>
         <price>33500</price>
       </offer>
+      <offer sku="00000031299">
+        <name>Шнек 150 мм для земли TT 800мм</name>
+        <vendor>Total Tools</vendor>
+        <barcodes>
+          <barcode>4870024312177</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8600</price>
+      </offer>
       <offer sku="00000031441">
         <name>Набор инструментов Total Tools 25 шт. ST036-25</name>
         <vendor>Total Tools</vendor>
@@ -10744,6 +10755,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9600</price>
+      </offer>
+      <offer sku="00000031548">
+        <name>Тачка строительная двухколесная Total Tools Т2-1035</name>
+        <vendor>Total Tools</vendor>
+        <barcodes>
+          <barcode>4870024393039</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22405</price>
       </offer>
       <offer sku="00000031550">
         <name>Тачка строительная одноколесная TotalTools Т-1122</name>
@@ -16400,6 +16422,14 @@
         </pickup-options>
         <price>42179</price>
       </offer>
+      <offer sku="00000059410">
+        <name>Бензопила STIHL MS 250 C-BE (шина 45см, цепь 62зв., кожух)</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>227800</price>
+      </offer>
       <offer sku="00000059420">
         <name>Пила дисковая настольная Bosch GTS 254 0601B45000</name>
         <vendor>BOSCH</vendor>
@@ -18537,17 +18567,6 @@
         </pickup-options>
         <price>111900</price>
       </offer>
-      <offer sku="00000075233">
-        <name>Система гардеробная ЗМИ "СКАНДИНАВИЯ 1" ГСС1 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093788097</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32210</price>
-      </offer>
       <offer sku="00000075234">
         <name>Система гардеробная ЗМИ "СКАНДИНАВИЯ 1" ГСС1 белый</name>
         <vendor>ЗМИ</vendor>
@@ -20286,6 +20305,14 @@
         </pickup-options>
         <price>136200</price>
       </offer>
+      <offer sku="УТ-00045551">
+        <name>Бензопила STIHL MS 172 40 см 11480113030K40</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>115000</price>
+      </offer>
       <offer sku="УТ-00045552">
         <name>Бензопила STIHL MS 172 35 см 11480113030K35</name>
         <vendor>STIHL</vendor>
@@ -21073,6 +21100,14 @@
         </pickup-options>
         <price>325300</price>
       </offer>
+      <offer sku="УТ-00055200">
+        <name>Мойка высокого давления STIHL RE 140 plus 49500114580</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>259900</price>
+      </offer>
       <offer sku="УТ-00055203">
         <name>Мойка высокого давления STIHL RE 100 PLUS CONTROL RE020114530</name>
         <vendor>STIHL</vendor>
@@ -21840,6 +21875,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>76670</price>
+      </offer>
+      <offer sku="УТ-00059258">
+        <name>Домкрат гидравлический бутылочный кейс 6 т. ТТ ДГБ-06</name>
+        <vendor>Total Tools</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12890</price>
       </offer>
       <offer sku="УТ-00059400">
         <name>Лобзик электрический TT ЛЭ-1050БПЛ</name>
@@ -23960,6 +24003,14 @@
         </pickup-options>
         <price>28300</price>
       </offer>
+      <offer sku="УТ-00063889">
+        <name>GSM+GPS Мастер 6 V2 StarLine</name>
+        <vendor>Starline</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48100</price>
+      </offer>
       <offer sku="УТ-00063898">
         <name>Смазка для редукторов и гибкого вала STIHL 80 г 07811201117</name>
         <vendor>STIHL</vendor>
@@ -24980,6 +25031,14 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00080478">
+        <name>Комплект - Карбюраторные детали Stihl 11300071061</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10860</price>
+      </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
         <vendor>STIHL</vendor>
@@ -25549,6 +25608,14 @@
         </pickup-options>
         <price>60360</price>
       </offer>
+      <offer sku="УТ-00090765">
+        <name>Сетев. Ленточная шлифмашина Einhell TC-BF 500 E (4461020)</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>39900</price>
+      </offer>
       <offer sku="УТ-00090887">
         <name>Кейс для инструмента BOSCH L-BOXX Contractor 170 1600A037DZ</name>
         <vendor>BOSCH</vendor>
@@ -25928,7 +25995,7 @@
         <price>2090</price>
       </offer>
       <offer sku="УТ-00091306">
-        <name>Нож Husqvarna DB51 DBS51 DBY51 531 00 94-60</name>
+        <name>Нож для газонокосилки Husqvarna DB51; DBS51; DBY51 531 00 94-60</name>
         <vendor>Husqvarna</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -26561,6 +26628,14 @@
         </pickup-options>
         <price>79900</price>
       </offer>
+      <offer sku="УТ-00092614">
+        <name>Комбо: Аккум. Шуруповерт TE-CD 18/40 Li BL + Зарядное устройство + 1 аккум. 18V 2,5Ah PXC Einhell (451399797)</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27900</price>
+      </offer>
       <offer sku="УТ-00092619">
         <name>Комбо: Аккум. Шуруповерт Ударный TP-CD 18/120 Li-i BL + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (451431042)</name>
         <vendor>Einhell</vendor>
@@ -26858,6 +26933,14 @@
         </pickup-options>
         <price>1690</price>
       </offer>
+      <offer sku="УТ-00097673">
+        <name>Набор гидравлического оборудования для кузовных работ, 10т F-0010K F-0010K</name>
+        <vendor>Forsage</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>93900</price>
+      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -26873,6 +26956,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5500</price>
+      </offer>
+      <offer sku="УТ-00098104">
+        <name>Пресс гидравлический напольный 20т JCB-TY20001 JCB-TY20001</name>
+        <vendor>JCB</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>251500</price>
       </offer>
       <offer sku="УТ-00098555">
         <name>Домкрат бутылочный гидравлический 5,5т RF-T90604DX RF-T90604DX</name>
@@ -26908,6 +26999,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65990</price>
+      </offer>
+      <offer sku="УТ-00099726">
+        <name>Цепь пильная STIHL 18", 3/8", 1.6 мм, 66 звеньев 36210000066</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12400</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

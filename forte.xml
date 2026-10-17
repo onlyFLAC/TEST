@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-17 14:39">
+<fm_catalog date="2026-10-17 15:08">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21147,17 +21147,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>112100</price>
-      </offer>
-      <offer sku="УТ-00055539">
-        <name>Дрель ударная DP 550-13 ALTECO 79166</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244618400</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13900</price>
       </offer>
       <offer sku="УТ-00055543">
         <name>Насадка пылеуловитель для пылесоса ADE 132 ALTECO 82335</name>

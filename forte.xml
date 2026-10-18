@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-18 16:31">
+<fm_catalog date="2026-10-18 17:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23447,6 +23447,9 @@
       <offer sku="УТ-00063410">
         <name>Мультиметр Bosch GDM 600-15 0601077300</name>
         <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423330106</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

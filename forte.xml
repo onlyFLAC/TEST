@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 08:08">
+<fm_catalog date="2026-10-19 08:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2417,17 +2417,6 @@
         </pickup-options>
         <price>290000</price>
       </offer>
-      <offer sku="УТ-00022131">
-        <name>Бензопила Husqvarna 120 Mark II 967 86 19-06</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391736617178</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>105000</price>
-      </offer>
       <offer sku="УТ-00022145">
         <name>Бензопила 555 15 ; 0.325 1.5 64DL S35G X-Cut HSM X-Force</name>
         <vendor>Husqvarna</vendor>
@@ -2465,17 +2454,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
-      </offer>
-      <offer sku="УТ-00022271">
-        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245909</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7100</price>
       </offer>
       <offer sku="УТ-00022277">
         <name>Спрей Active Clean 500мл Husqvarna</name>
@@ -10080,17 +10058,6 @@
         </pickup-options>
         <price>13680</price>
       </offer>
-      <offer sku="00000024780">
-        <name>Фен строительный ALTECO HG 0609 27142</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216453282</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19500</price>
-      </offer>
       <offer sku="00000024802">
         <name>Рубанок электрический PL 650 ALTECO</name>
         <vendor>ALTECO</vendor>
@@ -10883,17 +10850,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>41500</price>
-      </offer>
-      <offer sku="00000031941">
-        <name>Подставка складная TOPPY XL 2 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31100</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -16464,17 +16420,6 @@
         </pickup-options>
         <price>37200</price>
       </offer>
-      <offer sku="00000062245">
-        <name>Корзина для белья с алюминиевыми ручками Fixsen серая FX-1011</name>
-        <vendor>Fixsen</vendor>
-        <barcodes>
-          <barcode>4607813681509</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12500</price>
-      </offer>
       <offer sku="00000063165">
         <name>Карниз Тритон 1900х900 мм 2014-1900х900</name>
         <vendor>Тритон</vendor>
@@ -20361,17 +20306,6 @@
         </pickup-options>
         <price>552200</price>
       </offer>
-      <offer sku="УТ-00048211">
-        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245848</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1880</price>
-      </offer>
       <offer sku="УТ-00048213">
         <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
         <vendor>Husqvarna</vendor>
@@ -23317,14 +23251,6 @@
         </pickup-options>
         <price>11000</price>
       </offer>
-      <offer sku="УТ-00063356">
-        <name>Пена монтажная профессиональная всесезонная STARFIX Foam Pro 65 850 мл SM-87465-1</name>
-        <vendor>STARFIX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3790</price>
-      </offer>
       <offer sku="УТ-00063357">
         <name>Полуавтомат сварочный инверторный SOLARIS MULTIMIG-227</name>
         <vendor>SOLARIS</vendor>
@@ -23661,17 +23587,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14160</price>
-      </offer>
-      <offer sku="УТ-00063836">
-        <name>Набор инструмента расширенный BOSCH 64 предмета 1600A02ZB3</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423255478</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>69760</price>
       </offer>
       <offer sku="УТ-00063837">
         <name>Набор плоскогубцев BOSCH 2 шт 1600A0275H</name>
@@ -26222,17 +26137,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6170</price>
-      </offer>
-      <offer sku="УТ-00091636">
-        <name>Клещи переставные BOSCH 250 мм 1600A032V9</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423302325</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8890</price>
       </offer>
       <offer sku="УТ-00091637">
         <name>Трещотка 1/4" BOSCH 1600A032VA</name>

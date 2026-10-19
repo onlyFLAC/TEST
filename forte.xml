@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 09:36">
+<fm_catalog date="2026-10-19 10:05">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2523,7 +2523,7 @@
         <price>9900</price>
       </offer>
       <offer sku="УТ-00022432">
-        <name>Шнур кордовый 2,4x210 Opti Quadra Husqvarna (квадратный) (в коробке 12шт)</name>
+        <name>Шнур кордовый Husqvarna 2.4 мм, 210 м, квадратный 597 66 89-02</name>
         <vendor>Husqvarna</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -17480,6 +17480,17 @@
         </pickup-options>
         <price>15180</price>
       </offer>
+      <offer sku="00000070756">
+        <name>Шина STIHL 12" 30 см 1.1 мм 30050083405</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711909765</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15940</price>
+      </offer>
       <offer sku="00000070759">
         <name>Шина STIHL 12" 30 см 1.1 мм 30050003905</name>
         <vendor>STIHL</vendor>
@@ -17561,6 +17572,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1760</price>
+      </offer>
+      <offer sku="00000071081">
+        <name>Наушники на дуге CONCEPT 24 Stihl</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16900</price>
       </offer>
       <offer sku="00000071085">
         <name>Перчатки рабочие STIHL FUNCTION Universal 00886111410</name>
@@ -20263,6 +20282,17 @@
         </pickup-options>
         <price>57990</price>
       </offer>
+      <offer sku="УТ-00048059">
+        <name>Обратный клапан 49505100204</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661341931</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7740</price>
+      </offer>
       <offer sku="УТ-00048072">
         <name>ШЛАНГ ВЫСОКОГО ДАВЛЕНИЯ F016F04583</name>
         <vendor>BOSCH</vendor>
@@ -20942,6 +20972,14 @@
         </pickup-options>
         <price>186300</price>
       </offer>
+      <offer sku="УТ-00055275">
+        <name>Валочный/распорный клин 19 см. 00008812212</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8970</price>
+      </offer>
       <offer sku="УТ-00055311">
         <name>Масло моторное STIHL 1:50 5 л красное 07813198468лб5</name>
         <vendor>STIHL</vendor>
@@ -21075,6 +21113,17 @@
       <offer sku="УТ-00055881">
         <name>Цепная звездочка 3/8'P 6 зубьев 12516421204</name>
         <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7400</price>
+      </offer>
+      <offer sku="УТ-00055895">
+        <name>Цепная звёздочка 12516421200</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711936150</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -22825,6 +22874,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>49060</price>
+      </offer>
+      <offer sku="УТ-00061328">
+        <name>Электронный модуль</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711585624</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17600</price>
       </offer>
       <offer sku="УТ-00061340">
         <name>Дозатор жидкого мыла встраиваемый Gappo сатин G406-5</name>
@@ -24660,6 +24720,14 @@
         </pickup-options>
         <price>9999</price>
       </offer>
+      <offer sku="УТ-00079536">
+        <name>Защитное приспособление Stihl 41407108101</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9590</price>
+      </offer>
       <offer sku="УТ-00079720">
         <name>Кабельный жгут Stihl 11404403012</name>
         <vendor>STIHL</vendor>
@@ -24686,6 +24754,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15720</price>
+      </offer>
+      <offer sku="УТ-00082831">
+        <name>Распределительный поршень Stihl 49505100300</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18920</price>
       </offer>
       <offer sku="УТ-00083241">
         <name>Сегмент фиксирующий Stihl 63787086200</name>

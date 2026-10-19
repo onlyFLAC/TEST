@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 11:34">
+<fm_catalog date="2026-10-19 12:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -810,6 +810,17 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
+      </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
         <vendor>STABILA</vendor>
@@ -831,6 +842,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26790</price>
+      </offer>
+      <offer sku="УТ-00005985">
+        <name>Уровень тип R300, 200 см, R-образный профиль, 3 глазка STABILA 18450</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>89700</price>
       </offer>
       <offer sku="УТ-00006004">
         <name>Правило трапециевидное, тип TRK, 180 см STABILA 07831</name>
@@ -855,6 +874,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79800</price>
+      </offer>
+      <offer sku="УТ-00006465">
+        <name>Рычаг шарнира лестницы-трансформера 293 мм MONTO+STABILO</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -1434,6 +1461,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6380</price>
+      </offer>
+      <offer sku="УТ-00012970">
+        <name>Уровень Stabila тип 70, 40 см 02282</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022822</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12190</price>
       </offer>
       <offer sku="УТ-00012979">
         <name>Сушилка напольная Nika СБ1/Ч черный</name>
@@ -10824,6 +10862,17 @@
         </pickup-options>
         <price>42700</price>
       </offer>
+      <offer sku="00000031906">
+        <name>Стремянка односторонняя Krause "SOLIDY" 5 ступеней 126238</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126238</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50000</price>
+      </offer>
       <offer sku="00000031908">
         <name>Стремянка свободностоящая 7 ступенек, раб.высота 3,50 м SOLIDY Krause</name>
         <vendor>Krause</vendor>
@@ -10847,6 +10896,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>195400</price>
+      </offer>
+      <offer sku="00000031968">
+        <name>Малые передвижные монтажные подмости 3 м CORDA PB Krause</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>137900</price>
       </offer>
       <offer sku="00000031992">
         <name>Сейф VALBERG ASM-63 TEL</name>
@@ -12762,17 +12819,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3134</price>
-      </offer>
-      <offer sku="00000034679">
-        <name>5 ЛОБЗИКОВЫХ ПИЛОК T 344 DP, HCS</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140264198</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4384</price>
       </offer>
       <offer sku="00000034687">
         <name>Набор лобзиковых пилок BOSCH T101BF 5 шт. 2608634234</name>
@@ -19397,14 +19443,6 @@
         </pickup-options>
         <price>3460</price>
       </offer>
-      <offer sku="УТ-00002070">
-        <name>Регулятор числа оборотов Bosch 1607233452</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21420</price>
-      </offer>
       <offer sku="УТ-00002254">
         <name>Ролик чистящий Palisad "HOME" моющийся для всех видов тканей 931065</name>
         <vendor>Palisad</vendor>
@@ -22919,17 +22957,6 @@
         </pickup-options>
         <price>7990</price>
       </offer>
-      <offer sku="УТ-00061409">
-        <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/SC scandinavian</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111505079</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31000</price>
-      </offer>
       <offer sku="УТ-00061457">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/6 с линиями на сливовом</name>
         <vendor>Nika</vendor>
@@ -24331,6 +24358,44 @@
         </pickup-options>
         <price>6888</price>
       </offer>
+      <offer sku="УТ-00072834">
+        <name>Визирная пластина Stabila RP 14751</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069147518</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5890</price>
+      </offer>
+      <offer sku="УТ-00072869">
+        <name>Уровень Stabila 183 см R-300 18375</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>77645</price>
+      </offer>
+      <offer sku="УТ-00072871">
+        <name>Напольный лазерный нивелир Stabila FLS 90 SET 18574</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>63490</price>
+      </offer>
+      <offer sku="УТ-00072890">
+        <name>Карманная измерительная рулетка Stabila 3 м BM 150 19839</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069198398</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8490</price>
+      </offer>
       <offer sku="УТ-00072893">
         <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>
         <vendor>Husqvarna</vendor>
@@ -24544,6 +24609,14 @@
         </pickup-options>
         <price>15590</price>
       </offer>
+      <offer sku="УТ-00075651">
+        <name>Набор бит ударных Wera 05057690001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48540</price>
+      </offer>
       <offer sku="УТ-00075654">
         <name>Набор Г образных ключей Wera 05022087001</name>
         <vendor>Wera</vendor>
@@ -24565,6 +24638,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26290</price>
+      </offer>
+      <offer sku="УТ-00075677">
+        <name>Набор инструментов для мастерских Wera 05136042001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>79275</price>
       </offer>
       <offer sku="УТ-00075705">
         <name>Набор отверток Wera 05347735002</name>
@@ -26720,6 +26801,30 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00101589">
+        <name>M5802B Пила дисковая,1050Вт,4900об/мин.,190х30мм,рез-68мм</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>67745</price>
+      </offer>
+      <offer sku="УТ-00101983">
+        <name>B-25373 насадка Т10-50 3шт</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>970</price>
+      </offer>
+      <offer sku="УТ-00102427">
+        <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

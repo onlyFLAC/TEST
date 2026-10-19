@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 12:32">
+<fm_catalog date="2026-10-19 13:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25157,14 +25157,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="УТ-00089281">
-        <name>Подгузники MARTI S25 4-8 кг</name>
-        <vendor>MARTI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2800</price>
       </offer>
       <offer sku="УТ-00089284">
         <name>Подгузники MARTI NB90 0-5 кг</name>

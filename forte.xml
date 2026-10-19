@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 15:29">
+<fm_catalog date="2026-10-19 15:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -855,14 +855,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79800</price>
-      </offer>
-      <offer sku="УТ-00006465">
-        <name>Рычаг шарнира лестницы-трансформера 293 мм MONTO+STABILO</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -8612,17 +8604,6 @@
         </pickup-options>
         <price>920</price>
       </offer>
-      <offer sku="00000015188">
-        <name>Рулетка Experte, 3 м x 19 мм, двухкомпон. корпус, магнит, двухстор. разметка, нейлон// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996167619</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
-      </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8898,17 +8879,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000016650">
-        <name>Секатор прямого реза, 180 мм, металлические обрезиненные рукоятки// Palisad 60503</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996063447</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2555</price>
-      </offer>
       <offer sku="00000016679">
         <name>Кусторез, 550 мм, стальные обрезиненные рукоятки// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9169,17 +9139,6 @@
         </pickup-options>
         <price>21020</price>
       </offer>
-      <offer sku="00000017671">
-        <name>Бак для воды оцинкованный с крышкой (крышка с ручкой) 20л, без крана// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800041753</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8050</price>
-      </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9234,17 +9193,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7590</price>
-      </offer>
-      <offer sku="00000018249">
-        <name>Щепа для копчения рыбы (ольха+бук+чабрец), Россия Camping// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4606800060723</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>560</price>
       </offer>
       <offer sku="00000018340">
         <name>Набор приствольных кругов Россия 65 см 5 шт. 93927</name>
@@ -9578,17 +9526,6 @@
         </pickup-options>
         <price>690</price>
       </offer>
-      <offer sku="00000020769">
-        <name>Диск полировальный из натурального войлока, "под липучку" 150 х 7 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996015255</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3450</price>
-      </offer>
       <offer sku="00000020772">
         <name>Диск полировальный Matrix 125х22.2 мм 75942</name>
         <vendor>Matrix</vendor>
@@ -9687,17 +9624,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1480</price>
-      </offer>
-      <offer sku="00000021478">
-        <name>Валик игольчатый для наливных полов Сибртех 600 мм 81104</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800031204</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4350</price>
       </offer>
       <offer sku="00000021616">
         <name>Кювета пластмассовая для валиков, 350х330 мм// Sparta</name>
@@ -9933,17 +9859,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000022772">
-        <name>Ящик для инструмента STELS 285х155х125 мм 90723</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4606800068569</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2880</price>
-      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -9962,17 +9877,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1780</price>
-      </offer>
-      <offer sku="00000023113">
-        <name>Припой с канифолью, D 2 мм, 100 г, POS61, на пластмассовой катушке// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996139951</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6300</price>
       </offer>
       <offer sku="00000023340">
         <name>Пистолет клеевой Sparta 93034</name>
@@ -9995,28 +9899,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4790</price>
-      </offer>
-      <offer sku="00000023483">
-        <name>Шнур полиэфирный Сибртех 3 мм 25 м 93817</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800046512</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>550</price>
-      </offer>
-      <offer sku="00000023571">
-        <name>Лестница приставная, 7 ступеней, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800044280</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21350</price>
       </offer>
       <offer sku="00000023590">
         <name>Лестница шарнирная Сибртех 4х2 97879</name>
@@ -10980,17 +10862,6 @@
         </pickup-options>
         <price>42700</price>
       </offer>
-      <offer sku="00000031906">
-        <name>Стремянка односторонняя Krause "SOLIDY" 5 ступеней 126238</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126238</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>50000</price>
-      </offer>
       <offer sku="00000031908">
         <name>Стремянка свободностоящая 7 ступенек, раб.высота 3,50 м SOLIDY Krause</name>
         <vendor>Krause</vendor>
@@ -11599,6 +11470,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4315</price>
+      </offer>
+      <offer sku="00000032563">
+        <name>Набор буров Bosch SDS+ 6-12х160 мм 2608579120</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>6949509230065</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4090</price>
       </offer>
       <offer sku="00000032586">
         <name>Набор принадлежностей 70 TITANIUM+ Bosch</name>
@@ -14266,6 +14148,17 @@
         </pickup-options>
         <price>3197</price>
       </offer>
+      <offer sku="00000038457">
+        <name>Диск алмазный Bosch ECO Universal (125х22.2 мм) 2608615028</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140857055</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3520</price>
+      </offer>
       <offer sku="00000038459">
         <name>Диск алмазный BOSCH 180х22.2 мм 2608615030</name>
         <vendor>BOSCH</vendor>
@@ -14331,6 +14224,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6383</price>
+      </offer>
+      <offer sku="00000038903">
+        <name>Набор лобзиковых пилок BOSCH 10 шт. 2607011170</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140913416</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6342</price>
       </offer>
       <offer sku="00000038965">
         <name>Набор сверл по металлу BOSCH PointTeQ 3х33х61 мм 2 шт. 2608577158</name>
@@ -26925,14 +26829,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00100919">
-        <name>Нейлер пневматический CN90 для гвоздей CNW от 50 до 90 мм// Denzel</name>
-        <vendor>Denzel</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>153480</price>
       </offer>
       <offer sku="УТ-00101589">
         <name>M5802B Пила дисковая,1050Вт,4900об/мин.,190х30мм,рез-68мм</name>

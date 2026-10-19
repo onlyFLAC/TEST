@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 12:03">
+<fm_catalog date="2026-10-19 12:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -842,14 +842,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26790</price>
-      </offer>
-      <offer sku="УТ-00005985">
-        <name>Уровень тип R300, 200 см, R-образный профиль, 3 глазка STABILA 18450</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>89700</price>
       </offer>
       <offer sku="УТ-00006004">
         <name>Правило трапециевидное, тип TRK, 180 см STABILA 07831</name>
@@ -10897,14 +10889,6 @@
         </pickup-options>
         <price>195400</price>
       </offer>
-      <offer sku="00000031968">
-        <name>Малые передвижные монтажные подмости 3 м CORDA PB Krause</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>137900</price>
-      </offer>
       <offer sku="00000031992">
         <name>Сейф VALBERG ASM-63 TEL</name>
         <vendor>VALBERG</vendor>
@@ -20250,6 +20234,14 @@
         </pickup-options>
         <price>130620</price>
       </offer>
+      <offer sku="УТ-00047411">
+        <name>Тележка для газовых баллонов TOR ГБ-2 240 кг 1012419</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>68270</price>
+      </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>
         <vendor>TOR</vendor>
@@ -24369,14 +24361,6 @@
         </pickup-options>
         <price>5890</price>
       </offer>
-      <offer sku="УТ-00072869">
-        <name>Уровень Stabila 183 см R-300 18375</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>77645</price>
-      </offer>
       <offer sku="УТ-00072871">
         <name>Напольный лазерный нивелир Stabila FLS 90 SET 18574</name>
         <vendor>STABILA</vendor>
@@ -26809,22 +26793,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>67745</price>
-      </offer>
-      <offer sku="УТ-00101983">
-        <name>B-25373 насадка Т10-50 3шт</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>970</price>
-      </offer>
-      <offer sku="УТ-00102427">
-        <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

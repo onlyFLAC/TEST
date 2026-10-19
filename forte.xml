@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 06:40">
+<fm_catalog date="2026-10-19 07:09">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1719,17 +1719,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2270</price>
-      </offer>
-      <offer sku="УТ-00014232">
-        <name>STAYER 4 шт., Замок магнитный для кафеля, MASTER (3395-B) 3395-B</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229106355</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1851</price>
       </offer>
       <offer sku="УТ-00014457">
         <name>Лента вентиляционная перфорированная ЗУБР 25 м 310246-12</name>
@@ -8324,17 +8313,6 @@
         </pickup-options>
         <price>8367</price>
       </offer>
-      <offer sku="00000012819">
-        <name>Ключ баллонный Г - образный 1/2" телескопический, 17 х 19 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996060941</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4079</price>
-      </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -13116,17 +13094,6 @@
         </pickup-options>
         <price>6190</price>
       </offer>
-      <offer sku="00000035430">
-        <name>5 САБЕЛЬНЫХ ПИЛОК S 1411 DF</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140016285</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12358</price>
-      </offer>
       <offer sku="00000035432">
         <name>Набор пилок для сабельной пилы Bosch 300 мм 2 шт. S1411DF 2608654834</name>
         <vendor>BOSCH</vendor>
@@ -15909,17 +15876,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1880</price>
-      </offer>
-      <offer sku="00000059140">
-        <name>Вешалка настенная ЗМИ "НОРМА 5" ВН24 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011871976</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2140</price>
       </offer>
       <offer sku="00000059141">
         <name>Вешалка настенная ЗМИ "НОРМА 7" ВН66 белая</name>
@@ -23564,17 +23520,6 @@
         </pickup-options>
         <price>21690</price>
       </offer>
-      <offer sku="УТ-00063814">
-        <name>Молоток слесарный BOSCH 500 г 1600A016BT</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140951630</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13490</price>
-      </offer>
       <offer sku="УТ-00063816">
         <name>Рулетка измерительная BOSCH 5 м, 27 мм 1600A016BH</name>
         <vendor>BOSCH</vendor>
@@ -23717,17 +23662,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69760</price>
-      </offer>
-      <offer sku="УТ-00063834">
-        <name>Молоток инженерный BOSCH 300 г 1600A027PH</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952614137</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7030</price>
       </offer>
       <offer sku="УТ-00063835">
         <name>Набор отверток BOSCH 8 шт. 1600A02BX8</name>
@@ -24043,14 +23977,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2867</price>
-      </offer>
-      <offer sku="УТ-00065016">
-        <name>ЗУБР Колибри-20 красный, наконечник L 20 мм, ᴓ 2 мм, перманентный маркер для отверстийл (06328-3)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>669</price>
       </offer>
       <offer sku="УТ-00065018">
         <name>ЗУБР Колибри-30 красный, наконечник L 30 мм, ᴓ 2.8 мм, перманентный маркер для отверстий (06338-3)</name>
@@ -25164,17 +25090,6 @@
         </pickup-options>
         <price>214990</price>
       </offer>
-      <offer sku="УТ-00089267">
-        <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 SOLO 06019N9000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423323573</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>82490</price>
-      </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>
         <vendor>BOSCH</vendor>
@@ -25482,14 +25397,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16888</price>
-      </offer>
-      <offer sku="УТ-00090993">
-        <name>Комплект детской мебели (КДМ1/2 ''скетч для девочек'')</name>
-        <vendor>Nika</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17800</price>
       </offer>
       <offer sku="УТ-00091004">
         <name>Батарейки GP 4 шт. 15ARA21-2CRSBC4</name>
@@ -26357,14 +26264,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5640</price>
-      </offer>
-      <offer sku="УТ-00091640">
-        <name>Бокорезы BOSCH 160 мм 1600A032VE</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5280</price>
       </offer>
       <offer sku="УТ-00091642">
         <name>Рулетка BOSCH 5 м 1600A03318</name>

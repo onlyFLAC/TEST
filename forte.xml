@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 14:00">
+<fm_catalog date="2026-10-19 14:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,6 +204,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
+      </offer>
+      <offer sku="УТ-00003961">
+        <name>Лобзик электрический CROWN CT15287</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640372697731</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20990</price>
       </offer>
       <offer sku="УТ-00003970">
         <name>Шлифмашина щеточная CROWN CT13551-110RSV</name>
@@ -20494,6 +20505,9 @@
       <offer sku="УТ-00049468">
         <name>Бетономешалка P.I.T. 52208</name>
         <vendor>P.I.T.</vendor>
+        <barcodes>
+          <barcode>0200408885142</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -24011,6 +24025,14 @@
         </pickup-options>
         <price>84470</price>
       </offer>
+      <offer sku="УТ-00071163">
+        <name>Пила торцовочная WORTEX MS 2112 LMB 1200 Вт 0329323</name>
+        <vendor>Wortex</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>94160</price>
+      </offer>
       <offer sku="УТ-00071571">
         <name>Циркулярная пила погружная с шиной 1,4 м WORTEX CS 1612-1 в кор. 1200 Вт, до 59 мм, 6000 об/мин</name>
         <vendor>Wortex</vendor>
@@ -24018,6 +24040,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>115990</price>
+      </offer>
+      <offer sku="УТ-00072123">
+        <name>Щетка для снега 63см со скребком Plus FISKARS</name>
+        <vendor>FISKARS</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15290</price>
       </offer>
       <offer sku="УТ-00072358">
         <name>Длинногубцы KNIPEX 30 25 140</name>
@@ -26589,6 +26619,14 @@
         </pickup-options>
         <price>46900</price>
       </offer>
+      <offer sku="УТ-00099520">
+        <name>31015 Краскопульт CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44990</price>
+      </offer>
       <offer sku="УТ-00099523">
         <name>25003HX-BMC Лобзик аккумуляторный CROWN</name>
         <vendor>CROWN</vendor>
@@ -26615,6 +26653,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65990</price>
+      </offer>
+      <offer sku="УТ-00099557">
+        <name>13506-125NV Машина шлифовальная угловая "1200 Вт 125 мм" CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

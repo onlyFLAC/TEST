@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 08:37">
+<fm_catalog date="2026-10-19 09:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25920,6 +25920,9 @@
       <offer sku="УТ-00091580">
         <name>Молоток-гвоздодер BOSCH 550 г 1600A02W7X</name>
         <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423254396</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

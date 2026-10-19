@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-19 10:05">
+<fm_catalog date="2026-10-19 10:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -18467,14 +18467,6 @@
         </pickup-options>
         <price>16550</price>
       </offer>
-      <offer sku="00000075610">
-        <name>Корпус мотора Bosch 1605108283</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5830</price>
-      </offer>
       <offer sku="00000075846">
         <name>Шпиндель Bosch 1607000D6A</name>
         <vendor>BOSCH</vendor>
@@ -19259,14 +19251,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15999</price>
-      </offer>
-      <offer sku="УТ-00001342">
-        <name>Держатель щеточный Bosch 1607000V43</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2210</price>
       </offer>
       <offer sku="УТ-00001366">
         <name>Бетоносмеситель PROFSET чугунный венец Б-180Ч</name>

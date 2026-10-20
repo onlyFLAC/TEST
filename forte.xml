@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 09:36">
+<fm_catalog date="2026-10-20 10:05">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1258,17 +1258,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>28888</price>
-      </offer>
-      <offer sku="УТ-00010107">
-        <name>Очки защитные ЗУБР "МАСТЕР" прозрачные 110325_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373330322</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>790</price>
       </offer>
       <offer sku="УТ-00010258">
         <name>Кольцо переходное BOSCH 1.8х25.4х30 мм 2600100232</name>
@@ -5555,17 +5544,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17590</price>
-      </offer>
-      <offer sku="00000004680">
-        <name>ЗУБР "Профессионал". Лампа паяльная ВУЛКАН, со стальным эжектором, 2,0 л</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373121944</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16860</price>
       </offer>
       <offer sku="00000004802">
         <name>Кувалда ЗУБР 1.5 кг 2010-15_z01</name>
@@ -15765,14 +15743,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>124000</price>
-      </offer>
-      <offer sku="00000059032">
-        <name>Электрический водоподогреватель ЭВП-4,5 на 220</name>
-        <vendor>ЭВП</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47850</price>
       </offer>
       <offer sku="00000059082">
         <name>Воздуходув электрический EB 650 ALTECO</name>
@@ -26766,14 +26736,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101589">
-        <name>M5802B Пила дисковая,1050Вт,4900об/мин.,190х30мм,рез-68мм</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67745</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

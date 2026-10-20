@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 10:35">
+<fm_catalog date="2026-10-20 11:05">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25430,6 +25430,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1290</price>
+      </offer>
+      <offer sku="УТ-00091017">
+        <name>Батарейки GP 2 шт. 13G-2CR2</name>
+        <vendor>GP</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1590</price>
       </offer>
       <offer sku="УТ-00091019">
         <name>Батарейки GP 1 шт. 1604G UE1 Greencell</name>

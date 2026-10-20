@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 09:06">
+<fm_catalog date="2026-10-20 09:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25111,17 +25111,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>214990</price>
-      </offer>
-      <offer sku="УТ-00087699">
-        <name>Смеситель под фильтр с гибким изливом Frap оружейная сталь F4374-59</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477626623</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40800</price>
       </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>

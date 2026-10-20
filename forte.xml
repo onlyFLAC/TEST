@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 01:18">
+<fm_catalog date="2026-10-21 01:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14302,17 +14302,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6342</price>
-      </offer>
-      <offer sku="00000038965">
-        <name>Набор сверл по металлу BOSCH PointTeQ 3х33х61 мм 2 шт. 2608577158</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140906678</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>423</price>
       </offer>
       <offer sku="00000038969">
         <name>Сверло по металлу BOSCH PointTeQ 4.2 мм 2608577162</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 14:32">
+<fm_catalog date="2026-10-20 15:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8486,6 +8486,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2890</price>
+      </offer>
+      <offer sku="00000014282">
+        <name>Триммер электрический Denzel TE-1400 96612</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996124582</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>45890</price>
       </offer>
       <offer sku="00000014288">
         <name>Машина снегоуборочная электрическая Сибртех ЭСБ-2000 97620</name>
@@ -16993,17 +17004,6 @@
         </pickup-options>
         <price>24188</price>
       </offer>
-      <offer sku="00000064236">
-        <name>Подставка для цветов ЗМИ "АРКА 5" ПДЦ414 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093785423</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7010</price>
-      </offer>
       <offer sku="00000064260">
         <name>Табурет-стремянка ЗМИ "КОНЕК" ТС277 белый</name>
         <vendor>ЗМИ</vendor>
@@ -23750,17 +23750,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>10550</price>
-      </offer>
-      <offer sku="УТ-00063831">
-        <name>Ключ разводной Bosch 1600A02W7R</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423250534</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6450</price>
       </offer>
       <offer sku="УТ-00063833">
         <name>Набор инструмента расширенный, 132 предмета</name>

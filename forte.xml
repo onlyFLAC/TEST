@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 15:31">
+<fm_catalog date="2026-10-20 16:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -978,14 +978,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>700</price>
-      </offer>
-      <offer sku="УТ-00007389">
-        <name>Валик игольчатый для наливных полов с ручкой, острая игла, 500мм// Сибиртех</name>
-        <vendor>Сибртех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3185</price>
       </offer>
       <offer sku="УТ-00007446">
         <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5Д/Ч черный</name>
@@ -23992,14 +23984,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7490</price>
-      </offer>
-      <offer sku="УТ-00064907">
-        <name>KRAFTOOL EXPERT 310 мл, cкелетный, поворотный, усиленный пистолет для герметика 4-in-1 (06675)</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15890</price>
       </offer>
       <offer sku="УТ-00064962">
         <name>Катушка для триммера ЗУБР КТ-8 М8х1.25LH 71101</name>

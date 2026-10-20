@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 07:38">
+<fm_catalog date="2026-10-20 08:08">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20263,14 +20263,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>130620</price>
-      </offer>
-      <offer sku="УТ-00047411">
-        <name>Тележка для газовых баллонов TOR ГБ-2 240 кг 1012419</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>68270</price>
       </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 15:02">
+<fm_catalog date="2026-10-20 15:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -828,17 +828,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16490</price>
-      </offer>
-      <offer sku="УТ-00005962">
-        <name>Уровень тип 80AS, 60 см STABILA 19165</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191658</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18990</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -8529,7 +8518,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>40530</price>
+        <price>44450</price>
       </offer>
       <offer sku="00000014540">
         <name>Компрессор автомобильный DENZEL DС-20 58054</name>
@@ -14192,17 +14181,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1590</price>
-      </offer>
-      <offer sku="00000038419">
-        <name>Головка торцевая ударная BOSCH 1/2" 10х77 мм 2608522302</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140813891</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4249</price>
       </offer>
       <offer sku="00000038421">
         <name>Головка торцевая ударная BOSCH 1/2" 13х77 мм 2608522304</name>
@@ -22646,17 +22624,6 @@
         </pickup-options>
         <price>39180</price>
       </offer>
-      <offer sku="УТ-00060202">
-        <name>Смеситель Frap F7505-6 с гигиеническим душем Черный</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477623127</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28850</price>
-      </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -24130,14 +24097,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2790</price>
-      </offer>
-      <offer sku="УТ-00065450">
-        <name>ЗУБР ДХ-П, 14 мм, нейлон, 100 шт, дюбель-хомут для плоского кабеля (30912-14)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1680</price>
       </offer>
       <offer sku="УТ-00068156">
         <name>Компрессор DGM AC-2100B ременной</name>

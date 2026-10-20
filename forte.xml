@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 08:08">
+<fm_catalog date="2026-10-20 08:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2648,14 +2648,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39000</price>
-      </offer>
-      <offer sku="УТ-00022548">
-        <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL LIGHT Р.10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24200</price>
       </offer>
       <offer sku="УТ-00023575">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/19 в стиле Де Жуи</name>
@@ -8483,17 +8475,6 @@
         </pickup-options>
         <price>2890</price>
       </offer>
-      <offer sku="00000014282">
-        <name>Триммер электрический Denzel TE-1400 96612</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996124582</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>45890</price>
-      </offer>
       <offer sku="00000014288">
         <name>Машина снегоуборочная электрическая Сибртех ЭСБ-2000 97620</name>
         <vendor>Сибртех</vendor>
@@ -9226,17 +9207,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1090</price>
-      </offer>
-      <offer sku="00000018527">
-        <name>Пила кольцевая, 60-67-74-81-95 мм, 1,5"// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996080468</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3290</price>
       </offer>
       <offer sku="00000018541">
         <name>Сверло по дереву Matrix 12х300 мм 704012</name>
@@ -11977,17 +11947,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>256380</price>
-      </offer>
-      <offer sku="00000032809">
-        <name>Набор бит и сверл Bosch X-Line 34 шт. 2607010608</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140563147</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8690</price>
       </offer>
       <offer sku="00000032811">
         <name>Сумка Bosch Professional большая 1600A003BK</name>
@@ -22016,17 +21975,6 @@
         </pickup-options>
         <price>13200</price>
       </offer>
-      <offer sku="УТ-00059658">
-        <name>Пуф Nika HPF1/P гусиная лапка</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111519526</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18350</price>
-      </offer>
       <offer sku="УТ-00059659">
         <name>Стремянка с широкими ступенями Nika СМШ2/Б белый</name>
         <vendor>Nika</vendor>
@@ -25421,14 +25369,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>60360</price>
-      </offer>
-      <offer sku="УТ-00090887">
-        <name>Кейс для инструмента BOSCH L-BOXX Contractor 170 1600A037DZ</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40500</price>
       </offer>
       <offer sku="УТ-00090915">
         <name>Аккумулятор для инструмента BOSCH EXPERT EXBA18V-150 1600A036ZM</name>

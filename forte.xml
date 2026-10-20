@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 11:05">
+<fm_catalog date="2026-10-20 11:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4176,6 +4176,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39990</price>
+      </offer>
+      <offer sku="УТ-00028792">
+        <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Ч черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195633097</barcode>
+          <barcode>4640047369768</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4910</price>
       </offer>
       <offer sku="УТ-00028793">
         <name>Вешалка настенная ЗМИ "ТОРОНТО 5" графит ВНТ5 ГР</name>
@@ -20546,14 +20558,6 @@
         </pickup-options>
         <price>34700</price>
       </offer>
-      <offer sku="УТ-00049757">
-        <name>4211 - "P.I.T." Тележка 1 колесная</name>
-        <vendor>P.I.T.</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18900</price>
-      </offer>
       <offer sku="УТ-00049797">
         <name>745010 - PRO - "P.I.T." Бензопила 55 CC 22"</name>
         <vendor>P.I.T.</vendor>
@@ -21810,6 +21814,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16890</price>
+      </offer>
+      <offer sku="УТ-00059636">
+        <name>Доска гладильная навесная Nika ДН1Т/2 шоколадный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111525299</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13990</price>
       </offer>
       <offer sku="УТ-00059637">
         <name>Доска гладильная настольная Nika НД2Т (в ассортименте)</name>
@@ -23562,6 +23577,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>73010</price>
+      </offer>
+      <offer sku="УТ-00063822">
+        <name>Набор ключей Torx BOSCH 1600A01TH4</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952512518</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11720</price>
       </offer>
       <offer sku="УТ-00063823">
         <name>Рулетка измерительная BOSCH 8 м 27 мм 1600A01V3S</name>
@@ -26405,17 +26431,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3169</price>
-      </offer>
-      <offer sku="УТ-00093476">
-        <name>ЗУБР 10 л, пластиковая канистра (38366-10)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373537783</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4959</price>
       </offer>
       <offer sku="УТ-00093617">
         <name>KRAFTOOL KRAFT BOARD на единой, базе, 5 колёс, лоток для инструментов, нагрузка до 110кг, строительные наколенники на колёсах (11513)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 17:00">
+<fm_catalog date="2026-10-20 17:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2608,6 +2608,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
+      </offer>
+      <offer sku="УТ-00022460">
+        <name>Топор плотницкий 50см 1кг</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883620717</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>57000</price>
       </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
@@ -10102,6 +10113,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13680</price>
+      </offer>
+      <offer sku="00000024511">
+        <name>Алмазная коронка 200*350 ВТ</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23580</price>
       </offer>
       <offer sku="00000024802">
         <name>Рубанок электрический PL 650 ALTECO</name>
@@ -22892,14 +22911,6 @@
         </pickup-options>
         <price>6999</price>
       </offer>
-      <offer sku="УТ-00060561">
-        <name>Ведро мусорное Viva VI-8852-8-M круглое матовое серебристое 8л</name>
-        <vendor>VIVA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15300</price>
-      </offer>
       <offer sku="УТ-00060623">
         <name>Диск отрезной Bosch по дереву 2608901196, 76x10х1 мм</name>
         <vendor>BOSCH</vendor>
@@ -24525,6 +24536,14 @@
         </pickup-options>
         <price>210000</price>
       </offer>
+      <offer sku="УТ-00073039">
+        <name>Шаблон комбинированный Husqvarna 0.325 1.1 SP21G X-CUT 595 00 47-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7000</price>
+      </offer>
       <offer sku="УТ-00073040">
         <name>Шаблон комбинированный Husqvarna 0.325 1.3 SP33G X-CUT 586 93 84-01</name>
         <vendor>Husqvarna</vendor>
@@ -25033,6 +25052,14 @@
         </pickup-options>
         <price>2995</price>
       </offer>
+      <offer sku="УТ-00085494">
+        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
+      </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
         <vendor>Husqvarna</vendor>
@@ -25311,6 +25338,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>114890</price>
+      </offer>
+      <offer sku="УТ-00089491">
+        <name>Колесо 4.00-8 для мотокультиватора MK 7-950</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6500</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>

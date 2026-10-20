@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-20 17:29">
+<fm_catalog date="2026-10-20 17:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -26545,14 +26545,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4200</price>
-      </offer>
-      <offer sku="УТ-00094059">
-        <name>Набор кабельных стяжек ЕВРОГАРАНТ 3х250 мм 50 шт. + 4х300 мм 50 шт.</name>
-        <vendor>ЕВРОГАРАНТ</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
       </offer>
       <offer sku="УТ-00094060">
         <name>Сетка москитная на дверь на магнитах ЕВРОГАРАНТ 210х100 см</name>

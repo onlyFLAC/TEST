@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 13:04">
+<fm_catalog date="2026-10-21 13:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -866,6 +866,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
+      </offer>
+      <offer sku="УТ-00006353">
+        <name>Двухсторонняя стремянка DOPPLO 2х7 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>100000</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -8115,17 +8123,6 @@
         </pickup-options>
         <price>390</price>
       </offer>
-      <offer sku="00000011339">
-        <name>Шпатель резиновый STAYER "MASTER" 60 мм 1027-60</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229204716</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>490</price>
-      </offer>
       <offer sku="00000011357">
         <name>Шпатель STAYER "PROFESSIONAL" нержавеющий зубчатый с пластмассовой ручкой, 250мм, зуб 10х10мм</name>
         <vendor>STAYER</vendor>
@@ -10908,6 +10905,17 @@
         </pickup-options>
         <price>109190</price>
       </offer>
+      <offer sku="00000031866">
+        <name>Двухсторонняя стремянка DOPPLO 2х4 ступ.</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199120335</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>55300</price>
+      </offer>
       <offer sku="00000031867">
         <name>Двухсторонняя стремянка DOPPLO 2х6 ступ.</name>
         <vendor>Krause</vendor>
@@ -10924,6 +10932,22 @@
         </pickup-options>
         <price>26080</price>
       </offer>
+      <offer sku="00000031885">
+        <name>Распорка - ограничитель</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40600</price>
+      </offer>
+      <offer sku="00000031898">
+        <name>Стремянка STABILO 7 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>152600</price>
+      </offer>
       <offer sku="00000031902">
         <name>Складная подставка TREPPO 2x3 ступ.</name>
         <vendor>Krause</vendor>
@@ -10931,6 +10955,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>77800</price>
+      </offer>
+      <offer sku="00000031904">
+        <name>Стремянка свободностоящая 3 ступеньки, раб.высота 2,65 м SOLIDY Krause</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36200</price>
       </offer>
       <offer sku="00000031905">
         <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
@@ -10974,6 +11006,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>195400</price>
+      </offer>
+      <offer sku="00000031953">
+        <name>Монтажная подставка 2 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58990</price>
       </offer>
       <offer sku="00000031981">
         <name>Сейф VALBERG ASM-120 Т</name>
@@ -20185,14 +20225,6 @@
         </pickup-options>
         <price>3500</price>
       </offer>
-      <offer sku="УТ-00045416">
-        <name>Magnetta, GW220, Сварочный генератор бензиновый 5 кВт</name>
-        <vendor>Magnetta</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>224110</price>
-      </offer>
       <offer sku="УТ-00045515">
         <name>Эмаль ПФ-115 вишнева 2,6кг Оптима_(8668)</name>
         <vendor>Оптима</vendor>
@@ -25038,6 +25070,14 @@
         </pickup-options>
         <price>109200</price>
       </offer>
+      <offer sku="УТ-00084848">
+        <name>Стремянка анодированная Krause "SEPRO" 7 ступ. 124210</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>117800</price>
+      </offer>
       <offer sku="УТ-00084942">
         <name>Газонокосилка электрическая Bosch EasyRotak 32-205 06008A6300</name>
         <vendor>BOSCH</vendor>
@@ -26837,14 +26877,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65990</price>
-      </offer>
-      <offer sku="УТ-00099571">
-        <name>Аппарат сварочный Mateus MMA-200 MS08213</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43300</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

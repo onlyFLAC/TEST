@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 07:09">
+<fm_catalog date="2026-10-21 07:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -212,17 +212,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>45990</price>
-      </offer>
-      <offer sku="УТ-00003976">
-        <name>Мультиметр цифровой CROWN CT44051</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177426468</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -1000,17 +989,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11590</price>
-      </offer>
-      <offer sku="УТ-00007837">
-        <name>Комплект детской мебели Nika "ЩЕНЯЧИЙ ПАТРУЛЬ" ЩЗ</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076021255</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18990</price>
       </offer>
       <offer sku="УТ-00007968">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21104XS-2 BMC</name>
@@ -2608,17 +2586,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
-      </offer>
-      <offer sku="УТ-00022460">
-        <name>Топор плотницкий 50см 1кг</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883620717</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>57000</price>
       </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
@@ -8610,17 +8577,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4175</price>
-      </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>920</price>
       </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
@@ -19519,17 +19475,6 @@
         </pickup-options>
         <price>7958</price>
       </offer>
-      <offer sku="УТ-00001777">
-        <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800092397</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8930</price>
-      </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -25279,14 +25224,6 @@
         </pickup-options>
         <price>6800</price>
       </offer>
-      <offer sku="УТ-00089287">
-        <name>Подгузники MARTI L54 9-14 кг</name>
-        <vendor>MARTI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
-      </offer>
       <offer sku="УТ-00089288">
         <name>Подгузники MARTI XL44 12-20 кг</name>
         <vendor>MARTI</vendor>
@@ -25327,14 +25264,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>114890</price>
-      </offer>
-      <offer sku="УТ-00089491">
-        <name>Колесо 4.00-8 для мотокультиватора MK 7-950</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
@@ -26697,14 +26626,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>108500</price>
-      </offer>
-      <offer sku="УТ-00096206">
-        <name>Наборы силиконовых аппликаторов BIHUI, STAK10</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1690</price>
       </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>

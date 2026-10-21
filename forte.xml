@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 16:27">
+<fm_catalog date="2026-10-21 16:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2911,14 +2911,6 @@
         </pickup-options>
         <price>2990</price>
       </offer>
-      <offer sku="УТ-00025570">
-        <name>Фиксатор магнитный для сварочных работ усилие 50 LB, 30х45х60х75х90х135 град.// Denzel</name>
-        <vendor>Denzel</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2188</price>
-      </offer>
       <offer sku="УТ-00025577">
         <name>Молоток слесарный 600 г, цельнометаллический, двухкомпонентная рукоятка // Denzel</name>
         <vendor>Denzel</vendor>
@@ -3000,17 +2992,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6975</price>
-      </offer>
-      <offer sku="УТ-00025847">
-        <name>Головка триммерная универсальная быстрозажимная, шайба М8,М10,М20 //Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996230160</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3396</price>
       </offer>
       <offer sku="УТ-00025858">
         <name>Фиксатор магнитный для сварочных работ усилие 75 LB// Denzel</name>
@@ -4602,14 +4583,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>35090</price>
-      </offer>
-      <offer sku="00000000869">
-        <name>Конвектор РЕСАНТА ОК-500С</name>
-        <vendor>Ресанта</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9390</price>
       </offer>
       <offer sku="00000000888">
         <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
@@ -20061,17 +20034,6 @@
         </pickup-options>
         <price>4560</price>
       </offer>
-      <offer sku="УТ-00001992">
-        <name>Конвектор гибридный электрический HybridX-1000, ИК нагреватель, цифровой термостат// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996219820</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35990</price>
-      </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
         <vendor>Einhell</vendor>
@@ -24008,14 +23970,6 @@
         </pickup-options>
         <price>114900</price>
       </offer>
-      <offer sku="УТ-00063362">
-        <name>Автосигнализация Pandora DX 40R</name>
-        <vendor>Pandora</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67700</price>
-      </offer>
       <offer sku="УТ-00063363">
         <name>Автосигнализация Pandora DX 57R v2</name>
         <vendor>Pandora</vendor>
@@ -24431,14 +24385,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="УТ-00063910">
-        <name>Модуль автозапуска Pandora BMW Bypass</name>
-        <vendor>Pandora</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>106100</price>
       </offer>
       <offer sku="УТ-00064098">
         <name>Электроды сварочные ARCUS AHO-21 СТАНДАРТ 3 мм 2.5 кг 00000000336</name>
@@ -27308,14 +27254,6 @@
         </pickup-options>
         <price>7900</price>
       </offer>
-      <offer sku="УТ-00095883">
-        <name>Редуктор БИО 50 KP (Азот, СО2, Воздух, Аргон, Гелий итд)</name>
-        <vendor>KRASS</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16150</price>
-      </offer>
       <offer sku="УТ-00096156">
         <name>Лезвие для шпателя BIHUI 100 см, толщина 0.5 мм PTKB100-SB</name>
         <vendor>BIHUI</vendor>
@@ -27331,14 +27269,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1890</price>
-      </offer>
-      <offer sku="УТ-00096191">
-        <name>Губка строительная для затирки BIHUI CSPB</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>890</price>
       </offer>
       <offer sku="УТ-00096203">
         <name>Присоска аккумуляторная с двойной ручкой BIHUI, LFBSL(EURO)</name>
@@ -27513,14 +27443,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00102359">
-        <name>D-39970 Щетка проволочная дисковая (d63 мм, толщ. проволоки 0.3 мм,гофрированная, металл, 6 мм)</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>865</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

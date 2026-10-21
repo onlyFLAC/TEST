@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 09:06">
+<fm_catalog date="2026-10-21 09:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4329,6 +4329,17 @@
         </pickup-options>
         <price>44100</price>
       </offer>
+      <offer sku="УТ-00040139">
+        <name>Доска гладильная Nika "ЛИНА 1" ДЛ1 (в ассортименте)</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830431</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8990</price>
+      </offer>
       <offer sku="УТ-00040230">
         <name>Велосипед детский Nika ВДН4/4 черный с лимонным</name>
         <vendor>Nika</vendor>
@@ -7695,6 +7706,17 @@
         </pickup-options>
         <price>18500</price>
       </offer>
+      <offer sku="00000010097">
+        <name>Сверло по кафелю, керамике, стеклу, с двумя режущими лезвиями, шестигранный хвостовик, 12 мм, ЗУБР 29840-12</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373077807</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2569</price>
+      </offer>
       <offer sku="00000010107">
         <name>Сверло по кафелю, керамике, стеклу, с четырьмя режущими лезвиями, шестигранный хвостовик, 12 мм, ЗУБР "Профессионал" 29845-12</name>
         <vendor>ЗУБР</vendor>
@@ -9870,17 +9892,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4790</price>
-      </offer>
-      <offer sku="00000023483">
-        <name>Шнур полиэфирный Сибртех 3 мм 25 м 93817</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800046512</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>550</price>
       </offer>
       <offer sku="00000023590">
         <name>Лестница шарнирная Сибртех 4х2 97879</name>
@@ -20619,9 +20630,6 @@
       <offer sku="УТ-00049468">
         <name>Бетономешалка P.I.T. 52208</name>
         <vendor>P.I.T.</vendor>
-        <barcodes>
-          <barcode>0200408885142</barcode>
-        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -21695,6 +21703,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>51700</price>
+      </offer>
+      <offer sku="УТ-00058177">
+        <name>MIG Инверторные полуавтоматы MIG 250 (N2S82)</name>
+        <vendor>JASIC</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>745000</price>
       </offer>
       <offer sku="УТ-00058196">
         <name>Упор зубчатый STIHL 11426640501</name>

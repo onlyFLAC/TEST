@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 14:03">
+<fm_catalog date="2026-10-21 14:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -817,17 +817,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005958">
-        <name>Уровень тип 80AS, 120 см STABILA 19169</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191696</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25090</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -2632,17 +2621,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -4553,6 +4531,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>35090</price>
+      </offer>
+      <offer sku="00000000869">
+        <name>Конвектор РЕСАНТА ОК-500С</name>
+        <vendor>Ресанта</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9390</price>
       </offer>
       <offer sku="00000000888">
         <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
@@ -11695,17 +11681,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14952</price>
-      </offer>
-      <offer sku="00000032601">
-        <name>Набор сверл PointTeQ 7pcs Mini X</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140917650</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3576</price>
       </offer>
       <offer sku="00000032617">
         <name>Пила дисковая настольная BOSCH GTS 10 J 0601B30500</name>
@@ -24176,6 +24151,14 @@
         </pickup-options>
         <price>2790</price>
       </offer>
+      <offer sku="УТ-00065639">
+        <name>Конвектор Eurolux ОК-EU-2000C 67/4/30</name>
+        <vendor>Eurolux</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13490</price>
+      </offer>
       <offer sku="УТ-00068156">
         <name>Компрессор DGM AC-2100B ременной</name>
         <vendor>DGM</vendor>
@@ -24645,14 +24628,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>210000</price>
-      </offer>
-      <offer sku="УТ-00073039">
-        <name>Шаблон комбинированный Husqvarna 0.325 1.1 SP21G X-CUT 595 00 47-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7000</price>
       </offer>
       <offer sku="УТ-00073040">
         <name>Шаблон комбинированный Husqvarna 0.325 1.3 SP33G X-CUT 586 93 84-01</name>

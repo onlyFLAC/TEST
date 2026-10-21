@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 08:07">
+<fm_catalog date="2026-10-21 08:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2477,6 +2477,17 @@
         </pickup-options>
         <price>7100</price>
       </offer>
+      <offer sku="УТ-00022274">
+        <name>Масло 4T SAE-30 1.4л Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883696668</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8800</price>
+      </offer>
       <offer sku="УТ-00022277">
         <name>Спрей Active Clean 500мл Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2543,6 +2554,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9900</price>
+      </offer>
+      <offer sku="УТ-00022418">
+        <name>Шина 12'' 1/4 1.3 64DL 7T 1кл A318 Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13200</price>
       </offer>
       <offer sku="УТ-00022432">
         <name>Шнур кордовый Husqvarna 2.4 мм, 210 м, квадратный 597 66 89-02</name>
@@ -9934,6 +9953,17 @@
         </pickup-options>
         <price>32990</price>
       </offer>
+      <offer sku="00000023859">
+        <name>Шлифмашина угловая (болгарка) CROWN CT13034</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640186249652</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29990</price>
+      </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
         <vendor>Mateus</vendor>
@@ -10069,6 +10099,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23580</price>
+      </offer>
+      <offer sku="00000024780">
+        <name>Фен строительный ALTECO HG 0609 27142</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216453282</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19500</price>
       </offer>
       <offer sku="00000024802">
         <name>Рубанок электрический PL 650 ALTECO</name>
@@ -11827,6 +11868,17 @@
         </pickup-options>
         <price>609940</price>
       </offer>
+      <offer sku="00000032715">
+        <name>Пила дисковая погружная BOSCH GKT 55 GCE 0601675000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140607742</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>403140</price>
+      </offer>
       <offer sku="00000032718">
         <name>Пила торцовочная Bosch GCM 800 SJ 0601B19000</name>
         <vendor>BOSCH</vendor>
@@ -12201,6 +12253,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>337530</price>
+      </offer>
+      <offer sku="00000032939">
+        <name>Машина шлифовальная эксцентриковая Bosch GEX 125-1 AE Professional 0601387500</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140438278</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>70950</price>
       </offer>
       <offer sku="00000032966">
         <name>Лобзик электрический BOSCH GST 8000 E 060158H000</name>
@@ -14047,6 +14110,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32313</price>
+      </offer>
+      <offer sku="00000037285">
+        <name>Диск пильный BOSCH 216х30 мм 2608642497</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140648226</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28888</price>
       </offer>
       <offer sku="00000037407">
         <name>Набор шлифлистов Bosch C450 Р120 125 мм 50 шт. 2608621743</name>
@@ -22509,6 +22583,14 @@
         </pickup-options>
         <price>36760</price>
       </offer>
+      <offer sku="УТ-00060122">
+        <name>Смеситель GAPPO для раковины G1099-32 высокий</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>32260</price>
+      </offer>
       <offer sku="УТ-00060159">
         <name>Смеситель GAPPO для раковины G1007-9 Оружейная Сталь</name>
         <vendor>GAPPO</vendor>
@@ -22549,6 +22631,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24650</price>
+      </offer>
+      <offer sku="УТ-00060212">
+        <name>Душ гигиенический Frap встраиваемый сатин F72801</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477625817</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27530</price>
       </offer>
       <offer sku="УТ-00060227">
         <name>Клапан донный Frap 32 мм черный F62-7</name>
@@ -22655,6 +22748,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88190</price>
+      </offer>
+      <offer sku="УТ-00060366">
+        <name>Душевая стойка Frap F2471-6 с изливом и ручной лейкой Черный</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477626111</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>78000</price>
+      </offer>
+      <offer sku="УТ-00060367">
+        <name>Стойка душевая Frap хром F2471</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477626067</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>65500</price>
       </offer>
       <offer sku="УТ-00060385">
         <name>Смеситель для ванны Frap сатин F22806</name>
@@ -24135,6 +24250,17 @@
         </pickup-options>
         <price>16995</price>
       </offer>
+      <offer sku="УТ-00072478">
+        <name>Компактный болторез KNIPEX 71 01 160</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773082668</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28785</price>
+      </offer>
       <offer sku="УТ-00072488">
         <name>Круглогубцы KNIPEX 25 06 160</name>
         <vendor>KNIPEX</vendor>
@@ -24208,6 +24334,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>28015</price>
+      </offer>
+      <offer sku="УТ-00072525">
+        <name>Кусачки с мультикомпонентной ручкой KNIPEX 78 71 125 ESD</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773025191</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23075</price>
       </offer>
       <offer sku="УТ-00072556">
         <name>Ножницы для резки кабелей KNIPEX 95 11 160</name>
@@ -24466,6 +24603,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
+      </offer>
+      <offer sku="УТ-00074377">
+        <name>Материал полировальный FESTOOL 5шт. PF-STF-D150x20 488348</name>
+        <vendor>FESTOOL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23490</price>
+      </offer>
+      <offer sku="УТ-00074391">
+        <name>Пила погружная FESTOOL TS 55 FEBQ-PLUS-FS 577010</name>
+        <vendor>FESTOOL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>660105</price>
       </offer>
       <offer sku="УТ-00074508">
         <name>Подшипник Россия 30х62 мм 206</name>
@@ -24931,6 +25084,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
+      </offer>
+      <offer sku="УТ-00085488">
+        <name>Лента для рулетки Husqvarna 20 м 505 69 71-05</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085489">
         <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>

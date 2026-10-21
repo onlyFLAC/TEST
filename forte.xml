@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 07:38">
+<fm_catalog date="2026-10-21 08:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9934,14 +9934,6 @@
         </pickup-options>
         <price>32990</price>
       </offer>
-      <offer sku="00000023888">
-        <name>Фен строительный CROWN CT19007BMC</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19200</price>
-      </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
         <vendor>Mateus</vendor>
@@ -13220,17 +13212,6 @@
         </pickup-options>
         <price>2778</price>
       </offer>
-      <offer sku="00000035561">
-        <name>Бур по бетону BOSCH SDS+ 5х150/210 мм 2608833773</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509223265</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2167</price>
-      </offer>
       <offer sku="00000035576">
         <name>Бур по бетону BOSCH SDS+ 8х50/110 мм 2608833788</name>
         <vendor>BOSCH</vendor>
@@ -14247,17 +14228,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6383</price>
-      </offer>
-      <offer sku="00000038903">
-        <name>Набор лобзиковых пилок BOSCH 10 шт. 2607011170</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140913416</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6342</price>
       </offer>
       <offer sku="00000038969">
         <name>Сверло по металлу BOSCH PointTeQ 4.2 мм 2608577162</name>
@@ -24470,14 +24440,6 @@
         </pickup-options>
         <price>210000</price>
       </offer>
-      <offer sku="УТ-00073039">
-        <name>Шаблон комбинированный Husqvarna 0.325 1.1 SP21G X-CUT 595 00 47-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7000</price>
-      </offer>
       <offer sku="УТ-00073040">
         <name>Шаблон комбинированный Husqvarna 0.325 1.3 SP33G X-CUT 586 93 84-01</name>
         <vendor>Husqvarna</vendor>
@@ -24985,14 +24947,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
-      </offer>
-      <offer sku="УТ-00085494">
-        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

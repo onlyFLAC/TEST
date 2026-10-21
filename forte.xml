@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-21 13:33">
+<fm_catalog date="2026-10-21 14:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10939,6 +10939,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40600</price>
+      </offer>
+      <offer sku="00000031895">
+        <name>Стремянка STABILO 4 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>104600</price>
       </offer>
       <offer sku="00000031898">
         <name>Стремянка STABILO 7 ступ.</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 09:03">
+<fm_catalog date="2026-10-22 09:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4431,6 +4431,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44100</price>
+      </offer>
+      <offer sku="УТ-00040140">
+        <name>Доска гладильная Nika "ЛИНА 2" ДЛ2 (в ассортименте)</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830455</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8500</price>
       </offer>
       <offer sku="УТ-00040230">
         <name>Велосипед детский Nika ВДН4/4 черный с лимонным</name>
@@ -10318,6 +10329,17 @@
         </pickup-options>
         <price>1000</price>
       </offer>
+      <offer sku="00000023215">
+        <name>Замок навесной ЗН2-3, 70 мм// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996048062</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3950</price>
+      </offer>
       <offer sku="00000023255">
         <name>Замок тросовый универсальный, 10 х 650 мм// Matrix</name>
         <vendor>Matrix</vendor>
@@ -10443,6 +10465,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32990</price>
+      </offer>
+      <offer sku="00000023825">
+        <name>Лобзик электрический CROWN CT15189</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177420688</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36990</price>
       </offer>
       <offer sku="00000023859">
         <name>Шлифмашина угловая (болгарка) CROWN CT13034</name>
@@ -10807,17 +10840,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7888</price>
-      </offer>
-      <offer sku="00000025437">
-        <name>Сушилка напольная Nika СБ1/С серебряный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830813</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7800</price>
       </offer>
       <offer sku="00000025438">
         <name>Сушилка напольная Nika СБ2/С серебряный</name>
@@ -15341,14 +15363,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>201100</price>
-      </offer>
-      <offer sku="00000041219">
-        <name>Воздуходувка бензиновая STIHL BG 50 42290111723</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>127900</price>
       </offer>
       <offer sku="00000041226">
         <name>Мойка высокого давления STIHL RE 100 49500124501</name>
@@ -23414,6 +23428,17 @@
         </pickup-options>
         <price>9999</price>
       </offer>
+      <offer sku="УТ-00060534">
+        <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/МБ матово-белый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111516402</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9500</price>
+      </offer>
       <offer sku="УТ-00060540">
         <name>Этажерка Nika ЭТ4/А коричневый</name>
         <vendor>Nika</vendor>
@@ -27228,14 +27253,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7900</price>
-      </offer>
-      <offer sku="УТ-00096156">
-        <name>Лезвие для шпателя BIHUI 100 см, толщина 0.5 мм PTKB100-SB</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4280</price>
       </offer>
       <offer sku="УТ-00096158">
         <name>Лезвие для шпателя BIHUI 40 см, толщина 0.5 мм PTKB40-SB</name>

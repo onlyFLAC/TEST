@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 13:28">
+<fm_catalog date="2026-10-22 13:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11225,7 +11225,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8600</price>
+        <price>14000</price>
       </offer>
       <offer sku="00000031441">
         <name>Набор инструментов Total Tools 25 шт. ST036-25</name>

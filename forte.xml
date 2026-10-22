@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 14:56">
+<fm_catalog date="2026-10-22 15:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2573,14 +2573,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9900</price>
-      </offer>
-      <offer sku="УТ-00022325">
-        <name>НАПИЛЬНИК 5.2ММ INTENSIVE CUT (комплект из 12ШТ)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
       </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
@@ -16738,7 +16730,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8700</price>
+        <price>8675</price>
       </offer>
       <offer sku="00000059244">
         <name>Этажерка Nika ЭТК3/А медный антик</name>
@@ -18144,6 +18136,28 @@
         </pickup-options>
         <price>98070</price>
       </offer>
+      <offer sku="00000070583">
+        <name>Лобзик электрический ПМ5 -720Э в кейсе «Фиолент», с лазером, 720 Вт, 0-2800об/мин., пропил 155мм.</name>
+        <vendor>Фиолент</vendor>
+        <barcodes>
+          <barcode>4670016120700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>33200</price>
+      </offer>
+      <offer sku="00000070584">
+        <name>Лобзик электрический Фиолент ПМ7-720Э ИДФР298256007</name>
+        <vendor>Фиолент</vendor>
+        <barcodes>
+          <barcode>4670016121776</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>34100</price>
+      </offer>
       <offer sku="00000070600">
         <name>Краска аэрозольная NOVA серебро 450 мл Nova36</name>
         <vendor>NOVA</vendor>
@@ -19025,7 +19039,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18800</price>
+        <price>18500</price>
       </offer>
       <offer sku="00000074239">
         <name>Подставка ROLLY 2х2 ступ. зеленая</name>
@@ -22689,7 +22703,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3177</price>
+        <price>2990</price>
       </offer>
       <offer sku="УТ-00059670">
         <name>Фартук и нарукавники Nika ФН2/И рисунок с котенком/изумрудный</name>
@@ -25455,7 +25469,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12990</price>
+        <price>9900</price>
       </offer>
       <offer sku="УТ-00078017">
         <name>Крышка для бензопилы STIHL MS 462, MS 462 C, MS 462 C-M, MS 462 C-M R 11420211101</name>

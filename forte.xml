@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 18:21">
+<fm_catalog date="2026-10-22 18:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11417,17 +11417,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>109190</price>
-      </offer>
-      <offer sku="00000031866">
-        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х4 ступ. 120335</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199120335</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>55300</price>
       </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>

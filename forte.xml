@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 12:00">
+<fm_catalog date="2026-10-22 12:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -874,6 +874,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>100000</price>
+      </offer>
+      <offer sku="УТ-00006465">
+        <name>Рычаг шарнира лестницы-трансформера 293 мм MONTO+STABILO</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199212115</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -2814,6 +2825,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>174690</price>
+      </offer>
+      <offer sku="УТ-00024430">
+        <name>Бензопила цепная Makita EA6100P53E</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>429265</price>
       </offer>
       <offer sku="УТ-00024520">
         <name>Набор аккумулятора и ЗУ Makita XGT 4 А*ч DC40RA 191J67-0</name>
@@ -8350,6 +8369,17 @@
         </pickup-options>
         <price>490</price>
       </offer>
+      <offer sku="00000012238">
+        <name>Прибор для обнаружения скрытой проводки и металла// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996085029</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4080</price>
+      </offer>
       <offer sku="00000012268">
         <name>Набор профессиональных отверток Fusion, CrV, 3-компонентная рукоятка antislip, 6 шт.// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9810,28 +9840,6 @@
         </pickup-options>
         <price>1373</price>
       </offer>
-      <offer sku="00000020805">
-        <name>Шарошка абразивная, цилиндр удлин., 25 x 38 мм, хвостовик 6 мм, F46, 3шт.// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996148564</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3000</price>
-      </offer>
-      <offer sku="00000020835">
-        <name>Метчик ручной М12 х 1,5 мм, комплект из 2 шт.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996085968</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2450</price>
-      </offer>
       <offer sku="00000020911">
         <name>Набор метчиков и плашек Sparta М3-М12 20 шт. 773105</name>
         <vendor>Sparta</vendor>
@@ -9975,14 +9983,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
-      </offer>
-      <offer sku="00000021626">
-        <name>Таз круглый строительный, 65 л Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3880</price>
       </offer>
       <offer sku="00000021627">
         <name>Таз круглый строительный Сибртех 90 л 81442</name>
@@ -10458,17 +10458,6 @@
         </pickup-options>
         <price>25942</price>
       </offer>
-      <offer sku="00000023574">
-        <name>Лестница приставная, 10 ступеней, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800044310</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29400</price>
-      </offer>
       <offer sku="00000023590">
         <name>Лестница шарнирная Сибртех 4х2 97879</name>
         <vendor>Сибртех</vendor>
@@ -10561,6 +10550,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29990</price>
+      </offer>
+      <offer sku="00000023908">
+        <name>Машина шлифовальная прямая CROWN CT13308</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19990</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -11523,6 +11520,25 @@
         </pickup-options>
         <price>69900</price>
       </offer>
+      <offer sku="00000031918">
+        <name>Стремянка SECURY MultiGrip 6 ступ.</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>87800</price>
+      </offer>
+      <offer sku="00000031925">
+        <name>Стремянка Krause "SEPURO" 5 ступ. 127235</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199127235</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>82900</price>
+      </offer>
       <offer sku="00000031934">
         <name>Подставка ROLLY 2х2 ступ. алюм</name>
         <vendor>Krause</vendor>
@@ -11530,6 +11546,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>41500</price>
+      </offer>
+      <offer sku="00000031942">
+        <name>Подставка складная TOPPY XL 3 ступ.</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199130877</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>47300</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -12505,6 +12532,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>76090</price>
+      </offer>
+      <offer sku="00000032743">
+        <name>Пильный диск EC AL B 254*30-96</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140891165</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16386</price>
       </offer>
       <offer sku="00000032745">
         <name>Диск пильный BOSCH Т96 305х30 мм 2608644396</name>
@@ -24321,17 +24359,6 @@
         </pickup-options>
         <price>34010</price>
       </offer>
-      <offer sku="УТ-00063830">
-        <name>Клещи переставные (водяные) Bosch 1600A027PR</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952614205</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10550</price>
-      </offer>
       <offer sku="УТ-00063833">
         <name>Набор инструмента расширенный, 132 предмета</name>
         <vendor>BOSCH</vendor>
@@ -24989,6 +25016,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>30875</price>
+      </offer>
+      <offer sku="УТ-00072577">
+        <name>Отвертка винтов с крестообразным шлицем KNIPEX 98 24 02</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9090</price>
       </offer>
       <offer sku="УТ-00072582">
         <name>Клещи сантехнические KNIPEX 88 01 250</name>
@@ -25654,6 +25689,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37500</price>
+      </offer>
+      <offer sku="УТ-00085210">
+        <name>Угловая шлифовальная машина Crown CT13677-125RSV</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41990</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>
@@ -27491,6 +27534,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00102398">
+        <name>D-51627 Сабельная пилка для металла 152x0,9x14TPI, 2 шт.</name>
+        <vendor>Makita</vendor>
+        <barcodes>
+          <barcode>088381442947</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2850</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

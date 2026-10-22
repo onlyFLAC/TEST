@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 14:27">
+<fm_catalog date="2026-10-22 14:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4311,7 +4311,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35000</price>
+        <price>34990</price>
       </offer>
       <offer sku="УТ-00028675">
         <name>SHIVAKI MD 4218 E grey-black-black</name>
@@ -10866,7 +10866,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>39990</price>
+        <price>35990</price>
       </offer>
       <offer sku="00000025386">
         <name>Вешалка настенная Nika ВП8М/Ч черный</name>
@@ -25609,7 +25609,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>34100</price>
+        <price>34590</price>
       </offer>
       <offer sku="УТ-00085186">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 2" НВ2/11</name>

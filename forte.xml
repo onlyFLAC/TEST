@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 09:32">
+<fm_catalog date="2026-10-22 10:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9976,6 +9976,17 @@
         </pickup-options>
         <price>2780</price>
       </offer>
+      <offer sku="00000021646">
+        <name>Таз прямоугольный строительный СИБРТЕХ 40 л Россия 814437</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800074676</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2995</price>
+      </offer>
       <offer sku="00000021647">
         <name>Таз прямоугольный Сибртех 60 л 814445</name>
         <vendor>Сибртех</vendor>
@@ -13574,6 +13585,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1790</price>
+      </offer>
+      <offer sku="00000035246">
+        <name>Диск отрезной по металлу Bosch 125х2.5 мм 2608603166</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140658256</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
       </offer>
       <offer sku="00000035249">
         <name>Диск отрезной BOSCH 230х3 мм 2608603162</name>
@@ -17878,14 +17900,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>67000</price>
-      </offer>
-      <offer sku="00000064509">
-        <name>Уровень лазерный DWT LLC03-30 BMC</name>
-        <vendor>DWT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43000</price>
       </offer>
       <offer sku="00000064620">
         <name>Фрезер Bosch GOF 130 06016B7000</name>
@@ -25629,14 +25643,6 @@
         </pickup-options>
         <price>4400</price>
       </offer>
-      <offer sku="УТ-00085489">
-        <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7550</price>
-      </offer>
       <offer sku="УТ-00085490">
         <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>
         <vendor>Husqvarna</vendor>
@@ -27355,14 +27361,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="УТ-00100791">
-        <name>Гайковерт ударный BOSCH GDS 18V-780 06019P4021</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>195000</price>
       </offer>
       <offer sku="УТ-00100792">
         <name>БАТАРЕЙКА Bosch GBA18V-20 1600A03K19</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 17:23">
+<fm_catalog date="2026-10-22 17:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -860,7 +860,7 @@
         <price>14290</price>
       </offer>
       <offer sku="УТ-00006301">
-        <name>Подставка складная, сталь, TOPPY 2 ступ</name>
+        <name>Подставка складная KRAUSE TOPPY 2 ступ. 130723</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -868,7 +868,7 @@
         <price>23200</price>
       </offer>
       <offer sku="УТ-00006353">
-        <name>Двухсторонняя стремянка DOPPLO 2х7 ступ.</name>
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х7 ступ. 120366</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -2322,7 +2322,7 @@
         <price>136280</price>
       </offer>
       <offer sku="УТ-00019856">
-        <name>Лестница приставная CORDA 1х9 010094</name>
+        <name>Лестница приставная KRAUSE CORDA 9 ступ. 010094</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11359,7 +11359,7 @@
         <price>27000</price>
       </offer>
       <offer sku="00000031834">
-        <name>Стремянка свободностоящая 4 ступени CORDA</name>
+        <name>Стремянка односторонняя KRAUSE CORDA 4 ступ. 705</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11367,7 +11367,7 @@
         <price>38500</price>
       </offer>
       <offer sku="00000031835">
-        <name>Стремянка односторонняя Krause "CORDA" 3 ступ. 000712</name>
+        <name>Стремянка односторонняя KRAUSE CORDA 3 ступ. 712</name>
         <vendor>Krause</vendor>
         <barcodes>
           <barcode>4009199000712</barcode>
@@ -11378,7 +11378,7 @@
         <price>31900</price>
       </offer>
       <offer sku="00000031836">
-        <name>Стремянка односторонняя Krause "CORDA" 5 ступеней 000729</name>
+        <name>Стремянка односторонняя KRAUSE CORDA 5 ступ. 729</name>
         <vendor>Krause</vendor>
         <barcodes>
           <barcode>4009199000729</barcode>
@@ -11389,7 +11389,7 @@
         <price>46400</price>
       </offer>
       <offer sku="00000031840">
-        <name>Лестница приставная KRAUSE "CORDA" 1х7 2.95 м 010070</name>
+        <name>Лестница приставная KRAUSE CORDA 7 ступ. 010070</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11397,7 +11397,7 @@
         <price>23190</price>
       </offer>
       <offer sku="00000031852">
-        <name>Лестница универсальная CORDA 3х11 (010421) Krause</name>
+        <name>Лестница трехсекционная KRAUSE CORDA 3х11 ступ. 010421</name>
         <vendor>Krause</vendor>
         <barcodes>
           <barcode>4009199010421</barcode>
@@ -11408,7 +11408,7 @@
         <price>134200</price>
       </offer>
       <offer sku="00000031859">
-        <name>Лестница универсальная Krause CORDA 3х9 с доп функцией 013392</name>
+        <name>Лестница трехсекционная KRAUSE CORDA 3х9 ступ. 013392</name>
         <vendor>Krause</vendor>
         <barcodes>
           <barcode>4009199013392</barcode>
@@ -11419,7 +11419,7 @@
         <price>109190</price>
       </offer>
       <offer sku="00000031866">
-        <name>Двухсторонняя стремянка DOPPLO 2х4 ступ.</name>
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х4 ступ. 120335</name>
         <vendor>Krause</vendor>
         <barcodes>
           <barcode>4009199120335</barcode>
@@ -11430,7 +11430,7 @@
         <price>55300</price>
       </offer>
       <offer sku="00000031867">
-        <name>Двухсторонняя стремянка DOPPLO 2х6 ступ.</name>
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11438,7 +11438,7 @@
         <price>82600</price>
       </offer>
       <offer sku="00000031882">
-        <name>Приставная пестница SIBILO 1х6</name>
+        <name>Лестница приставная KRAUSE SIBILO MONTO 6 ступ. 121387</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11446,7 +11446,7 @@
         <price>26080</price>
       </offer>
       <offer sku="00000031892">
-        <name>Универсальная шарнирная лестница STABILO 4х4</name>
+        <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11454,7 +11454,7 @@
         <price>165200</price>
       </offer>
       <offer sku="00000031895">
-        <name>Стремянка STABILO 4 ступ.</name>
+        <name>Стремянка односторонняя KRAUSE STABILO 4 ступ. 124517</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11462,7 +11462,7 @@
         <price>104600</price>
       </offer>
       <offer sku="00000031898">
-        <name>Стремянка STABILO 7 ступ.</name>
+        <name>Стремянка односторонняя KRAUSE STABILO 7 ступ. 124548</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11470,7 +11470,7 @@
         <price>152600</price>
       </offer>
       <offer sku="00000031902">
-        <name>Складная подставка TREPPO 2x3 ступ.</name>
+        <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11478,7 +11478,7 @@
         <price>77800</price>
       </offer>
       <offer sku="00000031904">
-        <name>Стремянка свободностоящая 3 ступеньки, раб.высота 2,65 м SOLIDY Krause</name>
+        <name>Стремянка односторонняя KRAUSE SOLIDY 3 ступ. 126214</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11486,7 +11486,7 @@
         <price>36200</price>
       </offer>
       <offer sku="00000031905">
-        <name>Стремянка Krause "SOLIDY" 4 ступеньки 126221</name>
+        <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11494,7 +11494,7 @@
         <price>42700</price>
       </offer>
       <offer sku="00000031908">
-        <name>Стремянка свободностоящая 7 ступенек, раб.высота 3,50 м SOLIDY Krause</name>
+        <name>Стремянка односторонняя KRAUSE SOLIDY 7 ступ. 126252</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11502,7 +11502,7 @@
         <price>69900</price>
       </offer>
       <offer sku="00000031934">
-        <name>Подставка ROLLY 2х2 ступ. алюм</name>
+        <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11510,7 +11510,7 @@
         <price>41500</price>
       </offer>
       <offer sku="00000031943">
-        <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
+        <name>Лестница трехсекционная KRAUSE STABILO 3х8 ступ. 133748</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11518,7 +11518,7 @@
         <price>195400</price>
       </offer>
       <offer sku="00000031953">
-        <name>Монтажная подставка 2 ступ.</name>
+        <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -19052,7 +19052,7 @@
         <price>18500</price>
       </offer>
       <offer sku="00000074239">
-        <name>Подставка ROLLY 2х2 ступ. зеленая</name>
+        <name>Подставка складная KRAUSE ROLLY 2х2 ступ. зеленая 130143</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -22396,7 +22396,7 @@
         <price>135154</price>
       </offer>
       <offer sku="УТ-00058888">
-        <name>Стремянка KRAUSE "SEPRO S" 5 ступеней 124197</name>
+        <name>Стремянка односторонняя KRAUSE SEPRO S 5 ступ. 124197</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -25666,7 +25666,7 @@
         <price>14390</price>
       </offer>
       <offer sku="УТ-00084847">
-        <name>Стремянка анодированная Krause "SEPRO" 6 ступ. 124203</name>
+        <name>Стремянка односторонняя KRAUSE SEPRO 6 ступ. 124203</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -25674,7 +25674,7 @@
         <price>109200</price>
       </offer>
       <offer sku="УТ-00084848">
-        <name>Стремянка анодированная Krause "SEPRO" 7 ступ. 124210</name>
+        <name>Стремянка односторонняя KRAUSE SEPRO 7 ступ. 124210</name>
         <vendor>Krause</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

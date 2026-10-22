@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 13:57">
+<fm_catalog date="2026-10-22 14:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2574,6 +2574,14 @@
         </pickup-options>
         <price>9900</price>
       </offer>
+      <offer sku="УТ-00022325">
+        <name>НАПИЛЬНИК 5.2ММ INTENSIVE CUT (комплект из 12ШТ)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13200</price>
+      </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2672,6 +2680,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
+      </offer>
+      <offer sku="УТ-00022496">
+        <name>Рулетка 20м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089124921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -2814,14 +2833,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>174690</price>
-      </offer>
-      <offer sku="УТ-00024430">
-        <name>Бензопила цепная Makita EA6100P53E</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>429265</price>
       </offer>
       <offer sku="УТ-00024520">
         <name>Набор аккумулятора и ЗУ Makita XGT 4 А*ч DC40RA 191J67-0</name>
@@ -10879,17 +10890,6 @@
         </pickup-options>
         <price>2400</price>
       </offer>
-      <offer sku="00000025420">
-        <name>Санки детские Nika "ТИМКА 5 УНИВЕРСАЛ" Т5У/32 зеленые</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047362769</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23888</price>
-      </offer>
       <offer sku="00000025436">
         <name>Сушилка напольная Nika СБ3 серебряный</name>
         <vendor>Nika</vendor>
@@ -12491,17 +12491,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>76090</price>
-      </offer>
-      <offer sku="00000032743">
-        <name>Пильный диск EC AL B 254*30-96</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140891165</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16386</price>
       </offer>
       <offer sku="00000032745">
         <name>Диск пильный BOSCH Т96 305х30 мм 2608644396</name>
@@ -24976,14 +24965,6 @@
         </pickup-options>
         <price>30875</price>
       </offer>
-      <offer sku="УТ-00072577">
-        <name>Отвертка винтов с крестообразным шлицем KNIPEX 98 24 02</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9090</price>
-      </offer>
       <offer sku="УТ-00072582">
         <name>Клещи сантехнические KNIPEX 88 01 250</name>
         <vendor>KNIPEX</vendor>
@@ -27485,17 +27466,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00102398">
-        <name>D-51627 Сабельная пилка для металла 152x0,9x14TPI, 2 шт.</name>
-        <vendor>Makita</vendor>
-        <barcodes>
-          <barcode>088381442947</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2850</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

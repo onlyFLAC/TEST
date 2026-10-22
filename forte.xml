@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 08:04">
+<fm_catalog date="2026-10-22 08:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -828,6 +828,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16490</price>
+      </offer>
+      <offer sku="УТ-00005969">
+        <name>Уровень тип 80АS-2, 120 см, 3 глазка STABILA 19173</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191733</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29990</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -2544,6 +2555,14 @@
         </pickup-options>
         <price>9900</price>
       </offer>
+      <offer sku="УТ-00022301">
+        <name>Головка триммерная T35 M12L 143R 535RXT (полуавто) (pack 44шт)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
+      </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2610,6 +2629,30 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
+      </offer>
+      <offer sku="УТ-00022468">
+        <name>Топор-колун 80см 2,5кг</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>74000</price>
+      </offer>
+      <offer sku="УТ-00022469">
+        <name>Топор-колун S1600 60см 1.6кг</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>60000</price>
+      </offer>
+      <offer sku="УТ-00022473">
+        <name>Топор универсальный A2400 70см 2.4кг</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>68000</price>
       </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
@@ -8436,6 +8479,17 @@
         </pickup-options>
         <price>15390</price>
       </offer>
+      <offer sku="00000013177">
+        <name>Ключ комбинированный Gross 12 мм 15131</name>
+        <vendor>Gross</vendor>
+        <barcodes>
+          <barcode>4044996052311</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>855</price>
+      </offer>
       <offer sku="00000013425">
         <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10337,17 +10391,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19850</price>
-      </offer>
-      <offer sku="00000023710">
-        <name>Воздуходувка электрическая CROWN CT17010</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177421982</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20990</price>
       </offer>
       <offer sku="00000023732">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
@@ -14845,17 +14888,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8054</price>
-      </offer>
-      <offer sku="00000039118">
-        <name>Сверло по металлу BOSCH PointTeQ 17 мм 2608577312</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140908214</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4900</price>
       </offer>
       <offer sku="00000039121">
         <name>Сверло по металлу BOSCH PointTeQ 20 мм 2608577315</name>
@@ -19502,6 +19534,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26490</price>
+      </offer>
+      <offer sku="УТ-00000922">
+        <name>Дрель-шуруповерт аккумуляторная PATRIOT BR 140Li 180301520 (2 АКБ)</name>
+        <vendor>Patriot</vendor>
+        <barcodes>
+          <barcode>6934097703503</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35290</price>
       </offer>
       <offer sku="УТ-00000926">
         <name>Дрель-шуруповерт аккумуляторная PATRIOT BR 210Li 180301550</name>
@@ -25453,13 +25496,13 @@
         </pickup-options>
         <price>190</price>
       </offer>
-      <offer sku="УТ-00084680">
-        <name>Ножницы для резки кабелей KNIPEX 165 мм 95 12 165</name>
-        <vendor>KNIPEX</vendor>
+      <offer sku="УТ-00084690">
+        <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
+        <vendor>Wera</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27760</price>
+        <price>14390</price>
       </offer>
       <offer sku="УТ-00084847">
         <name>Стремянка анодированная Krause "SEPRO" 6 ступ. 124203</name>
@@ -25525,17 +25568,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18200</price>
-      </offer>
-      <offer sku="УТ-00085265">
-        <name>Комплект детский Nika "Математика с монстриками" КП2/ММ</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111530378</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15500</price>
       </offer>
       <offer sku="УТ-00085371">
         <name>Устройство зарядное и аккумулятор Makita DC18RC+BL1830B 191A25-2</name>

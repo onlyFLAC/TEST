@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 12:30">
+<fm_catalog date="2026-10-22 12:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -874,17 +874,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>100000</price>
-      </offer>
-      <offer sku="УТ-00006465">
-        <name>Рычаг шарнира лестницы-трансформера 293 мм MONTO+STABILO</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199212115</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -11520,25 +11509,6 @@
         </pickup-options>
         <price>69900</price>
       </offer>
-      <offer sku="00000031918">
-        <name>Стремянка SECURY MultiGrip 6 ступ.</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>87800</price>
-      </offer>
-      <offer sku="00000031925">
-        <name>Стремянка Krause "SEPURO" 5 ступ. 127235</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199127235</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>82900</price>
-      </offer>
       <offer sku="00000031934">
         <name>Подставка ROLLY 2х2 ступ. алюм</name>
         <vendor>Krause</vendor>
@@ -11546,17 +11516,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>41500</price>
-      </offer>
-      <offer sku="00000031942">
-        <name>Подставка складная TOPPY XL 3 ступ.</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47300</price>
       </offer>
       <offer sku="00000031943">
         <name>Трехсекционная универсальная лестница с допфункцией STABILO 3х8</name>
@@ -25689,14 +25648,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37500</price>
-      </offer>
-      <offer sku="УТ-00085210">
-        <name>Угловая шлифовальная машина Crown CT13677-125RSV</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41990</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>

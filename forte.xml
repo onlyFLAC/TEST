@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 08:33">
+<fm_catalog date="2026-10-22 09:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24695,6 +24695,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21015</price>
+      </offer>
+      <offer sku="УТ-00072360">
+        <name>Зажимы TetheredTool + зажимы ColorCode KNIPEX 00 63 06 TCR</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773089759</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6490</price>
       </offer>
       <offer sku="УТ-00072375">
         <name>Инструмент для обжима контактных гильз KNIPEX 97 72 180</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-22 15:25">
+<fm_catalog date="2026-10-22 15:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15427,6 +15427,14 @@
         </pickup-options>
         <price>201100</price>
       </offer>
+      <offer sku="00000041219">
+        <name>Воздуходувка бензиновая STIHL BG 50 42290111723</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>127900</price>
+      </offer>
       <offer sku="00000041226">
         <name>Мойка высокого давления STIHL RE 100 49500124501</name>
         <vendor>STIHL</vendor>
@@ -18136,17 +18144,6 @@
         </pickup-options>
         <price>98070</price>
       </offer>
-      <offer sku="00000070583">
-        <name>Лобзик электрический ПМ5 -720Э в кейсе «Фиолент», с лазером, 720 Вт, 0-2800об/мин., пропил 155мм.</name>
-        <vendor>Фиолент</vendor>
-        <barcodes>
-          <barcode>4670016120700</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>33200</price>
-      </offer>
       <offer sku="00000070584">
         <name>Лобзик электрический Фиолент ПМ7-720Э ИДФР298256007</name>
         <vendor>Фиолент</vendor>
@@ -18310,6 +18307,30 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9600</price>
+      </offer>
+      <offer sku="00000070890">
+        <name>Режущий диск для травы 250-32, Ø 25,4 мм (FS 120; 131; 250; FSA 90; FS-KM). Stihl</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15050</price>
+      </offer>
+      <offer sku="00000070891">
+        <name>Режущий диск для травы 250-40, Ø 25,4 мм (FS 100- FS 350) Stihl</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19660</price>
+      </offer>
+      <offer sku="00000070895">
+        <name>Пильный диск с остроугольными зубьями 200 мм, Ø 20 мм, 80 Z (FS240 C-E) Stihl</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17320</price>
       </offer>
       <offer sku="00000071014">
         <name>Мерный стакан 100 мл Stihl</name>
@@ -20826,6 +20847,14 @@
         </pickup-options>
         <price>136200</price>
       </offer>
+      <offer sku="УТ-00045551">
+        <name>Бензопила STIHL MS 172 40 см 11480113030K40</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>115000</price>
+      </offer>
       <offer sku="УТ-00045552">
         <name>Бензопила STIHL MS 172 35 см 11480113030K35</name>
         <vendor>STIHL</vendor>
@@ -21142,6 +21171,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19990</price>
+      </offer>
+      <offer sku="УТ-00048840">
+        <name>Нож 63507020103</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661282999</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15400</price>
       </offer>
       <offer sku="УТ-00049305">
         <name>Средство для удаления смолы Stihl Superclean 300 мл 07825168101</name>
@@ -21659,6 +21699,14 @@
         </pickup-options>
         <price>8970</price>
       </offer>
+      <offer sku="УТ-00055308">
+        <name>Режущий диск для травы 250-32, Ø 20 мм 32Z (FS 350 - FS 560) 40007133812</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15820</price>
+      </offer>
       <offer sku="УТ-00055311">
         <name>Масло моторное STIHL 1:50 5 л красное 07813198468лб5</name>
         <vendor>STIHL</vendor>
@@ -21796,6 +21844,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
+      </offer>
+      <offer sku="УТ-00055889">
+        <name>Цепная звёздочка 1/4" P 6 зубьев 12546421200</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661623396</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2430</price>
       </offer>
       <offer sku="УТ-00055895">
         <name>Цепная звёздочка 12516421200</name>
@@ -22234,6 +22293,14 @@
         </pickup-options>
         <price>326100</price>
       </offer>
+      <offer sku="УТ-00058014">
+        <name>Пильный диск с остроугольными зубьями 225 мм, 20 мм, 48 Z (FS 350 -400) 40007134205</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17360</price>
+      </offer>
       <offer sku="УТ-00058028">
         <name>Набор держателей 4253022</name>
         <vendor>Einhell</vendor>
@@ -22373,6 +22440,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23190</price>
+      </offer>
+      <offer sku="УТ-00059588">
+        <name>Уплотнения в наборе □ 10, 18 11350071050</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711530341</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4970</price>
       </offer>
       <offer sku="УТ-00059615">
         <name>Банкетка Nika НБ1/СН серо-синий</name>
@@ -23683,7 +23761,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>24400</price>
+        <price>23400</price>
       </offer>
       <offer sku="УТ-00061460">
         <name>Доска гладильная Nika Н3МТ/СР серебряный</name>
@@ -23694,7 +23772,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25888</price>
+        <price>24850</price>
       </offer>
       <offer sku="УТ-00061461">
         <name>Сушилка настенная Nika СН60/Б белый</name>
@@ -23746,7 +23824,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26909</price>
+        <price>26890</price>
       </offer>
       <offer sku="УТ-00061473">
         <name>Сушилка напольная двухсекционная Nika СБ8П/РЗ розовое золото</name>
@@ -24143,7 +24221,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18694</price>
+        <price>18199</price>
       </offer>
       <offer sku="УТ-00063798">
         <name>Доска гладильная Nika Н8 (в ассортименте)</name>
@@ -25557,6 +25635,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15720</price>
+      </offer>
+      <offer sku="УТ-00081994">
+        <name>Поддон картера Stihl 41800212500</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12940</price>
       </offer>
       <offer sku="УТ-00082831">
         <name>Распределительный поршень Stihl 49505100300</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 14:24">
+<fm_catalog date="2026-10-23 14:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,6 +204,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
+      </offer>
+      <offer sku="УТ-00003961">
+        <name>Лобзик электрический CROWN CT15287</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640372697731</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20990</price>
       </offer>
       <offer sku="УТ-00003970">
         <name>Шлифмашина щеточная CROWN CT13551-110RSV</name>
@@ -2119,17 +2130,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39480</price>
-      </offer>
-      <offer sku="УТ-00015623">
-        <name>Домкрат бутылочный гидравлический ЗУБР 5 т 43060-5-K_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373044281</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15480</price>
       </offer>
       <offer sku="УТ-00015657">
         <name>Диск пильный по дереву ЗУБР "БЫСТРЫЙ РЕЗ" 24Т, 190х20/16 мм 36910-190-20-24</name>
@@ -10548,6 +10548,17 @@
         </pickup-options>
         <price>29990</price>
       </offer>
+      <offer sku="00000023877">
+        <name>Машина шлифовальная угловая CROWN CT13497-125</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177420435</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23990</price>
+      </offer>
       <offer sku="00000023908">
         <name>Машина шлифовальная прямая CROWN CT13308</name>
         <vendor>CROWN</vendor>
@@ -14921,17 +14932,6 @@
         </pickup-options>
         <price>1490</price>
       </offer>
-      <offer sku="00000039004">
-        <name>Набор сверл по металлу BOSCH 3 мм 10 шт. 2608577198</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140907071</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2135</price>
-      </offer>
       <offer sku="00000039009">
         <name>Набор сверл по металлу Bosch PointTeQ 3.5 мм 10 шт. 2608577203</name>
         <vendor>BOSCH</vendor>
@@ -15406,17 +15406,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>225600</price>
-      </offer>
-      <offer sku="00000041169">
-        <name>Бензопила STIHL MS 250 40 см 11230123044К40</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661268177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>201100</price>
       </offer>
       <offer sku="00000041219">
         <name>Воздуходувка бензиновая STIHL BG 50 42290111723</name>
@@ -15926,7 +15915,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5900</price>
+        <price>4995</price>
       </offer>
       <offer sku="00000050323">
         <name>Этажерка Nika ЭТ1/Ч черный</name>
@@ -21513,7 +21502,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>42888</price>
+        <price>33500</price>
       </offer>
       <offer sku="УТ-00054806">
         <name>Корпус прибора для воздуходувки BOSCH f016f05650</name>
@@ -21766,7 +21755,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12999</price>
+        <price>7990</price>
       </offer>
       <offer sku="УТ-00055787">
         <name>Сушилка навесная Nika СБ6-65П/Б белый</name>
@@ -22518,7 +22507,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>29500</price>
+        <price>28500</price>
       </offer>
       <offer sku="УТ-00059635">
         <name>Доска гладильная навесная Nika ДН1Т/1 коричнево-серый</name>
@@ -24824,6 +24813,14 @@
         </pickup-options>
         <price>94160</price>
       </offer>
+      <offer sku="УТ-00071508">
+        <name>Фильтр самоочищающийся 1" нар. или 3/4"вн., 100 микрон, с манометром, AV Engineering (инд. упак.)</name>
+        <vendor>AV Engineering</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19690</price>
+      </offer>
       <offer sku="УТ-00071571">
         <name>Циркулярная пила погружная с шиной 1,4 м WORTEX CS 1612-1 в кор. 1200 Вт, до 59 мм, 6000 об/мин</name>
         <vendor>Wortex</vendor>
@@ -25565,7 +25562,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7504</price>
+        <price>4999</price>
       </offer>
       <offer sku="УТ-00078023">
         <name>Вешалка настенная Nika ВП6М/Ч черный</name>
@@ -25728,6 +25725,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37500</price>
+      </offer>
+      <offer sku="УТ-00085210">
+        <name>Угловая шлифовальная машина Crown CT13677-125RSV</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41990</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>
@@ -26173,6 +26178,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>60360</price>
+      </offer>
+      <offer sku="УТ-00090583">
+        <name>Набор сверл Форстнера, 15-35 мм, HoKa, 5 шт. kwb by Einhell (706400)</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27000</price>
       </offer>
       <offer sku="УТ-00090915">
         <name>Аккумулятор для инструмента BOSCH EXPERT EXBA18V-150 1600A036ZM</name>

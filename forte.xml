@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 16:23">
+<fm_catalog date="2026-10-23 16:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2606,6 +2606,17 @@
         </pickup-options>
         <price>9900</price>
       </offer>
+      <offer sku="УТ-00022389">
+        <name>ШПРИЦ - МАСЛЕНКА ДЛЯ КОНСИСТЕНТНОЙ СМАЗКИ HUSQVARNA</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883819715</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
+      </offer>
       <offer sku="УТ-00022418">
         <name>Шина 12'' 1/4 1.3 64DL 7T 1кл A318 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2656,6 +2667,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
+      </offer>
+      <offer sku="УТ-00022460">
+        <name>Топор плотницкий 50см 1кг</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883620717</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>57000</price>
       </offer>
       <offer sku="УТ-00022468">
         <name>Топор-колун 80см 2,5кг</name>
@@ -10537,6 +10559,17 @@
         </pickup-options>
         <price>19990</price>
       </offer>
+      <offer sku="00000023802">
+        <name>Перфоратор Crown CT18116 SDS+(кейс)</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177420251</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48990</price>
+      </offer>
       <offer sku="00000023809">
         <name>Пила дисковая CROWN CT15074</name>
         <vendor>CROWN</vendor>
@@ -11506,6 +11539,17 @@
         </pickup-options>
         <price>42700</price>
       </offer>
+      <offer sku="00000031907">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 6 ступ. 126245</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126245</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58600</price>
+      </offer>
       <offer sku="00000031908">
         <name>Стремянка односторонняя KRAUSE SOLIDY 7 ступ. 126252</name>
         <vendor>Krause</vendor>
@@ -11762,6 +11806,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>59480</price>
+      </offer>
+      <offer sku="00000032334">
+        <name>Гайковерт импульсный GDR 120-Li без ЗУ И АКБ (50283210) Bosch</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140888462</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38840</price>
       </offer>
       <offer sku="00000032356">
         <name>Диск алмазный BOSCH 230х22.2 мм 2608615031</name>
@@ -15096,6 +15151,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12819</price>
+      </offer>
+      <offer sku="00000039617">
+        <name>Набор бумажных мешков BOSCH для UniversalVac 15 5 шт. 2609256F32</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140912334</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5790</price>
       </offer>
       <offer sku="00000039618">
         <name>Набор бумажных мешков Bosch для AdvancedVac 20 5 шт. 2609256F33</name>
@@ -21368,6 +21434,14 @@
         </pickup-options>
         <price>27990</price>
       </offer>
+      <offer sku="УТ-00053222">
+        <name>Аккумуляторная отвёртка угловая CSD 4V ALTECO, шт 67506</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13500</price>
+      </offer>
       <offer sku="УТ-00053274">
         <name>Зажим для СВП 2 мм 250 штук BIHUI BLSN250, шт 77309</name>
         <vendor>BIHUI</vendor>
@@ -25218,6 +25292,14 @@
         </pickup-options>
         <price>210000</price>
       </offer>
+      <offer sku="УТ-00073009">
+        <name>Травокосилка Husqvarna 541RS 967 66 08-03</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>245000</price>
+      </offer>
       <offer sku="УТ-00073040">
         <name>Шаблон комбинированный Husqvarna 0.325 1.3 SP33G X-CUT 586 93 84-01</name>
         <vendor>Husqvarna</vendor>
@@ -25695,6 +25777,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37500</price>
+      </offer>
+      <offer sku="УТ-00085210">
+        <name>Угловая шлифовальная машина Crown CT13677-125RSV</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41990</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>
@@ -27362,6 +27452,22 @@
         </pickup-options>
         <price>22610</price>
       </offer>
+      <offer sku="УТ-00095668">
+        <name>Насос центробежный ALTECO CHF 1500-50 CB</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>68500</price>
+      </offer>
+      <offer sku="УТ-00095670">
+        <name>Насос центробежный ALTECO CPM 1100-25 CS</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>61900</price>
+      </offer>
       <offer sku="УТ-00095786">
         <name>Колесо 6.00-9 для мотокультиватора MK 9-700</name>
         <vendor>ALTECO</vendor>
@@ -27444,6 +27550,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65990</price>
+      </offer>
+      <offer sku="УТ-00099560">
+        <name>13577 Машина шлифовальная прямая CROWN "600 Вт 6 мм 220 ~ 230 В"</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26990</price>
       </offer>
       <offer sku="УТ-00099807">
         <name>Цепь для бензопилы STIHL 74 зв.; 325"; 1.6 мм 36390000074</name>

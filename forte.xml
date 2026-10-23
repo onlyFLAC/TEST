@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 16:52">
+<fm_catalog date="2026-10-23 17:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,17 +204,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
-      </offer>
-      <offer sku="УТ-00003961">
-        <name>Лобзик электрический CROWN CT15287</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640372697731</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20990</price>
       </offer>
       <offer sku="УТ-00003970">
         <name>Шлифмашина щеточная CROWN CT13551-110RSV</name>
@@ -789,7 +778,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14390</price>
+        <price>15500</price>
       </offer>
       <offer sku="УТ-00005425">
         <name>Чехол для гладильной доски Nika ЧА2 1300х480 мм (в ассортименте)</name>

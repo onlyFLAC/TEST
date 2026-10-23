@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 14:54">
+<fm_catalog date="2026-10-23 15:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1037,7 +1037,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11590</price>
+        <price>14500</price>
       </offer>
       <offer sku="УТ-00007968">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21104XS-2 BMC</name>
@@ -10548,17 +10548,6 @@
         </pickup-options>
         <price>29990</price>
       </offer>
-      <offer sku="00000023877">
-        <name>Машина шлифовальная угловая CROWN CT13497-125</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177420435</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23990</price>
-      </offer>
       <offer sku="00000023908">
         <name>Машина шлифовальная прямая CROWN CT13308</name>
         <vendor>CROWN</vendor>
@@ -17039,14 +17028,6 @@
         </pickup-options>
         <price>6999</price>
       </offer>
-      <offer sku="00000061181">
-        <name>Бетоносмеситель Профмаш Б-130 Р Максим</name>
-        <vendor>ПРОФМАШ</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>198100</price>
-      </offer>
       <offer sku="00000061209">
         <name>Агрегат покрасочный WAGNER TITAN COMPACT 190 2429263</name>
         <vendor>WAGNER</vendor>
@@ -21690,7 +21671,7 @@
         <price>45200</price>
       </offer>
       <offer sku="УТ-00055405">
-        <name>Краскораспылитель бытовой Universal Sprayer W 690 Flexio KIT 2412558</name>
+        <name>Краскопульт электрический WAGNER W690 Flexio KIT 2412558</name>
         <vendor>WAGNER</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -25726,14 +25707,6 @@
         </pickup-options>
         <price>37500</price>
       </offer>
-      <offer sku="УТ-00085210">
-        <name>Угловая шлифовальная машина Crown CT13677-125RSV</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41990</price>
-      </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>
         <vendor>Nika</vendor>
@@ -26178,14 +26151,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>60360</price>
-      </offer>
-      <offer sku="УТ-00090583">
-        <name>Набор сверл Форстнера, 15-35 мм, HoKa, 5 шт. kwb by Einhell (706400)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27000</price>
       </offer>
       <offer sku="УТ-00090915">
         <name>Аккумулятор для инструмента BOSCH EXPERT EXBA18V-150 1600A036ZM</name>
@@ -27465,7 +27430,7 @@
         <price>2490</price>
       </offer>
       <offer sku="УТ-00099519">
-        <name>31014 Краскопульт CROWN</name>
+        <name>Краскопульт электрический CROWN CT31014</name>
         <vendor>CROWN</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -27589,14 +27554,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00102326">
-        <name>D-25688 Коронка BI-M 60 мм</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4875</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

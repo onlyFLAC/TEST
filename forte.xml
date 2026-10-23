@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 13:55">
+<fm_catalog date="2026-10-23 14:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1027,17 +1027,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11590</price>
-      </offer>
-      <offer sku="УТ-00007837">
-        <name>Комплект детской мебели Nika "ЩЕНЯЧИЙ ПАТРУЛЬ" ЩЗ</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076021255</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18990</price>
       </offer>
       <offer sku="УТ-00007968">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21104XS-2 BMC</name>

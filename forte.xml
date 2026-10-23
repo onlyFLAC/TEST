@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 08:02">
+<fm_catalog date="2026-10-23 08:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21333,14 +21333,6 @@
         </pickup-options>
         <price>7400</price>
       </offer>
-      <offer sku="УТ-00052936">
-        <name>Крюк зацеп для рулетки 505 69 72-10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3350</price>
-      </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
         <vendor>Matrix</vendor>
@@ -25696,6 +25688,14 @@
         </pickup-options>
         <price>4400</price>
       </offer>
+      <offer sku="УТ-00085489">
+        <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7550</price>
+      </offer>
       <offer sku="УТ-00085490">
         <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>
         <vendor>Husqvarna</vendor>
@@ -27355,6 +27355,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
+      </offer>
+      <offer sku="УТ-00099442">
+        <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2490</price>
       </offer>
       <offer sku="УТ-00099519">
         <name>31014 Краскопульт CROWN</name>

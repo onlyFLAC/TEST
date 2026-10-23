@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 07:03">
+<fm_catalog date="2026-10-23 07:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1724,17 +1724,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2580</price>
-      </offer>
-      <offer sku="УТ-00014223">
-        <name>Рулетка Kraftool "X-DRIVE" ударостойкая 3 м 19 мм 34122-03-19_z02</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229162047</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2270</price>
       </offer>
       <offer sku="УТ-00014457">
         <name>Лента вентиляционная перфорированная ЗУБР 25 м 310246-12</name>
@@ -4442,17 +4431,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44100</price>
-      </offer>
-      <offer sku="УТ-00040140">
-        <name>Доска гладильная Nika "ЛИНА 2" ДЛ2 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830455</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8500</price>
       </offer>
       <offer sku="УТ-00040230">
         <name>Велосипед детский Nika ВДН4/4 черный с лимонным</name>
@@ -8261,17 +8239,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2880</price>
-      </offer>
-      <offer sku="00000011618">
-        <name>Ящик для инструмента "НЕВА-12" пластиковый, ЗУБР</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373294587</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2868</price>
       </offer>
       <offer sku="00000011619">
         <name>Ящик для инструмента ЗУБР НЕВА-17 38323-17</name>
@@ -19373,17 +19340,6 @@
         </pickup-options>
         <price>27483</price>
       </offer>
-      <offer sku="УТ-00000189">
-        <name>Набор сабельных полотен BOSCH S922EF 2 шт. 2609256706</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140390637</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3327</price>
-      </offer>
       <offer sku="УТ-00000199">
         <name>Распылитель пены Bosch 450 мл F016800509</name>
         <vendor>BOSCH</vendor>
@@ -20859,6 +20815,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8320</price>
+      </offer>
+      <offer sku="УТ-00045882">
+        <name>ЗУБР НР-4 UniLock, OIS-хвост., 4 предм., набор насадок для реноватора, Профессионал (15572)</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
       </offer>
       <offer sku="УТ-00045921">
         <name>Диск пильный по металлу ЗУБР "ПРОФЕССИОНАЛ" 100Т 315х30 мм 36907-315-30-100_z01</name>
@@ -27040,14 +27004,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5640</price>
-      </offer>
-      <offer sku="УТ-00091640">
-        <name>Бокорезы BOSCH 160 мм 1600A032VE</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5280</price>
       </offer>
       <offer sku="УТ-00091642">
         <name>Рулетка BOSCH 5 м 1600A03318</name>

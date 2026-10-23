@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 15:24">
+<fm_catalog date="2026-10-23 15:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6153,6 +6153,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42150</price>
+      </offer>
+      <offer sku="00000006319">
+        <name>Домкрат гидравлический подкатной ЗУБР Т77 3 т 43055-3</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373255557</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>60680</price>
       </offer>
       <offer sku="00000006320">
         <name>Домкрат подкатной гидравлический ЗУБР Т-77-К 3 т 43055-3-K</name>
@@ -20400,17 +20411,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>85760</price>
-      </offer>
-      <offer sku="УТ-00002433">
-        <name>Перфоратор аккумуляторный без акк и зу Bosch GBH 187-LI</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952607283</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>134380</price>
       </offer>
       <offer sku="УТ-00040680">
         <name>Стремянка Nika 4 ступ. СМ4 оранжевый</name>

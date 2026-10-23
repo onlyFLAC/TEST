@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 15:53">
+<fm_catalog date="2026-10-23 16:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24720,17 +24720,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3377</price>
-      </offer>
-      <offer sku="УТ-00065307">
-        <name>ЗУБР 2700 Вт, d230 мм, УШМ, АВТ защита, фланец ″МИГ″, Профессионал (УШМ-П230-2700 ПВСТ)</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373558061</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>88080</price>
       </offer>
       <offer sku="УТ-00065434">
         <name>ЗУБР 24 мм, витая стальная латунированная проволока 0.3 мм, набор кистевых щеток для дрели, Профессионал (35225-24-H2)</name>

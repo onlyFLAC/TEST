@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 12:56">
+<fm_catalog date="2026-10-23 13:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4632,14 +4632,6 @@
         </pickup-options>
         <price>30500</price>
       </offer>
-      <offer sku="00000000629">
-        <name>Электрогенератор HUTER DY8000L</name>
-        <vendor>Huter</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>257790</price>
-      </offer>
       <offer sku="00000000649">
         <name>Генератор бензиновый Ресанта БГ 6500 Э 64/1/46</name>
         <vendor>Ресанта</vendor>
@@ -4650,14 +4642,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>312490</price>
-      </offer>
-      <offer sku="00000000662">
-        <name>Электрогенератор DY6500LX- электростартер Huter</name>
-        <vendor>Huter</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>243790</price>
       </offer>
       <offer sku="00000000709">
         <name>Дрель-шуруповерт аккумуляторная Вихрь ДА-24Л-2КУ 72/14/19</name>
@@ -4680,14 +4664,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31990</price>
-      </offer>
-      <offer sku="00000001459">
-        <name>Кабель с электрододержателем 25 кв.мм, 3 м РЕСАНТА</name>
-        <vendor>Ресанта</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16172</price>
       </offer>
       <offer sku="00000001493">
         <name>Водонагреватель накопительный Ресанта ВН-10Н 74/5/7</name>

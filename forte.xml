@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 13:25">
+<fm_catalog date="2026-10-23 13:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15789,17 +15789,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1890</price>
-      </offer>
-      <offer sku="00000042385">
-        <name>Набор пилок для сабельной пилы по дереву Bosch S1131L 2шт. 2609256702</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140390590</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3690</price>
       </offer>
       <offer sku="00000042407">
         <name>Автосигнализация SL A93 V2 2CAN+2LIN</name>

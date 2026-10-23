@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-23 11:27">
+<fm_catalog date="2026-10-23 11:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1472,17 +1472,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6380</price>
-      </offer>
-      <offer sku="УТ-00012979">
-        <name>Сушилка напольная Nika СБ1/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111505000</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7800</price>
       </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 (в ассортименте)</name>
@@ -8644,17 +8633,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2890</price>
-      </offer>
-      <offer sku="00000014282">
-        <name>Триммер электрический Denzel TE-1400 96612</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996124582</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>45890</price>
       </offer>
       <offer sku="00000014288">
         <name>Машина снегоуборочная электрическая Сибртех ЭСБ-2000 97620</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-24 10:58">
+<fm_catalog date="2026-10-24 11:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4630,6 +4630,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31990</price>
+      </offer>
+      <offer sku="00000001459">
+        <name>Кабель с электрододержателем 25 кв.мм, 3 м РЕСАНТА</name>
+        <vendor>Ресанта</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16172</price>
       </offer>
       <offer sku="00000001493">
         <name>Водонагреватель накопительный Ресанта ВН-10Н 74/5/7</name>
@@ -10659,18 +10667,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12290</price>
-      </offer>
-      <offer sku="00000024496">
-        <name>Алмазная коронка 132*350 PS</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4607094412793</barcode>
-          <barcode>4870216455163</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13680</price>
       </offer>
       <offer sku="00000024511">
         <name>Алмазная коронка 200*350 ВТ</name>
@@ -21306,6 +21302,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
+      </offer>
+      <offer sku="УТ-00052936">
+        <name>Крюк зацеп для рулетки 505 69 72-10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3350</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>

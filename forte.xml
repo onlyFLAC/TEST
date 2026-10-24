@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-24 17:18">
+<fm_catalog date="2026-10-24 17:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13409,17 +13409,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3165</price>
-      </offer>
-      <offer sku="00000034625">
-        <name>Пилка для лобзика по дереву (74 мм; 5 шт.) Bosch HCS T 101 D 2608630032</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140006804</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2690</price>
       </offer>
       <offer sku="00000034630">
         <name>5 ЛОБЗИКОВЫХ ПИЛОК T 119 ВО, HCS</name>

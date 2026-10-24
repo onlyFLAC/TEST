@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-24 08:02">
+<fm_catalog date="2026-10-24 08:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4329,18 +4329,6 @@
         </pickup-options>
         <price>39990</price>
       </offer>
-      <offer sku="УТ-00028792">
-        <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Ч черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633097</barcode>
-          <barcode>4640047369768</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4910</price>
-      </offer>
       <offer sku="УТ-00028793">
         <name>Вешалка настенная ЗМИ "ТОРОНТО 5" графит ВНТ5 ГР</name>
         <vendor>ЗМИ</vendor>
@@ -8061,17 +8049,6 @@
         </pickup-options>
         <price>2080</price>
       </offer>
-      <offer sku="00000010674">
-        <name>Торцовая головка ЗУБР "Мастер" (1/2"), Cr-V, SUPER LOCK, хроматированное покрытие, 17 мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373111266</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1090</price>
-      </offer>
       <offer sku="00000010715">
         <name>Трещотка для торцовых головок STAYER "STANDARD", 1/4"</name>
         <vendor>STAYER</vendor>
@@ -10897,17 +10874,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>35990</price>
-      </offer>
-      <offer sku="00000025386">
-        <name>Вешалка настенная Nika ВП8М/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111541589</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6999</price>
       </offer>
       <offer sku="00000025387">
         <name>Вешалка настенная Nika ВН5/Ч черный</name>
@@ -21883,17 +21849,6 @@
         </pickup-options>
         <price>53050</price>
       </offer>
-      <offer sku="УТ-00055921">
-        <name>Тумба прикроватная ЗМИ "ТОРОНТО 12Л" ТПТ12Л белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633646</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9970</price>
-      </offer>
       <offer sku="УТ-00055942">
         <name>Подставка для цветов ЗМИ "ШАФРАН 17Л" ПДЦШ17Л черная</name>
         <vendor>ЗМИ</vendor>
@@ -22046,14 +22001,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11076</price>
-      </offer>
-      <offer sku="УТ-00056230">
-        <name>ЗУБР 400 мм, 0-90°, ±0,2°, уровень-уклономер, Профессионал (34286)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17860</price>
       </offer>
       <offer sku="УТ-00056355">
         <name>KRAFTOOL KB-2 для сумок с быстросъёмным креплением FastClip, 80-122 см, широкий кушак, пояс монтажника (38763)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-24 10:28">
+<fm_catalog date="2026-10-24 10:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -212,17 +212,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>45990</price>
-      </offer>
-      <offer sku="УТ-00003976">
-        <name>Мультиметр цифровой CROWN CT44051</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177426468</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -13796,17 +13785,6 @@
         </pickup-options>
         <price>3837</price>
       </offer>
-      <offer sku="00000035487">
-        <name>5 САБЕЛЬНЫХ ПИЛОК S 1225 VF</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140451963</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11858</price>
-      </offer>
       <offer sku="00000035524">
         <name>Бур по бетону BOSCH SDS+ 6x150/210 мм 2608680264</name>
         <vendor>BOSCH</vendor>
@@ -17614,7 +17592,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9999</price>
+        <price>18990</price>
       </offer>
       <offer sku="00000064318">
         <name>Этажерка на колесиках и столешницей ЗМИ "ЛАДЬЯ 34КС" черная Э357</name>
@@ -17681,7 +17659,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14890</price>
+        <price>18000</price>
       </offer>
       <offer sku="00000064348">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 коричневая</name>
@@ -19159,7 +19137,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16670</price>
+        <price>17990</price>
       </offer>
       <offer sku="00000075861">
         <name>ЗМИ Подставка для обуви ГРАНАДА 13 с ящиком Белый</name>
@@ -20346,7 +20324,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16250</price>
+        <price>19990</price>
       </offer>
       <offer sku="УТ-00002424">
         <name>Машина шлифовальная эксцентриковая Bosch GEX 185-LI без АКБ и ЗУ</name>

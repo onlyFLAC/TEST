@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-24 09:59">
+<fm_catalog date="2026-10-24 10:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2590,17 +2590,6 @@
       <offer sku="УТ-00022371">
         <name>Цепь 15"; 3/8"; 1.5 56DL C85 X-Cut Husqvarna</name>
         <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9900</price>
-      </offer>
-      <offer sku="УТ-00022389">
-        <name>ШПРИЦ - МАСЛЕНКА ДЛЯ КОНСИСТЕНТНОЙ СМАЗКИ HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883819715</barcode>
-        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -25404,7 +25393,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>79275</price>
+        <price>73110</price>
       </offer>
       <offer sku="УТ-00075705">
         <name>Набор отверток Wera 05347735002</name>
@@ -25428,7 +25417,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25420</price>
+        <price>24890</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-24 08:31">
+<fm_catalog date="2026-10-24 09:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14698,17 +14698,6 @@
         </pickup-options>
         <price>32313</price>
       </offer>
-      <offer sku="00000037285">
-        <name>Диск пильный BOSCH 216х30 мм 2608642497</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140648226</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28888</price>
-      </offer>
       <offer sku="00000037407">
         <name>Набор шлифлистов Bosch C450 Р120 125 мм 50 шт. 2608621743</name>
         <vendor>BOSCH</vendor>
@@ -15918,17 +15907,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4995</price>
-      </offer>
-      <offer sku="00000050323">
-        <name>Этажерка Nika ЭТ1/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047360277</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10263</price>
       </offer>
       <offer sku="00000050324">
         <name>Этажерка Nika ЭТ2/Ч черный</name>
@@ -20576,6 +20554,17 @@
         </pickup-options>
         <price>2660</price>
       </offer>
+      <offer sku="УТ-00041778">
+        <name>Фреза прямая пазовая PROFSET 6х20х8 мм 001060200</name>
+        <vendor>PROFSET</vendor>
+        <barcodes>
+          <barcode>036000291469</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2660</price>
+      </offer>
       <offer sku="УТ-00041780">
         <name>Фреза пазовая прямая PROFSET 10х20х6 мм 000100200</name>
         <vendor>PROFSET</vendor>
@@ -23272,17 +23261,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15290</price>
-      </offer>
-      <offer sku="УТ-00060284">
-        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477622816</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12240</price>
       </offer>
       <offer sku="УТ-00060328">
         <name>Полотенцедержатель Frap 302 черный F30201</name>
@@ -27526,14 +27504,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>345000</price>
-      </offer>
-      <offer sku="УТ-00100797">
-        <name>Машина полировальная Bosch GPO 11-180 S 06013A2300</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>52500</price>
       </offer>
       <offer sku="УТ-00100798">
         <name>Нивелир лазерный Bosch GLL 20-22 G + LB10 0601065600</name>

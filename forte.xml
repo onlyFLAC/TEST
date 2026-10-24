@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-24 12:55">
+<fm_catalog date="2026-10-24 13:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17400,17 +17400,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12530</price>
-      </offer>
-      <offer sku="00000064216">
-        <name>ЗМИ Подставка для обуви ЖЕНЕВА 15 Белый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093786185</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18734</price>
       </offer>
       <offer sku="00000064218">
         <name>Подставка для обуви ЗМИ "ЖЕНЕВА 25" ПДОЖ25 белая</name>

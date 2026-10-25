@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-25 10:52">
+<fm_catalog date="2026-10-25 11:21">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -26951,14 +26951,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7800</price>
-      </offer>
-      <offer sku="УТ-00091643">
-        <name>Ножовка BOSCH 300 мм, с 3 дополнительными лезвиями 1600A033BK</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13400</price>
       </offer>
       <offer sku="УТ-00091644">
         <name>Рулетка BOSCH 5 м 1600A033BL</name>

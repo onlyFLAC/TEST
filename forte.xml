@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-25 11:21">
+<fm_catalog date="2026-10-25 11:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4954,17 +4954,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4580</price>
-      </offer>
-      <offer sku="00000002320">
-        <name>MIRAX, 100 мм, слесарные тиски</name>
-        <vendor>Mirax</vendor>
-        <barcodes>
-          <barcode>4034229231484</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14490</price>
       </offer>
       <offer sku="00000002363">
         <name>P-44 Секатор со стальными рукоятками, контактный, 190мм, GRINDA PROLine</name>

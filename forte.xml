@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-25 06:58">
+<fm_catalog date="2026-10-25 07:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10676,17 +10676,6 @@
         </pickup-options>
         <price>19500</price>
       </offer>
-      <offer sku="00000024802">
-        <name>Рубанок электрический PL 650 ALTECO</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216454302</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28500</price>
-      </offer>
       <offer sku="00000024997">
         <name>Дрель Makita 6413</name>
         <vendor>Makita</vendor>
@@ -16536,17 +16525,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12660</price>
-      </offer>
-      <offer sku="00000059195">
-        <name>Табурет-стремянка ЗМИ "КОНЕК" ТС277 коричневый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195632908</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15160</price>
       </offer>
       <offer sku="00000059210">
         <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 бежевый</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-26 16:41">
+<fm_catalog date="2026-10-26 17:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1419,7 +1419,7 @@
         <price>6380</price>
       </offer>
       <offer sku="УТ-00012981">
-        <name>Доска гладильная Nika "BELL CLASSY 2" БК2 (в ассортименте)</name>
+        <name>Доска гладильная Nika "BELL CLASSY 2" БК2 серый</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4607075830936</barcode>
@@ -1430,7 +1430,7 @@
         <price>11990</price>
       </offer>
       <offer sku="УТ-00012982">
-        <name>Доска гладильная Nika "BELL CLASSY 3" БК3 (в ассортименте)</name>
+        <name>Доска гладильная Nika "BELL CLASSY 3" БК3 серый</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4607075830943</barcode>
@@ -10808,7 +10808,7 @@
         <price>2400</price>
       </offer>
       <offer sku="00000025436">
-        <name>Сушилка напольная Nika СБ3 серебряный</name>
+        <name>Сушилка напольная Nika СБ3/С серебристый</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4607075831339</barcode>
@@ -11376,17 +11376,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42700</price>
-      </offer>
-      <offer sku="00000031907">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 6 ступ. 126245</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126245</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>58600</price>
       </offer>
       <offer sku="00000031908">
         <name>Стремянка односторонняя KRAUSE SOLIDY 7 ступ. 126252</name>
@@ -22064,7 +22053,7 @@
         <price>3820</price>
       </offer>
       <offer sku="УТ-00058329">
-        <name>Доска гладильная Nika "BELL CLASSY 1" БК1 (в ассортименте)</name>
+        <name>Доска гладильная Nika "BELL CLASSY 1" БК1 серый</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4607075830929</barcode>
@@ -27143,6 +27132,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7900</price>
+      </offer>
+      <offer sku="УТ-00096156">
+        <name>Лезвие для шпателя BIHUI 100 см, толщина 0.5 мм PTKB100-SB</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4280</price>
       </offer>
       <offer sku="УТ-00096158">
         <name>Лезвие для шпателя BIHUI 40 см, толщина 0.5 мм PTKB40-SB</name>

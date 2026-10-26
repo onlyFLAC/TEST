@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-26 15:41">
+<fm_catalog date="2026-10-26 16:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2628,6 +2628,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>57000</price>
+      </offer>
+      <offer sku="УТ-00022464">
+        <name>Топор универсальный 65см 0,85кг</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883620687</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>53000</price>
       </offer>
       <offer sku="УТ-00022468">
         <name>Топор-колун 80см 2,5кг</name>
@@ -8844,7 +8855,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7457</price>
+        <price>7456</price>
       </offer>
       <offer sku="00000015921">
         <name>Набор металлических хомутов Сибртех 50-70 мм 50 шт. 47563</name>
@@ -8855,7 +8866,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4684</price>
+        <price>4683</price>
       </offer>
       <offer sku="00000015949">
         <name>Набор стальных хомутов Сибртех 120-140 мм 25 шт. 47591</name>
@@ -9324,7 +9335,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6150</price>
+        <price>6145</price>
       </offer>
       <offer sku="00000017681">
         <name>Лейка садовая Россия 2 л 67505</name>
@@ -10075,7 +10086,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>727</price>
+        <price>726</price>
       </offer>
       <offer sku="00000021988">
         <name>Шпатель Sparta 300 мм 85130</name>
@@ -16960,7 +16971,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2300</price>
+        <price>2290</price>
       </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 шт. 14151</name>
@@ -22999,6 +23010,17 @@
         </pickup-options>
         <price>27530</price>
       </offer>
+      <offer sku="УТ-00060221">
+        <name>Сифон для ванны автомат Frap F68-29 Оружейная Сталь</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477632068</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13440</price>
+      </offer>
       <offer sku="УТ-00060227">
         <name>Клапан донный Frap 32 мм черный F62-7</name>
         <vendor>Frap</vendor>
@@ -23170,6 +23192,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13500</price>
+      </offer>
+      <offer sku="УТ-00060449">
+        <name>Смеситель для раковины Frap черный F10801-62</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477623677</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16580</price>
       </offer>
       <offer sku="УТ-00060451">
         <name>Смеситель Frap для раковины F10801-2 высокий из нержавеющий стали</name>

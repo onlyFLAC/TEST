@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-26 13:44">
+<fm_catalog date="2026-10-26 14:13">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2548,6 +2548,14 @@
         </pickup-options>
         <price>9900</price>
       </offer>
+      <offer sku="УТ-00022403">
+        <name>Шина 15'' 0.325 1.5 64DL 11T 5кл HSM Husqvarna X-Force</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22000</price>
+      </offer>
       <offer sku="УТ-00022418">
         <name>Шина 12'' 1/4 1.3 64DL 7T 1кл A318 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2676,6 +2684,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39000</price>
+      </offer>
+      <offer sku="УТ-00022552">
+        <name>Перчатки Husqvarna Functional зимние р.10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>33000</price>
       </offer>
       <offer sku="УТ-00023575">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/19 в стиле Де Жуи</name>
@@ -14691,6 +14707,17 @@
         </pickup-options>
         <price>6383</price>
       </offer>
+      <offer sku="00000038903">
+        <name>Набор лобзиковых пилок BOSCH 10 шт. 2607011170</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140913416</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6342</price>
+      </offer>
       <offer sku="00000038969">
         <name>Сверло по металлу BOSCH PointTeQ 4.2 мм 2608577162</name>
         <vendor>BOSCH</vendor>
@@ -18943,6 +18970,17 @@
         </pickup-options>
         <price>16550</price>
       </offer>
+      <offer sku="00000075604">
+        <name>Этажерка Nika ЭТК3/МС матово-серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111514798</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11797</price>
+      </offer>
       <offer sku="00000075846">
         <name>Шпиндель Bosch 1607000D6A</name>
         <vendor>BOSCH</vendor>
@@ -20739,17 +20777,6 @@
         </pickup-options>
         <price>552200</price>
       </offer>
-      <offer sku="УТ-00048211">
-        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245848</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1880</price>
-      </offer>
       <offer sku="УТ-00048216">
         <name>Шнур кордовый Husqvarna 2.7x70 мм 597 66 90-10</name>
         <vendor>Husqvarna</vendor>
@@ -21657,17 +21684,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14570</price>
-      </offer>
-      <offer sku="УТ-00055974">
-        <name>Вешалка с полкой двух ярусная ЗМИ "ТОРОНТО 22Д" ВСПТ22Д белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633042</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18790</price>
       </offer>
       <offer sku="УТ-00055980">
         <name>Вешалка с полкой ЗМИ Торонто 11 Черный</name>
@@ -24058,6 +24074,17 @@
         </pickup-options>
         <price>34010</price>
       </offer>
+      <offer sku="УТ-00063830">
+        <name>Клещи переставные (водяные) Bosch 1600A027PR</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952614205</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10550</price>
+      </offer>
       <offer sku="УТ-00063833">
         <name>Набор инструмента расширенный, 132 предмета</name>
         <vendor>BOSCH</vendor>
@@ -25603,6 +25630,14 @@
         </pickup-options>
         <price>214990</price>
       </offer>
+      <offer sku="УТ-00087775">
+        <name>Лента для рулетки Husqvarna 15 м 505 69 73-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6500</price>
+      </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>
         <vendor>BOSCH</vendor>
@@ -27076,30 +27111,6 @@
         </pickup-options>
         <price>108500</price>
       </offer>
-      <offer sku="УТ-00097665">
-        <name>Лампа светодиодная аккумуляторная с магнитом(5W/3WCOB,150/360Lumen,3.7V,2000mAh,t зарядки 4ч,зарядка F-EL2301 F-EL2301</name>
-        <vendor>Forsage</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9700</price>
-      </offer>
-      <offer sku="УТ-00097691">
-        <name>Набор ключей торцовых шарнирных двухсторонних 8 предметов (6х7, 8х9, 10х11, 12х13, 14х15, 16х17, 18х F-5084 F-5084</name>
-        <vendor>Forsage</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22400</price>
-      </offer>
-      <offer sku="УТ-00097760">
-        <name>Съемник рулевых тяг универсальный 1/2" (33-42мм) разводной F-9T0802 F-9T0802</name>
-        <vendor>Forsage</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7590</price>
-      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -27123,22 +27134,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
-      </offer>
-      <offer sku="УТ-00098618">
-        <name>Ключи рожковые, набор 6пр. (6х7, 8х9, 10х11, 12х13, 14х15, 16х17мм) RF-5062P RF-5062P</name>
-        <vendor>Rock FORCE</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5400</price>
-      </offer>
-      <offer sku="УТ-00098675">
-        <name>Набор отверток и бит 100пр. RF-10100 RF-10100</name>
-        <vendor>Rock FORCE</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14690</price>
       </offer>
       <offer sku="УТ-00099442">
         <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>

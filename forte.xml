@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-26 13:14">
+<fm_catalog date="2026-10-26 13:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17935,6 +17935,14 @@
         </pickup-options>
         <price>15180</price>
       </offer>
+      <offer sku="00000070686">
+        <name>Цепь (50 зв.) 3/8Р (1,3) 63 РS3 Picco Super Stihl</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9070</price>
+      </offer>
       <offer sku="00000070756">
         <name>Шина STIHL 12" 30 см 1.1 мм 30050083405</name>
         <vendor>STIHL</vendor>
@@ -21275,6 +21283,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>490800</price>
+      </offer>
+      <offer sku="УТ-00055088">
+        <name>Бензопила MS 182 (30 см.) 11480113060K302</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>135100</price>
       </offer>
       <offer sku="УТ-00055102">
         <name>Воздуходувное устройство BGA 57 SET (AL 101 + AK20.) 45230115964K</name>
@@ -27060,6 +27076,30 @@
         </pickup-options>
         <price>108500</price>
       </offer>
+      <offer sku="УТ-00097665">
+        <name>Лампа светодиодная аккумуляторная с магнитом(5W/3WCOB,150/360Lumen,3.7V,2000mAh,t зарядки 4ч,зарядка F-EL2301 F-EL2301</name>
+        <vendor>Forsage</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9700</price>
+      </offer>
+      <offer sku="УТ-00097691">
+        <name>Набор ключей торцовых шарнирных двухсторонних 8 предметов (6х7, 8х9, 10х11, 12х13, 14х15, 16х17, 18х F-5084 F-5084</name>
+        <vendor>Forsage</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22400</price>
+      </offer>
+      <offer sku="УТ-00097760">
+        <name>Съемник рулевых тяг универсальный 1/2" (33-42мм) разводной F-9T0802 F-9T0802</name>
+        <vendor>Forsage</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7590</price>
+      </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>
         <vendor>JBM</vendor>
@@ -27083,6 +27123,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
+      </offer>
+      <offer sku="УТ-00098618">
+        <name>Ключи рожковые, набор 6пр. (6х7, 8х9, 10х11, 12х13, 14х15, 16х17мм) RF-5062P RF-5062P</name>
+        <vendor>Rock FORCE</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5400</price>
+      </offer>
+      <offer sku="УТ-00098675">
+        <name>Набор отверток и бит 100пр. RF-10100 RF-10100</name>
+        <vendor>Rock FORCE</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14690</price>
       </offer>
       <offer sku="УТ-00099442">
         <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-26 10:48">
+<fm_catalog date="2026-10-26 11:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6160,17 +6160,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>102090</price>
-      </offer>
-      <offer sku="00000006570">
-        <name>Измельчитель садовый электрический, ЗУБР ЗИЭ-44-2800, бесшумный, р/с 44 мм, контейнер 60 л, 2800 Вт</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373251764</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>150860</price>
       </offer>
       <offer sku="00000006571">
         <name>Импульсный паяльник ЗУБР "Профессионал" в наборе, 2 сменных жала, канифоль, припой, 150Вт</name>

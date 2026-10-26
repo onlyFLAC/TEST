@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-26 14:13">
+<fm_catalog date="2026-10-26 14:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2531,6 +2531,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9900</price>
+      </offer>
+      <offer sku="УТ-00022312">
+        <name>КОМПЛЕКТ ЗАТОЧНОЙ 0.325 1.3 SP33G X-CUT HUSQVARNA</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089265075</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13200</price>
       </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
@@ -22846,6 +22857,14 @@
         </pickup-options>
         <price>31050</price>
       </offer>
+      <offer sku="УТ-00059958">
+        <name>Смеситель GAPPO с гигиеническим душем G7288-6</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35200</price>
+      </offer>
       <offer sku="УТ-00059962">
         <name>Смеситель GAPPO с гигиеническим душем G7217-9 оружейная сталь встраиваемый</name>
         <vendor>GAPPO</vendor>
@@ -25463,6 +25482,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3300</price>
+      </offer>
+      <offer sku="УТ-00085500">
+        <name>Ножи сменные для триммерной головки Husqvarna М10 255 мм 531 01 77-14</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2200</price>
       </offer>
       <offer sku="УТ-00085502">
         <name>Ножницы аккумуляторные Husqvarna 522iHD60 970 46 60-01</name>

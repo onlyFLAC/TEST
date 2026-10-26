@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-26 08:21">
+<fm_catalog date="2026-10-26 08:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -530,17 +530,6 @@
         </pickup-options>
         <price>4190</price>
       </offer>
-      <offer sku="УТ-00004876">
-        <name>Сверло по металлу PATRIOT 5х86/52 мм 10 шт. 815010031</name>
-        <vendor>Patriot</vendor>
-        <barcodes>
-          <barcode>4610030815879</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3390</price>
-      </offer>
       <offer sku="УТ-00004877">
         <name>Сверло по металлу PATRIOT 5.2х86/52 мм 10 шт. 815010032</name>
         <vendor>Patriot</vendor>
@@ -817,28 +806,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005960">
-        <name>Уровень тип 80AS, 40 см STABILA 19163</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191634</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16490</price>
-      </offer>
-      <offer sku="УТ-00005969">
-        <name>Уровень тип 80АS-2, 120 см, 3 глазка STABILA 19173</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191733</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29990</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -2475,17 +2442,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
-      </offer>
-      <offer sku="УТ-00022271">
-        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245909</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7100</price>
       </offer>
       <offer sku="УТ-00022274">
         <name>Масло 4T SAE-30 1.4л Husqvarna</name>
@@ -7887,17 +7843,6 @@
         </pickup-options>
         <price>11780</price>
       </offer>
-      <offer sku="00000010275">
-        <name>Лопата снеговая без черенка Сибин ЛП-500 421835</name>
-        <vendor>Сибин</vendor>
-        <barcodes>
-          <barcode>4606373292927</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4190</price>
-      </offer>
       <offer sku="00000010276">
         <name>Лопата снеговая Сибин ЛПА-410 421845</name>
         <vendor>Сибин</vendor>
@@ -11109,17 +11054,6 @@
         </pickup-options>
         <price>3900</price>
       </offer>
-      <offer sku="00000030886">
-        <name>Щетка для снега со скребком WORTH 2727</name>
-        <vendor>Worth</vendor>
-        <barcodes>
-          <barcode>6936863027271</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2250</price>
-      </offer>
       <offer sku="00000031170">
         <name>Мойка высокого давления Total Tools BHR 302/МЭ-302С</name>
         <vendor>Total Tools</vendor>
@@ -11412,6 +11346,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>41500</price>
+      </offer>
+      <offer sku="00000031943">
+        <name>Лестница трехсекционная KRAUSE STABILO 3х8 ступ. 133748</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>195400</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -12458,17 +12400,6 @@
         </pickup-options>
         <price>63040</price>
       </offer>
-      <offer sku="00000032773">
-        <name>Пылесос Bosch GAS 12-25 PL 060197C100</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140926072</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>179330</price>
-      </offer>
       <offer sku="00000032776">
         <name>Пылесос универсальный Bosch UniversalVac 15 06033D1100</name>
         <vendor>BOSCH</vendor>
@@ -13412,17 +13343,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6041</price>
-      </offer>
-      <offer sku="00000034719">
-        <name>Набор лобзиковых пилок BOSCH T301CD 5 шт. 2608637590</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140016308</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3648</price>
       </offer>
       <offer sku="00000034722">
         <name>100 ЛОБЗИКОВЫХ ПИЛОК T 101 B, HCS</name>
@@ -23843,17 +23763,6 @@
         </pickup-options>
         <price>350000</price>
       </offer>
-      <offer sku="УТ-00063391">
-        <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393080347268</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
-      </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
         <vendor>BOSCH</vendor>
@@ -25167,17 +25076,6 @@
         </pickup-options>
         <price>21890</price>
       </offer>
-      <offer sku="УТ-00075660">
-        <name>Набор Г образных ключей Wera 05073593001</name>
-        <vendor>Wera</vendor>
-        <barcodes>
-          <barcode>4013288165688</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26290</price>
-      </offer>
       <offer sku="УТ-00075677">
         <name>Набор инструментов для мастерских Wera 05136042001</name>
         <vendor>Wera</vendor>
@@ -25479,14 +25377,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
-      </offer>
-      <offer sku="УТ-00085489">
-        <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7550</price>
       </offer>
       <offer sku="УТ-00085490">
         <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>

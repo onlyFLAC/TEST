@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-26 11:17">
+<fm_catalog date="2026-10-26 11:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23712,8 +23712,8 @@
         <price>211140</price>
       </offer>
       <offer sku="УТ-00063360">
-        <name>Автосигнализация Pandect X-1800L v4</name>
-        <vendor>Pandora</vendor>
+        <name>Автосигнализация PanDECT X-1800L v4</name>
+        <vendor>PanDECT</vendor>
         <barcodes>
           <barcode>4409700000406</barcode>
         </barcodes>

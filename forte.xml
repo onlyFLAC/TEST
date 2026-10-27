@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 10:16">
+<fm_catalog date="2026-10-27 10:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8320,17 +8320,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000012238">
-        <name>Прибор для обнаружения скрытой проводки и металла// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996085029</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4080</price>
-      </offer>
       <offer sku="00000012268">
         <name>Набор профессиональных отверток Fusion, CrV, 3-компонентная рукоятка antislip, 6 шт.// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8844,7 +8833,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7456</price>
+        <price>7455</price>
       </offer>
       <offer sku="00000015921">
         <name>Набор металлических хомутов Сибртех 50-70 мм 50 шт. 47563</name>
@@ -8855,7 +8844,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4683</price>
+        <price>4682</price>
       </offer>
       <offer sku="00000015949">
         <name>Набор стальных хомутов Сибртех 120-140 мм 25 шт. 47591</name>
@@ -9324,7 +9313,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6145</price>
+        <price>6140</price>
       </offer>
       <offer sku="00000017681">
         <name>Лейка садовая Россия 2 л 67505</name>
@@ -9955,7 +9944,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3090</price>
+        <price>3080</price>
       </offer>
       <offer sku="00000021636">
         <name>Таз прямоугольный строительный, 40 л Россия// Sparta</name>
@@ -10001,7 +9990,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3475</price>
+        <price>3470</price>
       </offer>
       <offer sku="00000021649">
         <name>Таз прямоугольный строительный Sparta 90 л 814535</name>
@@ -10075,7 +10064,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>726</price>
+        <price>725</price>
       </offer>
       <offer sku="00000021988">
         <name>Шпатель Sparta 300 мм 85130</name>
@@ -10491,14 +10480,6 @@
         </pickup-options>
         <price>29990</price>
       </offer>
-      <offer sku="00000023908">
-        <name>Машина шлифовальная прямая CROWN CT13308</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19990</price>
-      </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
         <vendor>Mateus</vendor>
@@ -10808,7 +10789,7 @@
         <price>7888</price>
       </offer>
       <offer sku="00000025438">
-        <name>Сушилка напольная Nika СБ2/С серебряный</name>
+        <name>Сушилка напольная Nika СБ2/С серебристый</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4607075831117</barcode>
@@ -19824,7 +19805,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4560</price>
+        <price>4540</price>
       </offer>
       <offer sku="УТ-00002002">
         <name>Стойка для УШМ Einhell TS 230/1 (4431051)</name>
@@ -25574,6 +25555,14 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00089274">
+        <name>Подгузники Altyn bala NEW 5-XL 11-18 кг 44 шт.</name>
+        <vendor>Altyn bala</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="УТ-00089277">
         <name>Трусики Altyn bala 4-L 9-14 кг 42 шт.</name>
         <vendor>Altyn bala</vendor>
@@ -25581,6 +25570,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
+      </offer>
+      <offer sku="УТ-00089281">
+        <name>Подгузники MARTI S25 4-8 кг</name>
+        <vendor>MARTI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2800</price>
       </offer>
       <offer sku="УТ-00089284">
         <name>Подгузники MARTI NB90 0-5 кг</name>
@@ -25592,6 +25589,14 @@
       </offer>
       <offer sku="УТ-00089286">
         <name>Подгузники MARTI M62 6-11 кг</name>
+        <vendor>MARTI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6800</price>
+      </offer>
+      <offer sku="УТ-00089287">
+        <name>Подгузники MARTI L54 9-14 кг</name>
         <vendor>MARTI</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -25614,6 +25619,17 @@
         <vendor>MARTI</vendor>
         <barcodes>
           <barcode>4580664610105</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6800</price>
+      </offer>
+      <offer sku="УТ-00089291">
+        <name>Трусики MARTI XL38 12-20 кг</name>
+        <vendor>MARTI</vendor>
+        <barcodes>
+          <barcode>4580664610112</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>

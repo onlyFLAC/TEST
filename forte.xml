@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 14:41">
+<fm_catalog date="2026-10-27 15:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1417,6 +1417,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6380</price>
+      </offer>
+      <offer sku="УТ-00012979">
+        <name>Сушилка напольная Nika СБ1/Ч черный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111505000</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7800</price>
       </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 серый</name>
@@ -4248,6 +4259,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7350</price>
+      </offer>
+      <offer sku="УТ-00026332">
+        <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5/МБ матово-белый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111516419</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9750</price>
       </offer>
       <offer sku="УТ-00026340">
         <name>Сушилка напольная Nika СБ1/Б белый</name>
@@ -8658,6 +8680,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3380</price>
+      </offer>
+      <offer sku="00000014706">
+        <name>Струбцина G-образная СИБРТЕХ 75мм 20582</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996124810</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2190</price>
       </offer>
       <offer sku="00000014708">
         <name>Струбцина G-образная,150 мм// Сибртех</name>
@@ -21311,6 +21344,14 @@
         </pickup-options>
         <price>391500</price>
       </offer>
+      <offer sku="УТ-00055254">
+        <name>Бензопила STIHL MS 250 (шина 45см, цепь 61зв., кожух)</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>206500</price>
+      </offer>
       <offer sku="УТ-00055256">
         <name>Бензопила STIHL MS 230 40 см 11230123042К40</name>
         <vendor>STIHL</vendor>
@@ -21796,6 +21837,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>136200</price>
+      </offer>
+      <offer sku="УТ-00056637">
+        <name>Сирена пьезоэлектрическая Pandora PS-330</name>
+        <vendor>Pandora</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7500</price>
       </offer>
       <offer sku="УТ-00056639">
         <name>Видеорегистратор SilverStone F-1 INTEGRAL 2.0 Wi-Fi</name>
@@ -24600,6 +24649,14 @@
         </pickup-options>
         <price>30875</price>
       </offer>
+      <offer sku="УТ-00072577">
+        <name>Отвертка винтов с крестообразным шлицем KNIPEX 98 24 02</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9090</price>
+      </offer>
       <offer sku="УТ-00072582">
         <name>Клещи сантехнические KNIPEX 88 01 250</name>
         <vendor>KNIPEX</vendor>
@@ -26978,14 +27035,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7900</price>
-      </offer>
-      <offer sku="УТ-00095811">
-        <name>Набор аккумулятор + зарядное устройство ALTECO Kit (BCD 21-40 Li / BC 21-40 QF)</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16900</price>
       </offer>
       <offer sku="УТ-00096156">
         <name>Лезвие для шпателя BIHUI 100 см, толщина 0.5 мм PTKB100-SB</name>

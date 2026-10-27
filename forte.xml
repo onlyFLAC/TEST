@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 16:39">
+<fm_catalog date="2026-10-27 17:08">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16396,6 +16396,17 @@
         </pickup-options>
         <price>12660</price>
       </offer>
+      <offer sku="00000059208">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л ваниль</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011877985</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5390</price>
+      </offer>
       <offer sku="00000059210">
         <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 бежевый</name>
         <vendor>ЗМИ</vendor>
@@ -16406,6 +16417,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5160</price>
+      </offer>
+      <offer sku="00000059224">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011875639</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13020</price>
       </offer>
       <offer sku="00000059225">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 черная</name>
@@ -17279,6 +17301,18 @@
         </pickup-options>
         <price>24188</price>
       </offer>
+      <offer sku="00000064237">
+        <name>Подставка для цветов ЗМИ "АРКА 5" коричневая ПДЦ414</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195634469</barcode>
+          <barcode>4640011879088</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8630</price>
+      </offer>
       <offer sku="00000064260">
         <name>Табурет-стремянка ЗМИ "КОНЕК" ТС277 белый</name>
         <vendor>ЗМИ</vendor>
@@ -17512,6 +17546,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7590</price>
+      </offer>
+      <offer sku="00000064361">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК КРЕПКИЙ" 224 Т269 серый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874366</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5250</price>
       </offer>
       <offer sku="00000064362">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л бежевый</name>
@@ -22159,6 +22204,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23190</price>
+      </offer>
+      <offer sku="УТ-00059569">
+        <name>Эмаль ПФ-115 коричневая 2,6кг Оптима_(8637)</name>
+        <vendor>Оптима</vendor>
+        <barcodes>
+          <barcode>4605365018637</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4550</price>
       </offer>
       <offer sku="УТ-00059588">
         <name>Уплотнения в наборе □ 10, 18 11350071050</name>
@@ -26955,6 +27011,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1761</price>
+      </offer>
+      <offer sku="УТ-00093281">
+        <name>KRAFTOOL Precision, Hex2.0, отвертка для точных работ (25685-2.0)</name>
+        <vendor>KRAFTOOL</vendor>
+        <barcodes>
+          <barcode>4034229202910</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2050</price>
       </offer>
       <offer sku="УТ-00093320">
         <name>KRAFTOOL GT-160/60, 160/60 мм, универсальная, быстрозажимная, в T-track, пистолетная струбцина (32237)</name>

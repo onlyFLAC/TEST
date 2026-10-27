@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 15:10">
+<fm_catalog date="2026-10-27 15:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1451,6 +1451,25 @@
         </pickup-options>
         <price>13800</price>
       </offer>
+      <offer sku="УТ-00012987">
+        <name>Холодильник-морозильник ATLANT ХМ-4621-151</name>
+        <vendor>Atlant</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>199000</price>
+      </offer>
+      <offer sku="УТ-00013019">
+        <name>Аккумулятор для инструментов ALTECO BCD 2003Li BL 42773</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216458461</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18720</price>
+      </offer>
       <offer sku="УТ-00013064">
         <name>4222 корыто для тачки 110 л</name>
         <vendor>IVT</vendor>
@@ -2068,6 +2087,17 @@
         </pickup-options>
         <price>1380</price>
       </offer>
+      <offer sku="УТ-00015576">
+        <name>Тарелка опорная пластиковая ЗУБР "ПРОФЕССИОНАЛ" 100 мм 3578-100</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373544446</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2600</price>
+      </offer>
       <offer sku="УТ-00015580">
         <name>ЗУБР HEX-18, 900 мм, Лом-гвоздодер (2164-90)</name>
         <vendor>ЗУБР</vendor>
@@ -2134,6 +2164,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1500</price>
+      </offer>
+      <offer sku="УТ-00015960">
+        <name>KRAFTOOL LINO тип А02, Нож для напольных покрытий (0930)</name>
+        <vendor>KRAFTOOL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2500</price>
       </offer>
       <offer sku="УТ-00015961">
         <name>STAYER 60 мм, 5 доп. лезвий, Компактный скребок (0851-H6)</name>
@@ -10766,6 +10804,17 @@
         </pickup-options>
         <price>7888</price>
       </offer>
+      <offer sku="00000025437">
+        <name>Сушилка напольная Nika СБ1/С серебряный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830813</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7800</price>
+      </offer>
       <offer sku="00000025438">
         <name>Сушилка напольная Nika СБ2/С серебристый</name>
         <vendor>Nika</vendor>
@@ -14831,17 +14880,6 @@
         </pickup-options>
         <price>12819</price>
       </offer>
-      <offer sku="00000039617">
-        <name>Набор бумажных мешков BOSCH для UniversalVac 15 5 шт. 2609256F32</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140912334</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5790</price>
-      </offer>
       <offer sku="00000039618">
         <name>Набор бумажных мешков Bosch для AdvancedVac 20 5 шт. 2609256F33</name>
         <vendor>BOSCH</vendor>
@@ -16624,6 +16662,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42100</price>
+      </offer>
+      <offer sku="00000059390">
+        <name>Сушилка напольная Nika СБ2/Ч черный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111505017</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8050</price>
       </offer>
       <offer sku="00000059393">
         <name>Дрель-шуруповерт аккумуляторная ЗУБР ДШЛ-185-22</name>
@@ -20806,6 +20855,17 @@
         </pickup-options>
         <price>6950</price>
       </offer>
+      <offer sku="УТ-00048669">
+        <name>Доска гладильная Nika Н3+ (в ассортименте)</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830042</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16490</price>
+      </offer>
       <offer sku="УТ-00048671">
         <name>Доска гладильная Nika "ЛИНА 4" ДЛ4 (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -21838,14 +21898,6 @@
         </pickup-options>
         <price>136200</price>
       </offer>
-      <offer sku="УТ-00056637">
-        <name>Сирена пьезоэлектрическая Pandora PS-330</name>
-        <vendor>Pandora</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7500</price>
-      </offer>
       <offer sku="УТ-00056639">
         <name>Видеорегистратор SilverStone F-1 INTEGRAL 2.0 Wi-Fi</name>
         <vendor>SilverStone</vendor>
@@ -22185,6 +22237,17 @@
         </pickup-options>
         <price>16890</price>
       </offer>
+      <offer sku="УТ-00059636">
+        <name>Доска гладильная навесная Nika ДН1Т/2 шоколадный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111525299</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13990</price>
+      </offer>
       <offer sku="УТ-00059637">
         <name>Доска гладильная настольная Nika НД2Т (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -22500,6 +22563,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14990</price>
+      </offer>
+      <offer sku="УТ-00059823">
+        <name>Доска гладильная Nika Н4+ (в ассортименте)</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830066</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14888</price>
       </offer>
       <offer sku="УТ-00059824">
         <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/O orchid</name>
@@ -23720,17 +23794,6 @@
         </pickup-options>
         <price>113500</price>
       </offer>
-      <offer sku="УТ-00063379">
-        <name>Газонокосилка Husqvarna LC 151S 970 48 84-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7392930544529</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>350000</price>
-      </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
         <vendor>BOSCH</vendor>
@@ -24347,6 +24410,14 @@
         </pickup-options>
         <price>3375</price>
       </offer>
+      <offer sku="УТ-00065163">
+        <name>Сверло по металлу ЗУБР 2х69 мм 29623-2_z01</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1200</price>
+      </offer>
       <offer sku="УТ-00065434">
         <name>ЗУБР 24 мм, витая стальная латунированная проволока 0.3 мм, набор кистевых щеток для дрели, Профессионал (35225-24-H2)</name>
         <vendor>ЗУБР</vendor>
@@ -24933,6 +25004,14 @@
         </pickup-options>
         <price>2996</price>
       </offer>
+      <offer sku="УТ-00074567">
+        <name>Лестница приставная односекционная PROFSET 10 ступеней DLE110</name>
+        <vendor>PROFSET</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27990</price>
+      </offer>
       <offer sku="УТ-00074568">
         <name>Лестница приставная односекционная PROFSET 12 ступеней DLE112</name>
         <vendor>PROFSET</vendor>
@@ -25310,6 +25389,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34590</price>
+      </offer>
+      <offer sku="УТ-00085185">
+        <name>Стол складной туристический Nika ТСТМ/ЯС ясень черный</name>
+        <vendor>Nika</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9999</price>
       </offer>
       <offer sku="УТ-00085186">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 2" НВ2/11</name>
@@ -25702,6 +25789,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69510</price>
+      </offer>
+      <offer sku="УТ-00089533">
+        <name>Лестница трехсекционная PROFSET 3х14 ступеней DLE314</name>
+        <vendor>PROFSET</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>119960</price>
       </offer>
       <offer sku="УТ-00089534">
         <name>Лестница двухсекционная PROFSET 2х9 ступеней DLE209</name>

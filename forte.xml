@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 09:17">
+<fm_catalog date="2026-10-27 09:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11625,17 +11625,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>38840</price>
-      </offer>
-      <offer sku="00000032356">
-        <name>Диск алмазный BOSCH 230х22.2 мм 2608615031</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140857086</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11590</price>
       </offer>
       <offer sku="00000032360">
         <name>Диск алмазный BOSCH 180х22,2 мм 2608602199</name>
@@ -23766,6 +23755,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>350000</price>
+      </offer>
+      <offer sku="УТ-00063391">
+        <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393080347268</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6500</price>
       </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>

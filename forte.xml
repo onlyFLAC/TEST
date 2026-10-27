@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 11:15">
+<fm_catalog date="2026-10-27 11:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -807,6 +807,69 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
+      </offer>
+      <offer sku="УТ-00005944">
+        <name>Уровень тип 70, 120 см STABILA 02289</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022891</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19190</price>
+      </offer>
+      <offer sku="УТ-00005957">
+        <name>Уровень тип 80AS, 100 см STABILA 19168</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191689</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23190</price>
+      </offer>
+      <offer sku="УТ-00005958">
+        <name>Уровень тип 80AS, 120 см STABILA 19169</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191696</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25090</price>
+      </offer>
+      <offer sku="УТ-00005963">
+        <name>Уровень тип 80AS, 80 см STABILA 19166</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24390</price>
+      </offer>
+      <offer sku="УТ-00005969">
+        <name>Уровень тип 80АS-2, 120 см, 3 глазка STABILA 19173</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191733</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29990</price>
+      </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
         <vendor>STABILA</vendor>
@@ -1417,6 +1480,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6380</price>
+      </offer>
+      <offer sku="УТ-00012970">
+        <name>Уровень Stabila тип 70, 40 см 02282</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022822</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12190</price>
       </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 серый</name>
@@ -4270,6 +4344,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7800</price>
+      </offer>
+      <offer sku="УТ-00026443">
+        <name>Уровень тип 70T 25 см STABILA 02199</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069021993</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8990</price>
       </offer>
       <offer sku="УТ-00026626">
         <name>Машина снегоуборочная ALTECO SBG 318 59924</name>
@@ -10585,17 +10670,6 @@
         </pickup-options>
         <price>121000</price>
       </offer>
-      <offer sku="00000024487">
-        <name>Алмазная коронка 112*350 PS</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455101</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12290</price>
-      </offer>
       <offer sku="00000024511">
         <name>Алмазная коронка 200*350 ВТ</name>
         <vendor>ALTECO</vendor>
@@ -16722,7 +16796,7 @@
         <price>17200</price>
       </offer>
       <offer sku="00000061166">
-        <name>Мойка высокого давления Bosch AdvancedAquatak 140</name>
+        <name>Мойка высокого давления электрическая BOSCH AdvancedAquatak 140 06008A7D00</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140906470</barcode>
@@ -16900,7 +16974,7 @@
         <price>183700</price>
       </offer>
       <offer sku="00000063821">
-        <name>Моечная машина высокого давления R-210iD, 2600 Вт, 210 бар, 8,0 л/мин, асинх. двиг., бараб.// Denzel</name>
+        <name>Мойка высокого давления электрическая Denzel R-210iD 58237</name>
         <vendor>Denzel</vendor>
         <barcodes>
           <barcode>4044996181080</barcode>
@@ -20595,6 +20669,17 @@
         </pickup-options>
         <price>285890</price>
       </offer>
+      <offer sku="УТ-00046722">
+        <name>Уровень STABILA "тип 70" 80 см 02286</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022860</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15090</price>
+      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -20650,7 +20735,7 @@
         <price>99990</price>
       </offer>
       <offer sku="УТ-00047894">
-        <name>Аппарат высокого давления ALTECO CPW 140-8 Home &amp; Car, шт</name>
+        <name>Мойка высокого давления электрическая ALTECO CPW 140-8 Home &amp; Car 66882</name>
         <vendor>ALTECO</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -24649,6 +24734,25 @@
         </pickup-options>
         <price>16490</price>
       </offer>
+      <offer sku="УТ-00072588">
+        <name>Пинцет для прецизионных работ антистатический KNIPEX 92 28 69 ESD</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12225</price>
+      </offer>
+      <offer sku="УТ-00072591">
+        <name>Пинцет захватный прецизионный KNIPEX 92 84 18</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773054986</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11635</price>
+      </offer>
       <offer sku="УТ-00072593">
         <name>Плоскогубцы для работы с кабелем KNIPEX 13 02 160</name>
         <vendor>KNIPEX</vendor>
@@ -24678,6 +24782,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32335</price>
+      </offer>
+      <offer sku="УТ-00072626">
+        <name>Резак кабелей KNIPEX 98 52</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13135</price>
+      </offer>
+      <offer sku="УТ-00072650">
+        <name>Труборез для пластиковых труб KNIPEX 90 25 40</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773045182</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>78625</price>
       </offer>
       <offer sku="УТ-00072656">
         <name>Щипцы колец KNIPEX 48 11 J2</name>
@@ -24763,6 +24886,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63490</price>
+      </offer>
+      <offer sku="УТ-00072890">
+        <name>Карманная измерительная рулетка Stabila 3 м BM 150 19839</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069198398</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8490</price>
       </offer>
       <offer sku="УТ-00072893">
         <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>

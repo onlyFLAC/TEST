@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 17:08">
+<fm_catalog date="2026-10-27 17:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10805,7 +10805,7 @@
         <price>7888</price>
       </offer>
       <offer sku="00000025437">
-        <name>Сушилка напольная Nika СБ1/С серебряный</name>
+        <name>Сушилка напольная Nika СБ1/С серебристый</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4607075830813</barcode>
@@ -17077,6 +17077,17 @@
         </pickup-options>
         <price>11500</price>
       </offer>
+      <offer sku="00000064144">
+        <name>Вешалка с полкой ЗМИ ВСП7 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011871655</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4930</price>
+      </offer>
       <offer sku="00000064145">
         <name>Вешалка с полкой ЗМИ ВСП169 белая</name>
         <vendor>ЗМИ</vendor>
@@ -18913,6 +18924,17 @@
         </pickup-options>
         <price>111900</price>
       </offer>
+      <offer sku="00000075233">
+        <name>Система гардеробная ЗМИ "СКАНДИНАВИЯ 1" ГСС1 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093788097</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>32210</price>
+      </offer>
       <offer sku="00000075234">
         <name>Система гардеробная ЗМИ "СКАНДИНАВИЯ 1" ГСС1 белый</name>
         <vendor>ЗМИ</vendor>
@@ -19043,6 +19065,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17490</price>
+      </offer>
+      <offer sku="00000075884">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093789810</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16800</price>
       </offer>
       <offer sku="00000075885">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 графит</name>
@@ -21284,6 +21317,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>72000</price>
+      </offer>
+      <offer sku="УТ-00053713">
+        <name>Вешалка-стойка напольная ЗМИ "ТОРОНТО 1" черная ВНПТ1</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195635855</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17310</price>
       </offer>
       <offer sku="УТ-00053799">
         <name>HS004GZ Пила дисковая аккум XGT BL 40В, 185/190 мм</name>

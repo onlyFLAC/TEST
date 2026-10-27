@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 06:50">
+<fm_catalog date="2026-10-27 07:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6285,17 +6285,6 @@
         </pickup-options>
         <price>990</price>
       </offer>
-      <offer sku="00000006686">
-        <name>Каток GRINDA для газона, 580х400мм, 62л</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925533540</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>53980</price>
-      </offer>
       <offer sku="00000006694">
         <name>Кейс-органайзер "ОКА-11" пластиковый, ЗУБР</name>
         <vendor>ЗУБР</vendor>
@@ -12216,17 +12205,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1590</price>
-      </offer>
-      <offer sku="00000032661">
-        <name>Диск отрезной по металлу Bosch 355х2.8х25.4 мм 2608601238</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140777230</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2610</price>
       </offer>
       <offer sku="00000032668">
         <name>Мойка высокого давления Bosch GHP 5-65 W/EEU 0600910500</name>
@@ -21985,14 +21963,6 @@
         </pickup-options>
         <price>63730</price>
       </offer>
-      <offer sku="УТ-00057826">
-        <name>Пила торцовочная Bosch GCM 254 SD 0601B53000</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>249490</price>
-      </offer>
       <offer sku="УТ-00057913">
         <name>Бензопила STIHL MS 260 40 см 11212000369К40</name>
         <vendor>STIHL</vendor>
@@ -22051,17 +22021,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3820</price>
-      </offer>
-      <offer sku="УТ-00058329">
-        <name>Доска гладильная Nika "BELL CLASSY 1" БК1 серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830929</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9900</price>
       </offer>
       <offer sku="УТ-00058344">
         <name>Пылесос бытовой аккумуляторный Makita DCL284FZ</name>
@@ -24838,17 +24797,6 @@
         </pickup-options>
         <price>15165</price>
       </offer>
-      <offer sku="УТ-00072727">
-        <name>Санки детские Nika "ТИМКА 5 УНИВЕРСАЛ" Т5У/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111513586</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24680</price>
-      </offer>
       <offer sku="УТ-00072730">
         <name>Санки детские Nika "ТИМКА 6 УНИВЕРСАЛ" Т6У/З2 зеленые</name>
         <vendor>Nika</vendor>
@@ -25706,14 +25654,6 @@
         <barcodes>
           <barcode>788364925268</barcode>
         </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
-      </offer>
-      <offer sku="УТ-00089274">
-        <name>Подгузники Altyn bala NEW 5-XL 11-18 кг 44 шт.</name>
-        <vendor>Altyn bala</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

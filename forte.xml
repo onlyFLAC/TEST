@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 10:45">
+<fm_catalog date="2026-10-27 11:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2918,7 +2918,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2100</price>
+        <price>1990</price>
       </offer>
       <offer sku="УТ-00025511">
         <name>Вакуумный пакет для упаковки и хранения вещей, 60х80 см, Home// Palisad</name>
@@ -9145,7 +9145,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8250</price>
+        <price>7790</price>
       </offer>
       <offer sku="00000017039">
         <name>Полольник петлеобразный, 115 мм, рессорно-пружинная сталь, без черенка, Россия// Сибртех</name>
@@ -9756,7 +9756,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3450</price>
+        <price>2490</price>
       </offer>
       <offer sku="00000020772">
         <name>Диск полировальный Matrix 125х22.2 мм 75942</name>
@@ -9922,7 +9922,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4990</price>
+        <price>3990</price>
       </offer>
       <offer sku="00000021630">
         <name>Таз строительный Сибртех 90 л прямоугольный 81445</name>
@@ -9933,7 +9933,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3995</price>
+        <price>3990</price>
       </offer>
       <offer sku="00000021631">
         <name>Таз круглый строительный, 40 л Россия// Sparta</name>
@@ -9966,7 +9966,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2995</price>
+        <price>2590</price>
       </offer>
       <offer sku="00000021647">
         <name>Таз прямоугольный Сибртех 60 л 814445</name>
@@ -10256,7 +10256,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3500</price>
+        <price>2590</price>
       </offer>
       <offer sku="00000022791">
         <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
@@ -10319,7 +10319,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1000</price>
+        <price>790</price>
       </offer>
       <offer sku="00000023215">
         <name>Замок навесной ЗН2-3, 70 мм// Сибртех</name>
@@ -10415,7 +10415,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19850</price>
+        <price>17590</price>
       </offer>
       <offer sku="00000023735">
         <name>Дрель-шуруповерт аккумуляторный CROWN CT21055L BMC</name>

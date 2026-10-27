@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 09:47">
+<fm_catalog date="2026-10-27 10:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13624,17 +13624,6 @@
         </pickup-options>
         <price>1190</price>
       </offer>
-      <offer sku="00000035529">
-        <name>Бур по бетону BOSCH SDS+ 7x100x160 мм 2608680268</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509205872</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
-      </offer>
       <offer sku="00000035535">
         <name>Сверло по бетону Bosch SDS plus-1 10х100х160 мм 2608680273</name>
         <vendor>BOSCH</vendor>
@@ -17865,17 +17854,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15320</price>
-      </offer>
-      <offer sku="00000070609">
-        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787113</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14010</price>
       </offer>
       <offer sku="00000070610">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
@@ -23756,17 +23734,6 @@
         </pickup-options>
         <price>350000</price>
       </offer>
-      <offer sku="УТ-00063391">
-        <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393080347268</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
-      </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
         <vendor>BOSCH</vendor>
@@ -24871,14 +24838,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7200</price>
-      </offer>
-      <offer sku="УТ-00073006">
-        <name>Травокосилка Husqvarna 325R 967 90 84-03</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>210000</price>
       </offer>
       <offer sku="УТ-00073009">
         <name>Травокосилка Husqvarna 541RS 967 66 08-03</name>

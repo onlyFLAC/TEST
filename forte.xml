@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-27 12:15">
+<fm_catalog date="2026-10-27 12:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -834,6 +834,38 @@
         </pickup-options>
         <price>23200</price>
       </offer>
+      <offer sku="УТ-00006309">
+        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58800</price>
+      </offer>
+      <offer sku="УТ-00006312">
+        <name>Стремянка односторонняя складная KRAUSE SAFETY 7 ступ. 128973</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>95100</price>
+      </offer>
+      <offer sku="УТ-00006351">
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х3 ступ. 120328</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43400</price>
+      </offer>
+      <offer sku="УТ-00006352">
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х5 ступ. 120342</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>68200</price>
+      </offer>
       <offer sku="УТ-00006353">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х7 ступ. 120366</name>
         <vendor>Krause</vendor>
@@ -841,6 +873,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>100000</price>
+      </offer>
+      <offer sku="УТ-00006465">
+        <name>Рычаг шарнира лестницы-трансформера KRAUSE 212115</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199212115</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
+      </offer>
+      <offer sku="УТ-00006489">
+        <name>Лестница трехсекционная KRAUSE TRIBILO 3х8 ступ. 129741</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>126770</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -8615,17 +8666,6 @@
         </pickup-options>
         <price>44450</price>
       </offer>
-      <offer sku="00000014540">
-        <name>Компрессор автомобильный DENZEL DС-20 58054</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996056685</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13456</price>
-      </offer>
       <offer sku="00000014623">
         <name>Набор тефлоновых насадок Kronwerk 20-40 мм 4 шт. 94286</name>
         <vendor>Kronwerk</vendor>
@@ -11049,7 +11089,7 @@
         <price>3900</price>
       </offer>
       <offer sku="00000031170">
-        <name>Мойка высокого давления Total Tools BHR 302/МЭ-302С</name>
+        <name>Мойка высокого давления электрическая TT BHR 302/МЭ-302С</name>
         <vendor>Total Tools</vendor>
         <barcodes>
           <barcode>4870024316298</barcode>
@@ -11217,6 +11257,14 @@
         </pickup-options>
         <price>27000</price>
       </offer>
+      <offer sku="00000031834">
+        <name>Стремянка односторонняя KRAUSE CORDA 4 ступ. 705</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38500</price>
+      </offer>
       <offer sku="00000031835">
         <name>Стремянка односторонняя KRAUSE CORDA 3 ступ. 712</name>
         <vendor>Krause</vendor>
@@ -11228,6 +11276,25 @@
         </pickup-options>
         <price>31900</price>
       </offer>
+      <offer sku="00000031836">
+        <name>Стремянка односторонняя KRAUSE CORDA 5 ступ. 729</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199000729</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>46400</price>
+      </offer>
+      <offer sku="00000031839">
+        <name>Стремянка односторонняя KRAUSE CORDA 8 ступ. 767</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>72400</price>
+      </offer>
       <offer sku="00000031840">
         <name>Лестница приставная KRAUSE CORDA 7 ступ. 010070</name>
         <vendor>Krause</vendor>
@@ -11235,6 +11302,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23190</price>
+      </offer>
+      <offer sku="00000031846">
+        <name>Лестница двухсекционная KRAUSE CORDA 2х8 ступ. 010285</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199010285</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>65290</price>
       </offer>
       <offer sku="00000031852">
         <name>Лестница трехсекционная KRAUSE CORDA 3х11 ступ. 010421</name>
@@ -11258,6 +11336,17 @@
         </pickup-options>
         <price>109190</price>
       </offer>
+      <offer sku="00000031866">
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х4 ступ. 120335</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199120335</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>55300</price>
+      </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
         <vendor>Krause</vendor>
@@ -11265,6 +11354,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>82600</price>
+      </offer>
+      <offer sku="00000031876">
+        <name>Лестница шарнирная KRAUSE MULTIMATIC 4х4 ступ. 120649</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>149990</price>
       </offer>
       <offer sku="00000031882">
         <name>Лестница приставная KRAUSE SIBILO MONTO 6 ступ. 121387</name>
@@ -11274,6 +11371,25 @@
         </pickup-options>
         <price>26080</price>
       </offer>
+      <offer sku="00000031885">
+        <name>Распорка KRAUSE 122018</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40600</price>
+      </offer>
+      <offer sku="00000031886">
+        <name>Подножка/полка KRAUSE 122063</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199122063</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18100</price>
+      </offer>
       <offer sku="00000031892">
         <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
         <vendor>Krause</vendor>
@@ -11281,6 +11397,30 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>165200</price>
+      </offer>
+      <offer sku="00000031893">
+        <name>Стремянка односторонняя KRAUSE SEPRO S 8 ступ. 124227</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>135400</price>
+      </offer>
+      <offer sku="00000031896">
+        <name>Стремянка односторонняя KRAUSE STABILO 5 ступ. 124524</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>116500</price>
+      </offer>
+      <offer sku="00000031897">
+        <name>Стремянка односторонняя KRAUSE STABILO 6 ступ. 124531</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>136400</price>
       </offer>
       <offer sku="00000031898">
         <name>Стремянка односторонняя KRAUSE STABILO 7 ступ. 124548</name>
@@ -11314,6 +11454,17 @@
         </pickup-options>
         <price>42700</price>
       </offer>
+      <offer sku="00000031906">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 5 ступ. 126238</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126238</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50000</price>
+      </offer>
       <offer sku="00000031908">
         <name>Стремянка односторонняя KRAUSE SOLIDY 7 ступ. 126252</name>
         <vendor>Krause</vendor>
@@ -11321,6 +11472,41 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69900</price>
+      </offer>
+      <offer sku="00000031909">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 8 ступ. 126269</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>80400</price>
+      </offer>
+      <offer sku="00000031913">
+        <name>Стремянка односторонняя KRAUSE SECURO 6 ступ. 126443</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126443</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>100500</price>
+      </offer>
+      <offer sku="00000031917">
+        <name>Стремянка односторонняя KRAUSE SECURY 5 ступ. 126535</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>76900</price>
+      </offer>
+      <offer sku="00000031924">
+        <name>Стремянка односторонняя KRAUSE SEPURO 4 ступ. 127228</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>69000</price>
       </offer>
       <offer sku="00000031934">
         <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
@@ -11869,7 +12055,7 @@
         <price>104820</price>
       </offer>
       <offer sku="00000032535">
-        <name>Мойка высокого давления Bosch AdvancedAquatak 150</name>
+        <name>Мойка высокого давления электрическая BOSCH AdvancedAquatak 150 06008A7700</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140852227</barcode>
@@ -11880,7 +12066,7 @@
         <price>251600</price>
       </offer>
       <offer sku="00000032536">
-        <name>Мойка высокого давления Bosch AdvancedAquatak 160 06008A7800</name>
+        <name>Мойка высокого давления электрическая BOSCH AdvancedAquatak 160 06008A7800</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140852296</barcode>
@@ -12144,7 +12330,7 @@
         <price>1590</price>
       </offer>
       <offer sku="00000032668">
-        <name>Мойка высокого давления Bosch GHP 5-65 W/EEU 0600910500</name>
+        <name>Мойка высокого давления электрическая BOSCH GHP 5-65 W/EEU 0600910500</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140810128</barcode>
@@ -15150,7 +15336,7 @@
         <price>127900</price>
       </offer>
       <offer sku="00000041226">
-        <name>Мойка высокого давления STIHL RE 100 49500124501</name>
+        <name>Мойка высокого давления электрическая STIHL RE 100 49500124501</name>
         <vendor>STIHL</vendor>
         <barcodes>
           <barcode>886661397822</barcode>
@@ -16733,7 +16919,7 @@
         <price>573400</price>
       </offer>
       <offer sku="00000061212">
-        <name>Мойка высокого давления STIHL RE 80 RE020114536</name>
+        <name>Мойка высокого давления электрическая STIHL RE 80 RE020114536</name>
         <vendor>STIHL</vendor>
         <barcodes>
           <barcode>886661316380</barcode>
@@ -18698,6 +18884,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18500</price>
+      </offer>
+      <offer sku="00000074236">
+        <name>Стремянка односторонняя KRAUSE SEPRO S 4 ступ. 124180</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>84600</price>
       </offer>
       <offer sku="00000074239">
         <name>Подставка складная KRAUSE ROLLY 2х2 ступ. зеленая 130143</name>
@@ -21280,7 +21474,7 @@
         <price>325300</price>
       </offer>
       <offer sku="УТ-00055200">
-        <name>Мойка высокого давления STIHL RE 140 plus 49500114580</name>
+        <name>Мойка высокого давления электрическая STIHL RE 140 plus 49500114580</name>
         <vendor>STIHL</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -21288,7 +21482,7 @@
         <price>259900</price>
       </offer>
       <offer sku="УТ-00055203">
-        <name>Мойка высокого давления STIHL RE 100 PLUS CONTROL RE020114530</name>
+        <name>Мойка высокого давления электрическая STIHL RE 100 PLUS CONTROL RE020114530</name>
         <vendor>STIHL</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -22906,6 +23100,17 @@
         </pickup-options>
         <price>34600</price>
       </offer>
+      <offer sku="УТ-00060245">
+        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477625770</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23630</price>
+      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -22924,6 +23129,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15290</price>
+      </offer>
+      <offer sku="УТ-00060284">
+        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477622816</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12240</price>
       </offer>
       <offer sku="УТ-00060328">
         <name>Полотенцедержатель Frap 302 черный F30201</name>

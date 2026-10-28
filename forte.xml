@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 00:29">
+<fm_catalog date="2026-10-29 00:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11421,17 +11421,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27000</price>
-      </offer>
-      <offer sku="00000031835">
-        <name>Стремянка односторонняя KRAUSE CORDA 3 ступ. 712</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000712</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31900</price>
       </offer>
       <offer sku="00000031852">
         <name>Лестница трехсекционная KRAUSE CORDA 3х11 ступ. 010421</name>

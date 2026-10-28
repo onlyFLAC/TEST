@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 09:18">
+<fm_catalog date="2026-10-28 09:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11945,17 +11945,6 @@
         </pickup-options>
         <price>4315</price>
       </offer>
-      <offer sku="00000032563">
-        <name>Набор буров Bosch SDS+ 6-12х160 мм 2608579120</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509230065</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4090</price>
-      </offer>
       <offer sku="00000032586">
         <name>Набор принадлежностей 70 TITANIUM+ Bosch</name>
         <vendor>BOSCH</vendor>
@@ -14963,6 +14952,14 @@
         </pickup-options>
         <price>273300</price>
       </offer>
+      <offer sku="00000040227">
+        <name>Краскопульт пневматический TAT10401</name>
+        <vendor>Total</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12300</price>
+      </offer>
       <offer sku="00000040555">
         <name>Набор отверток Total 26 шт. THTDC252601</name>
         <vendor>Total</vendor>
@@ -16625,17 +16622,6 @@
         </pickup-options>
         <price>42100</price>
       </offer>
-      <offer sku="00000059390">
-        <name>Сушилка напольная Nika СБ2/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111505017</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8050</price>
-      </offer>
       <offer sku="00000059393">
         <name>Дрель-шуруповерт аккумуляторная ЗУБР ДШЛ-185-22</name>
         <vendor>ЗУБР</vendor>
@@ -16659,7 +16645,7 @@
         <price>233580</price>
       </offer>
       <offer sku="00000059422">
-        <name>Гайковерт аккумуляторный Bosch GDS 18V-400 06019K0020</name>
+        <name>Гайковерт аккумуляторный BOSCH GDS 18V-400 06019K0020</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>4059952514628</barcode>
@@ -23189,17 +23175,6 @@
         </pickup-options>
         <price>13500</price>
       </offer>
-      <offer sku="УТ-00060449">
-        <name>Смеситель для раковины Frap черный F10801-62</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477623677</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16580</price>
-      </offer>
       <offer sku="УТ-00060453">
         <name>Смеситель Frap для раковины F1076-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -26308,7 +26283,7 @@
         <price>20000</price>
       </offer>
       <offer sku="УТ-00091425">
-        <name>Лазерный уровень Bosch линейный Bosch GLL 80-33 G Professional 0601065500</name>
+        <name>Нивелир лазерный линейный BOSCH GLL 80-33 G 0601065500</name>
         <vendor>BOSCH</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

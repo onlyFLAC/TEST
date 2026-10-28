@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 14:11">
+<fm_catalog date="2026-10-28 14:40">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -806,6 +806,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
+      </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
+      </offer>
+      <offer sku="УТ-00005958">
+        <name>Уровень тип 80AS, 120 см STABILA 19169</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191696</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25090</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -14938,14 +14960,6 @@
         </pickup-options>
         <price>2900</price>
       </offer>
-      <offer sku="00000040163">
-        <name>Шлифмашина угловая (болгарка) электрическая TOTAL 180 мм TG12018026</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>57500</price>
-      </offer>
       <offer sku="00000040213">
         <name>Пила торцовочная TOTAL TS42163051</name>
         <vendor>Total</vendor>
@@ -18769,6 +18783,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>213690</price>
+      </offer>
+      <offer sku="00000074286">
+        <name>Дрель-шуруповерт аккумуляторная Makita DF332DWAE</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>137740</price>
       </offer>
       <offer sku="00000074599">
         <name>Набор инструментов 96 пр</name>
@@ -26529,17 +26551,6 @@
         </pickup-options>
         <price>11450</price>
       </offer>
-      <offer sku="УТ-00091580">
-        <name>Молоток-гвоздодер BOSCH 550 г 1600A02W7X</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423254396</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6360</price>
-      </offer>
       <offer sku="УТ-00091585">
         <name>Набор с трещоткой BOSCH 5 предметов 1600A02Z3D</name>
         <vendor>BOSCH</vendor>
@@ -27259,6 +27270,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00101874">
+        <name>821550-0 Кейс Makpac тип 2, 395Х295Х162 мм</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18870</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 11:44">
+<fm_catalog date="2026-10-28 12:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10296,6 +10296,17 @@
         </pickup-options>
         <price>790</price>
       </offer>
+      <offer sku="00000023123">
+        <name>Лампа паяльная, 1,5 л// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996045177</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9990</price>
+      </offer>
       <offer sku="00000023215">
         <name>Замок навесной ЗН2-3, 70 мм// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -15342,17 +15353,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>78400</price>
-      </offer>
-      <offer sku="00000041752">
-        <name>Лобзик электрический Фиолент ПМ З-650Э ИДФР298256004</name>
-        <vendor>Фиолент</vendor>
-        <barcodes>
-          <barcode>4670016120588</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22400</price>
       </offer>
       <offer sku="00000041753">
         <name>Лобзик электрический Фиолент ПМЗ-600Э ИДФР298256001П-К1</name>

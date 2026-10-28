@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 10:46">
+<fm_catalog date="2026-10-28 11:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16287,17 +16287,6 @@
         </pickup-options>
         <price>22470</price>
       </offer>
-      <offer sku="00000059179">
-        <name>Подставка для цветов ЗМИ "АРКА 5" ПДЦ414 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011879095</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8510</price>
-      </offer>
       <offer sku="00000059189">
         <name>Вешалка гардеробная ЗМИ "РАДУГА 1" ВГАР1 черная</name>
         <vendor>ЗМИ</vendor>
@@ -26712,6 +26701,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7050</price>
+      </offer>
+      <offer sku="УТ-00091606">
+        <name>Ножовка по металлу BOSCH 150 мм 1600A02ZA7</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255072</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4290</price>
       </offer>
       <offer sku="УТ-00091609">
         <name>Набор напильников BOSCH 5 шт. 1600A02ZB0</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 14:40">
+<fm_catalog date="2026-10-28 15:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -618,17 +618,6 @@
         </pickup-options>
         <price>41090</price>
       </offer>
-      <offer sku="УТ-00005135">
-        <name>Тепловентилятор электрический PATRIOT PT-Q 9 633307225</name>
-        <vendor>Patriot</vendor>
-        <barcodes>
-          <barcode>4630065970367</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>50690</price>
-      </offer>
       <offer sku="УТ-00005152">
         <name>Бур по бетону ЭКСПЕРТ SDS+ 6х160 мм 610-160-06</name>
         <vendor>ЭКСПЕРТ</vendor>
@@ -806,28 +795,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005908">
-        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195700</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3290</price>
-      </offer>
-      <offer sku="УТ-00005958">
-        <name>Уровень тип 80AS, 120 см STABILA 19169</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191696</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25090</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -11593,6 +11560,17 @@
         </pickup-options>
         <price>38840</price>
       </offer>
+      <offer sku="00000032347">
+        <name>Детектор аккумуляторный Bosch D-tect 120 в L-Boxx 136 0601081301</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140780070</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>154900</price>
+      </offer>
       <offer sku="00000032360">
         <name>Диск алмазный BOSCH 180х22,2 мм 2608602199</name>
         <vendor>BOSCH</vendor>
@@ -21197,6 +21175,17 @@
         </pickup-options>
         <price>72000</price>
       </offer>
+      <offer sku="УТ-00053711">
+        <name>Отвертка аккумуляторная Bosch GO 06019H2200</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952639567</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29100</price>
+      </offer>
       <offer sku="УТ-00053713">
         <name>Вешалка-стойка напольная ЗМИ "ТОРОНТО 1" черная ВНПТ1</name>
         <vendor>ЗМИ</vendor>
@@ -21810,14 +21799,6 @@
         </pickup-options>
         <price>7188</price>
       </offer>
-      <offer sku="УТ-00056466">
-        <name>ЗУБР Мастер-НС, 380 х 208 х 1500 мм, полотно 2 мм, нержавеющая сталь, закалено, дерев. лакир. черенок высш. сорт, тип ЛКО, штыковая лопата (39443)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9866</price>
-      </offer>
       <offer sku="УТ-00056479">
         <name>GRINDA 280 x 180 x 1200 мм, антикор. покрытие, деревянный черенок высш. сорт, с пластиковой рукояткой, вилы садовые, PROLine (39727)</name>
         <vendor>Grinda</vendor>
@@ -22231,7 +22212,7 @@
         <price>28500</price>
       </offer>
       <offer sku="УТ-00059635">
-        <name>Доска гладильная навесная Nika ДН1Т/1 коричнево-серый</name>
+        <name>Доска гладильная навесная Nika ДН1Т/1 с линиями на сером</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4630111525282</barcode>
@@ -23128,17 +23109,6 @@
         </pickup-options>
         <price>12650</price>
       </offer>
-      <offer sku="УТ-00060442">
-        <name>Смеситель для раковины Frap высокий черный F10806-26</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477630514</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19260</price>
-      </offer>
       <offer sku="УТ-00060447">
         <name>Смеситель для раковины Frap черный F10802-6</name>
         <vendor>Frap</vendor>
@@ -23896,6 +23866,17 @@
         </pickup-options>
         <price>21690</price>
       </offer>
+      <offer sku="УТ-00063814">
+        <name>Молоток слесарный BOSCH 500 г 1600A016BT</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140951630</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13490</price>
+      </offer>
       <offer sku="УТ-00063816">
         <name>Рулетка измерительная BOSCH 5 м, 27 мм 1600A016BH</name>
         <vendor>BOSCH</vendor>
@@ -24005,6 +23986,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21050</price>
+      </offer>
+      <offer sku="УТ-00063826">
+        <name>Набор плоскогубцев, 4 шт.</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423252255</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24620</price>
+      </offer>
+      <offer sku="УТ-00063827">
+        <name>Набор торцевых головок BOSCH 1/4", 14 шт. 1600A02BY0</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952643304</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14650</price>
       </offer>
       <offer sku="УТ-00063828">
         <name>Набор комбинированных ключей с трещоткой BOSCH 8 шт 1600A027PS</name>
@@ -25375,14 +25378,6 @@
         </pickup-options>
         <price>34590</price>
       </offer>
-      <offer sku="УТ-00085185">
-        <name>Стол складной туристический Nika ТСТМ/ЯС ясень черный</name>
-        <vendor>Nika</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9999</price>
-      </offer>
       <offer sku="УТ-00085186">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 2" НВ2/11</name>
         <vendor>Nika</vendor>
@@ -25527,6 +25522,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3999</price>
+      </offer>
+      <offer sku="УТ-00085767">
+        <name>Смазка BOSCH 45 мл 1615430005</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140078450</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4999</price>
       </offer>
       <offer sku="УТ-00087281">
         <name>Колесо для мотоблока правое TT 4.00-8 4870024326877</name>
@@ -26634,6 +26640,17 @@
         </pickup-options>
         <price>20730</price>
       </offer>
+      <offer sku="УТ-00091598">
+        <name>Клещи плотницкие BOSCH 200 мм 1600A02Z9W</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255027</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5640</price>
+      </offer>
       <offer sku="УТ-00091599">
         <name>Кусачки для арматуры BOSCH 225 мм 1600A02Z9X</name>
         <vendor>BOSCH</vendor>
@@ -26688,6 +26705,22 @@
         </pickup-options>
         <price>4290</price>
       </offer>
+      <offer sku="УТ-00091607">
+        <name>Ножовка по металлу BOSCH 300 мм 1600A02ZA8</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10750</price>
+      </offer>
+      <offer sku="УТ-00091608">
+        <name>Пила ручная BOSCH 400 мм 1600A02ZA9</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9440</price>
+      </offer>
       <offer sku="УТ-00091609">
         <name>Набор напильников BOSCH 5 шт. 1600A02ZB0</name>
         <vendor>BOSCH</vendor>
@@ -26698,6 +26731,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13810</price>
+      </offer>
+      <offer sku="УТ-00091610">
+        <name>Набор рашпилей BOSCH 200 мм, 3 шт 1600A02ZB1</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7600</price>
       </offer>
       <offer sku="УТ-00091611">
         <name>Японская пила Ryoba BOSCH 250 мм 1600A02ZB5</name>
@@ -26734,6 +26775,28 @@
         </pickup-options>
         <price>10110</price>
       </offer>
+      <offer sku="УТ-00091617">
+        <name>Отвертка короткая BOSCH 4 предмета 1600A032UJ</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423301748</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4630</price>
+      </offer>
+      <offer sku="УТ-00091618">
+        <name>Отвертка короткая BOSCH 6 предметов 1600A032UK</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423301755</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6750</price>
+      </offer>
       <offer sku="УТ-00091625">
         <name>Молоток слесарный BOSCH 300 г 1600A032UW</name>
         <vendor>BOSCH</vendor>
@@ -26756,6 +26819,17 @@
         </pickup-options>
         <price>6170</price>
       </offer>
+      <offer sku="УТ-00091636">
+        <name>Клещи переставные BOSCH 250 мм 1600A032V9</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302325</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8890</price>
+      </offer>
       <offer sku="УТ-00091637">
         <name>Трещотка 1/4" BOSCH 1600A032VA</name>
         <vendor>BOSCH</vendor>
@@ -26774,6 +26848,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5640</price>
+      </offer>
+      <offer sku="УТ-00091640">
+        <name>Бокорезы BOSCH 160 мм 1600A032VE</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302349</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5280</price>
       </offer>
       <offer sku="УТ-00091642">
         <name>Рулетка BOSCH 5 м 1600A03318</name>
@@ -27270,14 +27355,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101874">
-        <name>821550-0 Кейс Makpac тип 2, 395Х295Х162 мм</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18870</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

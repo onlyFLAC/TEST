@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 12:14">
+<fm_catalog date="2026-10-28 12:43">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11298,6 +11298,14 @@
         </pickup-options>
         <price>77800</price>
       </offer>
+      <offer sku="00000031903">
+        <name>Подставка складная KRAUSE TREPPO 2x4 ступ. 126047</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>97600</price>
+      </offer>
       <offer sku="00000031904">
         <name>Стремянка односторонняя KRAUSE SOLIDY 3 ступ. 126214</name>
         <vendor>Krause</vendor>
@@ -11314,6 +11322,28 @@
         </pickup-options>
         <price>42700</price>
       </offer>
+      <offer sku="00000031906">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 5 ступ. 126238</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126238</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50000</price>
+      </offer>
+      <offer sku="00000031907">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 6 ступ. 126245</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126245</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58600</price>
+      </offer>
       <offer sku="00000031908">
         <name>Стремянка односторонняя KRAUSE SOLIDY 7 ступ. 126252</name>
         <vendor>Krause</vendor>
@@ -11322,6 +11352,36 @@
         </pickup-options>
         <price>69900</price>
       </offer>
+      <offer sku="00000031913">
+        <name>Стремянка односторонняя KRAUSE SECURO 6 ступ. 126443</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126443</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>100500</price>
+      </offer>
+      <offer sku="00000031924">
+        <name>Стремянка односторонняя KRAUSE SEPURO 4 ступ. 127228</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>69000</price>
+      </offer>
+      <offer sku="00000031925">
+        <name>Стремянка односторонняя KRAUSE SEPURO 5 ступ. 127235</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199127235</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>82900</price>
+      </offer>
       <offer sku="00000031934">
         <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
         <vendor>Krause</vendor>
@@ -11329,6 +11389,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>41500</price>
+      </offer>
+      <offer sku="00000031945">
+        <name>Ведро пластиковое для стремянки KRAUSE 200006</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5800</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>

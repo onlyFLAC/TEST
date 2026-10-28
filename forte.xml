@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 06:51">
+<fm_catalog date="2026-10-28 07:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20423,17 +20423,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2941</price>
-      </offer>
-      <offer sku="УТ-00041783">
-        <name>Фреза пазовая прямая с торцевыми ножами PROFSET 16х20х8 мм 001160200</name>
-        <vendor>PROFSET</vendor>
-        <barcodes>
-          <barcode>036000291513</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2613</price>
       </offer>
       <offer sku="УТ-00041795">
         <name>Фреза пазовая прямая PROFSET 4х15х6 мм 011040150</name>

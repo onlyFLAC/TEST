@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 15:10">
+<fm_catalog date="2026-10-28 15:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5733,17 +5733,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11490</price>
-      </offer>
-      <offer sku="00000005060">
-        <name>Домкрат бутылочный гидравлический ЗУБР 4 т 43060-4-K_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373275517</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12300</price>
       </offer>
       <offer sku="00000005128">
         <name>Набор метчиков и плашек ЗУБР 65 шт. 28118-H65_z01</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 07:20">
+<fm_catalog date="2026-10-28 07:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1418,17 +1418,6 @@
         </pickup-options>
         <price>6380</price>
       </offer>
-      <offer sku="УТ-00012979">
-        <name>Сушилка напольная Nika СБ1/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111505000</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7800</price>
-      </offer>
       <offer sku="УТ-00012981">
         <name>Доска гладильная Nika "BELL CLASSY 2" БК2 серый</name>
         <vendor>Nika</vendor>
@@ -1636,14 +1625,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1338</price>
-      </offer>
-      <offer sku="УТ-00013814">
-        <name>GRINDA объем 5 л, пластиковый, рукомойник (428494-5) 428494-5_z01</name>
-        <vendor>Grinda</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2266</price>
       </offer>
       <offer sku="УТ-00013835">
         <name>Удлинитель телескопический GRINDA ES-2200 42510-220_z01</name>
@@ -10793,17 +10774,6 @@
         </pickup-options>
         <price>7888</price>
       </offer>
-      <offer sku="00000025437">
-        <name>Сушилка напольная Nika СБ1/С серебристый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830813</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7800</price>
-      </offer>
       <offer sku="00000025438">
         <name>Сушилка напольная Nika СБ2/С серебристый</name>
         <vendor>Nika</vendor>
@@ -18905,17 +18875,6 @@
         </pickup-options>
         <price>111900</price>
       </offer>
-      <offer sku="00000075233">
-        <name>Система гардеробная ЗМИ "СКАНДИНАВИЯ 1" ГСС1 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093788097</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32210</price>
-      </offer>
       <offer sku="00000075234">
         <name>Система гардеробная ЗМИ "СКАНДИНАВИЯ 1" ГСС1 белый</name>
         <vendor>ЗМИ</vendor>
@@ -20946,17 +20905,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6950</price>
-      </offer>
-      <offer sku="УТ-00048669">
-        <name>Доска гладильная Nika Н3+ (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830042</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16490</price>
       </offer>
       <offer sku="УТ-00048671">
         <name>Доска гладильная Nika "ЛИНА 4" ДЛ4 (в ассортименте)</name>
@@ -23811,17 +23759,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16999</price>
-      </offer>
-      <offer sku="УТ-00063244">
-        <name>Вешалка настенная ЗМИ "ТОРОНТО 7" ВНТ7МЧ матовая черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4630111537933</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2990</price>
       </offer>
       <offer sku="УТ-00063245">
         <name>Комплект детской мебели Nika КНД2/1 кто чей малыш?</name>

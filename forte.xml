@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 10:17">
+<fm_catalog date="2026-10-28 10:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9915,17 +9915,6 @@
         <vendor>Сибртех</vendor>
         <barcodes>
           <barcode>4606800038241</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3990</price>
-      </offer>
-      <offer sku="00000021630">
-        <name>Таз строительный Сибртех 90 л прямоугольный 81445</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800038272</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -22098,14 +22087,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>135154</price>
-      </offer>
-      <offer sku="УТ-00058888">
-        <name>Стремянка односторонняя KRAUSE SEPRO S 5 ступ. 124197</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>95000</price>
       </offer>
       <offer sku="УТ-00059138">
         <name>Компрессор безмасляный DGM AC-225F DG2720-4</name>

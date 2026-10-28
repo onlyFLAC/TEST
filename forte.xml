@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 22:31">
+<fm_catalog date="2026-10-28 23:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11518,14 +11518,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69900</price>
-      </offer>
-      <offer sku="00000031934">
-        <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41500</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>

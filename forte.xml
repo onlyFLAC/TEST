@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 11:15">
+<fm_catalog date="2026-10-28 11:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15016,7 +15016,7 @@
         <price>170200</price>
       </offer>
       <offer sku="00000040986">
-        <name>Пила торцовочная с протяжкой Зубр МАСТЕР 255 ЗПТ-255-1800 ПЛ</name>
+        <name>Пила торцовочная ЗУБР "МАСТЕР" ЗПТ-255-1800 ПЛ</name>
         <vendor>ЗУБР</vendor>
         <barcodes>
           <barcode>4606373217272</barcode>
@@ -17893,17 +17893,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9070</price>
-      </offer>
-      <offer sku="00000070756">
-        <name>Шина STIHL 12" 30 см 1.1 мм 30050083405</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711909765</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15940</price>
       </offer>
       <offer sku="00000070759">
         <name>Шина STIHL 12" 30 см 1.1 мм 30050003905</name>
@@ -20860,7 +20849,7 @@
         <price>6950</price>
       </offer>
       <offer sku="УТ-00048671">
-        <name>Доска гладильная Nika "ЛИНА 4" ДЛ4 (в ассортименте)</name>
+        <name>Доска гладильная Nika "ЛИНА 4" ДЛ4 серый</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4607075830462</barcode>
@@ -20996,7 +20985,7 @@
         <price>2288</price>
       </offer>
       <offer sku="УТ-00051211">
-        <name>Отвертка аккумуляторная Bosch GO Gen 3 06019H2201</name>
+        <name>Отвертка аккумуляторная BOSCH GO Gen 3 06019H2201</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>4059952639574</barcode>
@@ -21575,17 +21564,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2430</price>
-      </offer>
-      <offer sku="УТ-00055895">
-        <name>Цепная звёздочка 12516421200</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711936150</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7400</price>
       </offer>
       <offer sku="УТ-00055911">
         <name>Сиденье в ванну Nika "ЭКОНОМ" СВ1</name>
@@ -23329,17 +23307,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>49060</price>
-      </offer>
-      <offer sku="УТ-00061328">
-        <name>Электронный модуль</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711585624</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17600</price>
       </offer>
       <offer sku="УТ-00061340">
         <name>Дозатор жидкого мыла встраиваемый Gappo сатин G406-5</name>
@@ -25286,14 +25253,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9999</price>
-      </offer>
-      <offer sku="УТ-00079536">
-        <name>Защитное приспособление Stihl 41407108101</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9590</price>
       </offer>
       <offer sku="УТ-00079720">
         <name>Кабельный жгут Stihl 11404403012</name>

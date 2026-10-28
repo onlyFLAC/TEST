@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-28 17:08">
+<fm_catalog date="2026-10-28 17:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -12227,6 +12227,17 @@
         </pickup-options>
         <price>14952</price>
       </offer>
+      <offer sku="00000032616">
+        <name>Пила дисковая настольная (распиловочный стол) Bosch GTS 10 XC Professional 0601B30400</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140509480</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690560</price>
+      </offer>
       <offer sku="00000032617">
         <name>Пила дисковая настольная BOSCH GTS 10 J 0601B30500</name>
         <vendor>BOSCH</vendor>
@@ -12821,6 +12832,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>169450</price>
+      </offer>
+      <offer sku="00000032929">
+        <name>Угломер цифровой BOSCH GAM 220 0601076500</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140798846</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>128300</price>
+      </offer>
+      <offer sku="00000032930">
+        <name>Угломер цифровой Bosch GAM 220 MF Professional 0601076600</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140798860</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>156000</price>
       </offer>
       <offer sku="00000032937">
         <name>Машина шлифовальная прямая Bosch GGS 28 C (0601220000)</name>
@@ -18543,6 +18576,17 @@
         </pickup-options>
         <price>185760</price>
       </offer>
+      <offer sku="00000071955">
+        <name>Дрель-шуруповёрт аккумуляторная Bosch GSR 12V-35 FC БЕЗ Акб и ЗУ, угловые адаптеры, кейс</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140936941</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>140110</price>
+      </offer>
       <offer sku="00000071961">
         <name>Насос EasyPump 0603947000 Bosch</name>
         <vendor>BOSCH</vendor>
@@ -18926,14 +18970,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8671</price>
-      </offer>
-      <offer sku="00000074148">
-        <name>ЗУБР КТР-90, №3, ключ трубный, прямые губки</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17290</price>
       </offer>
       <offer sku="00000074187">
         <name>Очки защитные Kraftool EXPERT 11007</name>
@@ -20929,14 +20965,6 @@
         </pickup-options>
         <price>60990</price>
       </offer>
-      <offer sku="УТ-00047818">
-        <name>Пылесос хозяйственный Karcher WD 3 V-17/6/20 Car 1.628-115.0</name>
-        <vendor>Karcher</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67990</price>
-      </offer>
       <offer sku="УТ-00047830">
         <name>Пароочиститель Karcher SC 2 EasyFix 1.512-600.0</name>
         <vendor>Karcher</vendor>
@@ -22221,6 +22249,17 @@
         </pickup-options>
         <price>63730</price>
       </offer>
+      <offer sku="УТ-00057830">
+        <name>ДАЛЬНОМЕР UniversalDistance 50 Bosch 0603672801</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952648217</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50595</price>
+      </offer>
       <offer sku="УТ-00057913">
         <name>Бензопила STIHL MS 260 40 см 11212000369К40</name>
         <vendor>STIHL</vendor>
@@ -22447,7 +22486,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18694</price>
+        <price>16990</price>
       </offer>
       <offer sku="УТ-00059628">
         <name>Вешалка-стойка с полкой Nika ВС3/Ч матово-черный/дуб антик фристайл</name>
@@ -22614,7 +22653,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27902</price>
+        <price>25900</price>
       </offer>
       <offer sku="УТ-00059653">
         <name>Кресло-шезлонг с матрасом Nika HHK4Р/Р с ракушками/травяной</name>
@@ -22625,7 +22664,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27902</price>
+        <price>25900</price>
       </offer>
       <offer sku="УТ-00059654">
         <name>Кресло-шезлонг с матрасом и декоративной подушкой Nika HHK7/SN песочный</name>
@@ -22671,7 +22710,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13390</price>
+        <price>14200</price>
       </offer>
       <offer sku="УТ-00059660">
         <name>Стремянка с широкими ступенями Nika СМШ2/Ч черный</name>
@@ -22734,7 +22773,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3888</price>
+        <price>2850</price>
       </offer>
       <offer sku="УТ-00059671">
         <name>Фартук и нарукавники Nika ФН2/О рисунок со щенком/орхидея</name>
@@ -22742,7 +22781,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3177</price>
+        <price>2850</price>
       </offer>
       <offer sku="УТ-00059673">
         <name>Этажерка с ящиком Nika ЭТП3-1/К коричневый</name>
@@ -22753,7 +22792,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21736</price>
+        <price>19850</price>
       </offer>
       <offer sku="УТ-00059674">
         <name>Этажерка с ящиком Nika ЭТП3-1/БЖ слоновая кость/бежевый металлик</name>
@@ -22764,7 +22803,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16999</price>
+        <price>17500</price>
       </offer>
       <offer sku="УТ-00059675">
         <name>Этажерка с ящиком Nika ЭТП3-1/МС матово-серый</name>
@@ -22799,7 +22838,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14174</price>
+        <price>9999</price>
       </offer>
       <offer sku="УТ-00059821">
         <name>Сушилка напольная Nika СБТ18/РЗ розовое золото</name>

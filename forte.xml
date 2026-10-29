@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 12:41">
+<fm_catalog date="2026-10-29 13:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8693,17 +8693,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4175</price>
-      </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>920</price>
       </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
@@ -23050,6 +23039,17 @@
         </pickup-options>
         <price>15290</price>
       </offer>
+      <offer sku="УТ-00060284">
+        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477622816</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12240</price>
+      </offer>
       <offer sku="УТ-00060328">
         <name>Полотенцедержатель Frap 302 черный F30201</name>
         <vendor>Frap</vendor>
@@ -23136,6 +23136,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12650</price>
+      </offer>
+      <offer sku="УТ-00060442">
+        <name>Смеситель для раковины Frap высокий черный F10806-26</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477630514</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19260</price>
       </offer>
       <offer sku="УТ-00060447">
         <name>Смеситель для раковины Frap черный F10802-6</name>

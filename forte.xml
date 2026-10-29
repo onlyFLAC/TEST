@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 12:12">
+<fm_catalog date="2026-10-29 12:41">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8694,6 +8694,17 @@
         </pickup-options>
         <price>4175</price>
       </offer>
+      <offer sku="00000014939">
+        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4606800027177</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>920</price>
+      </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
         <vendor>Matrix</vendor>
@@ -11205,6 +11216,17 @@
         </pickup-options>
         <price>27000</price>
       </offer>
+      <offer sku="00000031836">
+        <name>Стремянка односторонняя KRAUSE CORDA 5 ступ. 729</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199000729</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>46400</price>
+      </offer>
       <offer sku="00000031852">
         <name>Лестница трехсекционная KRAUSE CORDA 3х11 ступ. 010421</name>
         <vendor>Krause</vendor>
@@ -11245,6 +11267,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>82600</price>
+      </offer>
+      <offer sku="00000031878">
+        <name>Лестница трехсекционная KRAUSE TRIBILO 3x12 ступ. 120953</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>199420</price>
       </offer>
       <offer sku="00000031882">
         <name>Лестница приставная KRAUSE SIBILO MONTO 6 ступ. 121387</name>
@@ -11301,6 +11331,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69900</price>
+      </offer>
+      <offer sku="00000031934">
+        <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41500</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>

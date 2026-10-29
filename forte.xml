@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 10:14">
+<fm_catalog date="2026-10-29 10:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -253,6 +253,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39500</price>
+      </offer>
+      <offer sku="УТ-00004278">
+        <name>Аккумулятор BL 20-4A ALTECO</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15590</price>
       </offer>
       <offer sku="УТ-00004290">
         <name>Виброшлифмашина SN 320 ALTECO</name>
@@ -10430,6 +10438,17 @@
         </pickup-options>
         <price>32990</price>
       </offer>
+      <offer sku="00000023824">
+        <name>Лобзик CROWN CT15080</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>4012078022989</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21990</price>
+      </offer>
       <offer sku="00000023859">
         <name>Шлифмашина угловая (болгарка) CROWN CT13034</name>
         <vendor>CROWN</vendor>
@@ -10440,6 +10459,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29990</price>
+      </offer>
+      <offer sku="00000023908">
+        <name>Машина шлифовальная прямая CROWN CT13308</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19990</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -11221,6 +11248,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>109190</price>
+      </offer>
+      <offer sku="00000031866">
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х4 ступ. 120335</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199120335</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>55300</price>
       </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
@@ -20603,6 +20641,14 @@
         </pickup-options>
         <price>130620</price>
       </offer>
+      <offer sku="УТ-00047337">
+        <name>2 Ведущее колесо для штабелёра WS/IWS (Drive wheel), шт</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>90350</price>
+      </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>
         <vendor>TOR</vendor>
@@ -21114,6 +21160,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6640</price>
+      </offer>
+      <offer sku="УТ-00053350">
+        <name>Шпатель малярный 600мм, BIHUI PTK60, шт 77404</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4650</price>
       </offer>
       <offer sku="УТ-00053690">
         <name>Дрель ударная сетевая Bosch GSB 600 06011A0320</name>
@@ -27197,6 +27251,14 @@
         </pickup-options>
         <price>2490</price>
       </offer>
+      <offer sku="УТ-00099471">
+        <name>Насадка для реноватора DeWALT 43х30 мм, DT20734-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3190</price>
+      </offer>
       <offer sku="УТ-00099519">
         <name>Краскопульт электрический CROWN CT31014</name>
         <vendor>CROWN</vendor>
@@ -27223,6 +27285,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>65990</price>
+      </offer>
+      <offer sku="УТ-00099543">
+        <name>23018HX Машина полировальная аккумуляторная 20V, 5Ач, 1200-3400 об/мин, 180мм, бесщеточная CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35990</price>
+      </offer>
+      <offer sku="УТ-00099555">
+        <name>13313 Машина шлифовальная прямая CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24990</price>
       </offer>
       <offer sku="УТ-00099560">
         <name>13577 Машина шлифовальная прямая CROWN "600 Вт 6 мм 220 ~ 230 В"</name>

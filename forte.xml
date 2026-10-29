@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 15:38">
+<fm_catalog date="2026-10-29 16:08">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -804,6 +804,14 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005950">
+        <name>Уровень Stabila тип 70, 50 см 02283</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12590</price>
+      </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
         <vendor>STABILA</vendor>
@@ -1455,6 +1463,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18720</price>
+      </offer>
+      <offer sku="УТ-00013025">
+        <name>Шлифмашина угловая (болгарка) ALTECO AGH 1100-125 E 61286</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244611180</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23900</price>
       </offer>
       <offer sku="УТ-00013064">
         <name>4222 корыто для тачки 110 л</name>
@@ -2426,6 +2445,14 @@
         </pickup-options>
         <price>290000</price>
       </offer>
+      <offer sku="УТ-00022098">
+        <name>Коронка бурильная алмазная D1420 d72 L-500mm (бетон тв,ср,мягк)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>94000</price>
+      </offer>
       <offer sku="УТ-00022131">
         <name>Бензопила Husqvarna 120 Mark II 967 86 19-06</name>
         <vendor>Husqvarna</vendor>
@@ -2466,6 +2493,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>450000</price>
+      </offer>
+      <offer sku="УТ-00022206">
+        <name>Травокосилка 135R</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>321000</price>
       </offer>
       <offer sku="УТ-00022226">
         <name>Воздуходувка бензиновая Husqvarna 125 В 952 71 56-43</name>
@@ -2676,6 +2711,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>68000</price>
+      </offer>
+      <offer sku="УТ-00022487">
+        <name>КЛИН ВАЛОЧНЫЙ АЛЮМИНИЕВЫЙ 25СМ/10"; (1000ГР)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31900</price>
       </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
@@ -5969,6 +6012,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24560</price>
+      </offer>
+      <offer sku="00000005908">
+        <name>Заклепочник ЗУБР П-700 31192_z01</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373048272</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9020</price>
       </offer>
       <offer sku="00000005912">
         <name>Бензопила ЗУБР ПБЦ-М52-45</name>
@@ -11309,6 +11363,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>41500</price>
+      </offer>
+      <offer sku="00000031942">
+        <name>Подставка складная KRAUSE TOPPY XL 3 ступ. 130877</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199130877</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>47300</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -20707,6 +20772,17 @@
         </pickup-options>
         <price>552200</price>
       </offer>
+      <offer sku="УТ-00048210">
+        <name>Масло 2Т 1л HP Husqvarna 587 80 85-10</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245893</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7200</price>
+      </offer>
       <offer sku="УТ-00048211">
         <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
         <vendor>Husqvarna</vendor>
@@ -21837,6 +21913,17 @@
         </pickup-options>
         <price>9975</price>
       </offer>
+      <offer sku="УТ-00056514">
+        <name>Секатор Grinda GRINDA P-25 200 мм 423425</name>
+        <vendor>Grinda</vendor>
+        <barcodes>
+          <barcode>4893925601836</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7440</price>
+      </offer>
       <offer sku="УТ-00056627">
         <name>Видеорегистратор Neoline Flash 2K Dual</name>
         <vendor>Neoline</vendor>
@@ -22060,6 +22147,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>135154</price>
+      </offer>
+      <offer sku="УТ-00058888">
+        <name>Стремянка односторонняя KRAUSE SEPRO S 5 ступ. 124197</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>95000</price>
       </offer>
       <offer sku="УТ-00059138">
         <name>Компрессор безмасляный DGM AC-225F DG2720-4</name>
@@ -23221,6 +23316,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9999</price>
+      </offer>
+      <offer sku="УТ-00060537">
+        <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/З золотистый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4620032740192</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9850</price>
       </offer>
       <offer sku="УТ-00060540">
         <name>Этажерка Nika ЭТ4/А коричневый</name>
@@ -24547,6 +24653,14 @@
         </pickup-options>
         <price>32505</price>
       </offer>
+      <offer sku="УТ-00072397">
+        <name>Инструмент для удаления оболочки KNIPEX 16 80 125 SB</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21690</price>
+      </offer>
       <offer sku="УТ-00072410">
         <name>Клещи для удаления оболочки KNIPEX 13 42 165</name>
         <vendor>KNIPEX</vendor>
@@ -24805,6 +24919,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32335</price>
+      </offer>
+      <offer sku="УТ-00072650">
+        <name>Труборез для пластиковых труб KNIPEX 90 25 40</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773045182</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>78625</price>
       </offer>
       <offer sku="УТ-00072656">
         <name>Щипцы колец KNIPEX 48 11 J2</name>
@@ -25376,6 +25501,14 @@
         </pickup-options>
         <price>14390</price>
       </offer>
+      <offer sku="УТ-00084695">
+        <name>Держатель для насадок Wera 05051273001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13590</price>
+      </offer>
       <offer sku="УТ-00084847">
         <name>Стремянка односторонняя KRAUSE SEPRO 6 ступ. 124203</name>
         <vendor>Krause</vendor>
@@ -25457,6 +25590,14 @@
         </pickup-options>
         <price>4400</price>
       </offer>
+      <offer sku="УТ-00085489">
+        <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7550</price>
+      </offer>
       <offer sku="УТ-00085490">
         <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>
         <vendor>Husqvarna</vendor>
@@ -25464,6 +25605,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
+      </offer>
+      <offer sku="УТ-00085493">
+        <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

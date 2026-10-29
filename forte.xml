@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 17:07">
+<fm_catalog date="2026-10-29 17:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8373,17 +8373,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000012240">
-        <name>Набор отверток для точных работ универсальный, 8 шт., Crv// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996116198</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3180</price>
-      </offer>
       <offer sku="00000012268">
         <name>Набор профессиональных отверток Fusion, CrV, 3-компонентная рукоятка antislip, 6 шт.// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9138,17 +9127,6 @@
         </pickup-options>
         <price>2790</price>
       </offer>
-      <offer sku="00000016374">
-        <name>Домкрат гидравлический подкатной, 3 т, h подъема 150–530 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996023427</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>65430</price>
-      </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
         <vendor>STELS</vendor>
@@ -9596,17 +9574,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21020</price>
-      </offer>
-      <offer sku="00000017669">
-        <name>Ведро гибкое сверхпрочное, 40 л, желтое, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800058652</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5300</price>
       </offer>
       <offer sku="00000017670">
         <name>Ведро гибкое сверхпрочное, 40 л, синее, Россия// Сибртех</name>
@@ -22615,14 +22582,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>135154</price>
-      </offer>
-      <offer sku="УТ-00058888">
-        <name>Стремянка односторонняя KRAUSE SEPRO S 5 ступ. 124197</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>95000</price>
       </offer>
       <offer sku="УТ-00059138">
         <name>Компрессор безмасляный DGM AC-225F DG2720-4</name>

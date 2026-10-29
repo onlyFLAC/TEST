@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 07:18">
+<fm_catalog date="2026-10-29 07:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8468,17 +8468,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="00000013080">
-        <name>Набор ключей рожковых, 6 х 17 мм, 6 шт., CrV, хромированные// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996016788</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4090</price>
-      </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9189,17 +9178,6 @@
         </pickup-options>
         <price>3500</price>
       </offer>
-      <offer sku="00000016813">
-        <name>Лопата для уборки снега пластиковая, красная, 420х425 мм, без черенка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800059857</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3750</price>
-      </offer>
       <offer sku="00000016826">
         <name>Лопата для уборки снега пластиковая LUXE, 540х375х1520 мм, стальной черенок// Palisad</name>
         <vendor>Palisad</vendor>
@@ -9221,17 +9199,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7790</price>
-      </offer>
-      <offer sku="00000016866">
-        <name>Грабли веерные пластиковые, 600 мм, 24 плоских зуба, без черенка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800057907</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2000</price>
       </offer>
       <offer sku="00000017039">
         <name>Полольник петлеобразный, 115 мм, рессорно-пружинная сталь, без черенка, Россия// Сибртех</name>
@@ -9433,17 +9400,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>690</price>
-      </offer>
-      <offer sku="00000017834">
-        <name>Рукавицы специальные х/б с наладон. двунитка, утеплённые, ватин, 2 размер, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800046345</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1290</price>
       </offer>
       <offer sku="00000017837">
         <name>Рукавицы специальные Сибртех 68156</name>
@@ -16521,18 +16477,6 @@
         </pickup-options>
         <price>9040</price>
       </offer>
-      <offer sku="00000059190">
-        <name>Вешалка гардеробная колесная ЗМИ "РАДУГА 2" ВГАР2 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195637637</barcode>
-          <barcode>4640011875622</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12660</price>
-      </offer>
       <offer sku="00000059208">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л ваниль</name>
         <vendor>ЗМИ</vendor>
@@ -20019,17 +19963,6 @@
         </pickup-options>
         <price>2780</price>
       </offer>
-      <offer sku="УТ-00001721">
-        <name>Лом-гвоздодер усиленный, 1200х29х15 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996196800</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11590</price>
-      </offer>
       <offer sku="УТ-00001725">
         <name>Лом строительный, D 25 мм, L 1500 мм, круглый// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -20040,17 +19973,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8582</price>
-      </offer>
-      <offer sku="УТ-00001731">
-        <name>Рулетка 8м х 25мм, двухкомп. корпус, магнитный обрезиненный зацеп// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996205175</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4590</price>
       </offer>
       <offer sku="УТ-00001777">
         <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
@@ -21176,14 +21098,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25200</price>
-      </offer>
-      <offer sku="УТ-00049468">
-        <name>Бетономешалка P.I.T. 52208</name>
-        <vendor>P.I.T.</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>128700</price>
       </offer>
       <offer sku="УТ-00049617">
         <name>22001 - "P.I.T." Перфоратор 20ᶲ 1,5 J 700 W</name>
@@ -25882,17 +25796,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>214990</price>
-      </offer>
-      <offer sku="УТ-00087699">
-        <name>Смеситель под фильтр с гибким изливом Frap оружейная сталь F4374-59</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477626623</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40800</price>
       </offer>
       <offer sku="УТ-00087775">
         <name>Лента для рулетки Husqvarna 15 м 505 69 73-01</name>

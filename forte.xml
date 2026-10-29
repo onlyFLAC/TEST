@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 07:48">
+<fm_catalog date="2026-10-29 08:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2859,17 +2859,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>717860</price>
-      </offer>
-      <offer sku="УТ-00024992">
-        <name>Лом-гвоздодер усиленный, 300х25х12 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996196794</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2590</price>
       </offer>
       <offer sku="УТ-00024998">
         <name>Фильтр каркасный-складчатый HEPA Denzel 28214</name>
@@ -8273,17 +8262,6 @@
         </pickup-options>
         <price>695</price>
       </offer>
-      <offer sku="00000012182">
-        <name>Отвертка PZ2 x 100 мм, S2, трехкомпонентная ручка// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996077390</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2290</price>
-      </offer>
       <offer sku="00000012233">
         <name>Пробник электрический 130 мм, 100–500 В// Sparta</name>
         <vendor>Sparta</vendor>
@@ -8380,39 +8358,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000012648">
-        <name>Головка ударная удлиненная шестигранная, 13 мм, 1/2", CrMo// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996157412</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
-      <offer sku="00000012652">
-        <name>Головка ударная удлиненная шестигранная, 17 мм, 1/2", CrMo// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996157450</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4080</price>
-      </offer>
-      <offer sku="00000012677">
-        <name>Кардан ударный 1/2"// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996157702</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7868</price>
-      </offer>
       <offer sku="00000012690">
         <name>Ключ трубка Stels 8х9 мм 13767</name>
         <vendor>STELS</vendor>
@@ -8500,17 +8445,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>855</price>
-      </offer>
-      <offer sku="00000013243">
-        <name>Ключ разводной, тонкие губки, фосфатированый, 150 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996145570</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3844</price>
       </offer>
       <offer sku="00000013425">
         <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
@@ -8656,17 +8590,6 @@
         </pickup-options>
         <price>44450</price>
       </offer>
-      <offer sku="00000014621">
-        <name>Насадки с тефлоновым покрытием к аппарату для сварки полипропилен. труб, 20 мм, 25 мм// Kronwerk</name>
-        <vendor>Kronwerk</vendor>
-        <barcodes>
-          <barcode>4044996135281</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2490</price>
-      </offer>
       <offer sku="00000014623">
         <name>Набор тефлоновых насадок Kronwerk 20-40 мм 4 шт. 94286</name>
         <vendor>Kronwerk</vendor>
@@ -8754,17 +8677,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4175</price>
-      </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>920</price>
       </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
@@ -8985,18 +8897,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8480</price>
-      </offer>
-      <offer sku="00000016485">
-        <name>Поддон для сбора масла, 8 л // Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996030432</barcode>
-          <barcode>4606800050670</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5970</price>
       </offer>
       <offer sku="00000016498">
         <name>Щетка-сметка для снега со скребком Stels 580 мм 55303</name>
@@ -9544,17 +9444,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000019439">
-        <name>Набор сверл комб., мет.1-6мм,бетон 4-8мм,дер.4-8 мм,биты 10шт,адап., зенковка, 31пр., PRO// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996162034</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8915</price>
-      </offer>
       <offer sku="00000019513">
         <name>Кондуктор для алмазных сверл Matrix 4-13 мм 72833</name>
         <vendor>Matrix</vendor>
@@ -9811,17 +9700,6 @@
         </pickup-options>
         <price>690</price>
       </offer>
-      <offer sku="00000020754">
-        <name>Сеткодержатель, 230 х 105 мм, металлический с зажимами// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996150949</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2980</price>
-      </offer>
       <offer sku="00000020769">
         <name>Диск полировальный из натурального войлока, "под липучку" 150 х 7 мм// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9898,17 +9776,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3486</price>
-      </offer>
-      <offer sku="00000021260">
-        <name>Приспособление для затачиван. ножей любого типа, метал. направляющая, крепление на присоске// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996085067</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13490</price>
       </offer>
       <offer sku="00000021317">
         <name>Валик с ручкой Сибртех 200 мм 80134</name>
@@ -10171,17 +10038,6 @@
         </pickup-options>
         <price>1440</price>
       </offer>
-      <offer sku="00000022377">
-        <name>Лента малярная СИБРТЕХ 38 мм х 40 м, на бумажной основе 88702</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800059444</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1200</price>
-      </offer>
       <offer sku="00000022388">
         <name>Лента малярная Сибртех 30 мм 15 м 88884</name>
         <vendor>Сибртех</vendor>
@@ -10189,17 +10045,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>490</price>
-      </offer>
-      <offer sku="00000022398">
-        <name>Лента клейкая двусторонняя, 38 мм х 5 м, на полипропиленовой основе// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800059512</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>780</price>
       </offer>
       <offer sku="00000022405">
         <name>Лента клейкая противоскользящая, c фотолюминисцентной полосой 50 мм. х 5м.// Matrix</name>
@@ -10333,18 +10178,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000022754">
-        <name>Ящик для инструмента 17", 420х220х180 мм, пластик Россия// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996123110</barcode>
-          <barcode>4606800033833</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5890</price>
-      </offer>
       <offer sku="00000022790">
         <name>Ящик для инструментов Сибртех 90803</name>
         <vendor>Сибртех</vendor>
@@ -10366,17 +10199,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4365</price>
-      </offer>
-      <offer sku="00000022792">
-        <name>Ящик для инструмента СИБРТЕХ 430x235x250мм (18), пластик 90805</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800042316</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
       </offer>
       <offer sku="00000022794">
         <name>Ящик для инструментов 16, с органайзерами СИБРТЕХ 90807</name>
@@ -10429,17 +10251,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>790</price>
-      </offer>
-      <offer sku="00000023105">
-        <name>Припой с канифолью на пластмассовой катушке POS61 (1 мм; 100 г) СИБРТЕХ 913367</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996139876</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6055</price>
       </offer>
       <offer sku="00000023123">
         <name>Лампа паяльная, 1,5 л// Sparta</name>
@@ -10536,14 +10347,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29423</price>
-      </offer>
-      <offer sku="00000023627">
-        <name>Стремянка, 7 ступеней, стальной профиль, алюминиевые ступени, Россия // Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28669</price>
       </offer>
       <offer sku="00000023639">
         <name>Стремянка двухсторонняя Сибртех 4 ступеней 97984</name>
@@ -19973,17 +19776,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8582</price>
-      </offer>
-      <offer sku="УТ-00001777">
-        <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800092397</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9720</price>
       </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>

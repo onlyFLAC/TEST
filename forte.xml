@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 11:43">
+<fm_catalog date="2026-10-29 12:12">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -803,28 +803,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005944">
-        <name>Уровень тип 70, 120 см STABILA 02289</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022891</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19190</price>
-      </offer>
-      <offer sku="УТ-00005957">
-        <name>Уровень тип 80AS, 100 см STABILA 19168</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191689</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23190</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -7984,17 +7962,6 @@
         </pickup-options>
         <price>4976</price>
       </offer>
-      <offer sku="00000010639">
-        <name>Топорище ЗУБР "СТАНДАРТ" деревянное, 540мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373112454</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2289</price>
-      </offer>
       <offer sku="00000010653">
         <name>Торцовая головка KRAFTOOL "INDUSTRIE QUALITAT", Cr-V, FLANK, хромосатинированная, 1/2", 22 мм</name>
         <vendor>KRAFTOOL</vendor>
@@ -10105,17 +10072,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3980</price>
-      </offer>
-      <offer sku="00000022415">
-        <name>Лента углозащитная бумажная Сибртех 48 мм 50 м 88732</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800059604</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>890</price>
       </offer>
       <offer sku="00000022440">
         <name>Лента сигнальная Сибртех 50 мм, 200 м, черно-желтая 89033</name>
@@ -24819,17 +24775,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32335</price>
-      </offer>
-      <offer sku="УТ-00072609">
-        <name>Поясная сумка KNIPEX 00 19 72 XS LE</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773087335</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9190</price>
       </offer>
       <offer sku="УТ-00072656">
         <name>Щипцы колец KNIPEX 48 11 J2</name>

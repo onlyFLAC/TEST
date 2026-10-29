@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 16:08">
+<fm_catalog date="2026-10-29 16:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8692,28 +8692,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3380</price>
-      </offer>
-      <offer sku="00000014706">
-        <name>Струбцина G-образная СИБРТЕХ 75мм 20582</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996124810</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2190</price>
-      </offer>
-      <offer sku="00000014708">
-        <name>Струбцина G-образная,150 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996124834</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4080</price>
       </offer>
       <offer sku="00000014803">
         <name>Кирка-молоток печника и каменщика 500 г, фибергласовая обрезиненная рукоятка 385 мм// Matrix</name>
@@ -20771,17 +20749,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>552200</price>
-      </offer>
-      <offer sku="УТ-00048210">
-        <name>Масло 2Т 1л HP Husqvarna 587 80 85-10</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245893</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7200</price>
       </offer>
       <offer sku="УТ-00048211">
         <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>

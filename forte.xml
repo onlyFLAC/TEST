@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 15:08">
+<fm_catalog date="2026-10-29 15:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11269,14 +11269,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>165200</price>
-      </offer>
-      <offer sku="00000031898">
-        <name>Стремянка односторонняя KRAUSE STABILO 7 ступ. 124548</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>152600</price>
       </offer>
       <offer sku="00000031902">
         <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>

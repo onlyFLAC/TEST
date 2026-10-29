@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 10:44">
+<fm_catalog date="2026-10-29 11:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17384,7 +17384,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14580</price>
+        <price>12580</price>
       </offer>
       <offer sku="00000064334">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 белая</name>
@@ -20717,14 +20717,6 @@
         </pickup-options>
         <price>7740</price>
       </offer>
-      <offer sku="УТ-00048205">
-        <name>Краскораспылитель безвоздушный PROFSET 3000 Вт STB-935</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>393800</price>
-      </offer>
       <offer sku="УТ-00048206">
         <name>Краскораспылитель безвоздушный PROFSET 4000 Вт STB-980</name>
         <vendor>PROFSET</vendor>
@@ -23766,6 +23758,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>113500</price>
+      </offer>
+      <offer sku="УТ-00063381">
+        <name>Травокосилка Husqvarna 226R 965 87 10-03</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>180000</price>
       </offer>
       <offer sku="УТ-00063391">
         <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>

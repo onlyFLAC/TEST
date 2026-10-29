@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-29 09:45">
+<fm_catalog date="2026-10-29 10:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2489,6 +2489,14 @@
         </pickup-options>
         <price>9350</price>
       </offer>
+      <offer sku="УТ-00022277">
+        <name>Спрей Active Clean 500мл Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
+      </offer>
       <offer sku="УТ-00022288">
         <name>Головка триммерная S35 M12L 135R 143RII 535RXT (ручная)</name>
         <vendor>Husqvarna</vendor>
@@ -2625,6 +2633,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
+      </offer>
+      <offer sku="УТ-00022460">
+        <name>Топор плотницкий 50см 1кг</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883620717</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>57000</price>
       </offer>
       <offer sku="УТ-00022464">
         <name>Топор универсальный Husqvarna 65 см, 0.85 кг 576 92 62-01</name>

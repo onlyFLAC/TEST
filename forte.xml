@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 06:50">
+<fm_catalog date="2026-10-30 07:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23236,17 +23236,6 @@
         </pickup-options>
         <price>88100</price>
       </offer>
-      <offer sku="УТ-00059852">
-        <name>Диск отрезной по металлу BOSCH 125х22.2 мм 2608619768</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952631356</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>266</price>
-      </offer>
       <offer sku="УТ-00059861">
         <name>Душевая система Frap F2491-3 Золотой Сатин</name>
         <vendor>Frap</vendor>
@@ -24879,14 +24868,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2867</price>
-      </offer>
-      <offer sku="УТ-00065018">
-        <name>ЗУБР Колибри-30 красный, наконечник L 30 мм, ᴓ 2.8 мм, перманентный маркер для отверстий (06338-3)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
       </offer>
       <offer sku="УТ-00065038">
         <name>ЗУБР МК-800 синий, 2-8 мм клиновидный маркер-краска (06327-7)</name>

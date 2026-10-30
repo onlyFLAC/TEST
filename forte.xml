@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 12:41">
+<fm_catalog date="2026-10-30 13:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2946,17 +2946,6 @@
         </pickup-options>
         <price>717860</price>
       </offer>
-      <offer sku="УТ-00024955">
-        <name>Вороток Г-образный Denzel 3/8" 50х200 мм 14062</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996233987</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1548</price>
-      </offer>
       <offer sku="УТ-00024998">
         <name>Фильтр каркасный-складчатый HEPA Denzel 28214</name>
         <vendor>Denzel</vendor>
@@ -2975,17 +2964,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8980</price>
-      </offer>
-      <offer sku="УТ-00025195">
-        <name>Сверло-зенкер под конфирмат Denzel 5 мм 704205</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996199542</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1605</price>
       </offer>
       <offer sku="УТ-00025325">
         <name>Круг абразивный на ворсовой подложке под "липучку", перфорированный, P 220, 125 мм, 5 шт.// Сибртех</name>
@@ -3065,17 +3043,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2990</price>
-      </offer>
-      <offer sku="УТ-00025565">
-        <name>Электроды DER-3, диам. 3 мм, 1 кг, рутиловое покрытие// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4606800091765</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2995</price>
       </offer>
       <offer sku="УТ-00025577">
         <name>Молоток слесарный 600 г, цельнометаллический, двухкомпонентная рукоятка // Denzel</name>
@@ -3158,17 +3125,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6975</price>
-      </offer>
-      <offer sku="УТ-00025842">
-        <name>Перчатки универсальные комбинированные, с защитными накладками, STYLISH, размер M (8)// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996239286</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7215</price>
       </offer>
       <offer sku="УТ-00025858">
         <name>Фиксатор магнитный для сварочных работ усилие 75 LB// Denzel</name>
@@ -8362,17 +8318,6 @@
         </pickup-options>
         <price>4890</price>
       </offer>
-      <offer sku="00000011795">
-        <name>Киянка деревянная// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800067890</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1995</price>
-      </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8589,17 +8534,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>855</price>
-      </offer>
-      <offer sku="00000013283">
-        <name>Ключ трубный рычажный, №0, 0.5", цельнокованый, CrV, тип "B"// Gross</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996120812</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6374</price>
       </offer>
       <offer sku="00000013425">
         <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
@@ -8932,17 +8866,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000015819">
-        <name>Хомуты, 150 х 2,5 мм, пластиковые, зеленые, 100 шт.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996158181</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1200</price>
-      </offer>
       <offer sku="00000015842">
         <name>Хомуты, 150 х 2,5 мм, пластиковые, черные, 100 шт.// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -9041,17 +8964,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4167</price>
-      </offer>
-      <offer sku="00000016350">
-        <name>Резиновая опора для подкатного домкрата универсальная, D=72 mm, d=50, H=35 mm// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4606800066534</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2790</price>
       </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
@@ -9488,18 +9400,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1500</price>
-      </offer>
-      <offer sku="00000017688">
-        <name>Умывальник оцинкованный Россия 20 л с краном и крышкой 67551</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4044996106458</barcode>
-          <barcode>4606800048172</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9430</price>
       </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
@@ -19089,6 +18989,14 @@
         </pickup-options>
         <price>213690</price>
       </offer>
+      <offer sku="00000074432">
+        <name>Ключ динамометрический щелчкового типа 28-210Нм 1/2''(Тайвань),в пластиковом футляре</name>
+        <vendor>Rock FORCE</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19400</price>
+      </offer>
       <offer sku="00000074599">
         <name>Набор инструментов 96 пр</name>
         <vendor>WMC TOOLS</vendor>
@@ -27608,6 +27516,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
+      </offer>
+      <offer sku="УТ-00098711">
+        <name>Гайковерт пневматический ROCKFORCE RF-NC-4226</name>
+        <vendor>Rock FORCE</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44700</price>
       </offer>
       <offer sku="УТ-00099442">
         <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>

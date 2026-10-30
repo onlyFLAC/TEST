@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 20:32">
+<fm_catalog date="2026-10-30 21:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11429,14 +11429,6 @@
         </pickup-options>
         <price>77800</price>
       </offer>
-      <offer sku="00000031904">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 3 ступ. 126214</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36200</price>
-      </offer>
       <offer sku="00000031905">
         <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
         <vendor>Krause</vendor>
@@ -11452,17 +11444,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69900</price>
-      </offer>
-      <offer sku="00000031942">
-        <name>Подставка складная KRAUSE TOPPY XL 3 ступ. 130877</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47300</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>

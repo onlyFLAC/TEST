@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 16:07">
+<fm_catalog date="2026-10-30 16:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -27436,6 +27436,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>50600</price>
+      </offer>
+      <offer sku="УТ-00100304">
+        <name>Клещи переставные с кнопкой 300мм THT381206</name>
+        <vendor>Total</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6900</price>
       </offer>
       <offer sku="УТ-00100683">
         <name>Колесо большегрузное TOR 46х100 мм, резина на ось (F) 1027160</name>

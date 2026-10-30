@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 15:37">
+<fm_catalog date="2026-10-30 16:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -804,17 +804,6 @@
         </pickup-options>
         <price>466375</price>
       </offer>
-      <offer sku="УТ-00005908">
-        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195700</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3290</price>
-      </offer>
       <offer sku="УТ-00005950">
         <name>Уровень Stabila тип 70, 50 см 02283</name>
         <vendor>STABILA</vendor>
@@ -822,28 +811,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12590</price>
-      </offer>
-      <offer sku="УТ-00005962">
-        <name>Уровень тип 80AS, 60 см STABILA 19165</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191658</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18990</price>
-      </offer>
-      <offer sku="УТ-00005972">
-        <name>Уровень тип 80АS-2, 80 см, 3 глазка STABILA 19171</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191719</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26290</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -872,22 +839,6 @@
         </pickup-options>
         <price>23200</price>
       </offer>
-      <offer sku="УТ-00006309">
-        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>58800</price>
-      </offer>
-      <offer sku="УТ-00006351">
-        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х3 ступ. 120328</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43400</price>
-      </offer>
       <offer sku="УТ-00006353">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х7 ступ. 120366</name>
         <vendor>Krause</vendor>
@@ -895,14 +846,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>100000</price>
-      </offer>
-      <offer sku="УТ-00006392">
-        <name>Подставка монтажная KRAUSE STABILO 3 ступ. 805034</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>85780</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -2714,17 +2657,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39000</price>
-      </offer>
-      <offer sku="УТ-00022454">
-        <name>Пила садовая Husqvarna 180мм</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883219904</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
       </offer>
       <offer sku="УТ-00022455">
         <name>Пила садовая Husqvarna 240мм в чехле</name>
@@ -5448,17 +5380,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
-      </offer>
-      <offer sku="00000004089">
-        <name>Ванночка малярная STAYER 120х200 мм 0605-20-12</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229111991</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
       </offer>
       <offer sku="00000004096">
         <name>Ванночка малярная ЗУБР "СТАНДАРТ" 270х290 мм 0.25 л 06052-29-27</name>
@@ -11413,36 +11334,6 @@
         </pickup-options>
         <price>27000</price>
       </offer>
-      <offer sku="00000031834">
-        <name>Стремянка односторонняя KRAUSE CORDA 4 ступ. 705</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38500</price>
-      </offer>
-      <offer sku="00000031836">
-        <name>Стремянка односторонняя KRAUSE CORDA 5 ступ. 729</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000729</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>46400</price>
-      </offer>
-      <offer sku="00000031852">
-        <name>Лестница трехсекционная KRAUSE CORDA 3х11 ступ. 010421</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199010421</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>134200</price>
-      </offer>
       <offer sku="00000031859">
         <name>Лестница трехсекционная KRAUSE CORDA 3х9 ступ. 013392</name>
         <vendor>Krause</vendor>
@@ -11489,14 +11380,6 @@
         </pickup-options>
         <price>26080</price>
       </offer>
-      <offer sku="00000031891">
-        <name>Лестница шарнирная KRAUSE STABILO 4х3 ступ. 123510</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>149000</price>
-      </offer>
       <offer sku="00000031892">
         <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
         <vendor>Krause</vendor>
@@ -11536,49 +11419,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69900</price>
-      </offer>
-      <offer sku="00000031918">
-        <name>Стремянка односторонняя KRAUSE SECURY 6 ступ. 126542</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>87800</price>
-      </offer>
-      <offer sku="00000031924">
-        <name>Стремянка односторонняя KRAUSE SEPURO 4 ступ. 127228</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>69000</price>
-      </offer>
-      <offer sku="00000031925">
-        <name>Стремянка односторонняя KRAUSE SEPURO 5 ступ. 127235</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199127235</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>82900</price>
-      </offer>
-      <offer sku="00000031934">
-        <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41500</price>
-      </offer>
-      <offer sku="00000031936">
-        <name>Подставка складная KRAUSE ROLLY 2х3 ступ. 130068</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>53900</price>
       </offer>
       <offer sku="00000031942">
         <name>Подставка складная KRAUSE TOPPY XL 3 ступ. 130877</name>
@@ -18958,14 +18798,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17500</price>
-      </offer>
-      <offer sku="00000074236">
-        <name>Стремянка односторонняя KRAUSE SEPRO S 4 ступ. 124180</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>84600</price>
       </offer>
       <offer sku="00000074239">
         <name>Подставка складная KRAUSE ROLLY 2х2 ступ. зеленая 130143</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 17:05">
+<fm_catalog date="2026-10-30 17:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -879,6 +879,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>97790</price>
+      </offer>
+      <offer sku="УТ-00006508">
+        <name>АККУМУЛЯТОРНАЯ ЦИРКУЛЯРНА Bosch GKS 185-LI</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952610771</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>122710</price>
       </offer>
       <offer sku="УТ-00006510">
         <name>Дрель-шуруповерт аккумуляторная BOSCH GSR 18V-90 C 06019K6006</name>
@@ -8731,6 +8742,17 @@
         </pickup-options>
         <price>4175</price>
       </offer>
+      <offer sku="00000015066">
+        <name>Лом-гвоздодер Сибртех 600х25х12 мм 25243</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996140094</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4190</price>
+      </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
         <vendor>Matrix</vendor>
@@ -12442,6 +12464,17 @@
         </pickup-options>
         <price>17528</price>
       </offer>
+      <offer sku="00000032763">
+        <name>Пылесос строительный Bosch GAS 15 PS 06019E5100</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140829007</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>120150</price>
+      </offer>
       <offer sku="00000032765">
         <name>Пылесос строительный Bosch GAS 35 L SFC+ 06019C3000</name>
         <vendor>BOSCH</vendor>
@@ -12475,6 +12508,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63040</price>
+      </offer>
+      <offer sku="00000032773">
+        <name>Пылесос Bosch GAS 12-25 PL 060197C100</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140926072</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>179330</price>
       </offer>
       <offer sku="00000032776">
         <name>Пылесос универсальный Bosch UniversalVac 15 06033D1100</name>
@@ -12607,6 +12651,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>97720</price>
+      </offer>
+      <offer sku="00000032824">
+        <name>ТОЧИЛО С ДВУМЯ ШЛИФКРУГАМИ GBG 60-20</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140893442</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>143770</price>
       </offer>
       <offer sku="00000032845">
         <name>Машина шлифовальная угловая (болгарка) BOSCH GWS 19-125 CIE 060179P002</name>
@@ -15020,6 +15075,17 @@
         </pickup-options>
         <price>142100</price>
       </offer>
+      <offer sku="00000039807">
+        <name>Измерительное колесо | курвиметр Bosch GWM 32 0601074000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140781541</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>63400</price>
+      </offer>
       <offer sku="00000039893">
         <name>Цепь для бензопилы Bosch UniversalChain F016800489</name>
         <vendor>BOSCH</vendor>
@@ -16276,6 +16342,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18888</price>
+      </offer>
+      <offer sku="00000059105">
+        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952531144</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>122320</price>
       </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>
@@ -20022,6 +20099,17 @@
         </pickup-options>
         <price>251960</price>
       </offer>
+      <offer sku="УТ-00002266">
+        <name>Пила сабельная аккумуляторная Bosch GSA 185-LI Solo 06016C0020</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952641171</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>105530</price>
+      </offer>
       <offer sku="УТ-00002269">
         <name>Пила дисковая аккумуляторная Bosch GKM 18V-50 06016B8000 (без АКБ)</name>
         <vendor>BOSCH</vendor>
@@ -22092,6 +22180,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63730</price>
+      </offer>
+      <offer sku="УТ-00057826">
+        <name>Пила торцовочная Bosch GCM 254 SD 0601B53000</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>249490</price>
       </offer>
       <offer sku="УТ-00057830">
         <name>ДАЛЬНОМЕР UniversalDistance 50 Bosch 0603672801</name>
@@ -25032,14 +25128,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63490</price>
-      </offer>
-      <offer sku="УТ-00072893">
-        <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7150</price>
       </offer>
       <offer sku="УТ-00072904">
         <name>Бензопила Husqvarna 353 15"; 0.325 1.5 64DL H25 HSM 970 65 04-15</name>

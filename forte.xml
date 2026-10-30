@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 14:09">
+<fm_catalog date="2026-10-30 14:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -804,6 +804,17 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
+      </offer>
       <offer sku="УТ-00005950">
         <name>Уровень Stabila тип 70, 50 см 02283</name>
         <vendor>STABILA</vendor>
@@ -811,6 +822,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12590</price>
+      </offer>
+      <offer sku="УТ-00005962">
+        <name>Уровень тип 80AS, 60 см STABILA 19165</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191658</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18990</price>
+      </offer>
+      <offer sku="УТ-00005972">
+        <name>Уровень тип 80АS-2, 80 см, 3 глазка STABILA 19171</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191719</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26290</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -27651,6 +27684,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00102450">
+        <name>D-81206 Пильный диск универсальный для алюминия/дерева/пластика, 165x20x2.2/1.4x60T</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7790</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

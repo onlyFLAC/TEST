@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 09:45">
+<fm_catalog date="2026-10-30 10:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11234,6 +11234,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26730</price>
+      </offer>
+      <offer sku="00000031817">
+        <name>Станок точильный IVT BG-150KS-RC</name>
+        <vendor>IVT</vendor>
+        <barcodes>
+          <barcode>7630005295403</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15863</price>
       </offer>
       <offer sku="00000031828">
         <name>Тачка строительная двухколесная IVT 4225 250 кг-110л-2к</name>
@@ -25100,6 +25111,14 @@
         </pickup-options>
         <price>49721</price>
       </offer>
+      <offer sku="УТ-00074928">
+        <name>Машина для пайки труб IVT PW-1800R</name>
+        <vendor>IVT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29133</price>
+      </offer>
       <offer sku="УТ-00074968">
         <name>Окучник IVT SO-1 8037</name>
         <vendor>IVT</vendor>
@@ -25118,6 +25137,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6210</price>
+      </offer>
+      <offer sku="УТ-00075129">
+        <name>Фен промышленный IVT HG-2000W/2</name>
+        <vendor>IVT</vendor>
+        <barcodes>
+          <barcode>7630005261637</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11543</price>
       </offer>
       <offer sku="УТ-00075506">
         <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/А медный антик</name>

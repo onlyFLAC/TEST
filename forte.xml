@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 14:39">
+<fm_catalog date="2026-10-30 15:08">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -27519,14 +27519,6 @@
         </pickup-options>
         <price>46900</price>
       </offer>
-      <offer sku="УТ-00098711">
-        <name>Гайковерт пневматический ROCKFORCE RF-NC-4226</name>
-        <vendor>Rock FORCE</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44700</price>
-      </offer>
       <offer sku="УТ-00099442">
         <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>
         <vendor>DeWALT</vendor>
@@ -27684,14 +27676,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00102450">
-        <name>D-81206 Пильный диск универсальный для алюминия/дерева/пластика, 165x20x2.2/1.4x60T</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7790</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

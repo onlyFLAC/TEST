@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 08:47">
+<fm_catalog date="2026-10-30 09:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25886,14 +25886,6 @@
         </pickup-options>
         <price>29750</price>
       </offer>
-      <offer sku="УТ-00089540">
-        <name>Стремянка односторонняя усиленная PROFSET 1х6 ступеней DLH306</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>34070</price>
-      </offer>
       <offer sku="УТ-00089541">
         <name>Лестница приставная складная PROFSET 9 ступеней DLF109</name>
         <vendor>PROFSET</vendor>
@@ -27211,17 +27203,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>61900</price>
-      </offer>
-      <offer sku="УТ-00095883">
-        <name>Редуктор БИО 50 KP (Азот, СО2, Воздух, Аргон, Гелий итд)</name>
-        <vendor>KRASS</vendor>
-        <barcodes>
-          <barcode>4630043883924</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16150</price>
       </offer>
       <offer sku="УТ-00096156">
         <name>Лезвие для шпателя BIHUI 100 см, толщина 0.5 мм PTKB100-SB</name>

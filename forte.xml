@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 21:59">
+<fm_catalog date="2026-10-30 22:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -26500,14 +26500,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2090</price>
-      </offer>
-      <offer sku="УТ-00091306">
-        <name>Нож для газонокосилки Husqvarna DB51; DBS51; DBY51 531 00 94-60</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20000</price>
       </offer>
       <offer sku="УТ-00091425">
         <name>Нивелир лазерный линейный BOSCH GLL 80-33 G 0601065500</name>

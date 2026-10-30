@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 08:17">
+<fm_catalog date="2026-10-30 08:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17265,17 +17265,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24188</price>
-      </offer>
-      <offer sku="00000064260">
-        <name>Табурет-стремянка ЗМИ "КОНЕК" ТС277 белый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093785751</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15270</price>
       </offer>
       <offer sku="00000064262">
         <name>Вешалка гардеробная колесная ЗМИ "РАДУГА 2" ВНП299 коричневая</name>

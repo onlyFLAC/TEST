@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-30 12:12">
+<fm_catalog date="2026-10-30 12:41">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2681,6 +2681,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39000</price>
+      </offer>
+      <offer sku="УТ-00022454">
+        <name>Пила садовая Husqvarna 180мм</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883219904</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13200</price>
       </offer>
       <offer sku="УТ-00022455">
         <name>Пила садовая Husqvarna 240мм в чехле</name>
@@ -18799,17 +18810,6 @@
         </pickup-options>
         <price>13050</price>
       </offer>
-      <offer sku="00000073693">
-        <name>Подставка для обуви с сиденьем ЗМИ "АЛЬФА 32" ПДОА32С белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093789032</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9640</price>
-      </offer>
       <offer sku="00000073885">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 185-LI 06019K3000</name>
         <vendor>BOSCH</vendor>
@@ -21072,6 +21072,17 @@
         </pickup-options>
         <price>1880</price>
       </offer>
+      <offer sku="УТ-00048213">
+        <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883037737</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6990</price>
+      </offer>
       <offer sku="УТ-00048216">
         <name>Шнур кордовый Husqvarna 2.7x70 мм 597 66 90-10</name>
         <vendor>Husqvarna</vendor>
@@ -21256,17 +21267,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25200</price>
-      </offer>
-      <offer sku="УТ-00049617">
-        <name>22001 - "P.I.T." Перфоратор 20ᶲ 1,5 J 700 W</name>
-        <vendor>P.I.T.</vendor>
-        <barcodes>
-          <barcode>4870219970656</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20200</price>
       </offer>
       <offer sku="УТ-00049622">
         <name>22808-PRO - "P.I.T." Перфоратор с антивибрационной функцией 28ᶲ 3,2 J 1200 W</name>

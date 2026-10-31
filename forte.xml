@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-31 12:41">
+<fm_catalog date="2026-10-31 13:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -26217,14 +26217,6 @@
       </offer>
       <offer sku="УТ-00091091">
         <name>Лампы светодиодные СТАРТ 5 шт. LEDGLS E27 25W 27ON</name>
-        <vendor>СТАРТ</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3890</price>
-      </offer>
-      <offer sku="УТ-00091092">
-        <name>Лампы светодиодные СТАРТ 5 шт. LEDGLS E27 25W 40ON</name>
         <vendor>СТАРТ</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

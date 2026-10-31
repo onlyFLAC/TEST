@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-31 11:42">
+<fm_catalog date="2026-10-31 12:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8678,28 +8678,6 @@
         </pickup-options>
         <price>4175</price>
       </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>920</price>
-      </offer>
-      <offer sku="00000015033">
-        <name>Набор резцов по дереву Sparta 6 шт. 246065</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996068244</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1638</price>
-      </offer>
       <offer sku="00000015066">
         <name>Лом-гвоздодер Сибртех 600х25х12 мм 25243</name>
         <vendor>Сибртех</vendor>
@@ -11679,17 +11657,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9143</price>
-      </offer>
-      <offer sku="00000032369">
-        <name>Диск пильный Bosch ECO WOOD (305x30 мм; 100T) 2608644386</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140891073</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20556</price>
       </offer>
       <offer sku="00000032375">
         <name>Дрель-шуруповерт аккумуляторная BOSCH GSR 18V-50 06019H5000</name>

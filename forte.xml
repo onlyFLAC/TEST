@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-31 09:15">
+<fm_catalog date="2026-10-31 09:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1412,7 +1412,7 @@
         <price>32000</price>
       </offer>
       <offer sku="УТ-00012797">
-        <name>Электроды Арсенал ТМ МР-З Арс 2.5мм (уп 2,5кг) упак</name>
+        <name>Электроды Арсенал ТМ МР-З 2.5 мм, 2.5 кг</name>
         <vendor>Арсенал</vendor>
         <barcodes>
           <barcode>4780085410036</barcode>
@@ -5184,17 +5184,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6280</price>
-      </offer>
-      <offer sku="00000002941">
-        <name>Лента мерная геодезическая STAYER "LEADER" 30 м 2-34183-030</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229047382</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7602</price>
       </offer>
       <offer sku="00000003103">
         <name>STAYER PROFESSIONAL 25 мм лезвия сегментированные, 5 шт</name>
@@ -11493,17 +11482,6 @@
         </pickup-options>
         <price>81610</price>
       </offer>
-      <offer sku="00000032224">
-        <name>Набор аккумулятор и зарядное устройство 1 GAL 18V-40+1 GBA 18В 4,0 Ач Bosch</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140970297</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>64220</price>
-      </offer>
       <offer sku="00000032238">
         <name>Аккумулятор для электроинструментов Bosch GBA 12V 2 Ач 1600Z0002X</name>
         <vendor>BOSCH</vendor>
@@ -12261,7 +12239,7 @@
         <price>75000</price>
       </offer>
       <offer sku="00000032686">
-        <name>Перфоратор Bosch GBH 240 F 0611273000</name>
+        <name>Перфоратор электрический BOSCH GBH 240 F 0611273000</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140832267</barcode>
@@ -12460,7 +12438,7 @@
         <price>179330</price>
       </offer>
       <offer sku="00000032776">
-        <name>Пылесос универсальный Bosch UniversalVac 15 06033D1100</name>
+        <name>Пылесос строительный BOSCH UniversalVac 15 06033D1100</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140873963</barcode>
@@ -21221,14 +21199,6 @@
         </pickup-options>
         <price>7400</price>
       </offer>
-      <offer sku="УТ-00052936">
-        <name>Крюк зацеп для рулетки 505 69 72-10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3350</price>
-      </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
         <vendor>Matrix</vendor>
@@ -23170,17 +23140,6 @@
         </pickup-options>
         <price>15290</price>
       </offer>
-      <offer sku="УТ-00060284">
-        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477622816</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12240</price>
-      </offer>
       <offer sku="УТ-00060341">
         <name>Душевая система Frap F2491-9 Оружейная Сталь с изливом</name>
         <vendor>Frap</vendor>
@@ -23267,14 +23226,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13500</price>
-      </offer>
-      <offer sku="УТ-00060453">
-        <name>Смеситель Frap для раковины F1076-9 оружейная сталь</name>
-        <vendor>Frap</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25850</price>
       </offer>
       <offer sku="УТ-00060454">
         <name>Смеситель Frap для раковины F1076-6 черный</name>
@@ -25647,7 +25598,7 @@
         <price>101790</price>
       </offer>
       <offer sku="УТ-00085548">
-        <name>Шуруповерт аккумуляторный Bosch GSR 120-LI 2 06019G8020</name>
+        <name>Шуруповерт аккумуляторный BOSCH GSR 120-LI 2 06019G8020</name>
         <vendor>BOSCH</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

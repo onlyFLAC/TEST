@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-31 16:06">
+<fm_catalog date="2026-10-31 16:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1789,17 +1789,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2280</price>
-      </offer>
-      <offer sku="УТ-00014775">
-        <name>ЗУБР Мастер 3 шт: d 6-8-10 мм набор сверл по бетону 2922-H3_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373036361</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1780</price>
       </offer>
       <offer sku="УТ-00014777">
         <name>ЗУБР МАСТЕР 10 x 400 мм сверло по бетону 2922-400-10</name>
@@ -24237,17 +24226,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>880</price>
-      </offer>
-      <offer sku="УТ-00064522">
-        <name>Наушники защитные на каску ЗУБР "ВЕГА-27" 27 дБ 11371</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373454394</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
       </offer>
       <offer sku="УТ-00064555">
         <name>KRAFTOOL X-FORCE 450 г, белая киянка (2077-45)</name>

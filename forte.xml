@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-31 10:43">
+<fm_catalog date="2026-10-31 11:12">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23267,17 +23267,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9999</price>
-      </offer>
-      <offer sku="УТ-00060537">
-        <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/З золотистый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032740192</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9850</price>
       </offer>
       <offer sku="УТ-00060540">
         <name>Этажерка Nika ЭТ4/А коричневый</name>

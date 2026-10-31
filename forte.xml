@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-31 09:44">
+<fm_catalog date="2026-10-31 10:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10612,17 +10612,6 @@
         </pickup-options>
         <price>23580</price>
       </offer>
-      <offer sku="00000024780">
-        <name>Фен строительный ALTECO HG 0609 27142</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216453282</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19500</price>
-      </offer>
       <offer sku="00000024802">
         <name>Рубанок электрический PL 650 ALTECO</name>
         <vendor>ALTECO</vendor>
@@ -12590,17 +12579,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>133290</price>
-      </offer>
-      <offer sku="00000032858">
-        <name>Машина шлифовальная угловая (болгарка) Bosch GWS 750 S 0601394121</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140938068</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36800</price>
       </offer>
       <offer sku="00000032860">
         <name>Шлифмашина угловая (болгарка) BOSCH GWS 750-125</name>

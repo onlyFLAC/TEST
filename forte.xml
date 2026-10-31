@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-31 08:44">
+<fm_catalog date="2026-10-31 09:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8412,17 +8412,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3178</price>
-      </offer>
-      <offer sku="00000013078">
-        <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996042107</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
       </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
@@ -20702,7 +20691,7 @@
         <price>105200</price>
       </offer>
       <offer sku="УТ-00045554">
-        <name>Бензопила STIHL MS 162 (шина 30см, цепь 44зв., кожух)</name>
+        <name>Бензопила STIHL MS 162 30 см 11480113010K30</name>
         <vendor>STIHL</vendor>
         <barcodes>
           <barcode>886661459797</barcode>
@@ -27272,7 +27261,7 @@
         <price>7440</price>
       </offer>
       <offer sku="УТ-00095264">
-        <name>Обогреватель газовый портативный ALTECO PH 2 ECO</name>
+        <name>Обогреватель газовый портативный ALTECO PH 2 ECO 93058</name>
         <vendor>ALTECO</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

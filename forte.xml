@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-10-31 07:46">
+<fm_catalog date="2026-10-31 08:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,17 +204,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64990</price>
-      </offer>
-      <offer sku="УТ-00003947">
-        <name>Дрель CT10179C CROWN</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640372696567</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16990</price>
       </offer>
       <offer sku="УТ-00003970">
         <name>Шлифмашина щеточная CROWN CT13551-110RSV</name>
@@ -2196,14 +2185,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1280</price>
-      </offer>
-      <offer sku="УТ-00015966">
-        <name>STAYER STRONG 90 л, Прямоугольный строительный таз, MASTER (06099-90)</name>
-        <vendor>STAYER</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7680</price>
       </offer>
       <offer sku="УТ-00015967">
         <name>STAYER STRONG 60 л, Прямоугольный строительный таз, MASTER (06099-60)</name>
@@ -6802,17 +6783,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8080</price>
-      </offer>
-      <offer sku="00000007905">
-        <name>Лопата штыковая ЗУБР 4-39501_z02</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373094392</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9966</price>
       </offer>
       <offer sku="00000007965">
         <name>Макловица ЗУБР "ЭКСПЕРТ" БИТУМНАЯ, спец щетина из натур растительного волокна, круглая, пластмассовый корпус, d=110мм</name>
@@ -15307,17 +15277,6 @@
         </pickup-options>
         <price>135100</price>
       </offer>
-      <offer sku="00000041168">
-        <name>Бензопила STIHL MS 250 C-BE 40 см 11230123050К40</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661268276</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>225600</price>
-      </offer>
       <offer sku="00000041219">
         <name>Воздуходувка бензиновая STIHL BG 50 42290111723</name>
         <vendor>STIHL</vendor>
@@ -20831,14 +20790,6 @@
         </pickup-options>
         <price>90350</price>
       </offer>
-      <offer sku="УТ-00047416">
-        <name>Тележка для металлических бочек TOR КБ-1 1020254</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>63010</price>
-      </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>
         <vendor>TOR</vendor>
@@ -22274,14 +22225,6 @@
         </pickup-options>
         <price>151000</price>
       </offer>
-      <offer sku="УТ-00058577">
-        <name>Компрессор безмасляный Mateus MS03405</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>125500</price>
-      </offer>
       <offer sku="УТ-00058697">
         <name>Прокладка STIHL 41403528100</name>
         <vendor>STIHL</vendor>
@@ -23260,17 +23203,6 @@
         </pickup-options>
         <price>12240</price>
       </offer>
-      <offer sku="УТ-00060328">
-        <name>Полотенцедержатель Frap 302 черный F30201</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477621499</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
-      </offer>
       <offer sku="УТ-00060341">
         <name>Душевая система Frap F2491-9 Оружейная Сталь с изливом</name>
         <vendor>Frap</vendor>
@@ -23335,17 +23267,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40450</price>
-      </offer>
-      <offer sku="УТ-00060440">
-        <name>Смеситель для раковины Frap H806-6 черный F10806-6</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477630484</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12650</price>
       </offer>
       <offer sku="УТ-00060442">
         <name>Смеситель для раковины Frap высокий черный F10806-26</name>
@@ -24276,17 +24197,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34010</price>
-      </offer>
-      <offer sku="УТ-00063830">
-        <name>Клещи переставные (водяные) Bosch 1600A027PR</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952614205</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10550</price>
       </offer>
       <offer sku="УТ-00063833">
         <name>Набор инструмента расширенный, 132 предмета</name>
@@ -27476,14 +27386,6 @@
         </pickup-options>
         <price>3190</price>
       </offer>
-      <offer sku="УТ-00099503">
-        <name>Воздуходувка электрическая CROWN CT17010V</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20990</price>
-      </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>
         <vendor>CROWN</vendor>
@@ -27545,14 +27447,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>50600</price>
-      </offer>
-      <offer sku="УТ-00100304">
-        <name>Клещи переставные с кнопкой 300мм THT381206</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6900</price>
       </offer>
       <offer sku="УТ-00100683">
         <name>Колесо большегрузное TOR 46х100 мм, резина на ось (F) 1027160</name>

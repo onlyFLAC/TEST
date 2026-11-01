@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-01 07:14">
+<fm_catalog date="2026-11-01 07:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20699,17 +20699,6 @@
         </pickup-options>
         <price>26675</price>
       </offer>
-      <offer sku="УТ-00047761">
-        <name>Мешки флисовые Karcher на WD 2/3 4 шт. 2.863-314.0</name>
-        <vendor>Karcher</vendor>
-        <barcodes>
-          <barcode>4054278777689</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9690</price>
-      </offer>
       <offer sku="УТ-00047817">
         <name>Пылесос хозяйственный Karcher WD 2 Plus V-12/4/18/C 1.628-009.0</name>
         <vendor>Karcher</vendor>
@@ -25007,14 +24996,6 @@
         </pickup-options>
         <price>78850</price>
       </offer>
-      <offer sku="УТ-00074789">
-        <name>Грунтозацепы IVT IW-23 2700</name>
-        <vendor>IVT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41121</price>
-      </offer>
       <offer sku="УТ-00074824">
         <name>Дрель-шуруповерт аккумуляторная IVT в кейсе (1 акб*2 Ач) ICSD 20/2-65 BMC</name>
         <vendor>IVT</vendor>
@@ -25712,17 +25693,6 @@
         <vendor>MARTI</vendor>
         <barcodes>
           <barcode>4580664610105</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
-      </offer>
-      <offer sku="УТ-00089291">
-        <name>Трусики MARTI XL38 12-20 кг</name>
-        <vendor>MARTI</vendor>
-        <barcodes>
-          <barcode>4580664610112</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>

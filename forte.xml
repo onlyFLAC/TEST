@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 06:41">
+<fm_catalog date="2026-11-02 07:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1852,14 +1852,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3811</price>
-      </offer>
-      <offer sku="УТ-00014999">
-        <name>СИБИН 22 x 24 мм, Рожковый гаечный ключ (27014-22-24) 27014-22-24_z01</name>
-        <vendor>Сибин</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1590</price>
       </offer>
       <offer sku="УТ-00015047">
         <name>STAYER Hercules-B18 18 предм., Отвертка-битодержатель с насадками (2545-H5) 2545-H5_z02</name>
@@ -8240,17 +8232,6 @@
         </pickup-options>
         <price>695</price>
       </offer>
-      <offer sku="00000012233">
-        <name>Пробник электрический 130 мм, 100–500 В// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996085210</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>490</price>
-      </offer>
       <offer sku="00000012268">
         <name>Набор профессиональных отверток Fusion, CrV, 3-компонентная рукоятка antislip, 6 шт.// Matrix</name>
         <vendor>Matrix</vendor>
@@ -10059,14 +10040,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1440</price>
-      </offer>
-      <offer sku="00000022388">
-        <name>Лента малярная Сибртех 30 мм 15 м 88884</name>
-        <vendor>Сибртех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>490</price>
       </offer>
       <offer sku="00000022405">
         <name>Лента клейкая противоскользящая, c фотолюминисцентной полосой 50 мм. х 5м.// Matrix</name>
@@ -17402,17 +17375,6 @@
         </pickup-options>
         <price>9400</price>
       </offer>
-      <offer sku="00000064347">
-        <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093784945</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18000</price>
-      </offer>
       <offer sku="00000064348">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 коричневая</name>
         <vendor>ЗМИ</vendor>
@@ -17841,17 +17803,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15320</price>
-      </offer>
-      <offer sku="00000070609">
-        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787113</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14010</price>
       </offer>
       <offer sku="00000070610">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
@@ -25650,17 +25601,6 @@
         </pickup-options>
         <price>6800</price>
       </offer>
-      <offer sku="УТ-00089290">
-        <name>Трусики MARTI L44 9-14 кг</name>
-        <vendor>MARTI</vendor>
-        <barcodes>
-          <barcode>4580664610105</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
-      </offer>
       <offer sku="УТ-00089323">
         <name>Отрезной круг Standard for Metal 180x1,6мм PRO, прямой</name>
         <vendor>BOSCH</vendor>
@@ -26595,17 +26535,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7050</price>
-      </offer>
-      <offer sku="УТ-00091606">
-        <name>Ножовка по металлу BOSCH 150 мм 1600A02ZA7</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423255072</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4290</price>
       </offer>
       <offer sku="УТ-00091607">
         <name>Ножовка по металлу BOSCH 300 мм 1600A02ZA8</name>

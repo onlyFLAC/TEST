@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 12:04">
+<fm_catalog date="2026-11-02 12:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -195,7 +195,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>38500</price>
+        <price>34265</price>
       </offer>
       <offer sku="УТ-00003909">
         <name>Ножницы по металлу аккумуляторные CROWN CT29001HX-2S BMC</name>
@@ -679,7 +679,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8500</price>
+        <price>7565</price>
       </offer>
       <offer sku="УТ-00005415">
         <name>Корзина для белья Nika КБ1/ЛВ с лавандой</name>
@@ -690,7 +690,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>4450</price>
       </offer>
       <offer sku="УТ-00005416">
         <name>Корзина для белья с крышкой Nika HSC1/SC haushalt scandinavian</name>
@@ -701,7 +701,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>4450</price>
       </offer>
       <offer sku="УТ-00005417">
         <name>Корзина для белья с крышкой Nika HSC2/GR серый</name>
@@ -712,7 +712,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>4450</price>
       </offer>
       <offer sku="УТ-00005419">
         <name>Стул складной с мягкой спинкой Nika "НИКА 1М" ССН1М/8 светло-серый/матово-серый</name>
@@ -723,7 +723,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15559</price>
+        <price>13848</price>
       </offer>
       <offer sku="УТ-00005421">
         <name>Стул складной с мягкой спинкой Nika "НИКА 1М" ССН1М/1 серый/слоновая кость</name>
@@ -745,7 +745,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16500</price>
+        <price>14685</price>
       </offer>
       <offer sku="УТ-00005424">
         <name>Стул складной с мягкой спинкой Nika "НИКА 1М" ССН1М/6 черный</name>
@@ -753,7 +753,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15500</price>
+        <price>13795</price>
       </offer>
       <offer sku="УТ-00005425">
         <name>Чехол для гладильной доски Nika ЧА2 1300х480 мм (в ассортименте)</name>
@@ -764,7 +764,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3888</price>
+        <price>3461</price>
       </offer>
       <offer sku="УТ-00005427">
         <name>Чехол для гладильной доски Nika ЧА3 1300х550 мм (в ассортименте)</name>
@@ -775,7 +775,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3200</price>
+        <price>2848</price>
       </offer>
       <offer sku="УТ-00005437">
         <name>Решетка конусообразная STIHL 42037086700</name>
@@ -998,7 +998,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14500</price>
+        <price>12905</price>
       </offer>
       <offer sku="УТ-00007968">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21104XS-2 BMC</name>
@@ -2323,7 +2323,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17990</price>
+        <price>16012</price>
       </offer>
       <offer sku="УТ-00020334">
         <name>Насос аккумуляторный для дождевой воды Bosch 18V-2000 06008C4202</name>
@@ -2753,7 +2753,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>38888</price>
+        <price>34611</price>
       </offer>
       <offer sku="УТ-00023846">
         <name>Гайковерт аккумуляторный Makita XGT BL 40В TW001GZ</name>
@@ -4265,7 +4265,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14440</price>
+        <price>12852</price>
       </offer>
       <offer sku="УТ-00026331">
         <name>Сушилка напольная Nika СБП1/С серебряный</name>
@@ -4287,7 +4287,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9750</price>
+        <price>8678</price>
       </offer>
       <offer sku="УТ-00026340">
         <name>Сушилка напольная Nika СБ1/Б белый</name>
@@ -4328,7 +4328,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>34990</price>
+        <price>31142</price>
       </offer>
       <offer sku="УТ-00028675">
         <name>SHIVAKI MD 4218 E grey-black-black</name>
@@ -4473,7 +4473,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>38990</price>
+        <price>34702</price>
       </offer>
       <offer sku="УТ-00040232">
         <name>Сушилка напольная двухсекционная Nika СБ8/Ч черный</name>
@@ -4495,7 +4495,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17320</price>
+        <price>15415</price>
       </offer>
       <offer sku="УТ-00040239">
         <name>Стол складной туристический Nika ССТ-3/5 кофе с молоком</name>
@@ -4506,7 +4506,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15888</price>
+        <price>14141</price>
       </offer>
       <offer sku="УТ-00040241">
         <name>Стол складной Nika ССТ-3/2 хаки</name>
@@ -4517,7 +4517,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16000</price>
+        <price>14240</price>
       </offer>
       <offer sku="УТ-00040242">
         <name>Стол складной Nika ССТ6/5 кофе с молоком</name>
@@ -4528,7 +4528,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19999</price>
+        <price>17800</price>
       </offer>
       <offer sku="УТ-00040243">
         <name>Стол складной Nika ССТ-6/1 металлик</name>
@@ -4539,7 +4539,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>20884</price>
+        <price>18587</price>
       </offer>
       <offer sku="УТ-00040244">
         <name>Набор стол-стулья Nika ССТ-К2/1 металлик/хант</name>
@@ -4550,7 +4550,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22888</price>
+        <price>20371</price>
       </offer>
       <offer sku="УТ-00040245">
         <name>Набор стол+стулья Nika ССТ-К2/2 хаки/хаки</name>
@@ -4561,7 +4561,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26500</price>
+        <price>23585</price>
       </offer>
       <offer sku="УТ-00040246">
         <name>Набор стол+стулья Nika ССТ-К2/10 10 кофе с молоком/камуфляж коричневый</name>
@@ -4572,7 +4572,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22888</price>
+        <price>20371</price>
       </offer>
       <offer sku="УТ-00040247">
         <name>Набор стол+стулья Nika ССТ-К3/4 голубой/джинс</name>
@@ -4583,7 +4583,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>33500</price>
+        <price>29815</price>
       </offer>
       <offer sku="УТ-00040248">
         <name>Набор стол+стулья Nika ССТ-К3/1 металлик/хант</name>
@@ -4594,7 +4594,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>34450</price>
+        <price>30661</price>
       </offer>
       <offer sku="УТ-00040254">
         <name>Стол складной туристический Nika ТСТ/ЯС ясень черный</name>
@@ -4605,7 +4605,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12888</price>
+        <price>11471</price>
       </offer>
       <offer sku="УТ-00040256">
         <name>Стул складной туристический Nika TC/ЯC ясень черный</name>
@@ -4616,7 +4616,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7500</price>
+        <price>6675</price>
       </offer>
       <offer sku="00000000297">
         <name>Аппарат сварочный EUROLUX IWM160 65/26</name>
@@ -10505,7 +10505,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18690</price>
+        <price>16635</price>
       </offer>
       <offer sku="00000024181">
         <name>Аппарат сварочный инверторный Mateus MAG/MIG-175 MS08301</name>
@@ -10757,7 +10757,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>33990</price>
+        <price>30252</price>
       </offer>
       <offer sku="00000025387">
         <name>Вешалка настенная Nika ВН5/Ч черный</name>
@@ -10768,7 +10768,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2400</price>
+        <price>2136</price>
       </offer>
       <offer sku="00000025390">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/1 доброе утро</name>
@@ -10813,7 +10813,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5888</price>
+        <price>4990</price>
       </offer>
       <offer sku="00000025440">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/К коричневый</name>
@@ -10824,7 +10824,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4285</price>
+        <price>3814</price>
       </offer>
       <offer sku="00000025441">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/СК слоновая кость</name>
@@ -10835,7 +10835,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4888</price>
+        <price>4351</price>
       </offer>
       <offer sku="00000025445">
         <name>Тюбинг принтованный Nika "SPORT" ТБ2К-95/22 фиолетовый/зеленый</name>
@@ -10869,7 +10869,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8025</price>
+        <price>7143</price>
       </offer>
       <offer sku="00000025488">
         <name>Набор инструментов AEROFORCE 42 шт. AE-S5642</name>
@@ -11277,47 +11277,6 @@
         </pickup-options>
         <price>27000</price>
       </offer>
-      <offer sku="00000031834">
-        <name>Стремянка односторонняя KRAUSE CORDA 4 ступ. 705</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38500</price>
-      </offer>
-      <offer sku="00000031836">
-        <name>Стремянка односторонняя KRAUSE CORDA 5 ступ. 729</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000729</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>46400</price>
-      </offer>
-      <offer sku="00000031837">
-        <name>Стремянка односторонняя KRAUSE CORDA 6 ступ. 736</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000736</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54800</price>
-      </offer>
-      <offer sku="00000031852">
-        <name>Лестница трехсекционная KRAUSE CORDA 3х11 ступ. 010421</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199010421</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>134200</price>
-      </offer>
       <offer sku="00000031859">
         <name>Лестница трехсекционная KRAUSE CORDA 3х9 ступ. 013392</name>
         <vendor>Krause</vendor>
@@ -11353,17 +11312,6 @@
         </pickup-options>
         <price>26080</price>
       </offer>
-      <offer sku="00000031886">
-        <name>Подножка/полка KRAUSE 122063</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199122063</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18100</price>
-      </offer>
       <offer sku="00000031892">
         <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
         <vendor>Krause</vendor>
@@ -11396,25 +11344,6 @@
         </pickup-options>
         <price>69900</price>
       </offer>
-      <offer sku="00000031913">
-        <name>Стремянка односторонняя KRAUSE SECURO 6 ступ. 126443</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126443</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>100500</price>
-      </offer>
-      <offer sku="00000031920">
-        <name>Стремянка односторонняя KRAUSE SOLIDO 5 ступ. 126641</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>90000</price>
-      </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
         <vendor>Krause</vendor>
@@ -11422,17 +11351,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>119200</price>
-      </offer>
-      <offer sku="00000031942">
-        <name>Подставка складная KRAUSE TOPPY XL 3 ступ. 130877</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47300</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -15068,6 +14986,17 @@
         </pickup-options>
         <price>13900</price>
       </offer>
+      <offer sku="00000039895">
+        <name>ПИЛЬНОЕ ПОЛОТНО KEO 5ШТ</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140643504</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9990</price>
+      </offer>
       <offer sku="00000039958">
         <name>Насадка для гравера DREMEL 7.8 мм 2 шт. 26150114JA</name>
         <vendor>DREMEL</vendor>
@@ -15739,7 +15668,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4150</price>
+        <price>3694</price>
       </offer>
       <offer sku="00000050320">
         <name>Табурет квадратный Nika "КЛАССИКА 3" ТК03/СК слоновая кость</name>
@@ -15751,7 +15680,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>4450</price>
       </offer>
       <offer sku="00000050322">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/С серый</name>
@@ -15762,7 +15691,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4995</price>
+        <price>4446</price>
       </offer>
       <offer sku="00000050324">
         <name>Этажерка Nika ЭТ2/Ч черный</name>
@@ -15773,7 +15702,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8450</price>
+        <price>7521</price>
       </offer>
       <offer sku="00000050325">
         <name>Кровать раскладная с ортопедическим основанием Nika РК6</name>
@@ -15784,7 +15713,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26800</price>
+        <price>23852</price>
       </offer>
       <offer sku="00000050361">
         <name>Доска гладильная Nika "ВЕРОНА 1" ДВ1/1 с девушкой и лошадью</name>
@@ -15795,7 +15724,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>29999</price>
+        <price>26700</price>
       </offer>
       <offer sku="00000050427">
         <name>Краскопульт электрический ЗУБР КПЭ-500</name>
@@ -16211,7 +16140,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25999</price>
+        <price>23140</price>
       </offer>
       <offer sku="00000058144">
         <name>Кровать раскладная Nika РК4-M</name>
@@ -16222,7 +16151,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27500</price>
+        <price>24475</price>
       </offer>
       <offer sku="00000058709">
         <name>Шина STIHL 14" 35 см 3/8" 1.1 мм 30050003909</name>
@@ -16545,7 +16474,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9999</price>
+        <price>8900</price>
       </offer>
       <offer sku="00000059252">
         <name>Санки детский Nika "ТИМКА 5 КОМФОРТ" зеленый Т5К/З2</name>
@@ -18803,14 +18732,6 @@
         </pickup-options>
         <price>9180</price>
       </offer>
-      <offer sku="00000074236">
-        <name>Стремянка односторонняя KRAUSE SEPRO S 4 ступ. 124180</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>84600</price>
-      </offer>
       <offer sku="00000074239">
         <name>Подставка складная KRAUSE ROLLY 2х2 ступ. зеленая 130143</name>
         <vendor>Krause</vendor>
@@ -18981,7 +18902,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11797</price>
+        <price>9990</price>
       </offer>
       <offer sku="00000075846">
         <name>Шпиндель Bosch 1607000D6A</name>
@@ -19725,7 +19646,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35300</price>
+        <price>31417</price>
       </offer>
       <offer sku="УТ-00001308">
         <name>Комплект угольных щеток BOSCH 1617000525</name>
@@ -20742,6 +20663,14 @@
         </pickup-options>
         <price>90350</price>
       </offer>
+      <offer sku="УТ-00047416">
+        <name>Тележка для металлических бочек TOR КБ-1 1020254</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>63010</price>
+      </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>
         <vendor>TOR</vendor>
@@ -20916,7 +20845,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16450</price>
+        <price>14641</price>
       </offer>
       <offer sku="УТ-00048666">
         <name>Сушилка настенная Nika СН120/Б белый</name>
@@ -20927,7 +20856,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9400</price>
+        <price>8366</price>
       </offer>
       <offer sku="УТ-00048667">
         <name>Сушилка настенная Nika СН120/С серый</name>
@@ -20938,7 +20867,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6950</price>
+        <price>6186</price>
       </offer>
       <offer sku="УТ-00048745">
         <name>Пила цепная аккумуляторная Stalker MC20-10 Li BL 69835</name>
@@ -21056,6 +20985,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31400</price>
+      </offer>
+      <offer sku="УТ-00051317">
+        <name>Пылесос строительный Вихрь СП-1400/15 72/19/7</name>
+        <vendor>Вихрь</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23990</price>
       </offer>
       <offer sku="УТ-00051518">
         <name>Газонокосилка STIHL RM 253.3 T WB220113415</name>
@@ -21312,7 +21249,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7888</price>
+        <price>7021</price>
       </offer>
       <offer sku="УТ-00054591">
         <name>Сушилка напольная Nika СБТ18/Ч черный</name>
@@ -21334,7 +21271,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>33500</price>
+        <price>29815</price>
       </offer>
       <offer sku="УТ-00054806">
         <name>Корпус прибора для воздуходувки BOSCH f016f05650</name>
@@ -21581,7 +21518,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22990</price>
+        <price>20462</price>
       </offer>
       <offer sku="УТ-00055703">
         <name>Этажерка Nika ЭТЭ1/Ч черный</name>
@@ -21592,7 +21529,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>4450</price>
       </offer>
       <offer sku="УТ-00055705">
         <name>Этажерка Nika ЭТ2/МС матово-серый</name>
@@ -21603,7 +21540,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7990</price>
+        <price>7112</price>
       </offer>
       <offer sku="УТ-00055787">
         <name>Сушилка навесная Nika СБ6-65П/Б белый</name>
@@ -21756,7 +21693,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7400</price>
+        <price>6586</price>
       </offer>
       <offer sku="УТ-00056024">
         <name>Табурет круглый Nika "ФАБРИК 2" ТФ02/С серый</name>
@@ -21767,7 +21704,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7700</price>
+        <price>6853</price>
       </offer>
       <offer sku="УТ-00056025">
         <name>Табурет круглый Nika "ФАБРИК 2" ТФ02/СК слоновая кость</name>
@@ -21778,7 +21715,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7999</price>
+        <price>7120</price>
       </offer>
       <offer sku="УТ-00056026">
         <name>Сиденье в ванну Nika "КЛАССИК" СВ2</name>
@@ -22223,6 +22160,17 @@
         </pickup-options>
         <price>4970</price>
       </offer>
+      <offer sku="УТ-00059614">
+        <name>Нож для газонокосилок BOSCH ARM 36, ARM 37, ARM 37 R F016L72363</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952496405</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15900</price>
+      </offer>
       <offer sku="УТ-00059615">
         <name>Банкетка Nika НБ1/СН серо-синий</name>
         <vendor>Nika</vendor>
@@ -22232,7 +22180,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12500</price>
+        <price>9990</price>
       </offer>
       <offer sku="УТ-00059620">
         <name>Банкетка Nika НБ2/BR коричневый</name>
@@ -22243,7 +22191,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11990</price>
+        <price>9990</price>
       </offer>
       <offer sku="УТ-00059621">
         <name>Вешалка гардеробная Nika ВГ3/МБ матово-белый</name>
@@ -22254,7 +22202,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12300</price>
+        <price>9990</price>
       </offer>
       <offer sku="УТ-00059622">
         <name>Вешалка гардеробная Nika ВГ3/Ч черный</name>
@@ -22265,7 +22213,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12300</price>
+        <price>9990</price>
       </offer>
       <offer sku="УТ-00059626">
         <name>Вешалка-стойка с полкой Nika ВС1/Ч матоевый черный/дуб антик фристайл</name>
@@ -22276,7 +22224,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15999</price>
+        <price>14240</price>
       </offer>
       <offer sku="УТ-00059627">
         <name>Вешалка-стойка с полкой Nika ВС3/МБ матово-белый/дуб дымчатый</name>
@@ -22287,7 +22235,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16990</price>
+        <price>15122</price>
       </offer>
       <offer sku="УТ-00059628">
         <name>Вешалка-стойка с полкой Nika ВС3/Ч матово-черный/дуб антик фристайл</name>
@@ -22298,7 +22246,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17964</price>
+        <price>15988</price>
       </offer>
       <offer sku="УТ-00059629">
         <name>Доска гладильная Nika "SPORT" NST/4 шоколадный</name>
@@ -22331,7 +22279,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16890</price>
+        <price>15033</price>
       </offer>
       <offer sku="УТ-00059637">
         <name>Доска гладильная настольная Nika НД2Т (в ассортименте)</name>
@@ -22342,7 +22290,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5990</price>
+        <price>4990</price>
       </offer>
       <offer sku="УТ-00059638">
         <name>Комплект детской мебели Nika КА2/СН сиреневый</name>
@@ -22353,7 +22301,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16888</price>
+        <price>15031</price>
       </offer>
       <offer sku="УТ-00059641">
         <name>Комплект детской мебели Nika КА2/Г голубой</name>
@@ -22364,7 +22312,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13500</price>
+        <price>12015</price>
       </offer>
       <offer sku="УТ-00059643">
         <name>Доска знаний-мольберт двусторонний Nika М2S/1 белый</name>
@@ -22372,7 +22320,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16900</price>
+        <price>15041</price>
       </offer>
       <offer sku="УТ-00059646">
         <name>Коврик для глажки белья Nika КГ/3 с линиями на сером</name>
@@ -22383,7 +22331,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7350</price>
+        <price>6542</price>
       </offer>
       <offer sku="УТ-00059647">
         <name>Коврик для глажки белья Nika КГ/4 с ракушками оливковый</name>
@@ -22391,7 +22339,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6770</price>
+        <price>6026</price>
       </offer>
       <offer sku="УТ-00059648">
         <name>Коврик для глажки белья малый Nika КГМ/3 с линиями на сером</name>
@@ -22402,7 +22350,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3995</price>
+        <price>3556</price>
       </offer>
       <offer sku="УТ-00059649">
         <name>Коврик для глажки белья малый Nika КГМ/1 с ракушками оливковый</name>
@@ -22413,7 +22361,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3990</price>
+        <price>3552</price>
       </offer>
       <offer sku="УТ-00059650">
         <name>Коврик для глажки белья малый Nika КГМ/4 КГМ/4 стрекозы на синем</name>
@@ -22421,7 +22369,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3990</price>
+        <price>3552</price>
       </offer>
       <offer sku="УТ-00059651">
         <name>Кресло-шезлонг с матрасом Nika HHK4Р/T принт с туканами</name>
@@ -22432,7 +22380,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>24435</price>
+        <price>21748</price>
       </offer>
       <offer sku="УТ-00059652">
         <name>Кресло-шезлонг с матрасом Nika HHK4Р/F принт с фламинго</name>
@@ -22443,7 +22391,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25900</price>
+        <price>23051</price>
       </offer>
       <offer sku="УТ-00059653">
         <name>Кресло-шезлонг с матрасом Nika HHK4Р/Р с ракушками/травяной</name>
@@ -22454,7 +22402,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25900</price>
+        <price>23051</price>
       </offer>
       <offer sku="УТ-00059654">
         <name>Кресло-шезлонг с матрасом и декоративной подушкой Nika HHK7/SN песочный</name>
@@ -22465,7 +22413,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35880</price>
+        <price>31934</price>
       </offer>
       <offer sku="УТ-00059655">
         <name>Кресло-шезлонг с матрасом и декоративной подушкой Nika HHK7/T бирюзовый</name>
@@ -22473,7 +22421,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35888</price>
+        <price>31941</price>
       </offer>
       <offer sku="УТ-00059656">
         <name>Кресло-шезлонг с матрасом и декоративной подушкой Nika HHK7/G темно-зеленый</name>
@@ -22481,7 +22429,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35888</price>
+        <price>31941</price>
       </offer>
       <offer sku="УТ-00059657">
         <name>Мангал сборный Nika МНГ2</name>
@@ -22492,7 +22440,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13200</price>
+        <price>11748</price>
       </offer>
       <offer sku="УТ-00059658">
         <name>Пуф Nika HPF1/P гусиная лапка</name>
@@ -22511,7 +22459,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14200</price>
+        <price>12638</price>
       </offer>
       <offer sku="УТ-00059660">
         <name>Стремянка с широкими ступенями Nika СМШ2/Ч черный</name>
@@ -22522,7 +22470,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13150</price>
+        <price>11704</price>
       </offer>
       <offer sku="УТ-00059661">
         <name>Стремянка с широкими ступенями Nika СМШ3/Б белый</name>
@@ -22533,7 +22481,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19995</price>
+        <price>17796</price>
       </offer>
       <offer sku="УТ-00059666">
         <name>Сушилка напольная Nika СБ1/РЗ розовое золото</name>
@@ -22555,7 +22503,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12380</price>
+        <price>9990</price>
       </offer>
       <offer sku="УТ-00059669">
         <name>Фартук и нарукавники Nika ФН2/В рисунок с кроликом/васильковый</name>
@@ -22563,7 +22511,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2560</price>
+        <price>2279</price>
       </offer>
       <offer sku="УТ-00059670">
         <name>Фартук и нарукавники Nika ФН2/И рисунок с котенком/изумрудный</name>
@@ -22574,7 +22522,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2850</price>
+        <price>2537</price>
       </offer>
       <offer sku="УТ-00059671">
         <name>Фартук и нарукавники Nika ФН2/О рисунок со щенком/орхидея</name>
@@ -22582,7 +22530,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2850</price>
+        <price>2537</price>
       </offer>
       <offer sku="УТ-00059673">
         <name>Этажерка с ящиком Nika ЭТП3-1/К коричневый</name>
@@ -22593,7 +22541,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19850</price>
+        <price>17667</price>
       </offer>
       <offer sku="УТ-00059674">
         <name>Этажерка с ящиком Nika ЭТП3-1/БЖ слоновая кость/бежевый металлик</name>
@@ -22604,7 +22552,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17500</price>
+        <price>15575</price>
       </offer>
       <offer sku="УТ-00059675">
         <name>Этажерка с ящиком Nika ЭТП3-1/МС матово-серый</name>
@@ -22617,7 +22565,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16999</price>
+        <price>15130</price>
       </offer>
       <offer sku="УТ-00059676">
         <name>Табурет квадратный разборный Nika НТ5/СК слоновая кость</name>
@@ -22628,7 +22576,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9999</price>
+        <price>8900</price>
       </offer>
       <offer sku="УТ-00059677">
         <name>Табурет квадратный разборный Nika НТ5/Ч черный</name>
@@ -22639,7 +22587,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9999</price>
+        <price>8900</price>
       </offer>
       <offer sku="УТ-00059821">
         <name>Сушилка напольная Nika СБТ18/РЗ розовое золото</name>
@@ -22658,7 +22606,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14990</price>
+        <price>13342</price>
       </offer>
       <offer sku="УТ-00059823">
         <name>Доска гладильная Nika Н4+ (в ассортименте)</name>
@@ -22669,7 +22617,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14888</price>
+        <price>13251</price>
       </offer>
       <offer sku="УТ-00059824">
         <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/O orchid</name>
@@ -23037,6 +22985,17 @@
         </pickup-options>
         <price>38320</price>
       </offer>
+      <offer sku="УТ-00060174">
+        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477645532</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>39180</price>
+      </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -23215,7 +23174,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9450</price>
+        <price>8411</price>
       </offer>
       <offer sku="УТ-00060530">
         <name>Этажерка Nika ЭТ4/Ч черный</name>
@@ -23226,7 +23185,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7300</price>
+        <price>6497</price>
       </offer>
       <offer sku="УТ-00060532">
         <name>Доска гладильная Nika Н5 (в ассортименте)</name>
@@ -23237,7 +23196,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9998</price>
+        <price>8899</price>
       </offer>
       <offer sku="УТ-00060533">
         <name>Вешалка напольная Nika "КОМФОРТ 6" ВК6/З золотистый</name>
@@ -23259,7 +23218,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6999</price>
+        <price>6230</price>
       </offer>
       <offer sku="УТ-00060623">
         <name>Диск отрезной Bosch по дереву 2608901196, 76x10х1 мм</name>
@@ -23400,7 +23359,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7990</price>
+        <price>7112</price>
       </offer>
       <offer sku="УТ-00061457">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/6 с линиями на сливовом</name>
@@ -23411,7 +23370,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>34500</price>
+        <price>30705</price>
       </offer>
       <offer sku="УТ-00061459">
         <name>Доска гладильная Nika Н3МТ/П пудровый</name>
@@ -23422,7 +23381,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23400</price>
+        <price>20826</price>
       </offer>
       <offer sku="УТ-00061460">
         <name>Доска гладильная Nika Н3МТ/СР серебряный</name>
@@ -23433,7 +23392,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>24850</price>
+        <price>22117</price>
       </offer>
       <offer sku="УТ-00061461">
         <name>Сушилка настенная Nika СН60/Б белый</name>
@@ -23444,7 +23403,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>4450</price>
       </offer>
       <offer sku="УТ-00061462">
         <name>Вешалка настенная Nika ВП4М/З золотистый</name>
@@ -23452,7 +23411,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7910</price>
+        <price>7040</price>
       </offer>
       <offer sku="УТ-00061463">
         <name>Сушилка настенная Nika СН60/С серый</name>
@@ -23463,7 +23422,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6800</price>
+        <price>6052</price>
       </offer>
       <offer sku="УТ-00061469">
         <name>Сушилка настенная Nika СН90/Б белый</name>
@@ -23474,7 +23433,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7700</price>
+        <price>6853</price>
       </offer>
       <offer sku="УТ-00061472">
         <name>Доска гладильная Nika НТ11/4 с линиями на сером</name>
@@ -23485,7 +23444,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26890</price>
+        <price>23933</price>
       </offer>
       <offer sku="УТ-00061474">
         <name>Сушилка напольная двухсекционная Nika СБ8П/Б белый</name>
@@ -23529,7 +23488,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18577</price>
+        <price>16534</price>
       </offer>
       <offer sku="УТ-00061480">
         <name>Лестница-стремянка двусторонняя Nika ДЛС2</name>
@@ -23540,7 +23499,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14888</price>
+        <price>13251</price>
       </offer>
       <offer sku="УТ-00061481">
         <name>Лестница-стремянка двусторонняя Nika ДЛС3</name>
@@ -23551,7 +23510,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15675</price>
+        <price>13951</price>
       </offer>
       <offer sku="УТ-00061507">
         <name>Штроборез ЗУБР ЗШ-П30-1600 ПСТК</name>
@@ -23619,7 +23578,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8360</price>
+        <price>7441</price>
       </offer>
       <offer sku="УТ-00061760">
         <name>Комплект детской мебели Nika КП2/Ф с феями</name>
@@ -23685,7 +23644,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16999</price>
+        <price>15130</price>
       </offer>
       <offer sku="УТ-00063245">
         <name>Комплект детской мебели Nika КНД2/1 кто чей малыш?</name>
@@ -23707,7 +23666,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6999</price>
+        <price>6230</price>
       </offer>
       <offer sku="УТ-00063248">
         <name>Табурет квадратный Nika "ФАБРИК 3" ТФ03/С серый</name>
@@ -23718,7 +23677,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8300</price>
+        <price>7387</price>
       </offer>
       <offer sku="УТ-00063251">
         <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СС светло-серый</name>
@@ -23729,7 +23688,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9999</price>
+        <price>8900</price>
       </offer>
       <offer sku="УТ-00063319">
         <name>Доска гладильная Nika БЮ1 (в ассортименте)</name>
@@ -23740,7 +23699,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11000</price>
+        <price>9790</price>
       </offer>
       <offer sku="УТ-00063357">
         <name>Полуавтомат сварочный инверторный SOLARIS MULTIMIG-227</name>
@@ -23876,7 +23835,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21500</price>
+        <price>19135</price>
       </offer>
       <offer sku="УТ-00063811">
         <name>Набор рожковых/комбинированных ключей, 10 шт.</name>
@@ -24873,7 +24832,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6888</price>
+        <price>6131</price>
       </offer>
       <offer sku="УТ-00072871">
         <name>Напольный лазерный нивелир Stabila FLS 90 SET 18574</name>
@@ -25080,7 +25039,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9800</price>
+        <price>8722</price>
       </offer>
       <offer sku="УТ-00075509">
         <name>Санки игрушка Nika "ТИМКА 3К УНИВЕРСАЛ+" Т3КУ+/Г голубой</name>
@@ -25223,7 +25182,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9900</price>
+        <price>8811</price>
       </offer>
       <offer sku="УТ-00078017">
         <name>Крышка для бензопилы STIHL MS 462, MS 462 C, MS 462 C-M, MS 462 C-M R 11420211101</name>
@@ -25242,7 +25201,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4999</price>
+        <price>4450</price>
       </offer>
       <offer sku="УТ-00078023">
         <name>Вешалка настенная Nika ВП6М/Ч черный</name>
@@ -25253,7 +25212,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7504</price>
+        <price>6679</price>
       </offer>
       <offer sku="УТ-00078025">
         <name>Стол журнальный Nika HHST2/3 ель умбра/черный</name>
@@ -25264,7 +25223,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>20784</price>
+        <price>18498</price>
       </offer>
       <offer sku="УТ-00078026">
         <name>Табурет круглый складной Nika ТБСК1/2 светло-серый</name>
@@ -25275,7 +25234,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9999</price>
+        <price>8900</price>
       </offer>
       <offer sku="УТ-00079720">
         <name>Кабельный жгут Stihl 11404403012</name>
@@ -25369,7 +25328,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>36590</price>
+        <price>32566</price>
       </offer>
       <offer sku="УТ-00085186">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 2" НВ2/11</name>
@@ -25380,7 +25339,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35888</price>
+        <price>31941</price>
       </offer>
       <offer sku="УТ-00085187">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/23</name>
@@ -25388,7 +25347,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>37500</price>
+        <price>33375</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>

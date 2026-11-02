@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 15:02">
+<fm_catalog date="2026-11-02 15:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10460,6 +10460,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>400500</price>
+      </offer>
+      <offer sku="00000024037">
+        <name>Станция насосная автоматическая Mateus MS05101 (ATJET100A)</name>
+        <vendor>Mateus</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>76000</price>
       </offer>
       <offer sku="00000024071">
         <name>Станция насосная автоматическая Mateus MS05404 (TGP125C)</name>

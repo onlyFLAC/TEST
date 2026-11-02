@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 12:34">
+<fm_catalog date="2026-11-02 13:04">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -203,7 +203,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>64990</price>
+        <price>55200</price>
       </offer>
       <offer sku="УТ-00003970">
         <name>Шлифмашина щеточная CROWN CT13551-110RSV</name>
@@ -635,7 +635,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>900</price>
+        <price>540</price>
       </offer>
       <offer sku="УТ-00005410">
         <name>Лестница-стремянка двусторонняя Nika ННДС2</name>
@@ -804,6 +804,28 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
+      </offer>
+      <offer sku="УТ-00005911">
+        <name>Рулетка измерительная Stabila BM300 5м 19577</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195779</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13390</price>
+      </offer>
       <offer sku="УТ-00005950">
         <name>Уровень Stabila тип 70, 50 см 02283</name>
         <vendor>STABILA</vendor>
@@ -811,6 +833,39 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12590</price>
+      </offer>
+      <offer sku="УТ-00005957">
+        <name>Уровень тип 80AS, 100 см STABILA 19168</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191689</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23190</price>
+      </offer>
+      <offer sku="УТ-00005958">
+        <name>Уровень тип 80AS, 120 см STABILA 19169</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191696</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25090</price>
+      </offer>
+      <offer sku="УТ-00005962">
+        <name>Уровень тип 80AS, 60 см STABILA 19165</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191658</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18990</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -1017,7 +1072,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>864</price>
+        <price>650</price>
       </offer>
       <offer sku="УТ-00008134">
         <name>Устройство зарядное Bosch GAL 1880 0602494035</name>
@@ -1421,7 +1476,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5109</price>
+        <price>4990</price>
       </offer>
       <offer sku="УТ-00012825">
         <name>Паяльник электрический ЗУБР "ТУРБО 30" 55407-80</name>
@@ -1671,17 +1726,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6279</price>
-      </offer>
-      <offer sku="УТ-00013859">
-        <name>RACO Original, 1/2", с автостопом, для шланга, из ABS пластика, быстросъёмный соединитель (4250-55205C) 4250-55205C</name>
-        <vendor>RACO</vendor>
-        <barcodes>
-          <barcode>4034229017743</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1690</price>
       </offer>
       <offer sku="УТ-00013892">
         <name>Лейка для комнатных растений Grinda 2 л 40320-02_z02</name>
@@ -2296,7 +2340,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25400</price>
+        <price>24000</price>
       </offer>
       <offer sku="УТ-00019746">
         <name>Экран на треноге PROscreen TLZ3150</name>
@@ -2776,6 +2820,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>198490</price>
+      </offer>
+      <offer sku="УТ-00024035">
+        <name>Насос автомобильный аккумуляторный Makita DMP181Z (без АКБ и ЗУ)</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>80585</price>
       </offer>
       <offer sku="УТ-00024216">
         <name>Винтоверт электрический Makita TD0101F</name>
@@ -15295,6 +15347,14 @@
         </pickup-options>
         <price>7810</price>
       </offer>
+      <offer sku="00000041394">
+        <name>Масло смазочное STIHL "MULTIOIL BIO" 50 мл 07825168500</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2300</price>
+      </offer>
       <offer sku="00000041420">
         <name>Триммер бензиновый STIHL FS 120 41342000433</name>
         <vendor>STIHL</vendor>
@@ -15442,17 +15502,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>78400</price>
-      </offer>
-      <offer sku="00000041753">
-        <name>Лобзик электрический Фиолент ПМЗ-600Э ИДФР298256001П-К1</name>
-        <vendor>Фиолент</vendor>
-        <barcodes>
-          <barcode>4670016120144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21700</price>
       </offer>
       <offer sku="00000041775">
         <name>Триммер электрический STIHL FSE 60 48090114111</name>
@@ -15629,7 +15678,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>43800</price>
+        <price>42990</price>
       </offer>
       <offer sku="00000050072">
         <name>Уровень STABILA 70/200см 02292</name>
@@ -15887,7 +15936,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>62500</price>
+        <price>62000</price>
       </offer>
       <offer sku="00000054185">
         <name>Сушилка напольная вертикальная Nika СБВ2/С серебряный</name>
@@ -17915,6 +17964,14 @@
         </pickup-options>
         <price>9070</price>
       </offer>
+      <offer sku="00000070758">
+        <name>Шина Carving 30 см/12", 1/4, (1,3) Stihl</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23900</price>
+      </offer>
       <offer sku="00000070759">
         <name>Шина STIHL 12" 30 см 1.1 мм 30050003905</name>
         <vendor>STIHL</vendor>
@@ -17947,6 +18004,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37300</price>
+      </offer>
+      <offer sku="00000070816">
+        <name>Напильник круглый d 5,2х200 мм Stihl</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1540</price>
       </offer>
       <offer sku="00000070832">
         <name>Набор заточной STIHL 4 мм 56050071027</name>
@@ -18412,7 +18477,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15880</price>
+        <price>14990</price>
       </offer>
       <offer sku="00000072924">
         <name>Фланец опорный BOSCH 1607000D62</name>
@@ -20647,6 +20712,17 @@
         </pickup-options>
         <price>285890</price>
       </offer>
+      <offer sku="УТ-00046722">
+        <name>Уровень STABILA "тип 70" 80 см 02286</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022860</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15090</price>
+      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -20985,14 +21061,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31400</price>
-      </offer>
-      <offer sku="УТ-00051317">
-        <name>Пылесос строительный Вихрь СП-1400/15 72/19/7</name>
-        <vendor>Вихрь</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23990</price>
       </offer>
       <offer sku="УТ-00051518">
         <name>Газонокосилка STIHL RM 253.3 T WB220113415</name>
@@ -21433,6 +21501,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>186300</price>
+      </offer>
+      <offer sku="УТ-00055261">
+        <name>Пила для телескопической штанги PR 40 CT 00008814141</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>70800</price>
       </offer>
       <offer sku="УТ-00055275">
         <name>Валочный/распорный клин 19 см. 00008812212</name>
@@ -22824,6 +22900,14 @@
         </pickup-options>
         <price>50250</price>
       </offer>
+      <offer sku="УТ-00059901">
+        <name>Гусак гибкий силиконовый Frap W04 черный</name>
+        <vendor>Frap</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4970</price>
+      </offer>
       <offer sku="УТ-00059916">
         <name>Раковина накладная Gappo белая GT413</name>
         <vendor>GAPPO</vendor>
@@ -23040,6 +23124,17 @@
         </pickup-options>
         <price>34600</price>
       </offer>
+      <offer sku="УТ-00060245">
+        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477625770</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23630</price>
+      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -23058,6 +23153,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15290</price>
+      </offer>
+      <offer sku="УТ-00060284">
+        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477622816</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12240</price>
       </offer>
       <offer sku="УТ-00060341">
         <name>Душевая система Frap F2491-9 Оружейная Сталь с изливом</name>
@@ -25063,6 +25169,14 @@
         </pickup-options>
         <price>140220</price>
       </offer>
+      <offer sku="УТ-00075618">
+        <name>Ключ с кольцевой трещоткой Wera Joker 10x159 мм 05073270001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17490</price>
+      </offer>
       <offer sku="УТ-00075636">
         <name>Набор бит Wera 05057434001</name>
         <vendor>Wera</vendor>
@@ -25121,6 +25235,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24890</price>
+      </offer>
+      <offer sku="УТ-00075750">
+        <name>Ручка битодержатель с функцией трещотки Wera 05051493001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20790</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
@@ -25236,6 +25358,22 @@
         </pickup-options>
         <price>8900</price>
       </offer>
+      <offer sku="УТ-00078055">
+        <name>Бак топливный Stihl 41803500418</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20680</price>
+      </offer>
+      <offer sku="УТ-00078710">
+        <name>Воздушный фильтр (1-35-81013) □ 3 - 5 Stihl 11211201617</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7400</price>
+      </offer>
       <offer sku="УТ-00079720">
         <name>Кабельный жгут Stihl 11404403012</name>
         <vendor>STIHL</vendor>
@@ -25243,6 +25381,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
+      </offer>
+      <offer sku="УТ-00080099">
+        <name>Колесо червячное Stihl 48607323600</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13200</price>
       </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
@@ -25262,6 +25408,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15720</price>
+      </offer>
+      <offer sku="УТ-00081953">
+        <name>Поводок Stihl 48607321304</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4390</price>
       </offer>
       <offer sku="УТ-00081994">
         <name>Поддон картера Stihl 41800212500</name>
@@ -25287,6 +25441,14 @@
         </pickup-options>
         <price>750</price>
       </offer>
+      <offer sku="УТ-00083962">
+        <name>Червяк Stihl 48606004201</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="УТ-00084027">
         <name>Шайба для газонокосилки STIHL 92960211609</name>
         <vendor>STIHL</vendor>
@@ -25294,6 +25456,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>190</price>
+      </offer>
+      <offer sku="УТ-00084089">
+        <name>Шарикоподшипник Stihl 95030039011</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2890</price>
       </offer>
       <offer sku="УТ-00084690">
         <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
@@ -25348,6 +25518,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33375</price>
+      </offer>
+      <offer sku="УТ-00085222">
+        <name>Пила дисковая аккумуляторная Makita RS001GZ(R) (в подарок набор DC40RA+BL4040)</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>218880</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>
@@ -25581,6 +25759,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>214990</price>
+      </offer>
+      <offer sku="УТ-00087757">
+        <name>Переходник для генератора SENCI ADSC11000-TE-II</name>
+        <vendor>SENCI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6990</price>
       </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>
@@ -27267,6 +27453,76 @@
         </pickup-options>
         <price>250000</price>
       </offer>
+      <offer sku="УТ-00101763">
+        <name>Устройство зарядное Makita DC18SD 197002-6</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37715</price>
+      </offer>
+      <offer sku="УТ-00101830">
+        <name>763229-6 Быстрозажимной патрон 10 для HP331D</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3885</price>
+      </offer>
+      <offer sku="УТ-00101874">
+        <name>821550-0 Кейс Makpac тип 2, 395Х295Х162 мм</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18870</price>
+      </offer>
+      <offer sku="УТ-00101916">
+        <name>A-86898 Пилки для лобзика 5шт ассорти</name>
+        <vendor>Makita</vendor>
+        <barcodes>
+          <barcode>088381151740</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2805</price>
+      </offer>
+      <offer sku="УТ-00101983">
+        <name>B-25373 насадка Т10-50 3шт</name>
+        <vendor>Makita</vendor>
+        <barcodes>
+          <barcode>088381409544</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>970</price>
+      </offer>
+      <offer sku="УТ-00102326">
+        <name>D-25688 Коронка BI-M 60 мм</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4875</price>
+      </offer>
+      <offer sku="УТ-00102450">
+        <name>D-81206 Пильный диск универсальный для алюминия/дерева/пластика, 165x20x2.2/1.4x60T</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7790</price>
+      </offer>
+      <offer sku="УТ-00102740">
+        <name>05008851001 Отвёртка крестовая для карбюраторов</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4490</price>
+      </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>
         <vendor>ЗМИ</vendor>
@@ -27296,6 +27552,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34880</price>
+      </offer>
+      <offer sku="УТ-00103466">
+        <name>Втулка коленвала (червяка маслонасоса) для бензопилы STIHL 024 00009930508</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1700</price>
       </offer>
     </offers>
   </shop>

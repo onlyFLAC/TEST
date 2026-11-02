@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 09:08">
+<fm_catalog date="2026-11-02 09:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -3061,17 +3061,6 @@
         </pickup-options>
         <price>7000</price>
       </offer>
-      <offer sku="УТ-00025837">
-        <name>Перчатки комбинированные облегченные Gross AKTIV М 90308</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996239224</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6975</price>
-      </offer>
       <offer sku="УТ-00025858">
         <name>Фиксатор магнитный для сварочных работ усилие 75 LB// Denzel</name>
         <vendor>Denzel</vendor>
@@ -4320,7 +4309,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>158000</price>
+        <price>159990</price>
       </offer>
       <offer sku="УТ-00026653">
         <name>Угловая шлифмашина AGH 3000-230 S ALTECO HEAVY DUTY</name>
@@ -8953,17 +8942,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000016618">
-        <name>Секатор прямого реза, 210 мм, регулировка захвата, алюминиевые рукоятки, LUXE// Palisad 60470</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996182155</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7555</price>
-      </offer>
       <offer sku="00000016679">
         <name>Кусторез, 550 мм, стальные обрезиненные рукоятки// Palisad</name>
         <vendor>Palisad</vendor>
@@ -8974,17 +8952,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5990</price>
-      </offer>
-      <offer sku="00000016680">
-        <name>Кусторез, 640-820 мм, телескопические алюминиевые рукоятки, LUXE// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996155623</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15190</price>
       </offer>
       <offer sku="00000016707">
         <name>Набор косца "Трансформер" №6, коса "Сайга Люкс" 600 мм, складное косовище , АРТИ// Россия</name>
@@ -15613,17 +15580,6 @@
         </pickup-options>
         <price>21995</price>
       </offer>
-      <offer sku="00000050311">
-        <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075838451</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9100</price>
-      </offer>
       <offer sku="00000050315">
         <name>Вешалка настенная Nika ВП4МЧ матово-черный</name>
         <vendor>Nika</vendor>
@@ -16186,17 +16142,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18888</price>
-      </offer>
-      <offer sku="00000059105">
-        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952531144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>122320</price>
       </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>
@@ -22979,17 +22924,6 @@
         </pickup-options>
         <price>34600</price>
       </offer>
-      <offer sku="УТ-00060245">
-        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477625770</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23630</price>
-      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -23406,17 +23340,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26890</price>
-      </offer>
-      <offer sku="УТ-00061473">
-        <name>Сушилка напольная двухсекционная Nika СБ8П/РЗ розовое золото</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111511988</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13500</price>
       </offer>
       <offer sku="УТ-00061474">
         <name>Сушилка напольная двухсекционная Nika СБ8П/Б белый</name>

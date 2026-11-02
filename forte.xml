@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 10:36">
+<fm_catalog date="2026-11-02 11:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6515,28 +6515,6 @@
         </pickup-options>
         <price>3894</price>
       </offer>
-      <offer sku="00000007024">
-        <name>Клещи переставные с быстрой регулировкой, Cr-Ni сталь, 10"/250мм, ЗУБР</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373114465</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8590</price>
-      </offer>
-      <offer sku="00000007026">
-        <name>Клещи переставные с быстрой регулировкой, Cr-Ni сталь, 8"/200мм, ЗУБР</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373114458</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7490</price>
-      </offer>
       <offer sku="00000007073">
         <name>Ключ имбусовый STAYER "STANDARD", сталь, черный, 12мм</name>
         <vendor>STAYER</vendor>
@@ -6684,17 +6662,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>590</price>
-      </offer>
-      <offer sku="00000007578">
-        <name>Кусачки ЗУБР "Мастер" торцевые, CR-V, 200мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373112010</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3100</price>
       </offer>
       <offer sku="00000007598">
         <name>Лебедка автомобильная STAYER 1 т 1.8 м 4310-1</name>
@@ -7123,17 +7090,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3394</price>
-      </offer>
-      <offer sku="00000008423">
-        <name>Набор ЗУБР: Биты специальные в металлическом боксе, PH, SL, HEX, TORX, SPLINE, 32 предмета</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373080036</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13632</price>
       </offer>
       <offer sku="00000008446">
         <name>Набор кольцевых коронок ЗУБР 8 шт. 33350-H8_z01</name>
@@ -12377,6 +12333,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>47400</price>
+      </offer>
+      <offer sku="00000032652">
+        <name>Отрезная машина по стали GCD 12 JL</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140721561</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>356900</price>
       </offer>
       <offer sku="00000032654">
         <name>Диск отрезной по металлу Bosch 125х2 мм 2608600094</name>
@@ -18966,17 +18933,6 @@
         </pickup-options>
         <price>9180</price>
       </offer>
-      <offer sku="00000074198">
-        <name>Комплект детской мебели Nika "ФИКСИКИ" Ф2А фикси-азбука</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076020715</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17500</price>
-      </offer>
       <offer sku="00000074239">
         <name>Подставка складная KRAUSE ROLLY 2х2 ступ. зеленая 130143</name>
         <vendor>Krause</vendor>
@@ -19372,28 +19328,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21500</price>
-      </offer>
-      <offer sku="УТ-00000228">
-        <name>Щиток лицевой защитный ЗУБР "СЕКТОР" 11085_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373454301</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4363</price>
-      </offer>
-      <offer sku="УТ-00000259">
-        <name>МК-У 600 г молоток каменщика с фиберглассовой рукояткой, ЗУБР</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373331060</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7200</price>
       </offer>
       <offer sku="УТ-00000276">
         <name>PK-26 стриппер многофункциональный, 0.6 - 2.6 мм, KRAFTOOL</name>
@@ -27226,14 +27160,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24965</price>
-      </offer>
-      <offer sku="УТ-00093657">
-        <name>ЗУБР БИ-Металл 2 м, Правило (1072-2.0)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35000</price>
       </offer>
       <offer sku="УТ-00093719">
         <name>GRINDA WS-2 лопата дамская штыковая остроконечная, 200х160х1200мм, алюминиевый черенок, PROLine (421827)</name>

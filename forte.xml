@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 08:09">
+<fm_catalog date="2026-11-02 08:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2690,6 +2690,14 @@
         </pickup-options>
         <price>7700</price>
       </offer>
+      <offer sku="УТ-00022495">
+        <name>Рулетка 15м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35000</price>
+      </offer>
       <offer sku="УТ-00022496">
         <name>Рулетка 20м Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2700,6 +2708,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37000</price>
+      </offer>
+      <offer sku="УТ-00022520">
+        <name>Шлем защитный Husqvarna Classic с сеткой и наушниками</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393080392091</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -11291,6 +11310,14 @@
         </pickup-options>
         <price>69900</price>
       </offer>
+      <offer sku="00000031938">
+        <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>119200</price>
+      </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
         <vendor>Krause</vendor>
@@ -11642,6 +11669,18 @@
         </pickup-options>
         <price>79460</price>
       </offer>
+      <offer sku="00000032392">
+        <name>Дрель аккумуляторная ударная Bosch GSB 180-LI 06019F8307 (2 Ач x 2 шт, Li-Ion, 18 В, кейс)</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>165140978187</barcode>
+          <barcode>3165140978187</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>94600</price>
+      </offer>
       <offer sku="00000032399">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 12V-30 06019G9000</name>
         <vendor>BOSCH</vendor>
@@ -11971,6 +12010,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14952</price>
+      </offer>
+      <offer sku="00000032601">
+        <name>Набор сверл PointTeQ 7pcs Mini X</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140917650</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3576</price>
       </offer>
       <offer sku="00000032616">
         <name>Пила дисковая настольная (распиловочный стол) Bosch GTS 10 XC Professional 0601B30400</name>
@@ -13884,6 +13934,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>790</price>
+      </offer>
+      <offer sku="00000036039">
+        <name>Сверло по дереву BOSCH 14х9 мм 2608596311</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140059176</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2890</price>
       </offer>
       <offer sku="00000036041">
         <name>Сверло по дереву BOSCH 16х105 мм 2608596313</name>
@@ -18198,6 +18259,17 @@
         </pickup-options>
         <price>6568</price>
       </offer>
+      <offer sku="00000071568">
+        <name>Молоток безинерционный ЗУБР 1.8 кг 2049-1800</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373418211</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8906</price>
+      </offer>
       <offer sku="00000071600">
         <name>ЗУБР ЗАХВАТ, размер L-XL, 10 пар в упаковке, перчатки с одинарным текстурированным нитриловым обливо</name>
         <vendor>ЗУБР</vendor>
@@ -20999,6 +21071,14 @@
         </pickup-options>
         <price>7400</price>
       </offer>
+      <offer sku="УТ-00052936">
+        <name>Крюк зацеп для рулетки 505 69 72-10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3350</price>
+      </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
         <vendor>Matrix</vendor>
@@ -22322,6 +22402,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
+      </offer>
+      <offer sku="УТ-00059658">
+        <name>Пуф Nika HPF1/P гусиная лапка</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111519526</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18350</price>
       </offer>
       <offer sku="УТ-00059659">
         <name>Стремянка с широкими ступенями Nika СМШ2/Б белый</name>
@@ -24640,6 +24731,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32335</price>
+      </offer>
+      <offer sku="УТ-00072626">
+        <name>Резак кабелей KNIPEX 98 52</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13135</price>
+      </offer>
+      <offer sku="УТ-00072650">
+        <name>Труборез для пластиковых труб KNIPEX 90 25 40</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773045182</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>78625</price>
       </offer>
       <offer sku="УТ-00072656">
         <name>Щипцы колец KNIPEX 48 11 J2</name>

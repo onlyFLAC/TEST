@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 17:30">
+<fm_catalog date="2026-11-02 17:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2464,6 +2464,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00022216">
+        <name>Травокосилка 545RХ</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930886247</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>470000</price>
+      </offer>
+      <offer sku="УТ-00022217">
+        <name>Травокосилка аккумуляторная 535iRX (без АКБ и З/У)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>330000</price>
       </offer>
       <offer sku="УТ-00022226">
         <name>Воздуходувка бензиновая Husqvarna 125 В 952 71 56-43</name>

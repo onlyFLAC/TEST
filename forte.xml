@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 13:33">
+<fm_catalog date="2026-11-02 14:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1077,7 +1077,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>54890</price>
+        <price>53000</price>
       </offer>
       <offer sku="УТ-00008748">
         <name>КОМПЛЕКТ УГОЛЬНЫХ ЩЕТОК (50147229)</name>
@@ -1299,7 +1299,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9907</price>
+        <price>8690</price>
       </offer>
       <offer sku="УТ-00011204">
         <name>Электроды сварочные Hyundai S-6013.LF 3.2х350 мм 5 кг 10006174</name>
@@ -1315,7 +1315,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9803</price>
+        <price>8690</price>
       </offer>
       <offer sku="УТ-00011220">
         <name>Сверло по металлу BOSCH STANDARD 5х86 мм 2608585885 штучно</name>
@@ -4391,7 +4391,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22840</price>
+        <price>14990</price>
       </offer>
       <offer sku="УТ-00030733">
         <name>Процессор (CPU) INTEL Core i3 12100F 1700 41673</name>
@@ -17831,7 +17831,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1429</price>
+        <price>950</price>
       </offer>
       <offer sku="00000070642">
         <name>Цепь STIHL 76 зв. 0.325 1.5 мм 25RM RAPIDMICRO COMFORT 36850000076</name>
@@ -20400,7 +20400,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4695</price>
+        <price>3930</price>
       </offer>
       <offer sku="УТ-00041968">
         <name>Эмаль ПФ-115 желтая 2,6кг Оптима_(6090)</name>
@@ -20411,7 +20411,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4550</price>
+        <price>4500</price>
       </offer>
       <offer sku="УТ-00042337">
         <name>Проушина переносного ремня STIHL 00007908801</name>
@@ -22130,7 +22130,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4550</price>
+        <price>4500</price>
       </offer>
       <offer sku="УТ-00059588">
         <name>Уплотнения в наборе □ 10, 18 11350071050</name>

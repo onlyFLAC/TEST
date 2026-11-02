@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-02 13:04">
+<fm_catalog date="2026-11-02 13:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -804,28 +804,6 @@
         </pickup-options>
         <price>466375</price>
       </offer>
-      <offer sku="УТ-00005908">
-        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195700</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3290</price>
-      </offer>
-      <offer sku="УТ-00005911">
-        <name>Рулетка измерительная Stabila BM300 5м 19577</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195779</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13390</price>
-      </offer>
       <offer sku="УТ-00005950">
         <name>Уровень Stabila тип 70, 50 см 02283</name>
         <vendor>STABILA</vendor>
@@ -833,39 +811,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12590</price>
-      </offer>
-      <offer sku="УТ-00005957">
-        <name>Уровень тип 80AS, 100 см STABILA 19168</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191689</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23190</price>
-      </offer>
-      <offer sku="УТ-00005958">
-        <name>Уровень тип 80AS, 120 см STABILA 19169</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191696</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25090</price>
-      </offer>
-      <offer sku="УТ-00005962">
-        <name>Уровень тип 80AS, 60 см STABILA 19165</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191658</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18990</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -1411,7 +1356,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>42990</price>
+        <price>28398</price>
       </offer>
       <offer sku="УТ-00011889">
         <name>Термоэлемент EUROPRINT M130 28706</name>
@@ -1453,7 +1398,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2990</price>
+        <price>1378</price>
       </offer>
       <offer sku="УТ-00012411">
         <name>Видеокамера цилиндрическая DAHUA DH-HAC-B2A51P-0360B 37886</name>
@@ -2734,14 +2679,6 @@
         </pickup-options>
         <price>7700</price>
       </offer>
-      <offer sku="УТ-00022495">
-        <name>Рулетка 15м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35000</price>
-      </offer>
       <offer sku="УТ-00022496">
         <name>Рулетка 20м Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2752,17 +2689,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37000</price>
-      </offer>
-      <offer sku="УТ-00022520">
-        <name>Шлем защитный Husqvarna Classic с сеткой и наушниками</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393080392091</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -15539,7 +15465,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>65990</price>
+        <price>63197</price>
       </offer>
       <offer sku="00000042210">
         <name>Набор ключей гаечных комбинированных THORVIK 6-32 мм 26 шт. W3S26TB</name>
@@ -20712,17 +20638,6 @@
         </pickup-options>
         <price>285890</price>
       </offer>
-      <offer sku="УТ-00046722">
-        <name>Уровень STABILA "тип 70" 80 см 02286</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15090</price>
-      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -21166,14 +21081,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
-      </offer>
-      <offer sku="УТ-00052936">
-        <name>Крюк зацеп для рулетки 505 69 72-10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3350</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
@@ -25169,14 +25076,6 @@
         </pickup-options>
         <price>140220</price>
       </offer>
-      <offer sku="УТ-00075618">
-        <name>Ключ с кольцевой трещоткой Wera Joker 10x159 мм 05073270001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17490</price>
-      </offer>
       <offer sku="УТ-00075636">
         <name>Набор бит Wera 05057434001</name>
         <vendor>Wera</vendor>
@@ -25235,14 +25134,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24890</price>
-      </offer>
-      <offer sku="УТ-00075750">
-        <name>Ручка битодержатель с функцией трещотки Wera 05051493001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20790</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
@@ -25518,14 +25409,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33375</price>
-      </offer>
-      <offer sku="УТ-00085222">
-        <name>Пила дисковая аккумуляторная Makita RS001GZ(R) (в подарок набор DC40RA+BL4040)</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>218880</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>

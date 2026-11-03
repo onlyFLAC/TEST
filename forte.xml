@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 09:08">
+<fm_catalog date="2026-11-03 09:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2452,18 +2452,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>321000</price>
-      </offer>
-      <offer sku="УТ-00022213">
-        <name>Триммер бензиновый Husqvarna 541RST 967 66 09-04</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391736558716</barcode>
-          <barcode>7392930511415</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>250000</price>
       </offer>
       <offer sku="УТ-00022216">
         <name>Травокосилка 545RХ</name>
@@ -22877,14 +22865,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>50250</price>
-      </offer>
-      <offer sku="УТ-00059901">
-        <name>Гусак гибкий силиконовый Frap W04 черный</name>
-        <vendor>Frap</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4970</price>
       </offer>
       <offer sku="УТ-00059916">
         <name>Раковина накладная Gappo белая GT413</name>

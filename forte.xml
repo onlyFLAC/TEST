@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 12:06">
+<fm_catalog date="2026-11-03 12:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -838,6 +838,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
+      </offer>
+      <offer sku="УТ-00006309">
+        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58800</price>
       </offer>
       <offer sku="УТ-00006353">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х7 ступ. 120366</name>
@@ -4366,7 +4374,7 @@
         <price>31142</price>
       </offer>
       <offer sku="УТ-00028675">
-        <name>SHIVAKI MD 4218 E grey-black-black</name>
+        <name>Электропечь SHIVAKI MD 4218 E серый/черный</name>
         <vendor>Shivaki</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -10872,17 +10880,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="00000025440">
-        <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/К коричневый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032741090</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3814</price>
       </offer>
       <offer sku="00000025441">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/СК слоновая кость</name>
@@ -23324,6 +23321,17 @@
         </pickup-options>
         <price>15990</price>
       </offer>
+      <offer sku="УТ-00060919">
+        <name>Гайковерт пневматический ECO AIW-980S</name>
+        <vendor>ECO</vendor>
+        <barcodes>
+          <barcode>8213112891813</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43660</price>
+      </offer>
       <offer sku="УТ-00061150">
         <name>Шланг армированный ф 10/16 мм с быстросъемн. соед. ECO (длина 10 м)</name>
         <vendor>ECO</vendor>
@@ -24423,6 +24431,28 @@
         </pickup-options>
         <price>2790</price>
       </offer>
+      <offer sku="УТ-00067322">
+        <name>Дисковый шлифовальный станок WORTEX DG 1214 в кор. 140 Вт, 125 мм, 800-4000 об/мин</name>
+        <vendor>Wortex</vendor>
+        <barcodes>
+          <barcode>6900602866070</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28310</price>
+      </offer>
+      <offer sku="УТ-00068061">
+        <name>Кожух вытяжной для УШМ WORTEX DS 125 D DS125D0018</name>
+        <vendor>Wortex</vendor>
+        <barcodes>
+          <barcode>6900602848892</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21660</price>
+      </offer>
       <offer sku="УТ-00068156">
         <name>Компрессор DGM AC-2100B ременной</name>
         <vendor>DGM</vendor>
@@ -25210,6 +25240,26 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>173000</price>
+      </offer>
+      <offer sku="УТ-00076084">
+        <name>Домкрат механический (ромб) 2т 105-420мм STARTUL AUTO (ST8021-02)</name>
+        <vendor>Startul</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14490</price>
+      </offer>
+      <offer sku="УТ-00076263">
+        <name>Комплект сварочный для MMA (до 200А, 3 + 3 м) SOLARIS</name>
+        <vendor>SOLARIS</vendor>
+        <barcodes>
+          <barcode>10537676</barcode>
+          <barcode>6921210725610</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13790</price>
       </offer>
       <offer sku="УТ-00076443">
         <name>Лопата снеговая STARTUL 410х460 мм стальной черенок ST9056-2</name>

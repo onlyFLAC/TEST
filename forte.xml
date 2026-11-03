@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 17:04">
+<fm_catalog date="2026-11-03 17:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -811,6 +811,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12590</price>
+      </offer>
+      <offer sku="УТ-00005963">
+        <name>Уровень тип 80AS, 80 см STABILA 19166</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24390</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -21046,6 +21054,28 @@
         </pickup-options>
         <price>552200</price>
       </offer>
+      <offer sku="УТ-00048210">
+        <name>Масло 2Т 1л HP Husqvarna 587 80 85-10</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245893</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7200</price>
+      </offer>
+      <offer sku="УТ-00048211">
+        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245848</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1880</price>
+      </offer>
       <offer sku="УТ-00048213">
         <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
         <vendor>Husqvarna</vendor>
@@ -23156,7 +23186,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>50250</price>
+        <price>43990</price>
       </offer>
       <offer sku="УТ-00059916">
         <name>Раковина накладная Gappo белая GT413</name>
@@ -23167,7 +23197,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>31900</price>
+        <price>29510</price>
       </offer>
       <offer sku="УТ-00059933">
         <name>Душевой трап GAPPO G87007-3 7*70 см</name>
@@ -23246,7 +23276,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>136870</price>
+        <price>133990</price>
       </offer>
       <offer sku="УТ-00060076">
         <name>Стойка душевая Gappo хром G2491</name>
@@ -23257,7 +23287,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>100960</price>
+        <price>97300</price>
       </offer>
       <offer sku="УТ-00060107">
         <name>Крючок GAPPO G30905-13 Золотой Сатин</name>
@@ -23339,7 +23369,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7010</price>
+        <price>6310</price>
       </offer>
       <offer sku="УТ-00060243">
         <name>Смеситель для кухни Frap оружейная сталь F4497-9</name>
@@ -23391,7 +23421,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12240</price>
+        <price>12140</price>
       </offer>
       <offer sku="УТ-00060341">
         <name>Душевая система Frap F2491-9 Оружейная Сталь с изливом</name>
@@ -23434,7 +23464,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>78000</price>
+        <price>72730</price>
       </offer>
       <offer sku="УТ-00060392">
         <name>Смеситель Frap для ванны F2261 длинный гусак хром</name>
@@ -23585,7 +23615,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15990</price>
+        <price>14090</price>
       </offer>
       <offer sku="УТ-00060919">
         <name>Гайковерт пневматический ECO AIW-980S</name>
@@ -23604,7 +23634,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14690</price>
+        <price>11670</price>
       </offer>
       <offer sku="УТ-00061154">
         <name>Шланг армированный ф 8/14 мм с быстросъемн. соед. ECO (длина 10 м)</name>
@@ -23612,7 +23642,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13490</price>
+        <price>10430</price>
       </offer>
       <offer sku="УТ-00061185">
         <name>Сушилка напольная двухсекционная Nika СБ8П/С серебряный</name>
@@ -24075,6 +24105,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>113500</price>
+      </offer>
+      <offer sku="УТ-00063379">
+        <name>Газонокосилка Husqvarna LC 151S 970 48 84-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930544529</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>350000</price>
       </offer>
       <offer sku="УТ-00063381">
         <name>Травокосилка Husqvarna 226R 965 87 10-03</name>
@@ -24774,7 +24815,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16990</price>
+        <price>15220</price>
       </offer>
       <offer sku="УТ-00070750">
         <name>Станок сверлильный WORTEX для сквозных и глухих отверстий DB130400018</name>
@@ -24801,7 +24842,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19690</price>
+        <price>18110</price>
       </offer>
       <offer sku="УТ-00071571">
         <name>Циркулярная пила погружная с шиной 1,4 м WORTEX CS 1612-1 в кор. 1200 Вт, до 59 мм, 6000 об/мин</name>
@@ -24817,7 +24858,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15290</price>
+        <price>13390</price>
       </offer>
       <offer sku="УТ-00072358">
         <name>Длинногубцы KNIPEX 30 25 140</name>
@@ -25383,6 +25424,14 @@
         </pickup-options>
         <price>78850</price>
       </offer>
+      <offer sku="УТ-00074649">
+        <name>Струбцина Bessey SC80</name>
+        <vendor>Bessey</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29485</price>
+      </offer>
       <offer sku="УТ-00074824">
         <name>Дрель-шуруповерт аккумуляторная IVT в кейсе (1 акб*2 Ач) ICSD 20/2-65 BMC</name>
         <vendor>IVT</vendor>
@@ -25513,6 +25562,14 @@
         </pickup-options>
         <price>24890</price>
       </offer>
+      <offer sku="УТ-00075751">
+        <name>Ручка держатель для работы с отвертками Wera 05003990001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15690</price>
+      </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
         <vendor>Nika</vendor>
@@ -25543,7 +25600,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14490</price>
+        <price>11460</price>
       </offer>
       <offer sku="УТ-00076263">
         <name>Комплект сварочный для MMA (до 200А, 3 + 3 м) SOLARIS</name>
@@ -25555,7 +25612,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13790</price>
+        <price>9990</price>
       </offer>
       <offer sku="УТ-00076443">
         <name>Лопата снеговая STARTUL 410х460 мм стальной черенок ST9056-2</name>
@@ -25563,7 +25620,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6590</price>
+        <price>5720</price>
       </offer>
       <offer sku="УТ-00076689">
         <name>Нож для прополки Xact FISKARS</name>
@@ -25571,7 +25628,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12890</price>
+        <price>12170</price>
       </offer>
       <offer sku="УТ-00076695">
         <name>Нож пистолетный выдвижной Startul "STANDART" 18 мм ST0930</name>
@@ -25582,7 +25639,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>390</price>
+        <price>186</price>
       </offer>
       <offer sku="УТ-00077591">
         <name>Вешалка напольная Комфорт 4 (ВК4/МС матовый серый)</name>
@@ -25604,7 +25661,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>31620</price>
+        <price>30600</price>
       </offer>
       <offer sku="УТ-00078017">
         <name>Крышка для бензопилы STIHL MS 462, MS 462 C, MS 462 C-M, MS 462 C-M R 11420211101</name>
@@ -25861,6 +25918,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7550</price>
+      </offer>
+      <offer sku="УТ-00085492">
+        <name>Набор напильников Husqvarna 4 мм 3 шт. 597 35 48-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085493">
         <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>
@@ -27310,7 +27375,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12975</price>
+        <price>14290</price>
       </offer>
       <offer sku="УТ-00092190">
         <name>Набор бит и сверл BOSCH SET M 80 предметов 2608522567</name>
@@ -27806,6 +27871,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00102402">
+        <name>D-51661 Сабельная пилка для металла 225x0,9x18TPI, 2 шт.</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3230</price>
+      </offer>
+      <offer sku="УТ-00102512">
+        <name>E-28905 Насадка Torsion Impact Black PH2, 25мм, C-form, 2 шт</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>775</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

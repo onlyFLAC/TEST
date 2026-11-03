@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 15:02">
+<fm_catalog date="2026-11-03 15:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1395,6 +1395,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3090</price>
+      </offer>
+      <offer sku="УТ-00012181">
+        <name>Прокладка уплотнительная BOSCH 2609006628</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952285092</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2999</price>
       </offer>
       <offer sku="УТ-00012209">
         <name>Шлифмашина угловая (болгарка) ФИОЛЕНТ МШУ 2-9-125 ИДФР298135002-02К1</name>
@@ -13452,6 +13463,17 @@
         </pickup-options>
         <price>13390</price>
       </offer>
+      <offer sku="00000034620">
+        <name>3 ЛОБЗИКОВЫЕ ПИЛКИ SET PROGRESSOR</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140198868</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3734</price>
+      </offer>
       <offer sku="00000034622">
         <name>5 ЛОБЗИКОВЫХ ПИЛОК T 101 BR, HCS</name>
         <vendor>BOSCH</vendor>
@@ -13506,6 +13528,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3134</price>
+      </offer>
+      <offer sku="00000034679">
+        <name>5 ЛОБЗИКОВЫХ ПИЛОК T 344 DP, HCS</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140264198</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4384</price>
       </offer>
       <offer sku="00000034687">
         <name>Набор лобзиковых пилок BOSCH T101BF 5 шт. 2608634234</name>
@@ -13727,6 +13760,17 @@
         </pickup-options>
         <price>1490</price>
       </offer>
+      <offer sku="00000035401">
+        <name>Набор пилок для сабельной пилы Bosch S644D 2 шт. 2608650614</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140007689</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2790</price>
+      </offer>
       <offer sku="00000035409">
         <name>Набор сабельных пилок Bosch S1542K 2 шт. 2608650681</name>
         <vendor>BOSCH</vendor>
@@ -13748,6 +13792,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6190</price>
+      </offer>
+      <offer sku="00000035430">
+        <name>5 САБЕЛЬНЫХ ПИЛОК S 1411 DF</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140016285</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12358</price>
       </offer>
       <offer sku="00000035432">
         <name>Набор пилок для сабельной пилы Bosch 300 мм 2 шт. S1411DF 2608654834</name>
@@ -13781,6 +13836,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9130</price>
+      </offer>
+      <offer sku="00000035477">
+        <name>Набор сабельных пилок Bosch S1111DF 2 шт. 2608656273</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140235884</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4094</price>
       </offer>
       <offer sku="00000035524">
         <name>Бур по бетону BOSCH SDS+ 6x150/210 мм 2608680264</name>
@@ -13825,6 +13891,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1790</price>
+      </offer>
+      <offer sku="00000035540">
+        <name>Бур по бетону BOSCH SDS+ 12x100x160 мм 2608680277</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>6949509205964</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1490</price>
       </offer>
       <offer sku="00000035549">
         <name>Сверло по бетону SDS plus-1, 16x250x310</name>
@@ -14552,6 +14629,17 @@
         </pickup-options>
         <price>2890</price>
       </offer>
+      <offer sku="00000036779">
+        <name>КОНУСНЫЙ ЧАШЕЧНЫЙ ШЛИФКРУГ 110MM K36 КАМ</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140026383</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9545</price>
+      </offer>
       <offer sku="00000036860">
         <name>Фреза карнизная BOSCH 3х8х11 мм 2608628344</name>
         <vendor>BOSCH</vendor>
@@ -14606,6 +14694,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4624</price>
+      </offer>
+      <offer sku="00000036919">
+        <name>ПАЗОВАЯ ФРЕЗА 16/12</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140420297</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6532</price>
       </offer>
       <offer sku="00000036943">
         <name>Фреза пазовая BOSCH 8х19х20 мм 2608629362</name>
@@ -14843,6 +14942,17 @@
         </pickup-options>
         <price>6342</price>
       </offer>
+      <offer sku="00000038965">
+        <name>Набор сверл по металлу BOSCH PointTeQ 3х33х61 мм 2 шт. 2608577158</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140906678</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>423</price>
+      </offer>
       <offer sku="00000038969">
         <name>Сверло по металлу BOSCH PointTeQ 4.2 мм 2608577162</name>
         <vendor>BOSCH</vendor>
@@ -14864,6 +14974,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1155</price>
+      </offer>
+      <offer sku="00000038983">
+        <name>Сверло по металлу BOSCH PointTeQ 13 мм 2608577177</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140906869</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2190</price>
       </offer>
       <offer sku="00000038999">
         <name>Набор сверл Bosch PointTeQ 2.5 мм 10 шт. 2608577193</name>
@@ -15040,6 +15161,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12819</price>
+      </offer>
+      <offer sku="00000039617">
+        <name>Набор бумажных мешков BOSCH для UniversalVac 15 5 шт. 2609256F32</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140912334</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5790</price>
+      </offer>
+      <offer sku="00000039618">
+        <name>Набор бумажных мешков Bosch для AdvancedVac 20 5 шт. 2609256F33</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140912341</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5609</price>
       </offer>
       <offer sku="00000039619">
         <name>Картридж-фильтр д/VAC</name>
@@ -17055,17 +17198,6 @@
         </pickup-options>
         <price>2780</price>
       </offer>
-      <offer sku="00000063673">
-        <name>Лента клейкая армированная, 48мм х 40м, серебро// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996193953</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2390</price>
-      </offer>
       <offer sku="00000063684">
         <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -19052,6 +19184,14 @@
         </pickup-options>
         <price>9990</price>
       </offer>
+      <offer sku="00000075610">
+        <name>Корпус мотора Bosch 1605108283</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5830</price>
+      </offer>
       <offer sku="00000075846">
         <name>Шпиндель Bosch 1607000D6A</name>
         <vendor>BOSCH</vendor>
@@ -19253,6 +19393,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27483</price>
+      </offer>
+      <offer sku="УТ-00000189">
+        <name>Набор сабельных полотен BOSCH S922EF 2 шт. 2609256706</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140390637</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3327</price>
       </offer>
       <offer sku="УТ-00000199">
         <name>Распылитель пены Bosch 450 мл F016800509</name>
@@ -20037,6 +20188,14 @@
         </pickup-options>
         <price>3460</price>
       </offer>
+      <offer sku="УТ-00002070">
+        <name>Регулятор числа оборотов Bosch 1607233452</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21420</price>
+      </offer>
       <offer sku="УТ-00002254">
         <name>Ролик чистящий Palisad "HOME" моющийся для всех видов тканей 931065</name>
         <vendor>Palisad</vendor>
@@ -20686,6 +20845,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3500</price>
+      </offer>
+      <offer sku="УТ-00045201">
+        <name>Комплект угольных щеток BOSCH 1607014117</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952059808</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3600</price>
       </offer>
       <offer sku="УТ-00045515">
         <name>Эмаль ПФ-115 вишнева 2,6кг Оптима_(8668)</name>
@@ -21730,6 +21900,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4450</price>
+      </offer>
+      <offer sku="УТ-00055704">
+        <name>Тумба прикроватная ЗМИ "ТОРОНТО 12Л" ТПТ12Л черная</name>
+        <vendor>ЗМИ</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8920</price>
       </offer>
       <offer sku="УТ-00055705">
         <name>Этажерка Nika ЭТ2/МС матово-серый</name>
@@ -24209,6 +24387,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34010</price>
+      </offer>
+      <offer sku="УТ-00063829">
+        <name>Набор плоскогубцев Bosch 3 шт. 1600A02C0S</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952655857</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18760</price>
+      </offer>
+      <offer sku="УТ-00063831">
+        <name>Ключ разводной Bosch 1600A02W7R</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423250534</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6450</price>
       </offer>
       <offer sku="УТ-00063833">
         <name>Набор инструмента расширенный, 132 предмета</name>
@@ -27114,6 +27314,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5280</price>
+      </offer>
+      <offer sku="УТ-00091641">
+        <name>Ключ сантехнический BOSCH 8", 0-32 мм 1600A032VF</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5710</price>
       </offer>
       <offer sku="УТ-00091642">
         <name>Рулетка BOSCH 5 м 1600A03318</name>

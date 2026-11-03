@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 10:36">
+<fm_catalog date="2026-11-03 11:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2816,14 +2816,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>198490</price>
-      </offer>
-      <offer sku="УТ-00024035">
-        <name>Насос автомобильный аккумуляторный Makita DMP181Z (без АКБ и ЗУ)</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>80585</price>
       </offer>
       <offer sku="УТ-00024216">
         <name>Винтоверт электрический Makita TD0101F</name>
@@ -9035,6 +9027,17 @@
         </pickup-options>
         <price>490</price>
       </offer>
+      <offer sku="00000016650">
+        <name>Секатор прямого реза, 180 мм, металлические обрезиненные рукоятки// Palisad 60503</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996063447</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2390</price>
+      </offer>
       <offer sku="00000016679">
         <name>Кусторез, 550 мм, стальные обрезиненные рукоятки// Palisad</name>
         <vendor>Palisad</vendor>
@@ -10392,17 +10395,6 @@
         </pickup-options>
         <price>25942</price>
       </offer>
-      <offer sku="00000023581">
-        <name>Стремянка, 6 ступеней, стальная, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800047427</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24990</price>
-      </offer>
       <offer sku="00000023590">
         <name>Лестница шарнирная Сибртех 4х2 97879</name>
         <vendor>Сибртех</vendor>
@@ -10530,14 +10522,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>400500</price>
-      </offer>
-      <offer sku="00000024037">
-        <name>Станция насосная автоматическая Mateus MS05101 (ATJET100A)</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>76000</price>
       </offer>
       <offer sku="00000024071">
         <name>Станция насосная автоматическая Mateus MS05404 (TGP125C)</name>
@@ -19899,6 +19883,17 @@
         </pickup-options>
         <price>6571</price>
       </offer>
+      <offer sku="УТ-00001826">
+        <name>Перчатки универсальные, усиленные, с защитными накладками, размер 9// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996212210</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11688</price>
+      </offer>
       <offer sku="УТ-00001870">
         <name>Таз круглый строительный, 90 л Россия// Sparta</name>
         <vendor>Sparta</vendor>
@@ -20736,14 +20731,6 @@
         </pickup-options>
         <price>90350</price>
       </offer>
-      <offer sku="УТ-00047416">
-        <name>Тележка для металлических бочек TOR КБ-1 1020254</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>63010</price>
-      </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>
         <vendor>TOR</vendor>
@@ -21174,6 +21161,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29900</price>
+      </offer>
+      <offer sku="УТ-00052081">
+        <name>Сетев. Настольная пила Einhell TC-TS 8 (4340426)</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>99900</price>
       </offer>
       <offer sku="УТ-00052918">
         <name>Корпус вентилятора с пусковым устройством STIHL 11480802108</name>
@@ -25743,14 +25738,6 @@
         </pickup-options>
         <price>214990</price>
       </offer>
-      <offer sku="УТ-00087757">
-        <name>Переходник для генератора SENCI ADSC11000-TE-II</name>
-        <vendor>SENCI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6990</price>
-      </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>
         <vendor>BOSCH</vendor>
@@ -25802,6 +25789,14 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00089280">
+        <name>Подгузники MARTI NB33 0-5 кг</name>
+        <vendor>MARTI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2800</price>
+      </offer>
       <offer sku="УТ-00089281">
         <name>Подгузники MARTI S25 4-8 кг</name>
         <vendor>MARTI</vendor>
@@ -25839,6 +25834,28 @@
         <vendor>MARTI</vendor>
         <barcodes>
           <barcode>4580664610082</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6800</price>
+      </offer>
+      <offer sku="УТ-00089290">
+        <name>Трусики MARTI L44 9-14 кг</name>
+        <vendor>MARTI</vendor>
+        <barcodes>
+          <barcode>4580664610105</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6800</price>
+      </offer>
+      <offer sku="УТ-00089291">
+        <name>Трусики MARTI XL38 12-20 кг</name>
+        <vendor>MARTI</vendor>
+        <barcodes>
+          <barcode>4580664610112</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -27427,76 +27444,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101763">
-        <name>Устройство зарядное Makita DC18SD 197002-6</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37715</price>
-      </offer>
-      <offer sku="УТ-00101830">
-        <name>763229-6 Быстрозажимной патрон 10 для HP331D</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3885</price>
-      </offer>
-      <offer sku="УТ-00101874">
-        <name>821550-0 Кейс Makpac тип 2, 395Х295Х162 мм</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18870</price>
-      </offer>
-      <offer sku="УТ-00101916">
-        <name>A-86898 Пилки для лобзика 5шт ассорти</name>
-        <vendor>Makita</vendor>
-        <barcodes>
-          <barcode>088381151740</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2805</price>
-      </offer>
-      <offer sku="УТ-00101983">
-        <name>B-25373 насадка Т10-50 3шт</name>
-        <vendor>Makita</vendor>
-        <barcodes>
-          <barcode>088381409544</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>970</price>
-      </offer>
-      <offer sku="УТ-00102326">
-        <name>D-25688 Коронка BI-M 60 мм</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4875</price>
-      </offer>
-      <offer sku="УТ-00102450">
-        <name>D-81206 Пильный диск универсальный для алюминия/дерева/пластика, 165x20x2.2/1.4x60T</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7790</price>
-      </offer>
-      <offer sku="УТ-00102740">
-        <name>05008851001 Отвёртка крестовая для карбюраторов</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4490</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

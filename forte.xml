@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 16:01">
+<fm_catalog date="2026-11-03 16:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -27311,6 +27311,46 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12888</price>
+      </offer>
+      <offer sku="УТ-00092189">
+        <name>Набор бит и сверл BOSCH SET S 43 предмета 2608522566</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12975</price>
+      </offer>
+      <offer sku="УТ-00092190">
+        <name>Набор бит и сверл BOSCH SET M 80 предметов 2608522567</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22381</price>
+      </offer>
+      <offer sku="УТ-00092191">
+        <name>Набор бит и сверл BOSCH SET L 126 предметов 2608522568</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>46841</price>
+      </offer>
+      <offer sku="УТ-00092192">
+        <name>Набор бит и сверл BOSCH SET XL 239 предметов 2608522569</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>90550</price>
+      </offer>
+      <offer sku="УТ-00092193">
+        <name>Набор бит и сверл BOSCH SET NW 136 предметов 2608522570</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24927</price>
       </offer>
       <offer sku="УТ-00092222">
         <name>Пильное полотно Bosch 50 мм 1 шт. арт. Полотно погружное PRO Starlock BIM 32x50 мм Hard Wood AIZ 32 BSPIB / артикул: 2608669070</name>

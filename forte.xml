@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 19:01">
+<fm_catalog date="2026-11-03 19:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5345,7 +5345,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>202990</price>
+        <price>238800</price>
       </offer>
       <offer sku="00000003683">
         <name>Набор алюминиевых заклепок STAYER 4х8 мм 50 шт. 3120-40-08</name>
@@ -11425,7 +11425,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>165200</price>
+        <price>163800</price>
       </offer>
       <offer sku="00000031902">
         <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
@@ -11433,7 +11433,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>77800</price>
+        <price>76500</price>
       </offer>
       <offer sku="00000031908">
         <name>Стремянка односторонняя KRAUSE SOLIDY 7 ступ. 126252</name>
@@ -11441,7 +11441,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>69900</price>
+        <price>67100</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
@@ -11457,7 +11457,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>58990</price>
+        <price>58900</price>
       </offer>
       <offer sku="00000031981">
         <name>Сейф VALBERG ASM-120 Т</name>
@@ -25825,7 +25825,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>109200</price>
+        <price>105800</price>
       </offer>
       <offer sku="УТ-00084942">
         <name>Газонокосилка электрическая Bosch EasyRotak 32-205 06008A6300</name>

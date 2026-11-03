@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 07:11">
+<fm_catalog date="2026-11-03 07:40">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1604,6 +1604,14 @@
         </pickup-options>
         <price>790</price>
       </offer>
+      <offer sku="УТ-00013633">
+        <name>ЗУБР тип 4, шаг 3/8", паз 1.3 мм, 52 звена, цепь для электро и бензо пил (70304-35) 70304-35</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2844</price>
+      </offer>
       <offer sku="УТ-00013636">
         <name>ЗУБР тип 5, шаг 0.325", паз 1.5 мм, 40 см, шина для бензопил (70205-40) 70205-40</name>
         <vendor>ЗУБР</vendor>
@@ -2128,14 +2136,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1500</price>
-      </offer>
-      <offer sku="УТ-00015960">
-        <name>KRAFTOOL LINO тип А02, Нож для напольных покрытий (0930)</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2500</price>
       </offer>
       <offer sku="УТ-00015961">
         <name>STAYER 60 мм, 5 доп. лезвий, Компактный скребок (0851-H6)</name>
@@ -17093,14 +17093,6 @@
         </pickup-options>
         <price>550</price>
       </offer>
-      <offer sku="00000064070">
-        <name>Губка хозяйственная 200x140x60 мм, Home// Palisad</name>
-        <vendor>Palisad</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
-      </offer>
       <offer sku="00000064094">
         <name>Отжимная швабра PALISAD Home 120 см, насадка из микрофибры, 120 г 935095</name>
         <vendor>Palisad</vendor>
@@ -22681,17 +22673,6 @@
         </pickup-options>
         <price>13342</price>
       </offer>
-      <offer sku="УТ-00059823">
-        <name>Доска гладильная Nika Н4+ (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830066</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13251</price>
-      </offer>
       <offer sku="УТ-00059824">
         <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/O orchid</name>
         <vendor>Nika</vendor>
@@ -24159,17 +24140,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11330</price>
-      </offer>
-      <offer sku="УТ-00063839">
-        <name>Плоскогубцы комбинированные BOSCH 1600A02ZH0</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423252248</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
       </offer>
       <offer sku="УТ-00063867">
         <name>Интерфейс StarLine 2CAN-2LIN Мастер</name>

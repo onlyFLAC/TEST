@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 14:32">
+<fm_catalog date="2026-11-03 15:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2497,7 +2497,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18700</price>
+        <price>17000</price>
       </offer>
       <offer sku="УТ-00022268">
         <name>Масло 4T 10W-40 1.4л Husqvarna</name>
@@ -6323,17 +6323,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>990</price>
-      </offer>
-      <offer sku="00000006686">
-        <name>Каток GRINDA для газона, 580х400мм, 62л</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925533540</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>53980</price>
       </offer>
       <offer sku="00000006694">
         <name>Кейс-органайзер "ОКА-11" пластиковый, ЗУБР</name>
@@ -23171,17 +23160,6 @@
         </pickup-options>
         <price>38320</price>
       </offer>
-      <offer sku="УТ-00060174">
-        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477645532</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39180</price>
-      </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -25008,6 +24986,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15165</price>
+      </offer>
+      <offer sku="УТ-00072711">
+        <name>Машина снегоуборочная ALTECO SBG 724 M 93427</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>312000</price>
       </offer>
       <offer sku="УТ-00072730">
         <name>Санки детские Nika "ТИМКА 6 УНИВЕРСАЛ" Т6У/З2 зеленые</name>

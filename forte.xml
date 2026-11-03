@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 09:37">
+<fm_catalog date="2026-11-03 10:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -831,6 +831,14 @@
         </pickup-options>
         <price>14290</price>
       </offer>
+      <offer sku="УТ-00006058">
+        <name>Водоподогреватель электрический Теплотех ЭВП-12М на 380</name>
+        <vendor>Теплотех</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>54850</price>
+      </offer>
       <offer sku="УТ-00006301">
         <name>Подставка складная KRAUSE TOPPY 2 ступ. 130723</name>
         <vendor>Krause</vendor>
@@ -1463,6 +1471,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>199000</price>
+      </offer>
+      <offer sku="УТ-00013011">
+        <name>Снегоуборочная машина ALTECO SBG 722</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>240000</price>
       </offer>
       <offer sku="УТ-00013019">
         <name>Аккумулятор для инструментов ALTECO BCD 2003Li BL 42773</name>
@@ -4351,6 +4367,17 @@
         </pickup-options>
         <price>159990</price>
       </offer>
+      <offer sku="УТ-00026627">
+        <name>Машина снегоуборочная бензиновая ALTECO SBG 724 PRO 59927</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244611128</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>375000</price>
+      </offer>
       <offer sku="УТ-00026653">
         <name>Угловая шлифмашина AGH 3000-230 S ALTECO HEAVY DUTY</name>
         <vendor>ALTECO</vendor>
@@ -6102,17 +6129,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1780</price>
-      </offer>
-      <offer sku="00000006307">
-        <name>Станок заточной для пильных цепей ЗУБР СЦ-200</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373358104</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25210</price>
       </offer>
       <offer sku="00000006312">
         <name>Домкрат подкатной гидравлический ЗУБР Т-30-К 2 т 43053-2-K</name>
@@ -10645,6 +10661,40 @@
         </pickup-options>
         <price>28500</price>
       </offer>
+      <offer sku="00000024804">
+        <name>Сабельная пила RS 0514 ALTECO</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216453879</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24900</price>
+      </offer>
+      <offer sku="00000024831">
+        <name>Шлифмашина эксцентриковая ALTECO EX 0910 (EX 480-125 E) 27462</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216453442</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19580</price>
+      </offer>
+      <offer sku="00000024889">
+        <name>Перфоратор электрический ALTECO RH 0215 Promo 27501</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>1222216453534</barcode>
+          <barcode>4870216453534</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26990</price>
+      </offer>
       <offer sku="00000024898">
         <name>Перфоратор электрический ALTECO SDS-Plus RH 850-26 Standard 12755</name>
         <vendor>ALTECO</vendor>
@@ -10666,6 +10716,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17900</price>
+      </offer>
+      <offer sku="00000024991">
+        <name>Универсальный резак MT 2312 Alteco</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216453701</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19500</price>
       </offer>
       <offer sku="00000024997">
         <name>Дрель Makita 6413</name>
@@ -15524,7 +15585,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7990</price>
+        <price>1580</price>
       </offer>
       <offer sku="00000042029">
         <name>Палатка двухместная GREENWAY "АЛАТАУ" 100415A</name>
@@ -16273,17 +16334,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18888</price>
-      </offer>
-      <offer sku="00000059105">
-        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952531144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>122320</price>
       </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>
@@ -18924,17 +18974,6 @@
         </pickup-options>
         <price>26110</price>
       </offer>
-      <offer sku="00000075393">
-        <name>Набор мешков для пылесоса WORTEX VC 3016-1 WS 5 шт. GP90032-115</name>
-        <vendor>Wortex</vendor>
-        <barcodes>
-          <barcode>5291089903237</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7390</price>
-      </offer>
       <offer sku="00000075510">
         <name>Фен строительный MOLOT MHG 6020 2000 Вт MHG602000011</name>
         <vendor>MOLOT</vendor>
@@ -20292,6 +20331,17 @@
         </pickup-options>
         <price>22150</price>
       </offer>
+      <offer sku="УТ-00040984">
+        <name>Аккумуляторная дрель-шуруповерт STALKER D12 Li X2 69837</name>
+        <vendor>Stalker</vendor>
+        <barcodes>
+          <barcode>4870244613283</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13090</price>
+      </offer>
       <offer sku="УТ-00041016">
         <name>Валик малярный РемоКолор "МЕХОВОЙ" 48х150 мм 04-2-000</name>
         <vendor>РемоКолор</vendor>
@@ -20762,6 +20812,17 @@
         </pickup-options>
         <price>99990</price>
       </offer>
+      <offer sku="УТ-00047882">
+        <name>Компрессор безмаслянный ALTECO ACO 30L 63424</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244611609</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>70000</price>
+      </offer>
       <offer sku="УТ-00047894">
         <name>Мойка высокого давления электрическая ALTECO CPW 140-8 Home &amp; Car 66882</name>
         <vendor>ALTECO</vendor>
@@ -20955,6 +21016,17 @@
         </pickup-options>
         <price>7400</price>
       </offer>
+      <offer sku="УТ-00049374">
+        <name>Дрель-шуруповерт аккумуляторная ALTECO CD 21-35 73508</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244614778</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25900</price>
+      </offer>
       <offer sku="УТ-00049394">
         <name>31320-Li - "P.I.T." Аккумуляторный шуруповерт 24V</name>
         <vendor>P.I.T.</vendor>
@@ -21057,6 +21129,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>591000</price>
+      </offer>
+      <offer sku="УТ-00051527">
+        <name>Безмасляный компрессор ALTECO ACO 90L</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>267550</price>
       </offer>
       <offer sku="УТ-00051636">
         <name>Сетка фильтрующая PROFSET 1095</name>
@@ -21543,6 +21623,17 @@
         </pickup-options>
         <price>39900</price>
       </offer>
+      <offer sku="УТ-00055537">
+        <name>Бесщеточная аккумуляторная сабельная пила ALTECO CRS 21-100 BL 78085</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244612644</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>59990</price>
+      </offer>
       <offer sku="УТ-00055543">
         <name>Насадка пылеуловитель для пылесоса ADE 132 ALTECO 82335</name>
         <vendor>ALTECO</vendor>
@@ -21920,17 +22011,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9975</price>
-      </offer>
-      <offer sku="УТ-00056514">
-        <name>Секатор Grinda GRINDA P-25 200 мм 423425</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925601836</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7440</price>
       </offer>
       <offer sku="УТ-00056627">
         <name>Видеорегистратор Neoline Flash 2K Dual</name>
@@ -22922,17 +23002,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>51220</price>
-      </offer>
-      <offer sku="УТ-00059996">
-        <name>Душевая система с изливом Gappo G2406-3 Золото Сатин</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477645563</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>130570</price>
       </offer>
       <offer sku="УТ-00060058">
         <name>Мыльница Gappo золотой сатин с держателем G30902-3</name>
@@ -24010,17 +24079,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>73010</price>
-      </offer>
-      <offer sku="УТ-00063822">
-        <name>Набор ключей Torx BOSCH 1600A01TH4</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952512518</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11720</price>
       </offer>
       <offer sku="УТ-00063823">
         <name>Рулетка измерительная BOSCH 8 м 27 мм 1600A01V3S</name>
@@ -27194,6 +27252,14 @@
         </pickup-options>
         <price>22610</price>
       </offer>
+      <offer sku="УТ-00095587">
+        <name>Ударное сверло по бетону 6*100 мм Cutop Profi 51-6100</name>
+        <vendor>Cutop</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>337</price>
+      </offer>
       <offer sku="УТ-00095668">
         <name>Насос центробежный ALTECO CHF 1500-50 CB</name>
         <vendor>ALTECO</vendor>
@@ -27233,6 +27299,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>108500</price>
+      </offer>
+      <offer sku="УТ-00096349">
+        <name>Лазерный нивелир CONDTROL NivoTec 4D</name>
+        <vendor>Condtrol</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35200</price>
+      </offer>
+      <offer sku="УТ-00096629">
+        <name>Адаптер для рукоятки телескопической, совм, с арт.40075-40077-40079-40090-40091 (96) TOLSEN 40112</name>
+        <vendor>Tolsen</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>390</price>
       </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>

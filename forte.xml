@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 10:06">
+<fm_catalog date="2026-11-03 10:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -830,14 +830,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14290</price>
-      </offer>
-      <offer sku="УТ-00006058">
-        <name>Водоподогреватель электрический Теплотех ЭВП-12М на 380</name>
-        <vendor>Теплотех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54850</price>
       </offer>
       <offer sku="УТ-00006301">
         <name>Подставка складная KRAUSE TOPPY 2 ступ. 130723</name>
@@ -11695,7 +11687,7 @@
         <price>38840</price>
       </offer>
       <offer sku="00000032347">
-        <name>Детектор аккумуляторный Bosch D-tect 120 в L-Boxx 136 0601081301</name>
+        <name>Детектор аккумуляторный BOSCH D-tect 120 0601081301</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140780070</barcode>
@@ -14995,17 +14987,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12819</price>
-      </offer>
-      <offer sku="00000039618">
-        <name>Набор бумажных мешков Bosch для AdvancedVac 20 5 шт. 2609256F33</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140912341</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5609</price>
       </offer>
       <offer sku="00000039619">
         <name>Картридж-фильтр д/VAC</name>
@@ -20330,17 +20311,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22150</price>
-      </offer>
-      <offer sku="УТ-00040984">
-        <name>Аккумуляторная дрель-шуруповерт STALKER D12 Li X2 69837</name>
-        <vendor>Stalker</vendor>
-        <barcodes>
-          <barcode>4870244613283</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13090</price>
       </offer>
       <offer sku="УТ-00041016">
         <name>Валик малярный РемоКолор "МЕХОВОЙ" 48х150 мм 04-2-000</name>
@@ -27252,14 +27222,6 @@
         </pickup-options>
         <price>22610</price>
       </offer>
-      <offer sku="УТ-00095587">
-        <name>Ударное сверло по бетону 6*100 мм Cutop Profi 51-6100</name>
-        <vendor>Cutop</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>337</price>
-      </offer>
       <offer sku="УТ-00095668">
         <name>Насос центробежный ALTECO CHF 1500-50 CB</name>
         <vendor>ALTECO</vendor>
@@ -27299,22 +27261,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>108500</price>
-      </offer>
-      <offer sku="УТ-00096349">
-        <name>Лазерный нивелир CONDTROL NivoTec 4D</name>
-        <vendor>Condtrol</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35200</price>
-      </offer>
-      <offer sku="УТ-00096629">
-        <name>Адаптер для рукоятки телескопической, совм, с арт.40075-40077-40079-40090-40091 (96) TOLSEN 40112</name>
-        <vendor>Tolsen</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
       </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-03 16:35">
+<fm_catalog date="2026-11-03 17:04">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11426,14 +11426,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>77800</price>
-      </offer>
-      <offer sku="00000031905">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>42700</price>
       </offer>
       <offer sku="00000031908">
         <name>Стремянка односторонняя KRAUSE SOLIDY 7 ступ. 126252</name>

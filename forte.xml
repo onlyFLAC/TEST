@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-04 14:02">
+<fm_catalog date="2026-11-04 14:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5157,17 +5157,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>890</price>
-      </offer>
-      <offer sku="00000003162">
-        <name>STAYER PROFI просекатель для тонкостенных металлоконструкций</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229175917</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9990</price>
       </offer>
       <offer sku="00000003224">
         <name>STAYER RACER 50 м геодезическая стальная мерная лента</name>
@@ -23254,17 +23243,6 @@
         </pickup-options>
         <price>23630</price>
       </offer>
-      <offer sku="УТ-00060260">
-        <name>Смеситель для кухни Frap матовое золото F4397-3</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477628993</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>52910</price>
-      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -27059,17 +27037,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6170</price>
-      </offer>
-      <offer sku="УТ-00091636">
-        <name>Клещи переставные BOSCH 250 мм 1600A032V9</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423302325</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8890</price>
       </offer>
       <offer sku="УТ-00091637">
         <name>Трещотка 1/4" BOSCH 1600A032VA</name>

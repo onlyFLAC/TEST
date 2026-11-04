@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-04 08:39">
+<fm_catalog date="2026-11-04 09:08">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -792,14 +792,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12590</price>
-      </offer>
-      <offer sku="УТ-00005963">
-        <name>Уровень тип 80AS, 80 см STABILA 19166</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24390</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -12409,17 +12401,6 @@
         </pickup-options>
         <price>120150</price>
       </offer>
-      <offer sku="00000032765">
-        <name>Пылесос строительный Bosch GAS 35 L SFC+ 06019C3000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140705448</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>443150</price>
-      </offer>
       <offer sku="00000032768">
         <name>Пылесос GAS 55 M AFC</name>
         <vendor>BOSCH</vendor>
@@ -12442,17 +12423,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63040</price>
-      </offer>
-      <offer sku="00000032773">
-        <name>Пылесос Bosch GAS 12-25 PL 060197C100</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140926072</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>179330</price>
       </offer>
       <offer sku="00000032776">
         <name>Пылесос строительный BOSCH UniversalVac 15 06033D1100</name>
@@ -22178,17 +22148,6 @@
         </pickup-options>
         <price>48990</price>
       </offer>
-      <offer sku="УТ-00056647">
-        <name>Камера заднего вида IP-360 (для uno sport,city scanner, elbrus)</name>
-        <vendor>SilverStone</vendor>
-        <barcodes>
-          <barcode>6925300000496</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11999</price>
-      </offer>
       <offer sku="УТ-00056650">
         <name>Автосигнализация SL A60 ECO</name>
         <vendor>Starline</vendor>
@@ -25296,14 +25255,6 @@
         </pickup-options>
         <price>78850</price>
       </offer>
-      <offer sku="УТ-00074649">
-        <name>Струбцина Bessey SC80</name>
-        <vendor>Bessey</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29485</price>
-      </offer>
       <offer sku="УТ-00074824">
         <name>Дрель-шуруповерт аккумуляторная IVT в кейсе (1 акб*2 Ач) ICSD 20/2-65 BMC</name>
         <vendor>IVT</vendor>
@@ -25433,14 +25384,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24890</price>
-      </offer>
-      <offer sku="УТ-00075751">
-        <name>Ручка держатель для работы с отвертками Wera 05003990001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15690</price>
       </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
@@ -25782,22 +25725,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
-      </offer>
-      <offer sku="УТ-00085489">
-        <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7550</price>
-      </offer>
-      <offer sku="УТ-00085492">
-        <name>Набор напильников Husqvarna 4 мм 3 шт. 597 35 48-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085493">
         <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>
@@ -27735,22 +27662,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00102402">
-        <name>D-51661 Сабельная пилка для металла 225x0,9x18TPI, 2 шт.</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3230</price>
-      </offer>
-      <offer sku="УТ-00102512">
-        <name>E-28905 Насадка Torsion Impact Black PH2, 25мм, C-form, 2 шт</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>775</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

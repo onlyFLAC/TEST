@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-04 10:36">
+<fm_catalog date="2026-11-04 11:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2145,14 +2145,6 @@
         </pickup-options>
         <price>6780</price>
       </offer>
-      <offer sku="УТ-00016550">
-        <name>Набор мини съемников стопорных колец Total 125 мм 4 шт. THTJ214041</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9600</price>
-      </offer>
       <offer sku="УТ-00016701">
         <name>Сверло универсальное BOSCH CYL-9 6х120 мм 2608900626</name>
         <vendor>BOSCH</vendor>
@@ -2934,6 +2926,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>680</price>
+      </offer>
+      <offer sku="УТ-00025327">
+        <name>Набор абразивных дисков Сибртех P320 125 мм 5 шт. 738137</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996206783</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>800</price>
       </offer>
       <offer sku="УТ-00025329">
         <name>Набор абразивных дисков Сибртех P500 125 мм 5 шт. 738157</name>
@@ -9098,6 +9101,17 @@
         </pickup-options>
         <price>7790</price>
       </offer>
+      <offer sku="00000016866">
+        <name>Грабли веерные пластиковые, 600 мм, 24 плоских зуба, без черенка, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800057907</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2000</price>
+      </offer>
       <offer sku="00000017039">
         <name>Полольник петлеобразный, 115 мм, рессорно-пружинная сталь, без черенка, Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -9331,6 +9345,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7590</price>
+      </offer>
+      <offer sku="00000018257">
+        <name>Коптильня двухъярусная 500х270х175 мм PALISAD Camping 69541</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4606800041715</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9284</price>
       </offer>
       <offer sku="00000018314">
         <name>Щетка для чистки гриля Palisad 43 см 69652</name>
@@ -9698,6 +9723,39 @@
         </pickup-options>
         <price>1373</price>
       </offer>
+      <offer sku="00000020870">
+        <name>Плашка М10 х 1,5 мм// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996100142</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1163</price>
+      </offer>
+      <offer sku="00000020878">
+        <name>Плашка М16 х 2,0 мм// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996082820</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3170</price>
+      </offer>
+      <offer sku="00000020907">
+        <name>Клупп трубный 3/4''// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996051819</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4353</price>
+      </offer>
       <offer sku="00000020911">
         <name>Набор метчиков и плашек Sparta М3-М12 20 шт. 773105</name>
         <vendor>Sparta</vendor>
@@ -9829,6 +9887,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1338</price>
+      </offer>
+      <offer sku="00000021481">
+        <name>Валик игольчатый по бетону, 400 мм// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800031235</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4300</price>
       </offer>
       <offer sku="00000021616">
         <name>Кювета пластмассовая для валиков, 350х330 мм// Sparta</name>
@@ -10025,6 +10094,17 @@
         </pickup-options>
         <price>1440</price>
       </offer>
+      <offer sku="00000022253">
+        <name>Ручка-переноска для гипсокартона и стекла// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996169286</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3864</price>
+      </offer>
       <offer sku="00000022377">
         <name>Лента малярная СИБРТЕХ 38 мм х 40 м, на бумажной основе 88702</name>
         <vendor>Сибртех</vendor>
@@ -10135,6 +10215,17 @@
         </pickup-options>
         <price>590</price>
       </offer>
+      <offer sku="00000022645">
+        <name>Правило алюминиевое "Трапеция", 1 ребро жесткости, L-1,5 м Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800046031</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3988</price>
+      </offer>
       <offer sku="00000022664">
         <name>Раскладка для инструмента настенная Matrix 675х450 мм 90245</name>
         <vendor>Matrix</vendor>
@@ -10168,6 +10259,17 @@
         </pickup-options>
         <price>2290</price>
       </offer>
+      <offer sku="00000022785">
+        <name>Ящик для инструментов, усиленный 19"// Stels</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4606800064059</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14090</price>
+      </offer>
       <offer sku="00000022790">
         <name>Ящик для инструментов Сибртех 90803</name>
         <vendor>Сибртех</vendor>
@@ -10200,6 +10302,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4895</price>
+      </offer>
+      <offer sku="00000022795">
+        <name>Ящик для инструментов 18 , с органайзерами СИБРТЕХ 90808</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800064080</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7900</price>
       </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
@@ -17146,6 +17259,17 @@
         </pickup-options>
         <price>8490</price>
       </offer>
+      <offer sku="00000063990">
+        <name>Конус посадочный Palisad 60х100 мм 644965</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996189857</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1990</price>
+      </offer>
       <offer sku="00000064041">
         <name>Салфетка из микрофибры Palisad 300х300 мм желтая 923035</name>
         <vendor>Palisad</vendor>
@@ -19951,6 +20075,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6571</price>
+      </offer>
+      <offer sku="УТ-00001808">
+        <name>Ведро гибкое сверхпрочное, 28 л, синее, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800091031</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3865</price>
       </offer>
       <offer sku="УТ-00001826">
         <name>Перчатки универсальные, усиленные, с защитными накладками, размер 9// Denzel</name>
@@ -23015,6 +23150,14 @@
         </pickup-options>
         <price>43990</price>
       </offer>
+      <offer sku="УТ-00059901">
+        <name>Гусак гибкий силиконовый Frap W04 черный</name>
+        <vendor>Frap</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4600</price>
+      </offer>
       <offer sku="УТ-00059916">
         <name>Раковина накладная Gappo белая GT413</name>
         <vendor>GAPPO</vendor>
@@ -25089,14 +25232,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>487000</price>
-      </offer>
-      <offer sku="УТ-00072975">
-        <name>Масло синтетическое с дозатором Husqvarna 2Т 1л XP 547 92 98-02</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16500</price>
       </offer>
       <offer sku="УТ-00072976">
         <name>Масло для смазки цепи Husqvarna 1л Veg X-GUARD BIO биоразлагаемое 596 45 73-01</name>
@@ -27631,6 +27766,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00101293">
+        <name>Тачка садовая, 2-х колесная, грузоподъемность 120 кг, объем 65 л// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22850</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

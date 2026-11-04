@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-04 17:27">
+<fm_catalog date="2026-11-04 17:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15437,14 +15437,6 @@
         </pickup-options>
         <price>7810</price>
       </offer>
-      <offer sku="00000041394">
-        <name>Масло смазочное STIHL "MULTIOIL BIO" 50 мл 07825168500</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2300</price>
-      </offer>
       <offer sku="00000041420">
         <name>Триммер бензиновый STIHL FS 120 41342000433</name>
         <vendor>STIHL</vendor>
@@ -18135,30 +18127,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9600</price>
-      </offer>
-      <offer sku="00000070890">
-        <name>Режущий диск для травы 250-32, Ø 25,4 мм (FS 120; 131; 250; FSA 90; FS-KM). Stihl</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15050</price>
-      </offer>
-      <offer sku="00000070891">
-        <name>Диск режущий для травы STIHL 250х4 мм, к FS55/FS250 40017133806</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19660</price>
-      </offer>
-      <offer sku="00000070895">
-        <name>Диск пильный STIHL WoodCut с остроугольными зубьями, 200 мм 41127134201</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17320</price>
       </offer>
       <offer sku="00000071014">
         <name>Мерный стакан 100 мл Stihl</name>
@@ -20924,17 +20892,6 @@
         </pickup-options>
         <price>57990</price>
       </offer>
-      <offer sku="УТ-00048059">
-        <name>Клапан обратный STIHL для RE 110, 120, 130 49505100204</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661341931</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7740</price>
-      </offer>
       <offer sku="УТ-00048206">
         <name>Краскораспылитель безвоздушный PROFSET 4000 Вт STB-980</name>
         <vendor>PROFSET</vendor>
@@ -21108,17 +21065,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19990</price>
-      </offer>
-      <offer sku="УТ-00048840">
-        <name>Нож для газонокосилок STIHL RM 248.0 T, Viking MB 248.3T, MB 248.4, 63507020103</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661282999</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15400</price>
       </offer>
       <offer sku="УТ-00049305">
         <name>Средство для удаления смолы Stihl Superclean 300 мл 07825168101</name>
@@ -21671,30 +21617,6 @@
         </pickup-options>
         <price>186300</price>
       </offer>
-      <offer sku="УТ-00055261">
-        <name>Ножовка для телескопического штока STIHL PR 40 CT 00008814141</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>70800</price>
-      </offer>
-      <offer sku="УТ-00055275">
-        <name>Клин валочный полимерный STIHL 19 см 00008812212</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8970</price>
-      </offer>
-      <offer sku="УТ-00055308">
-        <name>Режущий диск для травы 250-32, Ø 20 мм 32Z (FS 350 - FS 560) 40007133812</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15820</price>
-      </offer>
       <offer sku="УТ-00055311">
         <name>Масло моторное STIHL 1:50 5 л красное 07813198468лб5</name>
         <vendor>STIHL</vendor>
@@ -21859,17 +21781,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
-      </offer>
-      <offer sku="УТ-00055889">
-        <name>Цепная звёздочка 1/4" P 6 зубьев 12546421200</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661623396</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2430</price>
       </offer>
       <offer sku="УТ-00055911">
         <name>Сиденье в ванну Nika "ЭКОНОМ" СВ1</name>
@@ -22275,14 +22186,6 @@
         </pickup-options>
         <price>326100</price>
       </offer>
-      <offer sku="УТ-00058014">
-        <name>Диск пильный STIHL WoodCut с остроугольными зубьями, 225 мм 40007134205</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17360</price>
-      </offer>
       <offer sku="УТ-00058028">
         <name>Набор держателей 4253022</name>
         <vendor>Einhell</vendor>
@@ -22414,17 +22317,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4500</price>
-      </offer>
-      <offer sku="УТ-00059588">
-        <name>Набор прокладок STIHL для MS341/361 11350071050</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711530341</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4970</price>
       </offer>
       <offer sku="УТ-00059614">
         <name>Нож для газонокосилок BOSCH ARM 36, ARM 37, ARM 37 R F016L72363</name>
@@ -25582,22 +25474,6 @@
         </pickup-options>
         <price>20680</price>
       </offer>
-      <offer sku="УТ-00078710">
-        <name>Фильтр воздушный STIHL для MS 260 11211201617</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7400</price>
-      </offer>
-      <offer sku="УТ-00079720">
-        <name>Жгут кабельный STIHL 11404403012</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
-      </offer>
       <offer sku="УТ-00080099">
         <name>Колесо червячное STIHL 48607323600</name>
         <vendor>STIHL</vendor>
@@ -25640,14 +25516,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12940</price>
-      </offer>
-      <offer sku="УТ-00082831">
-        <name>Поршень распределительный STIHL RE 120/130 PLUS 49505100300</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18920</price>
       </offer>
       <offer sku="УТ-00083241">
         <name>Сегмент фиксирующий Stihl 63787086200</name>
@@ -27720,14 +27588,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34880</price>
-      </offer>
-      <offer sku="УТ-00103466">
-        <name>Втулка коленвала (червяка маслонасоса) для бензопилы STIHL 024 00009930508</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1700</price>
       </offer>
     </offers>
   </shop>

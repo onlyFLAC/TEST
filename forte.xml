@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-04 13:04">
+<fm_catalog date="2026-11-04 13:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -784,17 +784,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005908">
-        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195700</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3290</price>
       </offer>
       <offer sku="УТ-00005950">
         <name>Уровень Stabila тип 70, 50 см 02283</name>
@@ -2459,14 +2448,6 @@
         </pickup-options>
         <price>199000</price>
       </offer>
-      <offer sku="УТ-00022258">
-        <name>Устройство зарядное 40-С80</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17000</price>
-      </offer>
       <offer sku="УТ-00022268">
         <name>Масло 4T 10W-40 1.4л Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2474,6 +2455,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9350</price>
+      </offer>
+      <offer sku="УТ-00022271">
+        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245909</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7100</price>
       </offer>
       <offer sku="УТ-00022277">
         <name>Спрей Active Clean 500мл Husqvarna</name>
@@ -2544,14 +2536,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
-      </offer>
-      <offer sku="УТ-00022341">
-        <name>ЦЕПЬ 14"; 3/8"; 1.3 52DL S93G X-CUT HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9900</price>
       </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
@@ -2716,17 +2700,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>37000</price>
-      </offer>
-      <offer sku="УТ-00022520">
-        <name>Шлем защитный Husqvarna Classic с сеткой и наушниками</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393080392091</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -5538,17 +5511,6 @@
         </pickup-options>
         <price>780</price>
       </offer>
-      <offer sku="00000004518">
-        <name>Диск отрезной алмазный ЗУБР "ЖЕЛЕЗОБЕТОН" 125х22.2 мм 36661-125</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373293108</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3477</price>
-      </offer>
       <offer sku="00000004526">
         <name>Забор декоративный GRINDA "АР ДЕКО", 28x300см, желтый</name>
         <vendor>Grinda</vendor>
@@ -7953,17 +7915,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4266</price>
-      </offer>
-      <offer sku="00000010930">
-        <name>Диск отрезной алмазный ЗУБР 230 мм 36610-230_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373126956</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4988</price>
       </offer>
       <offer sku="00000010997">
         <name>Фен строительный ЗУБР ФТ-1600</name>
@@ -10697,6 +10648,14 @@
         </pickup-options>
         <price>11190</price>
       </offer>
+      <offer sku="00000025081">
+        <name>Дисковая пила Makita 4131</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>326360</price>
+      </offer>
       <offer sku="00000025104">
         <name>Пила дисковая Makita M5802</name>
         <vendor>Makita</vendor>
@@ -11721,6 +11680,18 @@
         </pickup-options>
         <price>79460</price>
       </offer>
+      <offer sku="00000032392">
+        <name>Дрель аккумуляторная ударная Bosch GSB 180-LI 06019F8307 (2 Ач x 2 шт, Li-Ion, 18 В, кейс)</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>165140978187</barcode>
+          <barcode>3165140978187</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>94600</price>
+      </offer>
       <offer sku="00000032399">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 12V-30 06019G9000</name>
         <vendor>BOSCH</vendor>
@@ -12391,6 +12362,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>120150</price>
+      </offer>
+      <offer sku="00000032765">
+        <name>Пылесос строительный Bosch GAS 35 L SFC+ 06019C3000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140705448</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>443150</price>
       </offer>
       <offer sku="00000032768">
         <name>Пылесос GAS 55 M AFC</name>
@@ -24701,14 +24683,6 @@
         </pickup-options>
         <price>13390</price>
       </offer>
-      <offer sku="УТ-00072353">
-        <name>Бокорезы KNIPEX 74 06 250</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43525</price>
-      </offer>
       <offer sku="УТ-00072358">
         <name>Длинногубцы KNIPEX 30 25 140</name>
         <vendor>KNIPEX</vendor>
@@ -25099,14 +25073,6 @@
         </pickup-options>
         <price>6131</price>
       </offer>
-      <offer sku="УТ-00072853">
-        <name>Капсульная измерительная рулетка Stabila ВМ-50P 17218</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16090</price>
-      </offer>
       <offer sku="УТ-00072871">
         <name>Напольный лазерный нивелир Stabila FLS 90 SET 18574</name>
         <vendor>STABILA</vendor>
@@ -25122,14 +25088,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7150</price>
-      </offer>
-      <offer sku="УТ-00072906">
-        <name>Бензопила Husqvarna 365 18"; 3/8 1.5 68DL C85 X-Cut HLM X-Force 970 71 85-18</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>410000</price>
       </offer>
       <offer sku="УТ-00072929">
         <name>Газонокосилка-робот Husqvarna ASPIRE R4 970 56 85-11</name>
@@ -25743,14 +25701,6 @@
       </offer>
       <offer sku="УТ-00085494">
         <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
-      <offer sku="УТ-00085496">
-        <name>Набор напильников Husqvarna 5.5 мм 3 шт. 597 35 61-01</name>
         <vendor>Husqvarna</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

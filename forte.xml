@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-04 13:33">
+<fm_catalog date="2026-11-04 14:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23188,6 +23188,17 @@
         </pickup-options>
         <price>38320</price>
       </offer>
+      <offer sku="УТ-00060174">
+        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477645532</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>39180</price>
+      </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -23242,6 +23253,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23630</price>
+      </offer>
+      <offer sku="УТ-00060260">
+        <name>Смеситель для кухни Frap матовое золото F4397-3</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477628993</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>52910</price>
       </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>

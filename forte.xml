@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-04 10:06">
+<fm_catalog date="2026-11-04 10:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11707,18 +11707,6 @@
         </pickup-options>
         <price>79460</price>
       </offer>
-      <offer sku="00000032392">
-        <name>Дрель аккумуляторная ударная Bosch GSB 180-LI 06019F8307 (2 Ач x 2 шт, Li-Ion, 18 В, кейс)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>165140978187</barcode>
-          <barcode>3165140978187</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>94600</price>
-      </offer>
       <offer sku="00000032399">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 12V-30 06019G9000</name>
         <vendor>BOSCH</vendor>
@@ -16355,7 +16343,7 @@
         <price>124000</price>
       </offer>
       <offer sku="00000059082">
-        <name>Воздуходув электрический EB 650 ALTECO</name>
+        <name>Воздуходувка электрическая ALTECO EB 650 35463</name>
         <vendor>ALTECO</vendor>
         <barcodes>
           <barcode>4870216456757</barcode>
@@ -23725,14 +23713,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13951</price>
-      </offer>
-      <offer sku="УТ-00061507">
-        <name>Штроборез ЗУБР ЗШ-П30-1600 ПСТК</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>92440</price>
       </offer>
       <offer sku="УТ-00061577">
         <name>Сушилка для белья Essence Hausler</name>

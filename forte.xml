@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-04 11:35">
+<fm_catalog date="2026-11-04 12:04">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -785,6 +785,17 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005908">
+        <name>Рулетка карманная измерительная Stabila BM100 3м 19570</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195700</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3290</price>
+      </offer>
       <offer sku="УТ-00005950">
         <name>Уровень Stabila тип 70, 50 см 02283</name>
         <vendor>STABILA</vendor>
@@ -819,14 +830,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
-      </offer>
-      <offer sku="УТ-00006309">
-        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>58800</price>
       </offer>
       <offer sku="УТ-00006353">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х7 ступ. 120366</name>
@@ -11286,25 +11289,6 @@
         </pickup-options>
         <price>27000</price>
       </offer>
-      <offer sku="00000031837">
-        <name>Стремянка односторонняя KRAUSE CORDA 6 ступ. 736</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000736</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>52800</price>
-      </offer>
-      <offer sku="00000031839">
-        <name>Стремянка односторонняя KRAUSE CORDA 8 ступ. 767</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>70500</price>
-      </offer>
       <offer sku="00000031859">
         <name>Лестница трехсекционная KRAUSE CORDA 3х9 ступ. 013392</name>
         <vendor>Krause</vendor>
@@ -11340,17 +11324,6 @@
         </pickup-options>
         <price>26080</price>
       </offer>
-      <offer sku="00000031886">
-        <name>Подножка/полка KRAUSE 122063</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199122063</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17300</price>
-      </offer>
       <offer sku="00000031892">
         <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
         <vendor>Krause</vendor>
@@ -11359,14 +11332,6 @@
         </pickup-options>
         <price>163800</price>
       </offer>
-      <offer sku="00000031896">
-        <name>Стремянка односторонняя KRAUSE STABILO 5 ступ. 124524</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>116500</price>
-      </offer>
       <offer sku="00000031902">
         <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
         <vendor>Krause</vendor>
@@ -11374,33 +11339,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>76500</price>
-      </offer>
-      <offer sku="00000031905">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40800</price>
-      </offer>
-      <offer sku="00000031925">
-        <name>Стремянка односторонняя KRAUSE SEPURO 5 ступ. 127235</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199127235</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>80500</price>
-      </offer>
-      <offer sku="00000031934">
-        <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40000</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
@@ -24763,6 +24701,14 @@
         </pickup-options>
         <price>13390</price>
       </offer>
+      <offer sku="УТ-00072353">
+        <name>Бокорезы KNIPEX 74 06 250</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43525</price>
+      </offer>
       <offer sku="УТ-00072358">
         <name>Длинногубцы KNIPEX 30 25 140</name>
         <vendor>KNIPEX</vendor>
@@ -25152,6 +25098,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6131</price>
+      </offer>
+      <offer sku="УТ-00072853">
+        <name>Капсульная измерительная рулетка Stabila ВМ-50P 17218</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16090</price>
       </offer>
       <offer sku="УТ-00072871">
         <name>Напольный лазерный нивелир Stabila FLS 90 SET 18574</name>
@@ -25716,14 +25670,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>105800</price>
-      </offer>
-      <offer sku="УТ-00084848">
-        <name>Стремянка односторонняя KRAUSE SEPRO 7 ступ. 124210</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>114700</price>
       </offer>
       <offer sku="УТ-00084942">
         <name>Газонокосилка электрическая Bosch EasyRotak 32-205 06008A6300</name>

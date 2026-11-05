@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 08:06">
+<fm_catalog date="2026-11-05 08:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2668,17 +2668,6 @@
         </pickup-options>
         <price>35000</price>
       </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
-      </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
         <vendor>Husqvarna</vendor>
@@ -5268,17 +5257,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4600</price>
-      </offer>
-      <offer sku="00000003883">
-        <name>Бокорезы ЗУБР "ТИТАН МИНИ" 120 мм 22170-5_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373065071</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2150</price>
       </offer>
       <offer sku="00000003955">
         <name>Брусок STAYER "MASTER" абразивный "Лодочка", 200мм</name>
@@ -11389,17 +11367,6 @@
         </pickup-options>
         <price>6056</price>
       </offer>
-      <offer sku="00000032205">
-        <name>Дрель-шуруповерт аккумуляторная GSR 12V-35 Без Акк. и ЗУ Картон Bosch</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140953696</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>81610</price>
-      </offer>
       <offer sku="00000032238">
         <name>Аккумулятор для электроинструментов Bosch GBA 12V 2 Ач 1600Z0002X</name>
         <vendor>BOSCH</vendor>
@@ -12510,17 +12477,6 @@
         </pickup-options>
         <price>97720</price>
       </offer>
-      <offer sku="00000032824">
-        <name>ТОЧИЛО С ДВУМЯ ШЛИФКРУГАМИ GBG 60-20</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140893442</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>143770</price>
-      </offer>
       <offer sku="00000032860">
         <name>Шлифмашина угловая (болгарка) BOSCH GWS 750-125</name>
         <vendor>BOSCH</vendor>
@@ -13453,17 +13409,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1790</price>
-      </offer>
-      <offer sku="00000035246">
-        <name>Диск отрезной по металлу Bosch 125х2.5 мм 2608603166</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140658256</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
       </offer>
       <offer sku="00000035249">
         <name>Диск отрезной BOSCH 230х3 мм 2608603162</name>
@@ -23166,17 +23111,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40450</price>
-      </offer>
-      <offer sku="УТ-00060442">
-        <name>Смеситель для раковины Frap высокий черный F10806-26</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477630514</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19260</price>
       </offer>
       <offer sku="УТ-00060447">
         <name>Смеситель для раковины Frap черный F10802-6</name>

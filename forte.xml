@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 12:31">
+<fm_catalog date="2026-11-05 13:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2435,7 +2435,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9350</price>
+        <price>8500</price>
       </offer>
       <offer sku="УТ-00022271">
         <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
@@ -2454,7 +2454,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9900</price>
+        <price>9000</price>
       </offer>
       <offer sku="УТ-00022288">
         <name>Головка триммерная S35 M12L 135R 143RII 535RXT (ручная)</name>
@@ -2470,7 +2470,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12100</price>
+        <price>12000</price>
       </offer>
       <offer sku="УТ-00022290">
         <name>Головка триммерная T25 M10L 128R (полуавто) (pack 66шт)</name>
@@ -2478,7 +2478,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9350</price>
+        <price>8500</price>
       </offer>
       <offer sku="УТ-00022296">
         <name>Головка триммерная Husqvarna 578 44 68-01</name>
@@ -2489,7 +2489,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17600</price>
+        <price>16000</price>
       </offer>
       <offer sku="УТ-00022300">
         <name>Головка триммерная T35 M10L 128R 323R (полуавто) (pack 44шт)</name>
@@ -2505,7 +2505,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9900</price>
+        <price>9000</price>
       </offer>
       <offer sku="УТ-00022312">
         <name>КОМПЛЕКТ ЗАТОЧНОЙ 0.325 1.3 SP33G X-CUT HUSQVARNA</name>
@@ -2532,7 +2532,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9900</price>
+        <price>9000</price>
       </offer>
       <offer sku="УТ-00022374">
         <name>ШИНА 14'' 3/8 1.3 52DL 7T 1КЛ HSM HUSQVARNA</name>
@@ -2540,7 +2540,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12100</price>
+        <price>11000</price>
       </offer>
       <offer sku="УТ-00022403">
         <name>Шина 15'' 0.325 1.5 64DL 11T 5кл HSM Husqvarna X-Force</name>
@@ -2661,7 +2661,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7700</price>
+        <price>7200</price>
       </offer>
       <offer sku="УТ-00022495">
         <name>Рулетка 15м Husqvarna</name>
@@ -12059,7 +12059,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>75000</price>
+        <price>73999</price>
       </offer>
       <offer sku="00000032686">
         <name>Перфоратор электрический BOSCH GBH 240 F 0611273000</name>
@@ -15370,6 +15370,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>78400</price>
+      </offer>
+      <offer sku="00000041752">
+        <name>Лобзик электрический Фиолент ПМ З-650Э ИДФР298256004</name>
+        <vendor>Фиолент</vendor>
+        <barcodes>
+          <barcode>4670016120588</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22400</price>
       </offer>
       <offer sku="00000041775">
         <name>Триммер электрический STIHL FSE 60 48090114111</name>
@@ -21031,7 +21042,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3350</price>
+        <price>3000</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
@@ -22821,7 +22832,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5000</price>
+        <price>4700</price>
       </offer>
       <offer sku="УТ-00060121">
         <name>Смеситель встраиваемый для раковины Gappo G1206-6 черный</name>
@@ -23158,14 +23169,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11670</price>
-      </offer>
-      <offer sku="УТ-00061154">
-        <name>Шланг армированный ф 8/14 мм с быстросъемн. соед. ECO (длина 10 м)</name>
-        <vendor>ECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10430</price>
       </offer>
       <offer sku="УТ-00061185">
         <name>Сушилка напольная двухсекционная Nika СБ8П/С серебряный</name>

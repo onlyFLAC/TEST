@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 11:32">
+<fm_catalog date="2026-11-05 12:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10992,7 +10992,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17190</price>
+        <price>16390</price>
       </offer>
       <offer sku="00000031442">
         <name>Набор инструментов Total Tools 32 шт. ST042-32</name>
@@ -11014,7 +11014,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22405</price>
+        <price>22000</price>
       </offer>
       <offer sku="00000031550">
         <name>Тачка строительная одноколесная TotalTools Т-1122</name>
@@ -11022,7 +11022,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22121</price>
+        <price>21950</price>
       </offer>
       <offer sku="00000031609">
         <name>Газонокосилка аккумуляторная RM-LM01-B2Z-340 (без комплектующих)</name>
@@ -15290,7 +15290,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>49900</price>
+        <price>49500</price>
       </offer>
       <offer sku="00000041628">
         <name>Шлифмашина угловая (болгарка) Einhell BT-AG 500 4430580</name>
@@ -16737,7 +16737,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7935</price>
+        <price>7930</price>
       </offer>
       <offer sku="00000062090">
         <name>Полотенцесушитель электрический Олимп 600х600 мм EM-1-6060</name>
@@ -16820,17 +16820,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
-      </offer>
-      <offer sku="00000063684">
-        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996198392</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2270</price>
       </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 шт. 14151</name>
@@ -20966,7 +20955,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>79900</price>
+        <price>68200</price>
       </offer>
       <offer sku="УТ-00051728">
         <name>Аккум. Реноватор Einhell TE-MG 18/1 Li - Solo (4465195)</name>
@@ -22007,7 +21996,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12890</price>
+        <price>11990</price>
       </offer>
       <offer sku="УТ-00059400">
         <name>Лобзик электрический TT ЛЭ-1050БПЛ</name>
@@ -22015,7 +22004,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23190</price>
+        <price>23100</price>
       </offer>
       <offer sku="УТ-00059569">
         <name>Эмаль ПФ-115 коричневая 2,6кг Оптима_(8637)</name>
@@ -23934,7 +23923,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>62689</price>
+        <price>56990</price>
       </offer>
       <offer sku="УТ-00063887">
         <name>Интерфейсный модуль StarLine GPS/ГЛОНАСС Мастер</name>
@@ -23942,7 +23931,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>31130</price>
+        <price>28300</price>
       </offer>
       <offer sku="УТ-00063888">
         <name>Интерфейсный модуль StarLine GPS/ГЛОНАСС Мастер 6</name>
@@ -25404,7 +25393,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8390</price>
+        <price>8100</price>
       </offer>
       <offer sku="УТ-00087284">
         <name>Лезвие-нож TT 20" для ГБ-510ПМ ГБ-510ПМ-№3</name>
@@ -25420,7 +25409,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7090</price>
+        <price>6990</price>
       </offer>
       <offer sku="УТ-00087352">
         <name>Станок точильный TT СТЭП-150</name>
@@ -25436,7 +25425,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22290</price>
+        <price>22100</price>
       </offer>
       <offer sku="УТ-00087507">
         <name>Генератор бензиновый HYUNDAI HHY 7050FE ATS</name>
@@ -25639,14 +25628,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>69510</price>
-      </offer>
-      <offer sku="УТ-00089533">
-        <name>Лестница трехсекционная PROFSET 3х14 ступеней DLE314</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>119960</price>
       </offer>
       <offer sku="УТ-00089534">
         <name>Лестница двухсекционная PROFSET 2х9 ступеней DLE209</name>

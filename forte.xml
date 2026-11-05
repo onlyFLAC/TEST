@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 07:37">
+<fm_catalog date="2026-11-05 08:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13805,17 +13805,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2341</price>
-      </offer>
-      <offer sku="00000035588">
-        <name>Бур по бетону BOSCH SDS+ 10х200/260 мм 2608833800</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509223531</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2513</price>
       </offer>
       <offer sku="00000035590">
         <name>Бур по бетону BOSCH SDS+ 10х300/360 мм 2608833802</name>

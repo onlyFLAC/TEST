@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 11:03">
+<fm_catalog date="2026-11-05 11:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8810,7 +8810,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11390</price>
+        <price>9990</price>
       </offer>
       <offer sku="00000016565">
         <name>Водосгон Stels 22 см 55221</name>
@@ -15695,7 +15695,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14230</price>
+        <price>12005</price>
       </offer>
       <offer sku="00000051446">
         <name>Таль ручная рычажная Tor ТРР-ТРШСР 0,75ТХ3М (тип HSH) 102753</name>
@@ -15706,7 +15706,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>34050</price>
+        <price>31910</price>
       </offer>
       <offer sku="00000051450">
         <name>Таль ручная рычажная Tor ТРР-ТРШСР 1 т подъем 15 м 1005759</name>
@@ -15717,7 +15717,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>42570</price>
+        <price>39890</price>
       </offer>
       <offer sku="00000051471">
         <name>Таль ручная рычажная TOR ТРР-ТРШСР 3 т 6 м 10236</name>
@@ -15728,7 +15728,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>75350</price>
+        <price>71290</price>
       </offer>
       <offer sku="00000051476">
         <name>Таль ручная рычажная TOR ТРР-ТРШСР 6 т 3 м 10263</name>
@@ -15739,7 +15739,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>91000</price>
+        <price>86500</price>
       </offer>
       <offer sku="00000052346">
         <name>Стол подъемный передвижной XILIN SP150 1005709</name>
@@ -17519,7 +17519,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>5320</price>
+        <price>4360</price>
       </offer>
       <offer sku="00000064375">
         <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" пыльная роза Т270</name>
@@ -17703,7 +17703,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>435034</price>
+        <price>379561</price>
       </offer>
       <offer sku="00000069984">
         <name>55 Передний мост (20X158) для тележки гидравлической DB (Shaft 20X158), шт</name>
@@ -20565,7 +20565,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>130620</price>
+        <price>99990</price>
       </offer>
       <offer sku="УТ-00047337">
         <name>2 Ведущее колесо для штабелёра WS/IWS (Drive wheel), шт</name>
@@ -21786,7 +21786,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>114700</price>
+        <price>111900</price>
       </offer>
       <offer sku="УТ-00056635">
         <name>Автосигнализация Pandora VX 4G v3</name>
@@ -21797,7 +21797,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>136200</price>
+        <price>132800</price>
       </offer>
       <offer sku="УТ-00056639">
         <name>Видеорегистратор SilverStone F-1 INTEGRAL 2.0 Wi-Fi</name>
@@ -23567,7 +23567,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>114900</price>
+        <price>112100</price>
       </offer>
       <offer sku="УТ-00063363">
         <name>Автосигнализация Pandora DX 57R v2</name>
@@ -23575,7 +23575,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>113500</price>
+        <price>110800</price>
       </offer>
       <offer sku="УТ-00063381">
         <name>Травокосилка Husqvarna 226R 965 87 10-03</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 10:34">
+<fm_catalog date="2026-11-05 11:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9204,28 +9204,6 @@
         </pickup-options>
         <price>26190</price>
       </offer>
-      <offer sku="00000018076">
-        <name>Колесо пневм. 4.10/3.50–4 с несим.ступ. D260мм. подш. внут.диам. 20мм. длина оси - 50мм// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996137223</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6490</price>
-      </offer>
-      <offer sku="00000018110">
-        <name>Бордюр "Лента", 10х1000 см, полиэтиленовый, оливковый, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800071255</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7790</price>
-      </offer>
       <offer sku="00000018209">
         <name>Гамак Palisad "CAMPING" 200х100 см без планок 69585</name>
         <vendor>Palisad</vendor>
@@ -9919,17 +9897,6 @@
         </pickup-options>
         <price>1440</price>
       </offer>
-      <offer sku="00000022355">
-        <name>Набор для укладки напольных покрытий// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996068213</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4935</price>
-      </offer>
       <offer sku="00000022377">
         <name>Лента малярная СИБРТЕХ 38 мм х 40 м, на бумажной основе 88702</name>
         <vendor>Сибртех</vendor>
@@ -10029,17 +9996,6 @@
         </pickup-options>
         <price>330</price>
       </offer>
-      <offer sku="00000022496">
-        <name>Набор цветных изолент Сибртех 10 м 5 шт. 88799</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800076328</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1490</price>
-      </offer>
       <offer sku="00000022510">
         <name>Фумлента Сибртех 25мм 10 м 88892</name>
         <vendor>Сибртех</vendor>
@@ -10050,17 +10006,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>440</price>
-      </offer>
-      <offer sku="00000022645">
-        <name>Правило алюминиевое "Трапеция", 1 ребро жесткости, L-1,5 м Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800046031</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3990</price>
       </offer>
       <offer sku="00000022664">
         <name>Раскладка для инструмента настенная Matrix 675х450 мм 90245</name>
@@ -10084,17 +10029,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000022756">
-        <name>Ящик для инструмента STELS 23" 90706</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996123134</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11990</price>
-      </offer>
       <offer sku="00000022772">
         <name>Ящик для инструмента STELS 285х155х125 мм 90723</name>
         <vendor>STELS</vendor>
@@ -10115,7 +10049,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2590</price>
+        <price>2380</price>
       </offer>
       <offer sku="00000022791">
         <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
@@ -12048,7 +11982,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>890</price>
+        <price>703</price>
       </offer>
       <offer sku="00000032655">
         <name>Диск отрезной по металлу Bosch 150х1.6х22.2 мм 2608603405</name>
@@ -16995,7 +16929,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8490</price>
+        <price>8400</price>
       </offer>
       <offer sku="00000064041">
         <name>Салфетка из микрофибры Palisad 300х300 мм желтая 923035</name>
@@ -17373,7 +17307,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12580</price>
+        <price>12570</price>
       </offer>
       <offer sku="00000064334">
         <name>Вешалка костюмная ЗМИ "КОНТУР" ВНП367 белая</name>
@@ -20734,7 +20668,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1880</price>
+        <price>1400</price>
       </offer>
       <offer sku="УТ-00048213">
         <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
@@ -21156,7 +21090,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4730</price>
+        <price>4700</price>
       </offer>
       <offer sku="УТ-00053696">
         <name>Комплект ремней баланс Husqvarna XT2 536 25 34-01</name>
@@ -21461,7 +21395,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11290</price>
+        <price>11000</price>
       </offer>
       <offer sku="УТ-00055546">
         <name>Бензиновый генератор Stalker SPG 8800 ME 79757</name>
@@ -23660,7 +23594,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6500</price>
+        <price>4900</price>
       </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
@@ -24806,7 +24740,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7200</price>
+        <price>6490</price>
       </offer>
       <offer sku="УТ-00072998">
         <name>Смазка Husqvarna ECO 100гр. 503 97 64-01</name>
@@ -24893,14 +24827,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2996</price>
-      </offer>
-      <offer sku="УТ-00074567">
-        <name>Лестница приставная односекционная PROFSET 10 ступеней DLE110</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27990</price>
       </offer>
       <offer sku="УТ-00074568">
         <name>Лестница приставная односекционная PROFSET 12 ступеней DLE112</name>
@@ -26375,6 +26301,9 @@
       <offer sku="УТ-00091566">
         <name>Набор ручных инструментов для начинающих BOSCH 26 предметов 1600A02BY2</name>
         <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952643328</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

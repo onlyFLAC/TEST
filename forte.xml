@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 07:08">
+<fm_catalog date="2026-11-05 07:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -769,14 +769,6 @@
         </pickup-options>
         <price>1460</price>
       </offer>
-      <offer sku="УТ-00005896">
-        <name>Стриппер кабельный XL, кругл. 8-13 мм, для труднодоступн. мест JOKARI 30125</name>
-        <vendor>JOKARI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11390</price>
-      </offer>
       <offer sku="УТ-00005902">
         <name>Ротационный лазерный нивелир LAR 160 G, комплект 4 пр. STABILA 19240</name>
         <vendor>STABILA</vendor>
@@ -1445,17 +1437,6 @@
         </pickup-options>
         <price>6380</price>
       </offer>
-      <offer sku="УТ-00012981">
-        <name>Доска гладильная Nika "BELL CLASSY 2" БК2 серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830936</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11990</price>
-      </offer>
       <offer sku="УТ-00012982">
         <name>Доска гладильная Nika "BELL CLASSY 3" БК3 серый</name>
         <vendor>Nika</vendor>
@@ -2039,17 +2020,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1380</price>
-      </offer>
-      <offer sku="УТ-00015576">
-        <name>Тарелка опорная пластиковая ЗУБР "ПРОФЕССИОНАЛ" 100 мм 3578-100</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373544446</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2590</price>
       </offer>
       <offer sku="УТ-00015580">
         <name>ЗУБР HEX-18, 900 мм, Лом-гвоздодер (2164-90)</name>
@@ -7501,17 +7471,6 @@
         </pickup-options>
         <price>2990</price>
       </offer>
-      <offer sku="00000009558">
-        <name>Пылесос строительный ЗУБР ПУ-30-1400 М3</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373239830</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47040</price>
-      </offer>
       <offer sku="00000009578">
         <name>Разметочная клейкая лента, ЗУБР Профессионал 12243-50-25, цвет желтый, 50мм х 25м</name>
         <vendor>ЗУБР</vendor>
@@ -8617,6 +8576,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4175</price>
+      </offer>
+      <offer sku="00000015063">
+        <name>Лом-гвоздодер, двутавровый профиль, 600х30х17 мм// Gross</name>
+        <vendor>Gross</vendor>
+        <barcodes>
+          <barcode>4044996063706</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7490</price>
       </offer>
       <offer sku="00000015066">
         <name>Лом-гвоздодер Сибртех 600х25х12 мм 25243</name>
@@ -10808,17 +10778,6 @@
         </pickup-options>
         <price>7888</price>
       </offer>
-      <offer sku="00000025438">
-        <name>Сушилка напольная Nika СБ2/С серебристый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075831117</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7999</price>
-      </offer>
       <offer sku="00000025439">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/Б бежевый</name>
         <vendor>Nika</vendor>
@@ -12000,17 +11959,6 @@
         </pickup-options>
         <price>23653</price>
       </offer>
-      <offer sku="00000032590">
-        <name>Набор принадлежностей BOSCH x-line titanium 33 шт. 2607019325</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140379489</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9156</price>
-      </offer>
       <offer sku="00000032598">
         <name>Набор сверл BOSCH PointTeQ 1-10 мм 18 шт. 2608577350</name>
         <vendor>BOSCH</vendor>
@@ -12594,17 +12542,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>103840</price>
-      </offer>
-      <offer sku="00000032873">
-        <name>Машина шлифовальная угловая аккумуляторная (болгарка) Bosch GWS 12V-76, БЕЗ АКК И ЗУ</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140813204</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>110560</price>
       </offer>
       <offer sku="00000032895">
         <name>УСТР ПЫЛЕУДАЛЕНИЯ GDE 18V-16</name>
@@ -14709,17 +14646,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3197</price>
-      </offer>
-      <offer sku="00000038457">
-        <name>Диск алмазный Bosch ECO Universal (125х22.2 мм) 2608615028</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140857055</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3520</price>
       </offer>
       <offer sku="00000038459">
         <name>Диск алмазный BOSCH 180х22.2 мм 2608615030</name>
@@ -18038,14 +17964,6 @@
         </pickup-options>
         <price>15180</price>
       </offer>
-      <offer sku="00000070686">
-        <name>Цепь (50 зв.) 3/8Р (1,3) 63 РS3 Picco Super Stihl</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9070</price>
-      </offer>
       <offer sku="00000070758">
         <name>Шина Carving 30 см/12", 1/4, (1,3) Stihl</name>
         <vendor>STIHL</vendor>
@@ -21255,14 +21173,6 @@
         </pickup-options>
         <price>29900</price>
       </offer>
-      <offer sku="УТ-00052081">
-        <name>Сетев. Настольная пила Einhell TC-TS 8 (4340426)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>99900</price>
-      </offer>
       <offer sku="УТ-00052918">
         <name>Корпус вентилятора с пусковым устройством STIHL 11480802108</name>
         <vendor>STIHL</vendor>
@@ -21368,17 +21278,6 @@
         </pickup-options>
         <price>72000</price>
       </offer>
-      <offer sku="УТ-00053711">
-        <name>Отвертка аккумуляторная Bosch GO 06019H2200</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952639567</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29100</price>
-      </offer>
       <offer sku="УТ-00053713">
         <name>Вешалка-стойка напольная ЗМИ "ТОРОНТО 1" черная ВНПТ1</name>
         <vendor>ЗМИ</vendor>
@@ -21444,17 +21343,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15999</price>
-      </offer>
-      <offer sku="УТ-00054592">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/7 шоколадный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111519076</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29815</price>
       </offer>
       <offer sku="УТ-00054806">
         <name>Корпус прибора для воздуходувки BOSCH f016f05650</name>
@@ -25804,14 +25692,6 @@
         </pickup-options>
         <price>318190</price>
       </offer>
-      <offer sku="УТ-00087512">
-        <name>Генератор бензиновый инверторный HYUNDAI HHY 3050Si</name>
-        <vendor>HYUNDAI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>367190</price>
-      </offer>
       <offer sku="УТ-00087513">
         <name>Генератор бензиновый инверторный HYUNDAI HHY 4050Si</name>
         <vendor>HYUNDAI</vendor>
@@ -26607,17 +26487,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4510</price>
-      </offer>
-      <offer sku="УТ-00091542">
-        <name>Нож строительный с выдвижным лезвием BOSCH 1600A01V3H</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952523521</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8920</price>
       </offer>
       <offer sku="УТ-00091543">
         <name>Диспенсер для лезвий BOSCH 50 шт 1600A01V3J</name>

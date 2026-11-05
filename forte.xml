@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 08:36">
+<fm_catalog date="2026-11-05 09:05">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9578,17 +9578,6 @@
         </pickup-options>
         <price>1417</price>
       </offer>
-      <offer sku="00000020693">
-        <name>Шлифлист на бумажной основе, P 600, 230 х 280 мм, 10 шт.,влагостойкий// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996131306</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1372</price>
-      </offer>
       <offer sku="00000020723">
         <name>Губка для шлифования, 100 х 70 х 25 мм, мягкая, P 120// Matrix</name>
         <vendor>Matrix</vendor>
@@ -10124,17 +10113,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4365</price>
-      </offer>
-      <offer sku="00000022794">
-        <name>Ящик для инструментов 16, с органайзерами СИБРТЕХ 90807</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800064073</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4890</price>
       </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
@@ -20219,17 +20197,6 @@
         </pickup-options>
         <price>16900</price>
       </offer>
-      <offer sku="УТ-00040683">
-        <name>Стремянка Nika 6 ступ. СМ6 оранжевый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830714</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17995</price>
-      </offer>
       <offer sku="УТ-00040684">
         <name>Стремянка Nika 7 ступ. СМ7 оранжевый</name>
         <vendor>Nika</vendor>
@@ -23499,17 +23466,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13251</price>
-      </offer>
-      <offer sku="УТ-00061481">
-        <name>Лестница-стремянка двусторонняя Nika ДЛС3</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075836570</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13951</price>
       </offer>
       <offer sku="УТ-00061577">
         <name>Сушилка для белья Essence Hausler</name>

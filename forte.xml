@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 15:27">
+<fm_catalog date="2026-11-05 15:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7540,17 +7540,6 @@
         </pickup-options>
         <price>490</price>
       </offer>
-      <offer sku="00000009782">
-        <name>Опрыскиватель переносной Росток RT-7 425117</name>
-        <vendor>Росток</vendor>
-        <barcodes>
-          <barcode>4606373361395</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9280</price>
-      </offer>
       <offer sku="00000009790">
         <name>Шланг поливочный армированный 3-х слойный РОСТОК КЛАССИК 40308-1/2-15 1/2х15м</name>
         <vendor>Росток</vendor>
@@ -14925,17 +14914,6 @@
         </pickup-options>
         <price>7490</price>
       </offer>
-      <offer sku="00000039964">
-        <name>Насадка для резки и обработки DREMEL 26150144JA</name>
-        <vendor>DREMEL</vendor>
-        <barcodes>
-          <barcode>8710364044726</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6640</price>
-      </offer>
       <offer sku="00000040074">
         <name>НАСАДКА НА ПАЯЛЬНИК ( ПАЙКА), 2 шт</name>
         <vendor>DREMEL</vendor>
@@ -16853,6 +16831,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
+      </offer>
+      <offer sku="00000063684">
+        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996198392</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2270</price>
       </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 шт. 14151</name>
@@ -20454,14 +20443,6 @@
         </pickup-options>
         <price>3600</price>
       </offer>
-      <offer sku="УТ-00045415">
-        <name>Генератор бензиновый Magnetta GFE-A8000</name>
-        <vendor>Magnetta</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>245420</price>
-      </offer>
       <offer sku="УТ-00045515">
         <name>Эмаль ПФ-115 вишнева 2,6кг Оптима_(8668)</name>
         <vendor>Оптима</vendor>
@@ -21337,6 +21318,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>186300</price>
+      </offer>
+      <offer sku="УТ-00055298">
+        <name>Цепь (бухта) (1640 зв.) 3/8Р (1,1) РS3 Pro Picco Super 36990001640</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>188100</price>
       </offer>
       <offer sku="УТ-00055311">
         <name>Масло моторное STIHL 1:50 5 л красное 07813198468лб5</name>
@@ -27013,14 +27002,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>108500</price>
-      </offer>
-      <offer sku="УТ-00097235">
-        <name>Насос гидравлический, 20т (объем масла - 0.6л, давление - 720-1080 bar ) FK-0100-2A-3 FK-0100-2A-3</name>
-        <vendor>FORCEKRAFT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36700</price>
       </offer>
       <offer sku="УТ-00097866">
         <name>Емкость мерная пластиковая для заливки масла 5л JBC-887C005 JBC-887C005</name>

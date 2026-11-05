@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 16:25">
+<fm_catalog date="2026-11-05 16:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -18477,17 +18477,6 @@
         </pickup-options>
         <price>452050</price>
       </offer>
-      <offer sku="00000073985">
-        <name>Батарейка аккумуляторная ЗУБР 12 В 1.5 Ач S-12 T7</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373206917</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7777</price>
-      </offer>
       <offer sku="00000074020">
         <name>Поливочный шланг GRINDA PROLine EXPERT 5 3/4" 50 м 30 атм пятислойный плетёное армирование</name>
         <vendor>Grinda</vendor>
@@ -27160,14 +27149,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101293">
-        <name>Тачка садовая, 2-х колесная, грузоподъемность 120 кг, объем 65 л// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23100</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 13:29">
+<fm_catalog date="2026-11-05 13:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9,7 +9,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>105880</price>
+        <price>105870</price>
       </offer>
       <offer sku="УТ-00002601">
         <name>Вешалка гардеробная с полкой ЗМИ "СКАНДИНАВИЯ 21" черная ВГССП21</name>
@@ -1050,7 +1050,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>53000</price>
+        <price>46230</price>
       </offer>
       <offer sku="УТ-00008748">
         <name>КОМПЛЕКТ УГОЛЬНЫХ ЩЕТОК (50147229)</name>
@@ -1161,7 +1161,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14490</price>
+        <price>9347</price>
       </offer>
       <offer sku="УТ-00009426">
         <name>Лопата для уборки снега пластиковая, 350х350х1445 мм, деревянный черенок// Россия</name>
@@ -10826,7 +10826,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>189400</price>
+        <price>174510</price>
       </offer>
       <offer sku="00000027537">
         <name>Шлифмашина угловая аккумуляторная (болгарка) DeWALT DCG412N (без АКБ и ЗУ)</name>
@@ -10916,7 +10916,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25020</price>
+        <price>25000</price>
       </offer>
       <offer sku="00000028878">
         <name>Magnetta, ZB-G50T, Газовый нагреватель, 17-50 кВт</name>
@@ -16501,7 +16501,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>64400</price>
+        <price>64399</price>
       </offer>
       <offer sku="00000059331">
         <name>Машина шлифовальная угловая аккумуляторная (болгарка) BOSCH GWS 180-LI SOLO 06019H9020</name>
@@ -18398,7 +18398,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>93870</price>
+        <price>93869</price>
       </offer>
       <offer sku="00000073887">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSR 185-LI 1 Акб 06019K3005</name>
@@ -20910,7 +20910,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>31400</price>
+        <price>31399</price>
       </offer>
       <offer sku="УТ-00051518">
         <name>Газонокосилка STIHL RM 253.3 T WB220113415</name>
@@ -22562,7 +22562,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>167980</price>
+        <price>167969</price>
       </offer>
       <offer sku="УТ-00059837">
         <name>Машина прямошлифовальная Bosch GGS 30 LS 06012B5020</name>
@@ -25369,7 +25369,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>42490</price>
+        <price>41489</price>
       </offer>
       <offer sku="УТ-00085741">
         <name>Выключатель для перфоратора BOSCH 160720032D</name>

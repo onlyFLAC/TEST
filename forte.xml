@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 10:04">
+<fm_catalog date="2026-11-05 10:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -803,14 +803,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14290</price>
-      </offer>
-      <offer sku="УТ-00006058">
-        <name>Водоподогреватель электрический Теплотех ЭВП-12М на 380</name>
-        <vendor>Теплотех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54850</price>
       </offer>
       <offer sku="УТ-00006301">
         <name>Подставка складная KRAUSE TOPPY 2 ступ. 130723</name>
@@ -5324,17 +5316,6 @@
         </pickup-options>
         <price>1490</price>
       </offer>
-      <offer sku="00000004157">
-        <name>Водосгон ЗУБР "Мастер", 160мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373132209</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
-      </offer>
       <offer sku="00000004252">
         <name>Герметик силиконовый ЗУБР "ЭКСПЕРТ" белый универсальный 280 мл 41233-0</name>
         <vendor>ЗУБР</vendor>
@@ -5389,17 +5370,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1880</price>
-      </offer>
-      <offer sku="00000004319">
-        <name>Грабли GRINDA, веерные, 22 плоских зубца</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925533267</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2380</price>
       </offer>
       <offer sku="00000004324">
         <name>Грабли веерные RACO "STANDARD", 7 круглых зубцов, 420мм</name>
@@ -7085,28 +7055,6 @@
         </pickup-options>
         <price>6320</price>
       </offer>
-      <offer sku="00000008678">
-        <name>Нож OLFA с выдвижным лезвием и корпусом из нержавеющей стали, 9мм</name>
-        <vendor>Olfa</vendor>
-        <barcodes>
-          <barcode>0091511100143</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4890</price>
-      </offer>
-      <offer sku="00000008708">
-        <name>Нож складной STAYER 75 мм 47600-1_z01</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229120276</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3213</price>
-      </offer>
       <offer sku="00000008752">
         <name>Нож сапожный, 180 мм, ЗУБР</name>
         <vendor>ЗУБР</vendor>
@@ -8279,17 +8227,6 @@
         </pickup-options>
         <price>3178</price>
       </offer>
-      <offer sku="00000013078">
-        <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996042107</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4848</price>
-      </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8566,17 +8503,6 @@
         </pickup-options>
         <price>4707</price>
       </offer>
-      <offer sku="00000014827">
-        <name>Стусло пластиковое 300х60 мм, пила 250 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996116082</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2680</price>
-      </offer>
       <offer sku="00000014886">
         <name>Ножовка по дереву,450 мм,7-8 TPI,зуб-3D,каленый зуб,тефл.покр.полотна,2-х комп..рук-ка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8587,17 +8513,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4175</price>
-      </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>910</price>
       </offer>
       <offer sku="00000015063">
         <name>Лом-гвоздодер, двутавровый профиль, 600х30х17 мм// Gross</name>
@@ -8918,17 +8833,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3280</price>
-      </offer>
-      <offer sku="00000016568">
-        <name>Щетка для мытья автомобиля с мягкой рукояткой// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996113401</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3804</price>
       </offer>
       <offer sku="00000016586">
         <name>Упор противооткатной 120х80х70мм// Россия// Matrix</name>
@@ -10437,17 +10341,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21990</price>
-      </offer>
-      <offer sku="00000023859">
-        <name>Шлифмашина угловая (болгарка) CROWN CT13034</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640186249652</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29990</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -17845,22 +17738,6 @@
         </pickup-options>
         <price>8883</price>
       </offer>
-      <offer sku="00000064929">
-        <name>Воздушный компрессор IVT АС-18 PВ</name>
-        <vendor>IVT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>55782</price>
-      </offer>
-      <offer sku="00000064930">
-        <name>Компрессор воздушный безмасляный IVT АС-85/3-OF</name>
-        <vendor>IVT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>224438</price>
-      </offer>
       <offer sku="00000069514">
         <name>Сковорода блинная Accademia Mugnano 25 см RMCRP25SI</name>
         <vendor>Accademia Mugnano</vendor>
@@ -19056,14 +18933,6 @@
         </pickup-options>
         <price>12190</price>
       </offer>
-      <offer sku="00000075985">
-        <name>Cтрубцина KRAFTOOL Extrem пистолетная 150/95 32228-15_z01</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17960</price>
-      </offer>
       <offer sku="00000076052">
         <name>Снеговой движок (скрепер) ЗУБР СКАНДИНАВИЯ 800 мм пластиковый ковш с алюминиевой планкой с колесикам</name>
         <vendor>ЗУБР</vendor>
@@ -19916,17 +19785,6 @@
         </pickup-options>
         <price>8572</price>
       </offer>
-      <offer sku="УТ-00001777">
-        <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800092397</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13490</price>
-      </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -20432,14 +20290,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7999</price>
-      </offer>
-      <offer sku="УТ-00041597">
-        <name>Вешалка настенная "ТОРОНТО 3" (Графит)</name>
-        <vendor>ЗМИ</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4380</price>
       </offer>
       <offer sku="УТ-00041771">
         <name>Фреза пазовая прямая PROFSET 6х20х6 мм 000060200</name>
@@ -22973,17 +22823,6 @@
         </pickup-options>
         <price>130570</price>
       </offer>
-      <offer sku="УТ-00060058">
-        <name>Мыльница Gappo золотой сатин с держателем G30902-3</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477645662</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7300</price>
-      </offer>
       <offer sku="УТ-00060071">
         <name>Душевая стойка GAPPO с термостатом G2495-76</name>
         <vendor>GAPPO</vendor>
@@ -23664,17 +23503,6 @@
         </pickup-options>
         <price>7441</price>
       </offer>
-      <offer sku="УТ-00061760">
-        <name>Комплект детской мебели Nika КП2/Ф с феями</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111532600</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16800</price>
-      </offer>
       <offer sku="УТ-00061761">
         <name>Комплект детской мебели Nika КП2/Р с русалочкой</name>
         <vendor>Nika</vendor>
@@ -24265,14 +24093,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="УТ-00064584">
-        <name>ЗУБР КРЕММЕР-50, 50 шт, крепление для установки маячковых профилей (30950-50)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1190</price>
       </offer>
       <offer sku="УТ-00064598">
         <name>KRAFTOOL X5 Metal 125x1.0 мм по металлу отрезной диск для УШМ (36255-125-1.0)</name>
@@ -25124,14 +24944,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>49721</price>
-      </offer>
-      <offer sku="УТ-00074928">
-        <name>Машина для пайки труб IVT PW-1800R</name>
-        <vendor>IVT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29133</price>
       </offer>
       <offer sku="УТ-00074968">
         <name>Окучник IVT SO-1 8037</name>

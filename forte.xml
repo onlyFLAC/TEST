@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 13:00">
+<fm_catalog date="2026-11-05 13:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11819,17 +11819,6 @@
         </pickup-options>
         <price>4315</price>
       </offer>
-      <offer sku="00000032563">
-        <name>Набор буров Bosch SDS+ 6-12х160 мм 2608579120</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509230065</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4090</price>
-      </offer>
       <offer sku="00000032586">
         <name>Набор принадлежностей 70 TITANIUM+ Bosch</name>
         <vendor>BOSCH</vendor>
@@ -16567,7 +16556,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>438800</price>
+        <price>438000</price>
       </offer>
       <offer sku="00000059360">
         <name>Пылесос строительный аккумуляторный Bosch GAS 18V-10L 06019C6302 (без АКБ и ЗУ)</name>
@@ -18431,7 +18420,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>104630</price>
+        <price>99629</price>
       </offer>
       <offer sku="00000073889">
         <name>Дрель-шуруповерт аккумуляторная BOSCH GSB 185-LI 06019K3101</name>
@@ -22999,17 +22988,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88190</price>
-      </offer>
-      <offer sku="УТ-00060366">
-        <name>Душевая стойка Frap F2471-6 с изливом и ручной лейкой Черный</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477626111</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72730</price>
       </offer>
       <offer sku="УТ-00060392">
         <name>Смеситель Frap для ванны F2261 длинный гусак хром</name>

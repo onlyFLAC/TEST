@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 12:02">
+<fm_catalog date="2026-11-05 12:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15133,6 +15133,17 @@
         </pickup-options>
         <price>135100</price>
       </offer>
+      <offer sku="00000041169">
+        <name>Бензопила STIHL MS 250 40 см 11230123044К40</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661268177</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>201100</price>
+      </offer>
       <offer sku="00000041219">
         <name>Воздуходувка бензиновая STIHL BG 50 42290111723</name>
         <vendor>STIHL</vendor>
@@ -15945,7 +15956,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>58888</price>
+        <price>58885</price>
       </offer>
       <offer sku="00000057046">
         <name>Измельчитель садовый STIHL GHE 260.0 60080111035</name>
@@ -19193,6 +19204,17 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00000865">
+        <name>Ведомое звено 41446405900</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661263974</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="УТ-00000907">
         <name>Аккумулятор пусковой многофункциональный PATRIOT MAGNUM 8 650201608</name>
         <vendor>Patriot</vendor>
@@ -21331,6 +21353,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7040</price>
+      </offer>
+      <offer sku="УТ-00055354">
+        <name>Леска для мотокосы 3,0 мм*271 м 00009302543</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711017200</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22340</price>
       </offer>
       <offer sku="УТ-00055373">
         <name>Станок заточный Einhell TH-XG75Kit 4412560</name>
@@ -27203,6 +27236,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34880</price>
+      </offer>
+      <offer sku="УТ-00103537">
+        <name>Комплект клапанов STIHL для RE98 47757006200</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8000</price>
       </offer>
     </offers>
   </shop>

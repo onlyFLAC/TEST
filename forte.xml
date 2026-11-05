@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 15:56">
+<fm_catalog date="2026-11-05 16:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6504,17 +6504,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21020</price>
-      </offer>
-      <offer sku="00000007606">
-        <name>Лебедка ручная барабанная ЗУБР 0.5 т 8 м 43117-0.5</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373249297</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30900</price>
       </offer>
       <offer sku="00000007609">
         <name>Лебедка ручная барабанная ЗУБР 0.9 т 10 м 43115-0.9</name>

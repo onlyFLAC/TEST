@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 09:05">
+<fm_catalog date="2026-11-05 09:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9938,17 +9938,6 @@
         </pickup-options>
         <price>1440</price>
       </offer>
-      <offer sku="00000022253">
-        <name>Ручка-переноска для гипсокартона и стекла// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996169286</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3854</price>
-      </offer>
       <offer sku="00000022377">
         <name>Лента малярная СИБРТЕХ 38 мм х 40 м, на бумажной основе 88702</name>
         <vendor>Сибртех</vendor>
@@ -10528,7 +10517,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28900</price>
+        <price>29500</price>
       </offer>
       <offer sku="00000024981">
         <name>Краскопульт электрический ALTECO SG 2203 27633</name>
@@ -27298,14 +27287,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101495">
-        <name>Снегоуборщик аккумуляторный ЗУБР СЛА-33 (без АКБ и ЗУ)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>59280</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 18:53">
+<fm_catalog date="2026-11-05 19:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13486,17 +13486,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9130</price>
-      </offer>
-      <offer sku="00000035477">
-        <name>Набор сабельных пилок Bosch S1111DF 2 шт. 2608656273</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140235884</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4094</price>
       </offer>
       <offer sku="00000035524">
         <name>Бур по бетону BOSCH SDS+ 6x150/210 мм 2608680264</name>

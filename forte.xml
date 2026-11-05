@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-05 17:24">
+<fm_catalog date="2026-11-05 17:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2639,6 +2639,17 @@
         </pickup-options>
         <price>60000</price>
       </offer>
+      <offer sku="УТ-00022470">
+        <name>Топор-колун S2800 70см 2.8кг</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393080392145</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>73000</price>
+      </offer>
       <offer sku="УТ-00022473">
         <name>Топор универсальный A2400 70см 2.4кг</name>
         <vendor>Husqvarna</vendor>
@@ -2694,6 +2705,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33000</price>
+      </offer>
+      <offer sku="УТ-00022559">
+        <name>Ящик для бензопилы</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>32000</price>
       </offer>
       <offer sku="УТ-00023846">
         <name>Гайковерт аккумуляторный Makita XGT BL 40В TW001GZ</name>
@@ -11030,7 +11049,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>70605</price>
+        <price>59990</price>
       </offer>
       <offer sku="00000031629">
         <name>Бензопила IVT GCHS-5020TG</name>
@@ -25268,6 +25287,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
+      </offer>
+      <offer sku="УТ-00085490">
+        <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2995</price>
       </offer>
       <offer sku="УТ-00085493">
         <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>

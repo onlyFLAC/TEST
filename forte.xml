@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 11:00">
+<fm_catalog date="2026-11-06 11:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1615,14 +1615,6 @@
         </pickup-options>
         <price>2185</price>
       </offer>
-      <offer sku="УТ-00013771">
-        <name>ЗУБР РГ-34, D52/d34/H32 мм, Резиновая опора для домкрата, Профессионал (43007-34) 43007-34</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1328</price>
-      </offer>
       <offer sku="УТ-00013835">
         <name>Удлинитель телескопический GRINDA ES-2200 42510-220_z01</name>
         <vendor>Grinda</vendor>
@@ -1740,14 +1732,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2280</price>
-      </offer>
-      <offer sku="УТ-00014693">
-        <name>STAYER FLAT 5 шт, 12-16-18-20-25мм, набор сверл перовых по дереву 2950-H5</name>
-        <vendor>STAYER</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3410</price>
       </offer>
       <offer sku="УТ-00014777">
         <name>ЗУБР МАСТЕР 10 x 400 мм сверло по бетону 2922-400-10</name>
@@ -2060,17 +2044,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2170</price>
-      </offer>
-      <offer sku="УТ-00015870">
-        <name>ЗУБР ПРОФЕССИОНАЛ 6 x 200 мм сверло по бетону усиленное, 3-х гранный хвостовик 2916-200-06_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373037894</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1989</price>
       </offer>
       <offer sku="УТ-00015916">
         <name>STAYER MaxFix PH2/SL6 32 мм, Переставная отвертка (2511)</name>
@@ -4885,17 +4858,6 @@
         </pickup-options>
         <price>77777</price>
       </offer>
-      <offer sku="00000002163">
-        <name>KRAFTOOL MC-7 ножницы угловые для пластмассовых и резиновых профилей</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229236717</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15152</price>
-      </offer>
       <offer sku="00000002201">
         <name>KRAFTOOL Professional усиленный cкелетный поворотный пистолет для герметика, 320 мл</name>
         <vendor>KRAFTOOL</vendor>
@@ -5138,39 +5100,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6270</price>
-      </offer>
-      <offer sku="00000003009">
-        <name>STAYER Max-Cut стамеска с пластиковой рукояткой, 20 мм</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229225025</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2647</price>
-      </offer>
-      <offer sku="00000003011">
-        <name>STAYER Max-Cut стамеска с пластиковой рукояткой, 32 мм</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229225049</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3345</price>
-      </offer>
-      <offer sku="00000003050">
-        <name>Горелка газовая STAYER MaxTerm 1300°С MG100 55584</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229211332</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2737</price>
       </offer>
       <offer sku="00000003103">
         <name>STAYER PROFESSIONAL 25 мм лезвия сегментированные, 5 шт</name>
@@ -6378,28 +6307,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>380</price>
-      </offer>
-      <offer sku="00000007108">
-        <name>Ключ разводной SlimWide, 300 / 60 мм, KRAFTOOL</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229174569</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23680</price>
-      </offer>
-      <offer sku="00000007151">
-        <name>Коврик непрорезаемый OLFA формат А1, толщина 2 мм OL-CM-A1</name>
-        <vendor>Olfa</vendor>
-        <barcodes>
-          <barcode>091511300703</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39340</price>
       </offer>
       <offer sku="00000007190">
         <name>Ключ гаечный комбинированный ЗУБР 10 мм 27074-10_z01</name>
@@ -7789,17 +7696,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2565</price>
-      </offer>
-      <offer sku="00000010639">
-        <name>Топорище ЗУБР "СТАНДАРТ" деревянное, 540мм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373112454</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2269</price>
       </offer>
       <offer sku="00000010653">
         <name>Торцовая головка KRAFTOOL "INDUSTRIE QUALITAT", Cr-V, FLANK, хромосатинированная, 1/2", 22 мм</name>
@@ -13149,17 +13045,6 @@
         </pickup-options>
         <price>3165</price>
       </offer>
-      <offer sku="00000034625">
-        <name>Пилка для лобзика по дереву (74 мм; 5 шт.) Bosch HCS T 101 D 2608630032</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140006804</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2690</price>
-      </offer>
       <offer sku="00000034630">
         <name>5 ЛОБЗИКОВЫХ ПИЛОК T 119 ВО, HCS</name>
         <vendor>BOSCH</vendor>
@@ -13225,17 +13110,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6041</price>
-      </offer>
-      <offer sku="00000034719">
-        <name>Набор лобзиковых пилок BOSCH T301CD 5 шт. 2608637590</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140016308</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3648</price>
       </offer>
       <offer sku="00000034722">
         <name>100 ЛОБЗИКОВЫХ ПИЛОК T 101 B, HCS</name>
@@ -13445,17 +13319,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2790</price>
-      </offer>
-      <offer sku="00000035405">
-        <name>Набор пилок для ножовочных пил Bosch S1531L 240 мм 5 шт. 2608650676</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140016056</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7350</price>
       </offer>
       <offer sku="00000035409">
         <name>Набор сабельных пилок Bosch S1542K 2 шт. 2608650681</name>
@@ -18510,17 +18373,6 @@
         </pickup-options>
         <price>8649</price>
       </offer>
-      <offer sku="00000074175">
-        <name>STAYER Max-Cut набор стамесок с пластмассовой рукояткой, 4шт</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229029609</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8543</price>
-      </offer>
       <offer sku="00000074187">
         <name>Очки защитные Kraftool EXPERT 11007</name>
         <vendor>KRAFTOOL</vendor>
@@ -19519,17 +19371,6 @@
         </pickup-options>
         <price>18990</price>
       </offer>
-      <offer sku="УТ-00001491">
-        <name>Kraftool GRAND 300 мм высокоточный столярный угольник</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229241704</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13950</price>
-      </offer>
       <offer sku="УТ-00001523">
         <name>Лопата снеговая ЗУБР 460 мм 39981</name>
         <vendor>ЗУБР</vendor>
@@ -20434,14 +20275,6 @@
         </pickup-options>
         <price>4979</price>
       </offer>
-      <offer sku="УТ-00045913">
-        <name>ЗУБР Чисторез, 255 x 30 мм, 60Т, пильный диск по дереву, Профессионал (36905-255-30-60)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14890</price>
-      </offer>
       <offer sku="УТ-00045921">
         <name>Диск пильный по металлу ЗУБР "ПРОФЕССИОНАЛ" 100Т 315х30 мм 36907-315-30-100_z01</name>
         <vendor>ЗУБР</vendor>
@@ -20460,14 +20293,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9980</price>
-      </offer>
-      <offer sku="УТ-00045943">
-        <name>KRAFTOOL PANZER-13, 340 х 290 х 150 мм, (13"), IP55, ударопрочный пластиковый ящик (38251-13)</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19794</price>
       </offer>
       <offer sku="УТ-00045992">
         <name>ЗУБР 10 м, 6 х 8 мм, 15 бар, воздушный спиральный шланг с фитингами рапид, Профессионал (6473-10)</name>
@@ -21570,14 +21395,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17860</price>
-      </offer>
-      <offer sku="УТ-00056307">
-        <name>KRAFTOOL CK-6, 0.2 - 6 мм2, автоматический стриппер (22630)</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12490</price>
       </offer>
       <offer sku="УТ-00056359">
         <name>KRAFTOOL KH-17 большая, с быстросъёмным креплением, FastClip, 17 карманов и петель, кобура для шуруповерта (38768)</name>
@@ -23895,14 +23712,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2955</price>
-      </offer>
-      <offer sku="УТ-00064828">
-        <name>OLFA 45 мм, круговой нож (OL-RTY-2C/YEL)</name>
-        <vendor>Olfa</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9223</price>
       </offer>
       <offer sku="УТ-00064869">
         <name>Трещотка реверсивная Kraftool 1/4" 150 мм 25890</name>
@@ -26559,14 +26368,6 @@
         </pickup-options>
         <price>1739</price>
       </offer>
-      <offer sku="УТ-00093294">
-        <name>Набор бит и головок с битодержателем и трещоткой KRAFTOOL X-Drive-49 49 шт. 25816</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26450</price>
-      </offer>
       <offer sku="УТ-00093321">
         <name>KRAFTOOL AC-80, глубина зажима 70 мм, мощная алюминиевая угловая струбцина (32202)</name>
         <vendor>KRAFTOOL</vendor>
@@ -26593,14 +26394,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3145</price>
-      </offer>
-      <offer sku="УТ-00093465">
-        <name>Стяжка гидравлическая KRAFTOOL 10 т 43423-10</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44230</price>
       </offer>
       <offer sku="УТ-00093617">
         <name>KRAFTOOL KRAFT BOARD на единой, базе, 5 колёс, лоток для инструментов, нагрузка до 110кг, строительные наколенники на колёсах (11513)</name>

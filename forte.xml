@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 11:29">
+<fm_catalog date="2026-11-06 11:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2060,14 +2060,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1280</price>
-      </offer>
-      <offer sku="УТ-00015966">
-        <name>STAYER STRONG 90 л, Прямоугольный строительный таз, MASTER (06099-90)</name>
-        <vendor>STAYER</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10990</price>
       </offer>
       <offer sku="УТ-00015967">
         <name>STAYER STRONG 60 л, Прямоугольный строительный таз, MASTER (06099-60)</name>
@@ -21606,6 +21598,14 @@
         </pickup-options>
         <price>326100</price>
       </offer>
+      <offer sku="УТ-00058022">
+        <name>Шина 35см/14 3/8Р (1,1) 30050083909</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15820</price>
+      </offer>
       <offer sku="УТ-00058028">
         <name>Набор держателей 4253022</name>
         <vendor>Einhell</vendor>
@@ -24760,6 +24760,25 @@
         </pickup-options>
         <price>13200</price>
       </offer>
+      <offer sku="УТ-00080514">
+        <name>Комплект - Нагнетательный насос (ULV) Stihl 42030071029</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>73400</price>
+      </offer>
+      <offer sku="УТ-00080583">
+        <name>Комплект игольчатых роликов 10 х 16 х 12 Stihl 95129332380</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711445072</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3350</price>
+      </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
         <vendor>STIHL</vendor>
@@ -26629,6 +26648,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
+      </offer>
+      <offer sku="УТ-00098646">
+        <name>Набор головок ударных глубоких 15пр.,1/2" 12гр.(10,12-17,19,21,22,24,27,30,32,36мм), в пластиковом к RF-4166D-9MPB RF-4166D-9MPB</name>
+        <vendor>Rock FORCE</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24700</price>
       </offer>
       <offer sku="УТ-00099442">
         <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>

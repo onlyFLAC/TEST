@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 07:05">
+<fm_catalog date="2026-11-06 07:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6109,17 +6109,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9110</price>
-      </offer>
-      <offer sku="00000006453">
-        <name>ЗУБР х2 ЗАЩИТА, размер L-XL, 10 пар в упаковке, перчатки с двойным латексным обливом</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373148019</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5990</price>
       </offer>
       <offer sku="00000006505">
         <name>ЗУБР Шланг напорно-всасывающий со спиралью ПВХ, 10 атм, 25мм х 15м</name>
@@ -14482,6 +14471,17 @@
         </pickup-options>
         <price>3197</price>
       </offer>
+      <offer sku="00000038457">
+        <name>Диск алмазный Bosch ECO Universal (125х22.2 мм) 2608615028</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140857055</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3520</price>
+      </offer>
       <offer sku="00000038459">
         <name>Диск алмазный BOSCH 180х22.2 мм 2608615030</name>
         <vendor>BOSCH</vendor>
@@ -15017,17 +15017,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>170200</price>
-      </offer>
-      <offer sku="00000040986">
-        <name>Пила торцовочная ЗУБР "МАСТЕР" ЗПТ-255-1800 ПЛ</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373217272</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>110650</price>
       </offer>
       <offer sku="00000041005">
         <name>Уровень лазерный ЗУБР "Крест-3D" 34908</name>
@@ -21152,14 +21141,6 @@
         </pickup-options>
         <price>21420</price>
       </offer>
-      <offer sku="УТ-00055071">
-        <name>Бензопила MS 361 (шина 45 см, цепь 66 зв, кожух, зимний режим) 11352000474К45</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>493200</price>
-      </offer>
       <offer sku="УТ-00055072">
         <name>Бензопила MS 361 (40 см.) 11352000474К40</name>
         <vendor>STIHL</vendor>
@@ -25482,14 +25463,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>139990</price>
-      </offer>
-      <offer sku="УТ-00089269">
-        <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 2х4 Ач +GAL 1840 06019N9020</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>161090</price>
       </offer>
       <offer sku="УТ-00089271">
         <name>Подгузники Altyn bala NEW 2-S 4-8 кг 56 шт.</name>

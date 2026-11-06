@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 13:57">
+<fm_catalog date="2026-11-06 14:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20328,17 +20328,6 @@
         </pickup-options>
         <price>99990</price>
       </offer>
-      <offer sku="УТ-00047882">
-        <name>Компрессор безмаслянный ALTECO ACO 30L 63424</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244611609</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>70000</price>
-      </offer>
       <offer sku="УТ-00047894">
         <name>Мойка высокого давления электрическая ALTECO CPW 140-8 Home &amp; Car 66882</name>
         <vendor>ALTECO</vendor>
@@ -22158,6 +22147,17 @@
         </pickup-options>
         <price>6500</price>
       </offer>
+      <offer sku="УТ-00059829">
+        <name>Комплект детской мебели Nika КП2/ЗМ забавные медвежата</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111502672</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15888</price>
+      </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>
         <vendor>BOSCH</vendor>
@@ -22733,17 +22733,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>127880</price>
-      </offer>
-      <offer sku="УТ-00060869">
-        <name>Набор пневмоинструмента ECO SGK-5 (5 предметов,верх. бак)</name>
-        <vendor>ECO</vendor>
-        <barcodes>
-          <barcode>5291501776524</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14090</price>
       </offer>
       <offer sku="УТ-00060919">
         <name>Гайковерт пневматический ECO AIW-980S</name>

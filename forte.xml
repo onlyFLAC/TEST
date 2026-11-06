@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 09:32">
+<fm_catalog date="2026-11-06 10:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8134,17 +8134,6 @@
         </pickup-options>
         <price>8367</price>
       </offer>
-      <offer sku="00000013077">
-        <name>Набор ключей рожковых, 6 - 19 мм, 6 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996042121</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3178</price>
-      </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
         <vendor>Matrix</vendor>
@@ -11086,7 +11075,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>119200</price>
+        <price>125000</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -17101,17 +17090,6 @@
         </pickup-options>
         <price>16588</price>
       </offer>
-      <offer sku="00000064302">
-        <name>Этажерка ЗМИ "ЛАДЬЯ 33КС" Э356 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093785669</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17000</price>
-      </offer>
       <offer sku="00000064307">
         <name>Этажерка ЗМИ ''Ладья 33КС'' колесики и столик под дерево Белый</name>
         <vendor>ЗМИ</vendor>
@@ -22028,17 +22006,6 @@
         </pickup-options>
         <price>11748</price>
       </offer>
-      <offer sku="УТ-00059658">
-        <name>Пуф Nika HPF1/P гусиная лапка</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111519526</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18350</price>
-      </offer>
       <offer sku="УТ-00059659">
         <name>Стремянка с широкими ступенями Nika СМШ2/Б белый</name>
         <vendor>Nika</vendor>
@@ -22769,17 +22736,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8899</price>
-      </offer>
-      <offer sku="УТ-00060533">
-        <name>Вешалка напольная Nika "КОМФОРТ 6" ВК6/З золотистый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032740215</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9999</price>
       </offer>
       <offer sku="УТ-00060540">
         <name>Этажерка Nika ЭТ4/А коричневый</name>

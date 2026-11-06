@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 08:03">
+<fm_catalog date="2026-11-06 08:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2609,17 +2609,6 @@
         </pickup-options>
         <price>60000</price>
       </offer>
-      <offer sku="УТ-00022470">
-        <name>Топор-колун S2800 70см 2.8кг</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393080392145</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>73000</price>
-      </offer>
       <offer sku="УТ-00022473">
         <name>Топор универсальный A2400 70см 2.4кг</name>
         <vendor>Husqvarna</vendor>
@@ -2644,14 +2633,6 @@
         </pickup-options>
         <price>7200</price>
       </offer>
-      <offer sku="УТ-00022495">
-        <name>Рулетка 15м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35000</price>
-      </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
         <vendor>Husqvarna</vendor>
@@ -2675,14 +2656,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33000</price>
-      </offer>
-      <offer sku="УТ-00022559">
-        <name>Ящик для бензопилы</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32000</price>
       </offer>
       <offer sku="УТ-00023846">
         <name>Гайковерт аккумуляторный Makita XGT BL 40В TW001GZ</name>
@@ -14249,17 +14222,6 @@
         </pickup-options>
         <price>4624</price>
       </offer>
-      <offer sku="00000036919">
-        <name>ПАЗОВАЯ ФРЕЗА 16/12</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140420297</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6532</price>
-      </offer>
       <offer sku="00000036943">
         <name>Фреза пазовая BOSCH 8х19х20 мм 2608629362</name>
         <vendor>BOSCH</vendor>
@@ -16239,17 +16201,6 @@
         </pickup-options>
         <price>5390</price>
       </offer>
-      <offer sku="00000059210">
-        <name>Табурет круглый ЗМИ "ПЕНЕК ЛЕГКИЙ" 180 Т270 бежевый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011874465</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4200</price>
-      </offer>
       <offer sku="00000059224">
         <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 черная</name>
         <vendor>ЗМИ</vendor>
@@ -17247,17 +17198,6 @@
         </pickup-options>
         <price>18520</price>
       </offer>
-      <offer sku="00000064350">
-        <name>Вешалка напольная разборная ЗМИ "Луч 3" ВНП338 Черный</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011876896</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9255</price>
-      </offer>
       <offer sku="00000064351">
         <name>Вешалка напольная разборная ЗМИ "ЛУЧ 5" белая ВНП361/Б</name>
         <vendor>ЗМИ</vendor>
@@ -17303,17 +17243,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5250</price>
-      </offer>
-      <offer sku="00000064362">
-        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л бежевый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011874489</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4290</price>
       </offer>
       <offer sku="00000064363">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л коричневый</name>
@@ -17776,14 +17705,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7700</price>
-      </offer>
-      <offer sku="00000071014">
-        <name>Мерный стакан 100 мл Stihl</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>900</price>
       </offer>
       <offer sku="00000071085">
         <name>Перчатки рабочие STIHL FUNCTION Universal 00886111410</name>
@@ -20220,17 +20141,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8330</price>
-      </offer>
-      <offer sku="УТ-00044387">
-        <name>Шлифмашина эксцентриковая ALTECO EX 400-125 E 66548</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870244612477</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17790</price>
       </offer>
       <offer sku="УТ-00044464">
         <name>Сверло по металлу Cutop EXPERT , 10х133 мм (5шт) Cutop 53-458, шт</name>
@@ -23324,17 +23234,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7387</price>
-      </offer>
-      <offer sku="УТ-00063251">
-        <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СС светло-серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032741786</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8900</price>
       </offer>
       <offer sku="УТ-00063319">
         <name>Доска гладильная Nika БЮ1 (в ассортименте)</name>

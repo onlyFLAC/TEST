@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 14:56">
+<fm_catalog date="2026-11-06 15:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8118,6 +8118,17 @@
         </pickup-options>
         <price>8367</price>
       </offer>
+      <offer sku="00000013078">
+        <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996042107</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4848</price>
+      </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9627,6 +9638,17 @@
         </pickup-options>
         <price>3990</price>
       </offer>
+      <offer sku="00000021630">
+        <name>Таз строительный Сибртех 90 л прямоугольный 81445</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800038272</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4003</price>
+      </offer>
       <offer sku="00000021631">
         <name>Таз круглый строительный, 40 л Россия// Sparta</name>
         <vendor>Sparta</vendor>
@@ -10166,6 +10188,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21990</price>
+      </offer>
+      <offer sku="00000023869">
+        <name>Машина шлифовальная угловая CROWN CT13300</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640186249904</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31990</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -24382,14 +24415,6 @@
         </pickup-options>
         <price>23490</price>
       </offer>
-      <offer sku="УТ-00074379">
-        <name>Машинка шлифовальная FESTOOL PLANEX LHS 2 225 EQI-PLUS 575990</name>
-        <vendor>FESTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1069215</price>
-      </offer>
       <offer sku="УТ-00074391">
         <name>Пила погружная FESTOOL TS 55 FEBQ-PLUS-FS 577010</name>
         <vendor>FESTOOL</vendor>
@@ -25167,6 +25192,9 @@
       <offer sku="УТ-00089286">
         <name>Подгузники MARTI M62 6-11 кг</name>
         <vendor>MARTI</vendor>
+        <barcodes>
+          <barcode>4580664610068</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -26660,6 +26688,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
+      </offer>
+      <offer sku="УТ-00099857">
+        <name>Генератор бензиновый инверторный SENCI SC1400i</name>
+        <vendor>SENCI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>137390</price>
       </offer>
       <offer sku="УТ-00099923">
         <name>Аккумуляторный перфоратор 20V, посадка SDS-Plus TRHLI20248</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 18:22">
+<fm_catalog date="2026-11-06 18:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21651,7 +21651,7 @@
         <price>63730</price>
       </offer>
       <offer sku="УТ-00057824">
-        <name>ТОРЦЕВОЧНАЯ ПИЛА GCM 305-216 D Bosch 0601B49000</name>
+        <name>Пила торцовочная BOSCH GCM 305-216 D 0601B49000</name>
         <vendor>BOSCH</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

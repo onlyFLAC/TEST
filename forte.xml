@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-06 12:59">
+<fm_catalog date="2026-11-06 13:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22270,6 +22270,17 @@
         </pickup-options>
         <price>405110</price>
       </offer>
+      <offer sku="УТ-00059846">
+        <name>Гайковерт аккумуляторный BOSCH GDR 18V-215 06019N2020</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423304961</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>54340</price>
+      </offer>
       <offer sku="УТ-00059847">
         <name>Перфоратор аккумуляторный Bosch GBH 18V-18 Без ЗУ и АКБ 0611927000</name>
         <vendor>BOSCH</vendor>
@@ -26031,17 +26042,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>55700</price>
-      </offer>
-      <offer sku="УТ-00091593">
-        <name>Набор прецизионных отверток BOSCH 8 шт. 1600A02Z9M</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423255102</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10810</price>
       </offer>
       <offer sku="УТ-00091596">
         <name>Набор отверток с трещоткой и T-образной рукояткой BOSCH 22 шт. 1600A02Z9T</name>

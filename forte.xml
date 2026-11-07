@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 11:00">
+<fm_catalog date="2026-11-07 11:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2551,17 +2551,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>57000</price>
-      </offer>
-      <offer sku="УТ-00022464">
-        <name>Топор универсальный Husqvarna 65 см, 0.85 кг 576 92 62-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883620687</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>53000</price>
       </offer>
       <offer sku="УТ-00022468">
         <name>Топор-колун 80см 2,5кг</name>
@@ -10259,17 +10248,6 @@
         </pickup-options>
         <price>24900</price>
       </offer>
-      <offer sku="00000024811">
-        <name>Пила торцовочная ALTECO MS 2000-255 BD 17289</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216450847</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>95000</price>
-      </offer>
       <offer sku="00000024831">
         <name>Шлифмашина эксцентриковая ALTECO EX 0910 (EX 480-125 E) 27462</name>
         <vendor>ALTECO</vendor>
@@ -10473,6 +10451,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>30252</price>
+      </offer>
+      <offer sku="00000025385">
+        <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5/Ч черный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075838437</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9890</price>
       </offer>
       <offer sku="00000025387">
         <name>Вешалка настенная Nika ВН5/Ч черный</name>
@@ -11643,17 +11632,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4315</price>
-      </offer>
-      <offer sku="00000032586">
-        <name>Набор принадлежностей 70 TITANIUM+ Bosch</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140379526</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23653</price>
       </offer>
       <offer sku="00000032598">
         <name>Набор сверл BOSCH PointTeQ 1-10 мм 18 шт. 2608577350</name>
@@ -16163,17 +16141,6 @@
         </pickup-options>
         <price>14888</price>
       </offer>
-      <offer sku="00000059254">
-        <name>Тюбинг принтованный Nika "СПОРТ" ТБ2К-85/32 лимонный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047365746</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11750</price>
-      </offer>
       <offer sku="00000059255">
         <name>Игрушка. Тюбинг принтованный (ТБ2К-95/12 Nika sport голубой)</name>
         <vendor>Nika</vendor>
@@ -17214,14 +17181,6 @@
         </pickup-options>
         <price>67000</price>
       </offer>
-      <offer sku="00000064568">
-        <name>Аппарат сварочный инверторный плазменной резки Magnetta CUT-120</name>
-        <vendor>Magnetta</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>438720</price>
-      </offer>
       <offer sku="00000064861">
         <name>Культиватор электрический ЗУБР ККД-900</name>
         <vendor>ЗУБР</vendor>
@@ -17444,7 +17403,7 @@
         <price>13960</price>
       </offer>
       <offer sku="00000070611">
-        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М белая</name>
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М молочно-белый</name>
         <vendor>ЗМИ</vendor>
         <barcodes>
           <barcode>4610093787137</barcode>
@@ -18042,7 +18001,7 @@
         <price>93869</price>
       </offer>
       <offer sku="00000073887">
-        <name>Дрель-шуруповерт аккумуляторная Bosch GSR 185-LI 1 Акб 06019K3005</name>
+        <name>Дрель-шуруповерт аккумуляторная BOSCH GSR 185-LI 06019K3005</name>
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>4053423230130</barcode>
@@ -19386,14 +19345,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21420</price>
-      </offer>
-      <offer sku="УТ-00002175">
-        <name>Аппарат сварочный инверторный Magnetta MIG-200ES LED</name>
-        <vendor>Magnetta</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>105640</price>
       </offer>
       <offer sku="УТ-00002254">
         <name>Ролик чистящий Palisad "HOME" моющийся для всех видов тканей 931065</name>

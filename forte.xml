@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 12:28">
+<fm_catalog date="2026-11-07 12:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2621,6 +2621,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7200</price>
+      </offer>
+      <offer sku="УТ-00022496">
+        <name>Рулетка 20м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089124921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -8034,7 +8045,7 @@
         <price>83800</price>
       </offer>
       <offer sku="00000012460">
-        <name>Набор инструментов, 1/4", 1/2", Cr-V, S2, усиленный кейс, 119 предм.// Stels</name>
+        <name>Набор инструментов STELS 119 предметов 14112</name>
         <vendor>STELS</vendor>
         <barcodes>
           <barcode>4044996127200</barcode>
@@ -8705,17 +8716,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1780</price>
-      </offer>
-      <offer sku="00000016566">
-        <name>Щетка для мытья автомобиля с подачей воды Stels 55222</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996113418</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3280</price>
       </offer>
       <offer sku="00000016586">
         <name>Упор противооткатной 120х80х70мм// Россия// Matrix</name>
@@ -10798,7 +10798,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25000</price>
+        <price>25020</price>
       </offer>
       <offer sku="00000028878">
         <name>Magnetta, ZB-G50T, Газовый нагреватель, 17-50 кВт</name>
@@ -11015,17 +11015,6 @@
         </pickup-options>
         <price>109190</price>
       </offer>
-      <offer sku="00000031866">
-        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х4 ступ. 120335</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199120335</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>56000</price>
-      </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
         <vendor>Krause</vendor>
@@ -11033,6 +11022,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>82600</price>
+      </offer>
+      <offer sku="00000031876">
+        <name>Лестница шарнирная KRAUSE MULTIMATIC 4х4 ступ. 120649</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>149000</price>
       </offer>
       <offer sku="00000031878">
         <name>Лестница трехсекционная KRAUSE TRIBILO 3x12 ступ. 120953</name>
@@ -11065,6 +11062,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>76500</price>
+      </offer>
+      <offer sku="00000031908">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 7 ступ. 126252</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>67100</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
@@ -16619,7 +16624,7 @@
         <price>2780</price>
       </offer>
       <offer sku="00000063760">
-        <name>Набор инструментов Gross 101 шт. 14151</name>
+        <name>Набор инструментов Gross 101 предметов 14151</name>
         <vendor>Gross</vendor>
         <barcodes>
           <barcode>4044996188577</barcode>
@@ -20254,6 +20259,17 @@
         </pickup-options>
         <price>99990</price>
       </offer>
+      <offer sku="УТ-00047891">
+        <name>Мойка высокого давления ALTECO CPW 120-6 66878</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244612484</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35990</price>
+      </offer>
       <offer sku="УТ-00047894">
         <name>Мойка высокого давления электрическая ALTECO CPW 140-8 Home &amp; Car 66882</name>
         <vendor>ALTECO</vendor>
@@ -23802,6 +23818,14 @@
         </pickup-options>
         <price>13390</price>
       </offer>
+      <offer sku="УТ-00072352">
+        <name>Бокорезы KNIPEX 73 71 180</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44145</price>
+      </offer>
       <offer sku="УТ-00072358">
         <name>Длинногубцы KNIPEX 30 25 140</name>
         <vendor>KNIPEX</vendor>
@@ -23847,6 +23871,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>36925</price>
+      </offer>
+      <offer sku="УТ-00072425">
+        <name>Клещи переставные KNIPEX 86 03 125</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773077497</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41870</price>
       </offer>
       <offer sku="УТ-00072431">
         <name>Клещи переставные-гаечный ключ KNIPEX 86 03 150</name>
@@ -25154,6 +25189,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>982</price>
+      </offer>
+      <offer sku="УТ-00089439">
+        <name>Стойка душевая GAPPO оружейная сталь G2499-39</name>
+        <vendor>GAPPO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>107910</price>
       </offer>
       <offer sku="УТ-00089479">
         <name>Стойка душевая GAPPO золотой сатин G2448-3</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 11:59">
+<fm_catalog date="2026-11-07 12:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -788,6 +788,28 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005911">
+        <name>Рулетка измерительная Stabila BM300 5м 19577</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069195779</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13390</price>
+      </offer>
+      <offer sku="УТ-00005944">
+        <name>Уровень тип 70, 120 см STABILA 02289</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022891</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19190</price>
+      </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
         <vendor>STABILA</vendor>
@@ -1186,7 +1208,7 @@
         <price>50200</price>
       </offer>
       <offer sku="УТ-00009929">
-        <name>Нивелир оптический GOL 32D+BT160+GR500 (50424975) Bosch</name>
+        <name>Нивелир оптический BOSCH GOL 32 D 0601068502</name>
         <vendor>BOSCH</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -2568,6 +2590,14 @@
         </pickup-options>
         <price>60000</price>
       </offer>
+      <offer sku="УТ-00022472">
+        <name>Топор универсальный A1400 60см 1.4кг</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>54000</price>
+      </offer>
       <offer sku="УТ-00022473">
         <name>Топор универсальный A2400 70см 2.4кг</name>
         <vendor>Husqvarna</vendor>
@@ -2600,6 +2630,17 @@
         </pickup-options>
         <price>30800</price>
       </offer>
+      <offer sku="УТ-00022535">
+        <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL LIGHT Р.10</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930544697</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12100</price>
+      </offer>
       <offer sku="УТ-00022546">
         <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL 20 CLASS 1 C ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.10</name>
         <vendor>Husqvarna</vendor>
@@ -2607,6 +2648,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39000</price>
+      </offer>
+      <offer sku="УТ-00022551">
+        <name>Перчатки Husqvarna Technical р.9</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28600</price>
       </offer>
       <offer sku="УТ-00022552">
         <name>Перчатки Husqvarna Functional зимние р.10</name>
@@ -2765,7 +2814,7 @@
         <price>61790</price>
       </offer>
       <offer sku="УТ-00024857">
-        <name>Бензиновая снегоуборочная машина SBL 711D PRO, 302cc, эл.старт, фара, обогрев, блок. дифф.// Denzel</name>
+        <name>Машина снегоуборочная бензиновая DENZEL SBL 711D PRO 97655</name>
         <vendor>Denzel</vendor>
         <barcodes>
           <barcode>4044996195773</barcode>
@@ -7616,6 +7665,14 @@
         </pickup-options>
         <price>2565</price>
       </offer>
+      <offer sku="00000010616">
+        <name>Алмазный отрезной сплошной диск ЗУБР Профессионал Тонкорез 125 мм, по керамограниту, мрамору 36659-125_z01</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4976</price>
+      </offer>
       <offer sku="00000010653">
         <name>Торцовая головка KRAFTOOL "INDUSTRIE QUALITAT", Cr-V, FLANK, хромосатинированная, 1/2", 22 мм</name>
         <vendor>KRAFTOOL</vendor>
@@ -10957,6 +11014,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>109190</price>
+      </offer>
+      <offer sku="00000031866">
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х4 ступ. 120335</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199120335</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>56000</price>
       </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
@@ -15886,6 +15954,17 @@
         </pickup-options>
         <price>18888</price>
       </offer>
+      <offer sku="00000059105">
+        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952531144</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>122320</price>
+      </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>
         <vendor>ЗМИ</vendor>
@@ -16573,7 +16652,7 @@
         <price>2030</price>
       </offer>
       <offer sku="00000063940">
-        <name>Бензиновая снегоуборочная машина SB 560, 212cc, ручной старт// Denzel</name>
+        <name>Машина снегоуборочная бензиновая DENZEL SB 560 97651</name>
         <vendor>Denzel</vendor>
         <barcodes>
           <barcode>4044996195735</barcode>
@@ -16584,7 +16663,7 @@
         <price>296250</price>
       </offer>
       <offer sku="00000063941">
-        <name>Бензиновая снегоуборочная машина SB 560 LP, 212cc, эл.старт, фара// Denzel</name>
+        <name>Машина снегоуборочная бензиновая DENZEL SB 560 LP 97652</name>
         <vendor>Denzel</vendor>
         <barcodes>
           <barcode>4044996195742</barcode>
@@ -16606,7 +16685,7 @@
         <price>286380</price>
       </offer>
       <offer sku="00000063943">
-        <name>Бензиновая снегоуборочная машина SBM 610S PRO, 212cc, эл.старт, фара, обогрев// Denzel</name>
+        <name>Машина снегоуборочная бензиновая DENZEL SBM 610S PRO 97654</name>
         <vendor>Denzel</vendor>
         <barcodes>
           <barcode>4044996195766</barcode>
@@ -17180,6 +17259,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>67000</price>
+      </offer>
+      <offer sku="00000064620">
+        <name>Фрезер Bosch GOF 130 06016B7000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952513669</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>83890</price>
       </offer>
       <offer sku="00000064861">
         <name>Культиватор электрический ЗУБР ККД-900</name>
@@ -17999,6 +18089,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>93869</price>
+      </offer>
+      <offer sku="00000073886">
+        <name>Аккумуляторная дрель-шуруповерт Bosch GSR 185-LI ЗУ + Акб, кейс 06019K3001</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423230123</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>77560</price>
       </offer>
       <offer sku="00000073887">
         <name>Дрель-шуруповерт аккумуляторная BOSCH GSR 185-LI 06019K3005</name>
@@ -20580,6 +20681,14 @@
         </pickup-options>
         <price>6640</price>
       </offer>
+      <offer sku="УТ-00053348">
+        <name>Шпатель малярный 300мм, BIHUI PTK30, шт 77402</name>
+        <vendor>BIHUI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2890</price>
+      </offer>
       <offer sku="УТ-00053350">
         <name>Шпатель малярный 600мм, BIHUI PTK60, шт 77404</name>
         <vendor>BIHUI</vendor>
@@ -22061,6 +22170,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>642250</price>
+      </offer>
+      <offer sku="УТ-00059843">
+        <name>Машина плоскошлифовальная Bosch GSS 20-18 A 0601070101</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423327366</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44460</price>
       </offer>
       <offer sku="УТ-00059844">
         <name>Перфоратор аккумуляторный Bosch GBH 18V-18 0611927001</name>
@@ -24072,6 +24192,14 @@
         </pickup-options>
         <price>6131</price>
       </offer>
+      <offer sku="УТ-00072850">
+        <name>Аксесуар для лазера Stabila NKL 16782</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>164260</price>
+      </offer>
       <offer sku="УТ-00072871">
         <name>Напольный лазерный нивелир Stabila FLS 90 SET 18574</name>
         <vendor>STABILA</vendor>
@@ -24572,6 +24700,14 @@
         </pickup-options>
         <price>2890</price>
       </offer>
+      <offer sku="УТ-00084675">
+        <name>Кусачки прецизионные KNIPEX 125 мм 7813125SB</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19685</price>
+      </offer>
       <offer sku="УТ-00084690">
         <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
         <vendor>Wera</vendor>
@@ -24676,6 +24812,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2995</price>
+      </offer>
+      <offer sku="УТ-00085491">
+        <name>Набор напильников Husqvarna 3.5 мм 3 шт. 597 35 48-03</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4400</price>
       </offer>
       <offer sku="УТ-00085493">
         <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>
@@ -25747,6 +25891,17 @@
         </pickup-options>
         <price>11450</price>
       </offer>
+      <offer sku="УТ-00091580">
+        <name>Молоток-гвоздодер BOSCH 550 г 1600A02W7X</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423254396</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6360</price>
+      </offer>
       <offer sku="УТ-00091585">
         <name>Набор с трещоткой BOSCH 5 предметов 1600A02Z3D</name>
         <vendor>BOSCH</vendor>
@@ -26385,6 +26540,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3190</price>
+      </offer>
+      <offer sku="УТ-00099520">
+        <name>31015 Краскопульт CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44990</price>
       </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>

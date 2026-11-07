@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 15:55">
+<fm_catalog date="2026-11-07 16:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23516,6 +23516,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4280</price>
+      </offer>
+      <offer sku="УТ-00064685">
+        <name>Лопата туристическая ЗУБР "МАСТЕР" 210х154х550 мм 39571</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373570988</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3846</price>
       </offer>
       <offer sku="УТ-00064686">
         <name>ЗУБР Мастер, 380 х 208 мм, полотно 1.6 мм, закалено, с рёбрами жёсткости, без черенка, тип ЛКО, штыковая лопата (39414)</name>

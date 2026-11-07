@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 09:02">
+<fm_catalog date="2026-11-07 09:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4992,17 +4992,6 @@
         </pickup-options>
         <price>24579</price>
       </offer>
-      <offer sku="00000002567">
-        <name>Универсальный кримпер ЗУБР Профессионал RJ-7 RJ45 RJ11/RJ12 22650</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373286537</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8100</price>
-      </offer>
       <offer sku="00000002569">
         <name>Сучкорез ручной Grinda RX-700 8-424105_z02</name>
         <vendor>Grinda</vendor>
@@ -8226,17 +8215,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>694</price>
-      </offer>
-      <offer sku="00000014138">
-        <name>Леска для триммера круглая Denzel 96180</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996127903</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1224</price>
       </offer>
       <offer sku="00000014143">
         <name>Леска двухкомпонентная для триммера квадратная витая 2,4мм х 15м, EXTRA CORD// Denzel</name>
@@ -14988,17 +14966,6 @@
         </pickup-options>
         <price>135100</price>
       </offer>
-      <offer sku="00000041169">
-        <name>Бензопила STIHL MS 250 40 см 11230123044К40</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661268177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>201100</price>
-      </offer>
       <offer sku="00000041219">
         <name>Воздуходувка бензиновая STIHL BG 50 42290111723</name>
         <vendor>STIHL</vendor>
@@ -20813,17 +20780,6 @@
         </pickup-options>
         <price>15999</price>
       </offer>
-      <offer sku="УТ-00054592">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/7 шоколадный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111519076</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29815</price>
-      </offer>
       <offer sku="УТ-00054806">
         <name>Корпус прибора для воздуходувки BOSCH f016f05650</name>
         <vendor>BOSCH</vendor>
@@ -24552,14 +24508,6 @@
         </pickup-options>
         <price>173000</price>
       </offer>
-      <offer sku="УТ-00076084">
-        <name>Домкрат механический (ромб) 2т 105-420мм STARTUL AUTO (ST8021-02)</name>
-        <vendor>Startul</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11460</price>
-      </offer>
       <offer sku="УТ-00076263">
         <name>Комплект сварочный для MMA (до 200А, 3 + 3 м) SOLARIS</name>
         <vendor>SOLARIS</vendor>
@@ -26138,17 +26086,6 @@
         </pickup-options>
         <price>6240</price>
       </offer>
-      <offer sku="УТ-00091637">
-        <name>Трещотка 1/4" BOSCH 1600A032VA</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423302370</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5530</price>
-      </offer>
       <offer sku="УТ-00091639">
         <name>Плоскогубцы удлиненные BOSCH 180 мм 1600A032VC</name>
         <vendor>BOSCH</vendor>
@@ -26741,14 +26678,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8000</price>
-      </offer>
-      <offer sku="УТ-00103597">
-        <name>Гайковерт аккумуляторный CROWN 22062XS-4C2 BMC</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>92990</price>
       </offer>
     </offers>
   </shop>

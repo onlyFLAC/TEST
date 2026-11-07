@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 13:27">
+<fm_catalog date="2026-11-07 13:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4613,17 +4613,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>47390</price>
-      </offer>
-      <offer sku="00000001644">
-        <name>140C Секатор с алюминиевыми рукоятками, плоскостной, 210 мм, RACO</name>
-        <vendor>RACO</vendor>
-        <barcodes>
-          <barcode>4034229040192</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7780</price>
       </offer>
       <offer sku="00000001769">
         <name>G-22 Секатор с двухкомпонентными рукоятками, плоскостной, 200 мм, GRINDA</name>
@@ -10508,17 +10497,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>30252</price>
-      </offer>
-      <offer sku="00000025385">
-        <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075838437</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9890</price>
       </offer>
       <offer sku="00000025387">
         <name>Вешалка настенная Nika ВН5/Ч черный</name>
@@ -22640,17 +22618,6 @@
         </pickup-options>
         <price>8899</price>
       </offer>
-      <offer sku="УТ-00060533">
-        <name>Вешалка напольная Nika "КОМФОРТ 6" ВК6/З золотистый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032740215</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9999</price>
-      </offer>
       <offer sku="УТ-00060540">
         <name>Этажерка Nika ЭТ4/А коричневый</name>
         <vendor>Nika</vendor>
@@ -23560,17 +23527,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4280</price>
-      </offer>
-      <offer sku="УТ-00064685">
-        <name>Лопата туристическая ЗУБР "МАСТЕР" 210х154х550 мм 39571</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373570988</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3846</price>
       </offer>
       <offer sku="УТ-00064686">
         <name>ЗУБР Мастер, 380 х 208 мм, полотно 1.6 мм, закалено, с рёбрами жёсткости, без черенка, тип ЛКО, штыковая лопата (39414)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 08:03">
+<fm_catalog date="2026-11-07 08:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -212,17 +212,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>45990</price>
-      </offer>
-      <offer sku="УТ-00003976">
-        <name>Мультиметр цифровой CROWN CT44051</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177426468</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -5378,17 +5367,6 @@
         </pickup-options>
         <price>1659</price>
       </offer>
-      <offer sku="00000004314">
-        <name>Грабельки садовые с деревянной ручкой, РОСТОК 39614, 10 витых зубцов, 200x62x405 мм</name>
-        <vendor>Росток</vendor>
-        <barcodes>
-          <barcode>4606373275692</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1880</price>
-      </offer>
       <offer sku="00000004324">
         <name>Грабли веерные RACO "STANDARD", 7 круглых зубцов, 420мм</name>
         <vendor>RACO</vendor>
@@ -10219,17 +10197,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21990</price>
-      </offer>
-      <offer sku="00000023825">
-        <name>Лобзик электрический CROWN CT15189</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177420688</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36990</price>
       </offer>
       <offer sku="00000023869">
         <name>Машина шлифовальная угловая CROWN CT13300</name>
@@ -20370,14 +20337,6 @@
         </pickup-options>
         <price>9170</price>
       </offer>
-      <offer sku="УТ-00047460">
-        <name>Блок монтажный с крюком TOR HQG(L) K1-1,0 т, шт</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10540</price>
-      </offer>
       <offer sku="УТ-00047531">
         <name>Строп текстильный TOR СТП 8 т 5 м 10054923</name>
         <vendor>TOR</vendor>
@@ -20763,17 +20722,6 @@
       <offer sku="УТ-00051834">
         <name>Аккум. Пылесос Einhell TE-VC 18 Li-Solo (2347120)</name>
         <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29900</price>
-      </offer>
-      <offer sku="УТ-00052702">
-        <name>Станок для заточки цепей Einhell GC-CS 85 E Set 4499924</name>
-        <vendor>Einhell</vendor>
-        <barcodes>
-          <barcode>4006825664331</barcode>
-        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -21534,17 +21482,6 @@
         </pickup-options>
         <price>9965</price>
       </offer>
-      <offer sku="УТ-00056575">
-        <name>Детектор напряжения CROWN CT44127</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640228054718</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3190</price>
-      </offer>
       <offer sku="УТ-00056627">
         <name>Видеорегистратор Neoline Flash 2K Dual</name>
         <vendor>Neoline</vendor>
@@ -21617,14 +21554,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>196400</price>
-      </offer>
-      <offer sku="УТ-00057208">
-        <name>Мультифункциональный инструмент бензиновый Mateus MS14200</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>63500</price>
       </offer>
       <offer sku="УТ-00057357">
         <name>Аккумуляторный триммер CT 21-25 Solo ALTECO, шт</name>
@@ -24963,14 +24892,6 @@
         </pickup-options>
         <price>2890</price>
       </offer>
-      <offer sku="УТ-00084641">
-        <name>ФРЕЗЕР CROWN CT11023</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>50990</price>
-      </offer>
       <offer sku="УТ-00084690">
         <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
         <vendor>Wera</vendor>
@@ -25407,14 +25328,6 @@
         </pickup-options>
         <price>114890</price>
       </offer>
-      <offer sku="УТ-00089493">
-        <name>Молоток отбойный HEX-30 CROWN CT18236 BMC</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>101990</price>
-      </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
         <vendor>PROFSET</vendor>
@@ -25519,14 +25432,6 @@
         </pickup-options>
         <price>60360</price>
       </offer>
-      <offer sku="УТ-00090601">
-        <name>Нивелир Einhell TC-LL 2 G (2270109)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29900</price>
-      </offer>
       <offer sku="УТ-00090915">
         <name>Аккумулятор для инструмента BOSCH EXPERT EXBA18V-150 1600A036ZM</name>
         <vendor>BOSCH</vendor>
@@ -25601,17 +25506,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1320</price>
-      </offer>
-      <offer sku="УТ-00091019">
-        <name>Батарейки GP 1 шт. 1604G UE1 Greencell</name>
-        <vendor>GP</vendor>
-        <barcodes>
-          <barcode>4891199002212</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>890</price>
       </offer>
       <offer sku="УТ-00091022">
         <name>Батарейки GP 1 шт. CR123A-2CR1</name>
@@ -26967,22 +26861,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34880</price>
-      </offer>
-      <offer sku="УТ-00103512">
-        <name>Пила цепная электрическая CROWN CT20188-16</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>34990</price>
-      </offer>
-      <offer sku="УТ-00103526">
-        <name>Дрель алмазного бурения CROWN CT32072DH BMC</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>64990</price>
       </offer>
       <offer sku="УТ-00103537">
         <name>Комплект клапанов STIHL для RE98 47757006200</name>

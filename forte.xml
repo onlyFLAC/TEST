@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 14:27">
+<fm_catalog date="2026-11-07 14:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4272,18 +4272,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39990</price>
-      </offer>
-      <offer sku="УТ-00028792">
-        <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Ч черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633097</barcode>
-          <barcode>4640047369768</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4910</price>
       </offer>
       <offer sku="УТ-00028793">
         <name>Вешалка настенная ЗМИ "ТОРОНТО 5" графит ВНТ5 ГР</name>
@@ -21135,17 +21123,6 @@
         </pickup-options>
         <price>53050</price>
       </offer>
-      <offer sku="УТ-00055942">
-        <name>Подставка для цветов ЗМИ "ШАФРАН 17Л" ПДЦШ17Л черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195635381</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26370</price>
-      </offer>
       <offer sku="УТ-00055972">
         <name>Вешалка с полкой ЗМИ "ТОРОНТО 21Д" ВСПТ21Д белая</name>
         <vendor>ЗМИ</vendor>
@@ -22117,7 +22094,7 @@
         <price>72130</price>
       </offer>
       <offer sku="УТ-00059838">
-        <name>Ножовка аккумуляторная Bosch GSA 185-LI 06016C0021</name>
+        <name>Пила сабельная аккумуляторная BOSCH GSA 185-LI 06016C0021</name>
         <vendor>BOSCH</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

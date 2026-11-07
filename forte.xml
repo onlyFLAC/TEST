@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 10:01">
+<fm_catalog date="2026-11-07 10:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -787,14 +787,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005950">
-        <name>Уровень Stabila тип 70, 50 см 02283</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12590</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -8359,17 +8351,6 @@
         </pickup-options>
         <price>4145</price>
       </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>956</price>
-      </offer>
       <offer sku="00000015063">
         <name>Лом-гвоздодер, двутавровый профиль, 600х30х17 мм// Gross</name>
         <vendor>Gross</vendor>
@@ -10132,17 +10113,6 @@
         </pickup-options>
         <price>21990</price>
       </offer>
-      <offer sku="00000023869">
-        <name>Машина шлифовальная угловая CROWN CT13300</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640186249904</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31990</price>
-      </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
         <vendor>Mateus</vendor>
@@ -10299,6 +10269,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24900</price>
+      </offer>
+      <offer sku="00000024811">
+        <name>Пила торцовочная ALTECO MS 2000-255 BD 17289</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216450847</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>95000</price>
       </offer>
       <offer sku="00000024831">
         <name>Шлифмашина эксцентриковая ALTECO EX 0910 (EX 480-125 E) 27462</name>
@@ -20611,6 +20592,14 @@
         </pickup-options>
         <price>27990</price>
       </offer>
+      <offer sku="УТ-00053215">
+        <name>Бензопила GCS 52-45 ALTECO, шт 80608</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38900</price>
+      </offer>
       <offer sku="УТ-00053274">
         <name>Зажим для СВП 2 мм 250 штук BIHUI BLSN250, шт 77309</name>
         <vendor>BIHUI</vendor>
@@ -24664,6 +24653,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>67980</price>
+      </offer>
+      <offer sku="УТ-00085039">
+        <name>Шлифмашина угловая (болгарка) ALTECO AG 1100-125 94242</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16900</price>
       </offer>
       <offer sku="УТ-00085111">
         <name>Кровать раскладная с матрасом Nika РК4-М/ГП с графическими перьями</name>

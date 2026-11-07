@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 17:53">
+<fm_catalog date="2026-11-07 18:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10830,6 +10830,9 @@
       <offer sku="00000031300">
         <name>Шнек 200 мм для земли TT 800мм</name>
         <vendor>Total Tools</vendor>
+        <barcodes>
+          <barcode>4870024316007</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>

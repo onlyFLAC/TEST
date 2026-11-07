@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-07 08:33">
+<fm_catalog date="2026-11-07 09:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2118,17 +2118,6 @@
         </pickup-options>
         <price>2500</price>
       </offer>
-      <offer sku="УТ-00016733">
-        <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
-        <vendor>TYTAN</vendor>
-        <barcodes>
-          <barcode>5902120110933</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3890</price>
-      </offer>
       <offer sku="УТ-00016958">
         <name>DeWalt, DCG418NT, Машина углошлифовальная аккумуляторная 155 мм</name>
         <vendor>DeWALT</vendor>
@@ -2913,17 +2902,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2990</price>
-      </offer>
-      <offer sku="УТ-00025577">
-        <name>Молоток слесарный 600 г, цельнометаллический, двухкомпонентная рукоятка // Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996222455</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6380</price>
       </offer>
       <offer sku="УТ-00025590">
         <name>Молоток слесарный Denzel 600 гр. 10486</name>
@@ -4405,17 +4383,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44100</price>
-      </offer>
-      <offer sku="УТ-00040139">
-        <name>Доска гладильная Nika "ЛИНА 1" ДЛ1 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830431</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8990</price>
       </offer>
       <offer sku="УТ-00040230">
         <name>Велосипед детский Nika ВДН4/4 черный с лимонным</name>
@@ -10208,14 +10175,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31990</price>
-      </offer>
-      <offer sku="00000023934">
-        <name>Генератор бензиновый Mateus 2.5 кВт MS01102 (2.5 GFE)</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>130000</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -17583,17 +17542,6 @@
         </pickup-options>
         <price>15500</price>
       </offer>
-      <offer sku="00000070612">
-        <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14065</price>
-      </offer>
       <offer sku="00000070655">
         <name>Цепь STIHL 66 зв. 3/8" 1.6 мм 36RM RAPID MICRO 36520000066</name>
         <vendor>STIHL</vendor>
@@ -17782,17 +17730,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11540</price>
-      </offer>
-      <offer sku="00000071269">
-        <name>Веерные грабли пластиковые GRINDA PROLine PP-23X 23 зубца алюминиевый черенок</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925603663</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4590</price>
       </offer>
       <offer sku="00000071272">
         <name>Шланг напорно-всасывающий ЗУБР со спиралью ПВХ 15 м, 25 мм, 3 атм 40325-25-15</name>
@@ -19489,17 +19426,6 @@
         </pickup-options>
         <price>6556</price>
       </offer>
-      <offer sku="УТ-00001826">
-        <name>Перчатки универсальные, усиленные, с защитными накладками, размер 9// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996212210</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8932</price>
-      </offer>
       <offer sku="УТ-00001870">
         <name>Таз круглый строительный, 90 л Россия// Sparta</name>
         <vendor>Sparta</vendor>
@@ -20527,17 +20453,6 @@
         </pickup-options>
         <price>6186</price>
       </offer>
-      <offer sku="УТ-00048671">
-        <name>Доска гладильная Nika "ЛИНА 4" ДЛ4 серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830462</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9990</price>
-      </offer>
       <offer sku="УТ-00048745">
         <name>Пила цепная аккумуляторная Stalker MC20-10 Li BL 69835</name>
         <vendor>Stalker</vendor>
@@ -21271,17 +21186,6 @@
         </pickup-options>
         <price>26370</price>
       </offer>
-      <offer sku="УТ-00055948">
-        <name>Обувница ЗМИ "ТОРОНТО 23Л" СКТ23Л черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633554</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19479</price>
-      </offer>
       <offer sku="УТ-00055972">
         <name>Вешалка с полкой ЗМИ "ТОРОНТО 21Д" ВСПТ21Д белая</name>
         <vendor>ЗМИ</vendor>
@@ -21511,14 +21415,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>132800</price>
-      </offer>
-      <offer sku="УТ-00056637">
-        <name>Сирена пьезоэлектрическая Pandora PS-330</name>
-        <vendor>Pandora</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7500</price>
       </offer>
       <offer sku="УТ-00056639">
         <name>Видеорегистратор SilverStone F-1 INTEGRAL 2.0 Wi-Fi</name>
@@ -23238,14 +23134,6 @@
         </pickup-options>
         <price>112100</price>
       </offer>
-      <offer sku="УТ-00063362">
-        <name>Автосигнализация Pandora DX 40RS</name>
-        <vendor>Pandora</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>67700</price>
-      </offer>
       <offer sku="УТ-00063363">
         <name>Автосигнализация Pandora DX 57R v2</name>
         <vendor>Pandora</vendor>
@@ -23628,22 +23516,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3100</price>
-      </offer>
-      <offer sku="УТ-00063910">
-        <name>Модуль автозапуска Pandora BMW Bypass</name>
-        <vendor>Pandora</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>106100</price>
-      </offer>
-      <offer sku="УТ-00063912">
-        <name>Модуль телеметрический Pandora NAV-Х v3</name>
-        <vendor>Pandora</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>70600</price>
       </offer>
       <offer sku="УТ-00064098">
         <name>Электроды сварочные ARCUS AHO-21 СТАНДАРТ 3 мм 2.5 кг 00000000336</name>

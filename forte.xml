@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 20:18">
+<fm_catalog date="2026-11-08 20:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1423,14 +1423,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13794</price>
-      </offer>
-      <offer sku="УТ-00012987">
-        <name>Холодильник-морозильник ATLANT ХМ-4621-151</name>
-        <vendor>Atlant</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>199000</price>
       </offer>
       <offer sku="УТ-00013011">
         <name>Снегоуборочная машина ALTECO SBG 722</name>
@@ -4231,18 +4223,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39990</price>
-      </offer>
-      <offer sku="УТ-00028792">
-        <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Ч черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633097</barcode>
-          <barcode>4640047369768</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4910</price>
       </offer>
       <offer sku="УТ-00028793">
         <name>Вешалка настенная ЗМИ "ТОРОНТО 5" графит ВНТ5 ГР</name>
@@ -9971,17 +9951,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>28990</price>
-      </offer>
-      <offer sku="00000023767">
-        <name>Дрель ударная электрическая CROWN CT10068</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640372692033</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29990</price>
       </offer>
       <offer sku="00000023802">
         <name>Перфоратор Crown CT18116 SDS+(кейс)</name>
@@ -18566,7 +18535,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22539</price>
+        <price>22537</price>
       </offer>
       <offer sku="УТ-00000565">
         <name>УШМ ЗУБР, УШМ-125-1005, 125 мм, 1000 Вт</name>
@@ -20886,17 +20855,6 @@
         </pickup-options>
         <price>12720</price>
       </offer>
-      <offer sku="УТ-00055973">
-        <name>Вешалка с полкой ЗМИ "ТОРОНТО 21Д" ВСПТ21Д черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633004</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14200</price>
-      </offer>
       <offer sku="УТ-00055980">
         <name>Вешалка с полкой ЗМИ Торонто 11 Черный</name>
         <vendor>ЗМИ</vendor>
@@ -21027,7 +20985,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>10951</price>
+        <price>10949</price>
       </offer>
       <offer sku="УТ-00056481">
         <name>Лопата снеговая Grinda FIBER-500 39940</name>
@@ -21745,17 +21703,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13342</price>
-      </offer>
-      <offer sku="УТ-00059824">
-        <name>Доска гладильная Nika "HAUSHALT SOPHY" SF/O orchid</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111508568</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28593</price>
       </offer>
       <offer sku="УТ-00059828">
         <name>Сушилка напольная Nika СБ3/Б белый</name>
@@ -24088,17 +24035,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6210</price>
-      </offer>
-      <offer sku="УТ-00075506">
-        <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/А медный антик</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075838444</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8722</price>
       </offer>
       <offer sku="УТ-00075509">
         <name>Санки игрушка Nika "ТИМКА 3К УНИВЕРСАЛ+" Т3КУ+/Г голубой</name>

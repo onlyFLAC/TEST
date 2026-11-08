@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 21:17">
+<fm_catalog date="2026-11-08 21:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6705,7 +6705,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>10974</price>
+        <price>10972</price>
       </offer>
       <offer sku="00000008459">
         <name>Набор ключей ЗУБР 8-19 мм 12 шт. 27073-H12</name>
@@ -11477,17 +11477,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16006</price>
-      </offer>
-      <offer sku="00000032560">
-        <name>Набор буров Bosch SDS-Plus-1 5 шт. 5/6.5/8х110 мм 10х12/160 мм 2608579121</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>6949509230072</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4315</price>
       </offer>
       <offer sku="00000032598">
         <name>Набор сверл BOSCH PointTeQ 1-10 мм 18 шт. 2608577350</name>

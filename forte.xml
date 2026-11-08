@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 14:56">
+<fm_catalog date="2026-11-08 15:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10419,7 +10419,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7877</price>
+        <price>7866</price>
       </offer>
       <offer sku="00000025437">
         <name>Сушилка напольная Nika СБ1/С серебристый</name>
@@ -17536,7 +17536,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11536</price>
+        <price>11534</price>
       </offer>
       <offer sku="00000071272">
         <name>Шланг напорно-всасывающий ЗУБР со спиралью ПВХ 15 м, 25 мм, 3 атм 40325-25-15</name>
@@ -18022,7 +18022,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>38034</price>
+        <price>38032</price>
       </offer>
       <offer sku="00000074021">
         <name>Шланг поливочный армированный Grinda PROLine EXPERT 5 3/4" 25 м 429007-3/4-25</name>
@@ -18585,7 +18585,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14553</price>
+        <price>14551</price>
       </offer>
       <offer sku="УТ-00000481">
         <name>GRINDA PROLine X-S, душевой, 4 режима, курок спереди, пистолет поливочный двухкомпонентный с регулятором напора</name>
@@ -19124,7 +19124,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11926</price>
+        <price>11923</price>
       </offer>
       <offer sku="УТ-00001524">
         <name>Шланг поливочный армированный Grinda PROLine FLEX 3 1/2" 15 м 429008-1/2-15</name>

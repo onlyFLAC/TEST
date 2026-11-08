@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 17:23">
+<fm_catalog date="2026-11-08 17:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4181,7 +4181,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6855</price>
+        <price>6849</price>
       </offer>
       <offer sku="УТ-00026340">
         <name>Сушилка напольная Nika СБ1/Б белый</name>
@@ -10419,7 +10419,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7866</price>
+        <price>7843</price>
       </offer>
       <offer sku="00000025437">
         <name>Сушилка напольная Nika СБ1/С серебристый</name>
@@ -17536,7 +17536,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11534</price>
+        <price>11529</price>
       </offer>
       <offer sku="00000071272">
         <name>Шланг напорно-всасывающий ЗУБР со спиралью ПВХ 15 м, 25 мм, 3 атм 40325-25-15</name>
@@ -20225,7 +20225,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7311</price>
+        <price>7284</price>
       </offer>
       <offer sku="УТ-00048667">
         <name>Сушилка настенная Nika СН120/С серый</name>
@@ -20944,7 +20944,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4827</price>
+        <price>4814</price>
       </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>
@@ -21510,7 +21510,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23496</price>
+        <price>23493</price>
       </offer>
       <offer sku="УТ-00059630">
         <name>Доска гладильная Nika "SPORT" NST/5 темно-лазурный</name>
@@ -21521,7 +21521,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27998</price>
+        <price>27992</price>
       </offer>
       <offer sku="УТ-00059637">
         <name>Доска гладильная настольная Nika НД2Т (в ассортименте)</name>
@@ -21723,7 +21723,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8179</price>
+        <price>8146</price>
       </offer>
       <offer sku="УТ-00059668">
         <name>Табурет квадратный разборный Nika НТ5-В/Л латте</name>
@@ -21859,7 +21859,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6469</price>
+        <price>6435</price>
       </offer>
       <offer sku="УТ-00059829">
         <name>Комплект детской мебели Nika КП2/ЗМ забавные медвежата</name>
@@ -21870,7 +21870,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14588</price>
+        <price>14582</price>
       </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>
@@ -22976,7 +22976,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18193</price>
+        <price>18188</price>
       </offer>
       <offer sku="УТ-00063798">
         <name>Доска гладильная Nika Н8 (в ассортименте)</name>
@@ -23959,7 +23959,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25663</price>
+        <price>25621</price>
       </offer>
       <offer sku="УТ-00072732">
         <name>Санки детские Nika "NIKKI 3" N3/Г2 голубой</name>
@@ -23970,7 +23970,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28886</price>
+        <price>28880</price>
       </offer>
       <offer sku="УТ-00072733">
         <name>Санки детские Nika "ТИМКА 3К УНИВЕРСАЛ+" Т3КУ+/З зеленый</name>
@@ -24291,7 +24291,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>53957</price>
+        <price>53915</price>
       </offer>
       <offer sku="УТ-00075789">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/СС скандинавский синий</name>
@@ -25137,7 +25137,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15707</price>
+        <price>15695</price>
       </offer>
       <offer sku="УТ-00090991">
         <name>Детский комплект (КНД1/Р розовый)</name>

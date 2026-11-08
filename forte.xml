@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 19:49">
+<fm_catalog date="2026-11-08 20:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1949,7 +1949,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>52598</price>
+        <price>52596</price>
       </offer>
       <offer sku="УТ-00015554">
         <name>GRINDA PL-22 ALU, 22 зубца, размеры 430 х 40 х 1460 мм, ударопрочный пластик, алюминиевый черенок, грабли веерные пластиковые, PROLine (421819)</name>
@@ -6579,17 +6579,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1817</price>
-      </offer>
-      <offer sku="00000008168">
-        <name>Монтировка ЗУБР 10.3х450 мм 2162-450_z01</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373300974</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4330</price>
       </offer>
       <offer sku="00000008169">
         <name>Монтировка, 600 мм, лопатка 10,3 мм, кованая, ЗУБР</name>
@@ -11308,17 +11297,6 @@
         </pickup-options>
         <price>84980</price>
       </offer>
-      <offer sku="00000032421">
-        <name>Зарядное устройство Bosch GAL 12V-40</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140968133</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24700</price>
-      </offer>
       <offer sku="00000032422">
         <name>Набор из 2 аккумуляторов и ЗУ BOSCH GAL 12V-40 + GBA 2 Aч 1600A019R8</name>
         <vendor>BOSCH</vendor>
@@ -12945,17 +12923,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12490</price>
-      </offer>
-      <offer sku="00000034938">
-        <name>Мешок для пылсоса GAS 15 Bosch</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140605779</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20223</price>
       </offer>
       <offer sku="00000034945">
         <name>Фильтр складчатый из целюлозы для сухой пыли BOSCH 2607432033</name>
@@ -15847,17 +15814,6 @@
         </pickup-options>
         <price>1765</price>
       </offer>
-      <offer sku="00000059141">
-        <name>Вешалка настенная ЗМИ "НОРМА 7" ВН66 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093785812</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3500</price>
-      </offer>
       <offer sku="00000059150">
         <name>Подставка для обуви ЗМИ "АЛЬФА 22" ПДОА22 коричневая (ПДО12М)</name>
         <vendor>ЗМИ</vendor>
@@ -18547,7 +18503,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14551</price>
+        <price>14549</price>
       </offer>
       <offer sku="УТ-00000481">
         <name>GRINDA PROLine X-S, душевой, 4 режима, курок спереди, пистолет поливочный двухкомпонентный с регулятором напора</name>
@@ -19086,7 +19042,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11919</price>
+        <price>11916</price>
       </offer>
       <offer sku="УТ-00001524">
         <name>Шланг поливочный армированный Grinda PROLine FLEX 3 1/2" 15 м 429008-1/2-15</name>
@@ -20970,17 +20926,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6853</price>
-      </offer>
-      <offer sku="УТ-00056025">
-        <name>Табурет круглый Nika "ФАБРИК 2" ТФ02/СК слоновая кость</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032741687</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7120</price>
       </offer>
       <offer sku="УТ-00056027">
         <name>Сиденье в ванну раздвижное Nika СВ3</name>

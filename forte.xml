@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 11:31">
+<fm_catalog date="2026-11-08 12:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5857,7 +5857,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>47467</price>
+        <price>47465</price>
       </offer>
       <offer sku="00000006259">
         <name>ЗУБР сверло алмазное по керамограниту, вакуумное спекание алмазов, d=6 мм, хвостовик HEX 1/4", Профессионал</name>
@@ -6755,7 +6755,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>10978</price>
+        <price>10976</price>
       </offer>
       <offer sku="00000008459">
         <name>Набор ключей ЗУБР 8-19 мм 12 шт. 27073-H12</name>
@@ -26159,14 +26159,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>400</price>
-      </offer>
-      <offer sku="УТ-00094063">
-        <name>Лампа светодиодная СТАРТ LEDCandle E14 10W 40WS холодный</name>
-        <vendor>СТАРТ</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
       </offer>
       <offer sku="УТ-00094064">
         <name>Батарейки литиевые дисковые СТАРТ CR2032-BL2</name>

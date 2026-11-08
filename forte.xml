@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 14:27">
+<fm_catalog date="2026-11-08 14:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -638,7 +638,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13978</price>
+        <price>13976</price>
       </offer>
       <offer sku="УТ-00005412">
         <name>Лестница-стремянка двусторонняя Nika ННДС4</name>
@@ -15258,7 +15258,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3507</price>
+        <price>3501</price>
       </offer>
       <offer sku="00000050320">
         <name>Табурет квадратный Nika "КЛАССИКА 3" ТК03/СК слоновая кость</name>
@@ -16064,7 +16064,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>20298</price>
+        <price>20196</price>
       </offer>
       <offer sku="00000059253">
         <name>Тюбинг принтованный Nika "СПОРТ" ТБ2К-95/32 лимонный</name>
@@ -16075,7 +16075,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14886</price>
+        <price>14882</price>
       </offer>
       <offer sku="00000059255">
         <name>Игрушка. Тюбинг принтованный (ТБ2К-95/12 Nika sport голубой)</name>
@@ -16298,7 +16298,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2722</price>
+        <price>2705</price>
       </offer>
       <offer sku="00000061151">
         <name>Гайка круглая BOSCH M14 1603345043</name>
@@ -20225,7 +20225,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7336</price>
+        <price>7311</price>
       </offer>
       <offer sku="УТ-00048667">
         <name>Сушилка настенная Nika СН120/С серый</name>
@@ -20933,7 +20933,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4964</price>
+        <price>4955</price>
       </offer>
       <offer sku="УТ-00055912">
         <name>Сиденье в ванну пластмассовое Nika СВ4/Б белый</name>
@@ -20944,7 +20944,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4834</price>
+        <price>4827</price>
       </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>
@@ -21040,7 +21040,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4967</price>
+        <price>4953</price>
       </offer>
       <offer sku="УТ-00056062">
         <name>KRAFTOOL COBALT 4-20мм, 9 ступеней, азотирование, винтовая спираль, сверло ступенчатое(29691-4-20-9)</name>
@@ -22648,7 +22648,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13196</price>
+        <price>13185</price>
       </offer>
       <offer sku="УТ-00061475">
         <name>Сушилка напольная двухсекционная Nika СБ8П/МС матово-серый</name>
@@ -22976,7 +22976,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18196</price>
+        <price>18193</price>
       </offer>
       <offer sku="УТ-00063798">
         <name>Доска гладильная Nika Н8 (в ассортименте)</name>
@@ -23981,7 +23981,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26099</price>
+        <price>25905</price>
       </offer>
       <offer sku="УТ-00072735">
         <name>Сушилка напольная Nika СБ4/Б белый</name>
@@ -25358,14 +25358,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3750</price>
-      </offer>
-      <offer sku="УТ-00091088">
-        <name>Лампы светодиодные СТАРТ 5 шт. LEDGX53 14W 40ON</name>
-        <vendor>СТАРТ</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2890</price>
       </offer>
       <offer sku="УТ-00091089">
         <name>Лампы светодиодные СТАРТ 5 шт. LEDGX53 14W 65ON</name>

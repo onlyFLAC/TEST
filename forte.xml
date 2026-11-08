@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 15:55">
+<fm_catalog date="2026-11-08 16:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4626,7 +4626,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12730</price>
+        <price>12725</price>
       </offer>
       <offer sku="00000001824">
         <name>Шланг поливочный армированный Grinda COMFORT 1/2" 20 м 8-429003-1/2-20_z02</name>
@@ -18648,7 +18648,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22541</price>
+        <price>22539</price>
       </offer>
       <offer sku="УТ-00000565">
         <name>УШМ ЗУБР, УШМ-125-1005, 125 мм, 1000 Вт</name>
@@ -26064,7 +26064,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19902</price>
+        <price>19900</price>
       </offer>
       <offer sku="УТ-00093438">
         <name>KRAFTOOL 25 мм, 5 шт, сегментированные лезвия (09602-25-S5)</name>
@@ -26091,7 +26091,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23678</price>
+        <price>23676</price>
       </offer>
       <offer sku="УТ-00093719">
         <name>GRINDA WS-2 лопата дамская штыковая остроконечная, 200х160х1200мм, алюминиевый черенок, PROLine (421827)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 18:21">
+<fm_catalog date="2026-11-08 18:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4626,7 +4626,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12725</price>
+        <price>12722</price>
       </offer>
       <offer sku="00000001824">
         <name>Шланг поливочный армированный Grinda COMFORT 1/2" 20 м 8-429003-1/2-20_z02</name>
@@ -4990,7 +4990,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11323</price>
+        <price>11321</price>
       </offer>
       <offer sku="00000002588">
         <name>STAYER 225г Чёрная резиновая киянка с деревянной рукояткой</name>
@@ -26064,7 +26064,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19900</price>
+        <price>19898</price>
       </offer>
       <offer sku="УТ-00093438">
         <name>KRAFTOOL 25 мм, 5 шт, сегментированные лезвия (09602-25-S5)</name>
@@ -26091,7 +26091,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23676</price>
+        <price>23674</price>
       </offer>
       <offer sku="УТ-00093719">
         <name>GRINDA WS-2 лопата дамская штыковая остроконечная, 200х160х1200мм, алюминиевый черенок, PROLine (421827)</name>

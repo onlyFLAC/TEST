@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 10:03">
+<fm_catalog date="2026-11-08 10:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1960,7 +1960,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>53345</price>
+        <price>52598</price>
       </offer>
       <offer sku="УТ-00015554">
         <name>GRINDA PL-22 ALU, 22 зубца, размеры 430 х 40 х 1460 мм, ударопрочный пластик, алюминиевый черенок, грабли веерные пластиковые, PROLine (421819)</name>
@@ -18596,7 +18596,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14555</price>
+        <price>14553</price>
       </offer>
       <offer sku="УТ-00000481">
         <name>GRINDA PROLine X-S, душевой, 4 режима, курок спереди, пистолет поливочный двухкомпонентный с регулятором напора</name>
@@ -19135,7 +19135,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>11954</price>
+        <price>11926</price>
       </offer>
       <offer sku="УТ-00001524">
         <name>Шланг поливочный армированный Grinda PROLine FLEX 3 1/2" 15 м 429008-1/2-15</name>

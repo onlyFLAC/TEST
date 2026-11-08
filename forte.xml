@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 07:37">
+<fm_catalog date="2026-11-08 08:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -551,17 +551,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3790</price>
-      </offer>
-      <offer sku="УТ-00004891">
-        <name>Щетка абразивная лепестковая для брашировальных машин PATRIOT Р120 120х100 мм 823010024</name>
-        <vendor>Patriot</vendor>
-        <barcodes>
-          <barcode>4630065974440</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7890</price>
       </offer>
       <offer sku="УТ-00005013">
         <name>Болторез PATRIOT CMP-305 350002130</name>
@@ -5180,17 +5169,6 @@
         </pickup-options>
         <price>238790</price>
       </offer>
-      <offer sku="00000003683">
-        <name>Набор алюминиевых заклепок STAYER 4х8 мм 50 шт. 3120-40-08</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229007232</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>519</price>
-      </offer>
       <offer sku="00000003688">
         <name>Алюминиевые заклепки Pro-FIX, 4.8 х 18 мм, 50 шт, STAYER Professional</name>
         <vendor>STAYER</vendor>
@@ -5311,17 +5289,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1480</price>
-      </offer>
-      <offer sku="00000004312">
-        <name>Грабельки садовые с деревянной ручкой, РОСТОК 39611, 6 витых зубцов, 120x62x405 мм</name>
-        <vendor>Росток</vendor>
-        <barcodes>
-          <barcode>4606373275678</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1690</price>
       </offer>
       <offer sku="00000004313">
         <name>Грабельки садовые с деревянной ручкой, РОСТОК 39613, 8 витых зубцов, 160x62x405 мм</name>
@@ -7849,17 +7816,6 @@
         </pickup-options>
         <price>832</price>
       </offer>
-      <offer sku="00000011338">
-        <name>Шпатель резиновый STAYER "MASTER" 40 мм 1027-40</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229204709</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>390</price>
-      </offer>
       <offer sku="00000011357">
         <name>Шпатель STAYER "PROFESSIONAL" нержавеющий зубчатый с пластмассовой ручкой, 250мм, зуб 10х10мм</name>
         <vendor>STAYER</vendor>
@@ -7936,17 +7892,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6120</price>
-      </offer>
-      <offer sku="00000011621">
-        <name>Ящик для инструмента ЗУБР "НЕВА-23" 38323-23</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373294617</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13479</price>
       </offer>
       <offer sku="00000011690">
         <name>Молоток слесарный Matrix 1 кг 10360</name>
@@ -8443,17 +8388,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32640</price>
-      </offer>
-      <offer sku="00000015489">
-        <name>Заклепочник, 225 мм, заклепки 2,4-3,2-4,0-4,8 мм// МАТРИКС</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996019055</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2710</price>
       </offer>
       <offer sku="00000015499">
         <name>Заклепочник Matrix "ГАРМОШКА" 2.4-3.2-4-4.8-6.4 мм 40548</name>
@@ -9455,17 +9389,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1388</price>
-      </offer>
-      <offer sku="00000021175">
-        <name>Скребок SPARTA 795305</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996070971</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>440</price>
       </offer>
       <offer sku="00000021218">
         <name>Нож, выдвижное трапециевидное лезвие, отделение для лезвий, метал.корпус// Matrix</name>
@@ -10834,17 +10757,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14000</price>
-      </offer>
-      <offer sku="00000031300">
-        <name>Шнек 200 мм для земли TT 800мм</name>
-        <vendor>Total Tools</vendor>
-        <barcodes>
-          <barcode>4870024316007</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9625</price>
       </offer>
       <offer sku="00000031441">
         <name>Набор инструментов Total Tools 25 шт. ST036-25</name>
@@ -16881,17 +16793,6 @@
         </pickup-options>
         <price>18725</price>
       </offer>
-      <offer sku="00000064218">
-        <name>Подставка для обуви ЗМИ "ЖЕНЕВА 25" ПДОЖ25 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787199</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21040</price>
-      </offer>
       <offer sku="00000064223">
         <name>ЗМИ Подставка для обуви ВЕРОНА 15 Графит</name>
         <vendor>ЗМИ</vendor>
@@ -19546,17 +19447,6 @@
         </pickup-options>
         <price>14990</price>
       </offer>
-      <offer sku="УТ-00002303">
-        <name>Банкетка ЗМИ ''Торонто 13S'' БТ13С белый/бежевый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195632496</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23360</price>
-      </offer>
       <offer sku="УТ-00002304">
         <name>Банкетка ЗМИ "ТОРОНТО 13S" БТ13С графит/серый</name>
         <vendor>ЗМИ</vendor>
@@ -19741,17 +19631,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16900</price>
-      </offer>
-      <offer sku="УТ-00040683">
-        <name>Стремянка Nika 6 ступ. СМ6 оранжевый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830714</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17995</price>
       </offer>
       <offer sku="УТ-00040684">
         <name>Стремянка Nika 7 ступ. СМ7 оранжевый</name>
@@ -20901,14 +20780,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>391500</price>
-      </offer>
-      <offer sku="УТ-00055254">
-        <name>Бензопила STIHL MS 250 45 см 11230123044К451</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>206500</price>
       </offer>
       <offer sku="УТ-00055256">
         <name>Бензопила STIHL MS 230 40 см 11230123042К40</name>
@@ -25888,14 +25759,6 @@
         </pickup-options>
         <price>36860</price>
       </offer>
-      <offer sku="УТ-00091586">
-        <name>Отвертка с трещоткой BOSCH 1600A02Z99</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5870</price>
-      </offer>
       <offer sku="УТ-00091587">
         <name>Отвертка с трещоткой BOSCH 18 предметов 1600A02Z9A</name>
         <vendor>BOSCH</vendor>
@@ -26224,14 +26087,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2890</price>
-      </offer>
-      <offer sku="УТ-00093022">
-        <name>ЗУБР 1900 Вт, 70 мм, универсальный фрезер (ФМУ-1970)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>71980</price>
       </offer>
       <offer sku="УТ-00093166">
         <name>ЗУБР 76 х 10 мм, P60, 3 шт., КЛТ для мини-УШМ, Профессионал (36591-76-60-H3)</name>

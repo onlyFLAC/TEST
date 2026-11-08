@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 20:48">
+<fm_catalog date="2026-11-08 21:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2619,14 +2619,6 @@
         </pickup-options>
         <price>28600</price>
       </offer>
-      <offer sku="УТ-00022552">
-        <name>Перчатки Husqvarna Functional зимние р.10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>33000</price>
-      </offer>
       <offer sku="УТ-00023846">
         <name>Гайковерт аккумуляторный Makita XGT BL 40В TW001GZ</name>
         <vendor>Makita</vendor>
@@ -4595,7 +4587,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>12722</price>
+        <price>12720</price>
       </offer>
       <offer sku="00000001824">
         <name>Шланг поливочный армированный Grinda COMFORT 1/2" 20 м 8-429003-1/2-20_z02</name>
@@ -21704,17 +21696,6 @@
         </pickup-options>
         <price>13342</price>
       </offer>
-      <offer sku="УТ-00059828">
-        <name>Сушилка напольная Nika СБ3/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075832602</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6435</price>
-      </offer>
       <offer sku="УТ-00059829">
         <name>Комплект детской мебели Nika КП2/ЗМ забавные медвежата</name>
         <vendor>Nika</vendor>
@@ -22470,17 +22451,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6052</price>
-      </offer>
-      <offer sku="УТ-00061469">
-        <name>Сушилка настенная Nika СН90/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076021620</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6853</price>
       </offer>
       <offer sku="УТ-00061472">
         <name>Доска гладильная Nika НТ11/4 с линиями на сером</name>
@@ -24610,14 +24580,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21390</price>
-      </offer>
-      <offer sku="УТ-00087400">
-        <name>Шлифмашина угловая (болгарка) TT МШУ-150/1800В</name>
-        <vendor>Total Tools</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22100</price>
       </offer>
       <offer sku="УТ-00087507">
         <name>Генератор бензиновый HYUNDAI HHY 7050FE ATS</name>

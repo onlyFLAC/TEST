@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 19:20">
+<fm_catalog date="2026-11-08 19:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -638,7 +638,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13970</price>
+        <price>13964</price>
       </offer>
       <offer sku="УТ-00005412">
         <name>Лестница-стремянка двусторонняя Nika ННДС4</name>
@@ -1450,17 +1450,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18720</price>
-      </offer>
-      <offer sku="УТ-00013064">
-        <name>Корыто для тачки IVT 110 л 4222</name>
-        <vendor>IVT</vendor>
-        <barcodes>
-          <barcode>7630005242223</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7560</price>
       </offer>
       <offer sku="УТ-00013463">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 белая</name>
@@ -10419,7 +10408,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7843</price>
+        <price>7811</price>
       </offer>
       <offer sku="00000025437">
         <name>Сушилка напольная Nika СБ1/С серебристый</name>
@@ -10452,7 +10441,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4338</price>
+        <price>4335</price>
       </offer>
       <offer sku="00000025445">
         <name>Тюбинг принтованный Nika "SPORT" ТБ2К-95/22 фиолетовый/зеленый</name>
@@ -10917,14 +10906,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26080</price>
-      </offer>
-      <offer sku="00000031892">
-        <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>163800</price>
       </offer>
       <offer sku="00000031902">
         <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
@@ -16782,14 +16763,6 @@
         </pickup-options>
         <price>17070</price>
       </offer>
-      <offer sku="00000064226">
-        <name>ЗМИ Подставка для обуви ВЕРОНА 25 Графит</name>
-        <vendor>ЗМИ</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20620</price>
-      </offer>
       <offer sku="00000064227">
         <name>Подставка для обуви ЗМИ ''ВЕРОНА 25'' Черный</name>
         <vendor>ЗМИ</vendor>
@@ -18022,7 +17995,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>38032</price>
+        <price>38030</price>
       </offer>
       <offer sku="00000074021">
         <name>Шланг поливочный армированный Grinda PROLine EXPERT 5 3/4" 25 м 429007-3/4-25</name>
@@ -18072,17 +18045,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>28153</price>
-      </offer>
-      <offer sku="00000074035">
-        <name>GRINDA PROLine 22 плоских зубца, грабли с алюминиевым черенком</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925602666</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6670</price>
       </offer>
       <offer sku="00000074075">
         <name>Напильник ЗУБР "ЭКСПЕРТ" с алмазным напылением, плоский, P 400, 200мм</name>
@@ -19608,7 +19570,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16839</price>
+        <price>16828</price>
       </offer>
       <offer sku="УТ-00040684">
         <name>Стремянка Nika 7 ступ. СМ7 оранжевый</name>
@@ -20225,7 +20187,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7284</price>
+        <price>7257</price>
       </offer>
       <offer sku="УТ-00048667">
         <name>Сушилка настенная Nika СН120/С серый</name>
@@ -20944,7 +20906,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4814</price>
+        <price>4804</price>
       </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>
@@ -21510,7 +21472,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23493</price>
+        <price>23489</price>
       </offer>
       <offer sku="УТ-00059630">
         <name>Доска гладильная Nika "SPORT" NST/5 темно-лазурный</name>
@@ -21870,7 +21832,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14582</price>
+        <price>14580</price>
       </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>
@@ -22976,7 +22938,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18188</price>
+        <price>18184</price>
       </offer>
       <offer sku="УТ-00063798">
         <name>Доска гладильная Nika Н8 (в ассортименте)</name>
@@ -23959,7 +23921,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25621</price>
+        <price>25600</price>
       </offer>
       <offer sku="УТ-00072732">
         <name>Санки детские Nika "NIKKI 3" N3/Г2 голубой</name>
@@ -23970,18 +23932,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28880</price>
-      </offer>
-      <offer sku="УТ-00072733">
-        <name>Санки детские Nika "ТИМКА 3К УНИВЕРСАЛ+" Т3КУ+/З зеленый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047364558</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25705</price>
+        <price>28878</price>
       </offer>
       <offer sku="УТ-00072735">
         <name>Сушилка напольная Nika СБ4/Б белый</name>
@@ -24003,7 +23954,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4888</price>
+        <price>4885</price>
       </offer>
       <offer sku="УТ-00072850">
         <name>Аксесуар для лазера Stabila NKL 16782</name>

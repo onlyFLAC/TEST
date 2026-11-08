@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-08 18:50">
+<fm_catalog date="2026-11-08 19:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -649,7 +649,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17398</price>
+        <price>17396</price>
       </offer>
       <offer sku="УТ-00005413">
         <name>Корзина для белья на металлокаркасе Nika HSC3/1 бамбук</name>
@@ -16064,7 +16064,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19994</price>
+        <price>19792</price>
       </offer>
       <offer sku="00000059253">
         <name>Тюбинг принтованный Nika "СПОРТ" ТБ2К-95/32 лимонный</name>
@@ -16075,7 +16075,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14872</price>
+        <price>14864</price>
       </offer>
       <offer sku="00000059255">
         <name>Игрушка. Тюбинг принтованный (ТБ2К-95/12 Nika sport голубой)</name>
@@ -16086,7 +16086,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>20992</price>
+        <price>20990</price>
       </offer>
       <offer sku="00000059258">
         <name>Тюбинг принтованный Nika "SPORT" ТБ2К-85/22 фиолетовый</name>
@@ -20933,7 +20933,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4947</price>
+        <price>4945</price>
       </offer>
       <offer sku="УТ-00055912">
         <name>Сиденье в ванну пластмассовое Nika СВ4/Б белый</name>
@@ -21040,7 +21040,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4931</price>
+        <price>4896</price>
       </offer>
       <offer sku="УТ-00056062">
         <name>KRAFTOOL COBALT 4-20мм, 9 ступеней, азотирование, винтовая спираль, сверло ступенчатое(29691-4-20-9)</name>
@@ -22648,7 +22648,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13162</price>
+        <price>13119</price>
       </offer>
       <offer sku="УТ-00061475">
         <name>Сушилка напольная двухсекционная Nika СБ8П/МС матово-серый</name>
@@ -22670,7 +22670,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4980</price>
+        <price>4977</price>
       </offer>
       <offer sku="УТ-00061479">
         <name>Стремянка с широкими ступенями Nika СМШ3/Ч черный</name>
@@ -23981,7 +23981,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>25905</price>
+        <price>25705</price>
       </offer>
       <offer sku="УТ-00072735">
         <name>Сушилка напольная Nika СБ4/Б белый</name>
@@ -25145,7 +25145,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15198</price>
+        <price>15195</price>
       </offer>
       <offer sku="УТ-00090992">
         <name>Детский комплект (КП/Д с ДИНОпилотами)</name>

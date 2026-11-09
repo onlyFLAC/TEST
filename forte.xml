@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 08:02">
+<fm_catalog date="2026-11-09 08:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1149,14 +1149,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>800</price>
-      </offer>
-      <offer sku="УТ-00009214">
-        <name>Видеокамера купольная DAHUA DH-HAC-T1A21P-0280B 34315</name>
-        <vendor>Dahua</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9347</price>
       </offer>
       <offer sku="УТ-00009426">
         <name>Лопата для уборки снега пластиковая, 350х350х1445 мм, деревянный черенок// Россия</name>
@@ -2572,17 +2564,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7200</price>
-      </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -9752,17 +9733,6 @@
         </pickup-options>
         <price>2290</price>
       </offer>
-      <offer sku="00000022790">
-        <name>Ящик для инструментов Сибртех 90803</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800042293</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2375</price>
-      </offer>
       <offer sku="00000022791">
         <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
         <vendor>Сибртех</vendor>
@@ -11313,17 +11283,6 @@
         </pickup-options>
         <price>1390</price>
       </offer>
-      <offer sku="00000032486">
-        <name>Дальномер лазерный Bosch GLM 40 Professional 0601072900</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140790406</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>41200</price>
-      </offer>
       <offer sku="00000032505">
         <name>Уровень лазерный Bosch GLL 3Х 0601063CJ0</name>
         <vendor>BOSCH</vendor>
@@ -11830,17 +11789,6 @@
         </pickup-options>
         <price>17528</price>
       </offer>
-      <offer sku="00000032763">
-        <name>Пылесос строительный Bosch GAS 15 PS 06019E5100</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140829007</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>120150</price>
-      </offer>
       <offer sku="00000032765">
         <name>Пылесос строительный Bosch GAS 35 L SFC+ 06019C3000</name>
         <vendor>BOSCH</vendor>
@@ -11907,17 +11855,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>115900</price>
-      </offer>
-      <offer sku="00000032788">
-        <name>Рубанок Bosch GHO 6500 0601596000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140831987</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>88630</price>
       </offer>
       <offer sku="00000032791">
         <name>РУБАНОК/ЭЛЕКТРОИНСТРУМЕНТ GHO 12V-20 (Без акк. и з.у.)</name>
@@ -14385,28 +14322,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12819</price>
-      </offer>
-      <offer sku="00000039617">
-        <name>Набор бумажных мешков BOSCH для UniversalVac 15 5 шт. 2609256F32</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140912334</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5790</price>
-      </offer>
-      <offer sku="00000039618">
-        <name>Набор бумажных мешков Bosch для AdvancedVac 20 5 шт. 2609256F33</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140912341</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5609</price>
       </offer>
       <offer sku="00000039619">
         <name>Картридж-фильтр д/VAC</name>
@@ -16941,17 +16856,6 @@
         </pickup-options>
         <price>67000</price>
       </offer>
-      <offer sku="00000064620">
-        <name>Фрезер Bosch GOF 130 06016B7000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952513669</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>83890</price>
-      </offer>
       <offer sku="00000064861">
         <name>Культиватор электрический ЗУБР ККД-900</name>
         <vendor>ЗУБР</vendor>
@@ -17589,17 +17493,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>56700</price>
-      </offer>
-      <offer sku="00000071955">
-        <name>Дрель-шуруповёрт аккумуляторная Bosch GSR 12V-35 FC БЕЗ Акб и ЗУ, угловые адаптеры, кейс</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140936941</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>140110</price>
       </offer>
       <offer sku="00000071961">
         <name>Насос EasyPump 0603947000 Bosch</name>
@@ -19937,17 +19830,6 @@
         </pickup-options>
         <price>7200</price>
       </offer>
-      <offer sku="УТ-00048213">
-        <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883037737</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6990</price>
-      </offer>
       <offer sku="УТ-00048216">
         <name>Шнур кордовый Husqvarna 2.7x70 мм 597 66 90-10</name>
         <vendor>Husqvarna</vendor>
@@ -21336,17 +21218,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="УТ-00059641">
-        <name>Комплект детской мебели Nika КА2/Г голубой</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075839502</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12015</price>
-      </offer>
       <offer sku="УТ-00059643">
         <name>Доска знаний-мольберт двусторонний Nika М2S/1 белый</name>
         <vendor>Nika</vendor>
@@ -21900,17 +21771,6 @@
         </pickup-options>
         <price>51220</price>
       </offer>
-      <offer sku="УТ-00059996">
-        <name>Душевая система с изливом Gappo G2406-3 Золото Сатин</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477645563</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>130570</price>
-      </offer>
       <offer sku="УТ-00060071">
         <name>Душевая стойка GAPPO с термостатом G2495-76</name>
         <vendor>GAPPO</vendor>
@@ -21992,17 +21852,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>38320</price>
-      </offer>
-      <offer sku="УТ-00060174">
-        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477645532</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39180</price>
       </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 12:27">
+<fm_catalog date="2026-11-09 12:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9626,17 +9626,6 @@
         </pickup-options>
         <price>1552</price>
       </offer>
-      <offer sku="00000022173">
-        <name>Мастерок из нерж. стали, 80 х 60 х 60 мм, для внутренних углов, деревянная ручка// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996008271</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2090</price>
-      </offer>
       <offer sku="00000022192">
         <name>Терка полиуретановая Сибртех 180х320 мм 86630</name>
         <vendor>Сибртех</vendor>
@@ -9647,17 +9636,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1440</price>
-      </offer>
-      <offer sku="00000022304">
-        <name>Рубанок, 250 х 42 мм, обдирочный, пластмассовый, для гипсокартона// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996087771</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4510</price>
       </offer>
       <offer sku="00000022377">
         <name>Лента малярная СИБРТЕХ 38 мм х 40 м, на бумажной основе 88702</name>
@@ -9799,17 +9777,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000022755">
-        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996123127</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8980</price>
-      </offer>
       <offer sku="00000022756">
         <name>Ящик для инструмента STELS 23" 90706</name>
         <vendor>STELS</vendor>
@@ -9872,18 +9839,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2242</price>
-      </offer>
-      <offer sku="00000023099">
-        <name>Паста паяльная SPARTA 10 г 913345</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996045559</barcode>
-          <barcode>6953888564666</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>690</price>
       </offer>
       <offer sku="00000023100">
         <name>Паста полировальная Сибртех ГОИ №3 20 гр. 913346</name>
@@ -22338,17 +22293,6 @@
         </pickup-options>
         <price>7112</price>
       </offer>
-      <offer sku="УТ-00061457">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/6 с линиями на сливовом</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111519069</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30705</price>
-      </offer>
       <offer sku="УТ-00061459">
         <name>Доска гладильная Nika Н3МТ/П пудровый</name>
         <vendor>Nika</vendor>
@@ -24317,17 +24261,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32566</price>
-      </offer>
-      <offer sku="УТ-00085186">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 2" НВ2/11</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111522663</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31941</price>
       </offer>
       <offer sku="УТ-00085187">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/23</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 10:29">
+<fm_catalog date="2026-11-09 10:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10743,17 +10743,6 @@
         </pickup-options>
         <price>27000</price>
       </offer>
-      <offer sku="00000031859">
-        <name>Лестница трехсекционная KRAUSE CORDA 3х9 ступ. 013392</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199013392</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>109190</price>
-      </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
         <vendor>Krause</vendor>
@@ -20715,17 +20704,6 @@
         </pickup-options>
         <price>4945</price>
       </offer>
-      <offer sku="УТ-00055912">
-        <name>Сиденье в ванну пластмассовое Nika СВ4/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076021439</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4804</price>
-      </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>
         <vendor>ЗМИ</vendor>
@@ -23019,17 +22997,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4280</price>
-      </offer>
-      <offer sku="УТ-00064685">
-        <name>Лопата туристическая ЗУБР "МАСТЕР" 210х154х550 мм 39571</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373570988</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3846</price>
       </offer>
       <offer sku="УТ-00064686">
         <name>ЗУБР Мастер, 380 х 208 мм, полотно 1.6 мм, закалено, с рёбрами жёсткости, без черенка, тип ЛКО, штыковая лопата (39414)</name>

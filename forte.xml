@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 16:51">
+<fm_catalog date="2026-11-09 17:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -186,6 +186,14 @@
         </pickup-options>
         <price>34265</price>
       </offer>
+      <offer sku="УТ-00003895">
+        <name>Воздуходувка аккумуляторная CROWN CT29002HX-4</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>55200</price>
+      </offer>
       <offer sku="УТ-00003909">
         <name>Ножницы по металлу аккумуляторные CROWN CT29001HX-2S BMC</name>
         <vendor>CROWN</vendor>
@@ -212,6 +220,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>45990</price>
+      </offer>
+      <offer sku="УТ-00003976">
+        <name>Мультиметр цифровой CROWN CT44051</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177426468</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -4490,6 +4509,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>312490</price>
+      </offer>
+      <offer sku="00000000869">
+        <name>Конвектор РЕСАНТА ОК-500С</name>
+        <vendor>Ресанта</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9390</price>
       </offer>
       <offer sku="00000000888">
         <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
@@ -9972,6 +9999,28 @@
         </pickup-options>
         <price>21990</price>
       </offer>
+      <offer sku="00000023825">
+        <name>Лобзик электрический CROWN CT15189</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177420688</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>36990</price>
+      </offer>
+      <offer sku="00000023869">
+        <name>Машина шлифовальная угловая CROWN CT13300</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640186249904</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31990</price>
+      </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
         <vendor>Mateus</vendor>
@@ -10003,6 +10052,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>400500</price>
+      </offer>
+      <offer sku="00000024037">
+        <name>Станция насосная автоматическая Mateus MS05101 (ATJET100A)</name>
+        <vendor>Mateus</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>76000</price>
       </offer>
       <offer sku="00000024071">
         <name>Станция насосная автоматическая Mateus MS05404 (TGP125C)</name>
@@ -11323,6 +11380,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>36800</price>
+      </offer>
+      <offer sku="00000032453">
+        <name>Контейнер Lidbox(50295317)</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140961905</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4830</price>
       </offer>
       <offer sku="00000032455">
         <name>Краскопульт электрический BOSCH PFS 2000 0603207300</name>
@@ -24382,6 +24450,14 @@
         </pickup-options>
         <price>2890</price>
       </offer>
+      <offer sku="УТ-00084641">
+        <name>Фрезер вертикальный CROWN CT11023</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50990</price>
+      </offer>
       <offer sku="УТ-00084675">
         <name>Кусачки прецизионные KNIPEX 125 мм 7813125SB</name>
         <vendor>KNIPEX</vendor>
@@ -26254,6 +26330,22 @@
         </pickup-options>
         <price>3190</price>
       </offer>
+      <offer sku="УТ-00099503">
+        <name>Воздуходувка электрическая CROWN CT17010V</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20990</price>
+      </offer>
+      <offer sku="УТ-00099518">
+        <name>31013 Краскопульт CROWN</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20990</price>
+      </offer>
       <offer sku="УТ-00099520">
         <name>31015 Краскопульт CROWN</name>
         <vendor>CROWN</vendor>
@@ -26428,6 +26520,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34880</price>
+      </offer>
+      <offer sku="УТ-00103485">
+        <name>Генератор бензиновый Mateus 3 кВт G4000 MS01137</name>
+        <vendor>Mateus</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>109200</price>
+      </offer>
+      <offer sku="УТ-00103512">
+        <name>Пила цепная электрическая CROWN CT20188-16</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640346535762</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>34990</price>
       </offer>
       <offer sku="УТ-00103537">
         <name>Комплект клапанов STIHL для RE98 47757006200</name>

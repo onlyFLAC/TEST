@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 10:59">
+<fm_catalog date="2026-11-09 11:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13284,17 +13284,6 @@
         </pickup-options>
         <price>7293</price>
       </offer>
-      <offer sku="00000035865">
-        <name>Набор сверл по бетону Bosch SilverPerc CYL-3 6х100 мм 2608597660</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140186728</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
-      </offer>
       <offer sku="00000036003">
         <name>Сверло перовое по дереву BOSCH 10х152 мм 2608595483</name>
         <vendor>BOSCH</vendor>
@@ -17615,6 +17604,9 @@
       <offer sku="00000073417">
         <name>Кожух защитный Bosch 1619P14539</name>
         <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952174471</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -18834,14 +18826,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>113888</price>
-      </offer>
-      <offer sku="УТ-00001372">
-        <name>Узел редукторный BOSCH 1607000D4Y</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9940</price>
       </offer>
       <offer sku="УТ-00001482">
         <name>ЗУБР ПРОФЕССИОНАЛ БУРАН SDS-Plus Набор зубил и буров, 13 шт</name>

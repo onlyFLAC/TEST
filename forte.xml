@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 14:53">
+<fm_catalog date="2026-11-09 15:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -798,6 +798,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19190</price>
+      </offer>
+      <offer sku="УТ-00005950">
+        <name>Уровень Stabila тип 70, 50 см 02283</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12590</price>
+      </offer>
+      <offer sku="УТ-00005969">
+        <name>Уровень тип 80АS-2, 120 см, 3 глазка STABILA 19173</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191733</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29990</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -23414,6 +23433,18 @@
         </pickup-options>
         <price>46580</price>
       </offer>
+      <offer sku="УТ-00072440">
+        <name>Клещи сантехнические KNIPEX 87 01 125</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773069935</barcode>
+          <barcode>4003773269939</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20685</price>
+      </offer>
       <offer sku="УТ-00072445">
         <name>Клещи сантехнические KNIPEX 87 01 400</name>
         <vendor>KNIPEX</vendor>
@@ -23462,6 +23493,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25480</price>
+      </offer>
+      <offer sku="УТ-00072493">
+        <name>Кусачки KNIPEX 78 03 125</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773035381</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18440</price>
       </offer>
       <offer sku="УТ-00072495">
         <name>Кусачки KNIPEX 78 61 125</name>
@@ -23870,6 +23912,22 @@
         </pickup-options>
         <price>78850</price>
       </offer>
+      <offer sku="УТ-00074591">
+        <name>Зажим для кромок Bessey KT5-1CP</name>
+        <vendor>Bessey</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14090</price>
+      </offer>
+      <offer sku="УТ-00074613">
+        <name>Ножницы Bessey D15A</name>
+        <vendor>Bessey</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19490</price>
+      </offer>
       <offer sku="УТ-00074824">
         <name>Дрель-шуруповерт аккумуляторная IVT в кейсе (1 акб*2 Ач) ICSD 20/2-65 BMC</name>
         <vendor>IVT</vendor>
@@ -23929,6 +23987,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>140220</price>
+      </offer>
+      <offer sku="УТ-00075621">
+        <name>Ключ с кольцевой трещоткой Wera Joker 13x177 мм 05073273001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19190</price>
       </offer>
       <offer sku="УТ-00075636">
         <name>Набор бит Wera 05057434001</name>
@@ -24224,6 +24290,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19685</price>
+      </offer>
+      <offer sku="УТ-00084680">
+        <name>Ножницы для резки кабелей KNIPEX 165 мм 95 12 165</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27760</price>
       </offer>
       <offer sku="УТ-00084690">
         <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
@@ -26152,6 +26226,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00102845">
+        <name>05059488001 Бита шлицевая 800/4 Z 1.0 X 5.5 X 89 MM</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3490</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

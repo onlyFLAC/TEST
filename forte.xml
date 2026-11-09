@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 16:21">
+<fm_catalog date="2026-11-09 16:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11511,6 +11511,17 @@
         </pickup-options>
         <price>16006</price>
       </offer>
+      <offer sku="00000032590">
+        <name>Набор принадлежностей BOSCH x-line titanium 33 шт. 2607019325</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140379489</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9156</price>
+      </offer>
       <offer sku="00000032598">
         <name>Набор сверл BOSCH PointTeQ 1-10 мм 18 шт. 2608577350</name>
         <vendor>BOSCH</vendor>
@@ -13303,6 +13314,17 @@
         </pickup-options>
         <price>2341</price>
       </offer>
+      <offer sku="00000035588">
+        <name>Бур по бетону BOSCH SDS+ 10х200/260 мм 2608833800</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>6949509223531</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2513</price>
+      </offer>
       <offer sku="00000035590">
         <name>Бур по бетону BOSCH SDS+ 10х300/360 мм 2608833802</name>
         <vendor>BOSCH</vendor>
@@ -13929,6 +13951,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5690</price>
+      </offer>
+      <offer sku="00000036864">
+        <name>ФРЕЗА ДЛЯ ВЫБОРКИ 12,7/8ММ BOSCH</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140358095</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4867</price>
+      </offer>
+      <offer sku="00000036898">
+        <name>Фреза пазовая Bosch 12/20 мм 2608628385</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140358460</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3561</price>
       </offer>
       <offer sku="00000036900">
         <name>Фреза пазовая прямая по дереву BOSCH 8х15х20 мм 2608628387</name>
@@ -25416,6 +25460,14 @@
         </pickup-options>
         <price>38950</price>
       </offer>
+      <offer sku="УТ-00091561">
+        <name>Набор отверток BOSCH 6 шт 1600A027PM</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9550</price>
+      </offer>
       <offer sku="УТ-00091562">
         <name>Отвертка с трещоткой BOSCH 1600A027PP</name>
         <vendor>BOSCH</vendor>
@@ -25527,6 +25579,17 @@
         </pickup-options>
         <price>36860</price>
       </offer>
+      <offer sku="УТ-00091586">
+        <name>Отвертка с трещоткой BOSCH 1600A02Z99</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423254099</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5870</price>
+      </offer>
       <offer sku="УТ-00091587">
         <name>Отвертка с трещоткой BOSCH 18 предметов 1600A02Z9A</name>
         <vendor>BOSCH</vendor>
@@ -25609,6 +25672,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7800</price>
+      </offer>
+      <offer sku="УТ-00091602">
+        <name>Молоток-гвоздодер BOSCH 450 г 1600A02ZA2</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423254389</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7550</price>
       </offer>
       <offer sku="УТ-00091604">
         <name>Кувалда BOSCH 1000 г 1600A02ZA4</name>
@@ -25699,6 +25773,14 @@
         </pickup-options>
         <price>11460</price>
       </offer>
+      <offer sku="УТ-00091616">
+        <name>Трещотка стандартная с резиновой ручкой BOSCH 1/2" 1600A0317V</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10110</price>
+      </offer>
       <offer sku="УТ-00091617">
         <name>Отвертка короткая BOSCH 4 предмета 1600A032UJ</name>
         <vendor>BOSCH</vendor>
@@ -25742,6 +25824,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6170</price>
+      </offer>
+      <offer sku="УТ-00091636">
+        <name>Клещи переставные BOSCH 250 мм 1600A032V9</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302325</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8890</price>
       </offer>
       <offer sku="УТ-00091639">
         <name>Плоскогубцы удлиненные BOSCH 180 мм 1600A032VC</name>
@@ -25845,6 +25938,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4955</price>
+      </offer>
+      <offer sku="УТ-00092281">
+        <name>Bosch по керамической плитке 2608900590 6 мм 1 шт.</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2439</price>
       </offer>
       <offer sku="УТ-00092572">
         <name>Комбо: Аккум. Воздуходувка Einhell GP-LB 36/270 Li E + Зарядное устройство + 2 аккум. 18V 4,0Ah Einhell (343357012)</name>

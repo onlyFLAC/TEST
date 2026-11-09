@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 15:52">
+<fm_catalog date="2026-11-09 16:21">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -799,25 +799,6 @@
         </pickup-options>
         <price>19190</price>
       </offer>
-      <offer sku="УТ-00005950">
-        <name>Уровень Stabila тип 70, 50 см 02283</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12590</price>
-      </offer>
-      <offer sku="УТ-00005969">
-        <name>Уровень тип 80АS-2, 120 см, 3 глазка STABILA 19173</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191733</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29990</price>
-      </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
         <vendor>STABILA</vendor>
@@ -844,22 +825,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
-      </offer>
-      <offer sku="УТ-00006309">
-        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>58800</price>
-      </offer>
-      <offer sku="УТ-00006312">
-        <name>Стремянка односторонняя складная KRAUSE SAFETY 7 ступ. 128973</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>79050</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -10112,6 +10077,17 @@
         </pickup-options>
         <price>121000</price>
       </offer>
+      <offer sku="00000024481">
+        <name>Алмазная коронка 102*450 ВТ</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216455064</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12290</price>
+      </offer>
       <offer sku="00000024484">
         <name>Алмазная коронка 108*350 ВТ</name>
         <vendor>ALTECO</vendor>
@@ -10122,6 +10098,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11490</price>
+      </offer>
+      <offer sku="00000024487">
+        <name>Алмазная коронка 112*350 PS</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216455101</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12290</price>
       </offer>
       <offer sku="00000024488">
         <name>Алмазная коронка 112*350 ВТ</name>
@@ -10134,6 +10121,14 @@
         </pickup-options>
         <price>11790</price>
       </offer>
+      <offer sku="00000024503">
+        <name>Алмазная коронка 168*350 PS</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20740</price>
+      </offer>
       <offer sku="00000024511">
         <name>Алмазная коронка 200*350 ВТ</name>
         <vendor>ALTECO</vendor>
@@ -10141,6 +10136,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23580</price>
+      </offer>
+      <offer sku="00000024547">
+        <name>Алмазная коронка 83*450 ВТ</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216455538</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9260</price>
       </offer>
       <offer sku="00000024802">
         <name>Рубанок электрический PL 650 ALTECO</name>
@@ -10844,50 +10850,6 @@
         </pickup-options>
         <price>27000</price>
       </offer>
-      <offer sku="00000031835">
-        <name>Стремянка односторонняя KRAUSE CORDA 3 ступ. 712</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000712</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31900</price>
-      </offer>
-      <offer sku="00000031837">
-        <name>Стремянка односторонняя KRAUSE CORDA 6 ступ. 736</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199000736</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>52800</price>
-      </offer>
-      <offer sku="00000031849">
-        <name>Лестница трехсекционная KRAUSE CORDA 3х8 ступ. 010384</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199010384</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>94930</price>
-      </offer>
-      <offer sku="00000031866">
-        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х4 ступ. 120335</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199120335</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>56000</price>
-      </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
         <vendor>Krause</vendor>
@@ -10920,41 +10882,6 @@
         </pickup-options>
         <price>26080</price>
       </offer>
-      <offer sku="00000031886">
-        <name>Подножка/полка KRAUSE 122063</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199122063</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17300</price>
-      </offer>
-      <offer sku="00000031893">
-        <name>Стремянка односторонняя KRAUSE SEPRO S 8 ступ. 124227</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>130000</price>
-      </offer>
-      <offer sku="00000031896">
-        <name>Стремянка односторонняя KRAUSE STABILO 5 ступ. 124524</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>116500</price>
-      </offer>
-      <offer sku="00000031898">
-        <name>Стремянка односторонняя KRAUSE STABILO 7 ступ. 124548</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>157500</price>
-      </offer>
       <offer sku="00000031902">
         <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
         <vendor>Krause</vendor>
@@ -10962,30 +10889,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>76500</price>
-      </offer>
-      <offer sku="00000031903">
-        <name>Подставка складная KRAUSE TREPPO 2x4 ступ. 126047</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>96500</price>
-      </offer>
-      <offer sku="00000031904">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 3 ступ. 126214</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31790</price>
-      </offer>
-      <offer sku="00000031905">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40800</price>
       </offer>
       <offer sku="00000031907">
         <name>Стремянка односторонняя KRAUSE SOLIDY 6 ступ. 126245</name>
@@ -10998,14 +10901,6 @@
         </pickup-options>
         <price>56300</price>
       </offer>
-      <offer sku="00000031909">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 8 ступ. 126269</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>77000</price>
-      </offer>
       <offer sku="00000031924">
         <name>Стремянка односторонняя KRAUSE SEPURO 4 ступ. 127228</name>
         <vendor>Krause</vendor>
@@ -11014,33 +10909,6 @@
         </pickup-options>
         <price>69000</price>
       </offer>
-      <offer sku="00000031925">
-        <name>Стремянка односторонняя KRAUSE SEPURO 5 ступ. 127235</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199127235</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>80500</price>
-      </offer>
-      <offer sku="00000031934">
-        <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40000</price>
-      </offer>
-      <offer sku="00000031936">
-        <name>Подставка складная KRAUSE ROLLY 2х3 ступ. 130068</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>53900</price>
-      </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
         <vendor>Krause</vendor>
@@ -11048,17 +10916,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>125000</price>
-      </offer>
-      <offer sku="00000031941">
-        <name>Подставка складная KRAUSE TOPPY XL 2 ступ. 130860</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29000</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -21965,6 +21822,17 @@
         </pickup-options>
         <price>405110</price>
       </offer>
+      <offer sku="УТ-00059846">
+        <name>Гайковерт аккумуляторный BOSCH GDR 18V-215 06019N2020</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423304961</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>54340</price>
+      </offer>
       <offer sku="УТ-00059847">
         <name>Перфоратор аккумуляторный Bosch GBH 18V-18 Без ЗУ и АКБ 0611927000</name>
         <vendor>BOSCH</vendor>
@@ -24115,22 +23983,6 @@
         </pickup-options>
         <price>78850</price>
       </offer>
-      <offer sku="УТ-00074591">
-        <name>Зажим для кромок Bessey KT5-1CP</name>
-        <vendor>Bessey</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14090</price>
-      </offer>
-      <offer sku="УТ-00074613">
-        <name>Ножницы Bessey D15A</name>
-        <vendor>Bessey</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19490</price>
-      </offer>
       <offer sku="УТ-00074824">
         <name>Дрель-шуруповерт аккумуляторная IVT в кейсе (1 акб*2 Ач) ICSD 20/2-65 BMC</name>
         <vendor>IVT</vendor>
@@ -24190,14 +24042,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>140220</price>
-      </offer>
-      <offer sku="УТ-00075621">
-        <name>Ключ с кольцевой трещоткой Wera Joker 13x177 мм 05073273001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19190</price>
       </offer>
       <offer sku="УТ-00075636">
         <name>Набор бит Wera 05057434001</name>
@@ -24501,14 +24345,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19685</price>
-      </offer>
-      <offer sku="УТ-00084680">
-        <name>Ножницы для резки кабелей KNIPEX 165 мм 95 12 165</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27760</price>
       </offer>
       <offer sku="УТ-00084690">
         <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
@@ -24953,6 +24789,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>114890</price>
+      </offer>
+      <offer sku="УТ-00089491">
+        <name>Колесо 4.00-8 для мотокультиватора MK 7-950</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5490</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 13:55">
+<fm_catalog date="2026-11-09 14:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17125,14 +17125,6 @@
         </pickup-options>
         <price>2400</price>
       </offer>
-      <offer sku="00000070234">
-        <name>Стяжка цепная TOR R 6-8 мм 1179 кг (2600 lbs, талреп с храповиком), шт</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11999</price>
-      </offer>
       <offer sku="00000070238">
         <name>Цепь круглозвенная Tor G80 некалиброванная 10716481</name>
         <vendor>TOR</vendor>
@@ -25324,14 +25316,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8540</price>
-      </offer>
-      <offer sku="УТ-00091565">
-        <name>Набор TORX-отверток BOSCH 5 предметов 1600A02BX6</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8030</price>
       </offer>
       <offer sku="УТ-00091566">
         <name>Набор ручных инструментов для начинающих BOSCH 26 предметов 1600A02BY2</name>

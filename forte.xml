@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 07:32">
+<fm_catalog date="2026-11-09 08:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4841,17 +4841,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8360</price>
-      </offer>
-      <offer sku="00000002277">
-        <name>MIRAX 1" клупп трубный резьбонарезной (BSPT R)</name>
-        <vendor>Mirax</vendor>
-        <barcodes>
-          <barcode>4034229215088</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4580</price>
       </offer>
       <offer sku="00000002363">
         <name>P-44 Секатор со стальными рукоятками, контактный, 190мм, GRINDA PROLine</name>
@@ -14581,17 +14570,6 @@
         </pickup-options>
         <price>357950</price>
       </offer>
-      <offer sku="00000040942">
-        <name>Станок фуговально-рейсмусовый, ЗУБР СРФ-254-1600С, ширина строгания 254мм, толщина заготовки до 120мм, 2 ножа, 9000 об/мин, станина, 1600Вт, 6м/мин</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373235016</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>220690</price>
-      </offer>
       <offer sku="00000040951">
         <name>Культиватор бензиновый ЗУБР 196 см3 МКТ-170</name>
         <vendor>ЗУБР</vendor>
@@ -16877,17 +16855,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5310</price>
-      </offer>
-      <offer sku="00000064366">
-        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л серый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011874472</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4745</price>
       </offer>
       <offer sku="00000064367">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 ваниль</name>
@@ -22145,17 +22112,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>40450</price>
-      </offer>
-      <offer sku="УТ-00060440">
-        <name>Смеситель для раковины Frap H806-6 черный F10806-6</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477630484</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12650</price>
       </offer>
       <offer sku="УТ-00060447">
         <name>Смеситель для раковины Frap черный F10802-6</name>

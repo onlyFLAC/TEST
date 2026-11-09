@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 15:23">
+<fm_catalog date="2026-11-09 15:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -844,6 +844,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
+      </offer>
+      <offer sku="УТ-00006309">
+        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58800</price>
+      </offer>
+      <offer sku="УТ-00006312">
+        <name>Стремянка односторонняя складная KRAUSE SAFETY 7 ступ. 128973</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>79050</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -10828,6 +10844,50 @@
         </pickup-options>
         <price>27000</price>
       </offer>
+      <offer sku="00000031835">
+        <name>Стремянка односторонняя KRAUSE CORDA 3 ступ. 712</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199000712</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31900</price>
+      </offer>
+      <offer sku="00000031837">
+        <name>Стремянка односторонняя KRAUSE CORDA 6 ступ. 736</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199000736</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>52800</price>
+      </offer>
+      <offer sku="00000031849">
+        <name>Лестница трехсекционная KRAUSE CORDA 3х8 ступ. 010384</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199010384</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>94930</price>
+      </offer>
+      <offer sku="00000031866">
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х4 ступ. 120335</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199120335</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>56000</price>
+      </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
         <vendor>Krause</vendor>
@@ -10860,6 +10920,41 @@
         </pickup-options>
         <price>26080</price>
       </offer>
+      <offer sku="00000031886">
+        <name>Подножка/полка KRAUSE 122063</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199122063</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17300</price>
+      </offer>
+      <offer sku="00000031893">
+        <name>Стремянка односторонняя KRAUSE SEPRO S 8 ступ. 124227</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>130000</price>
+      </offer>
+      <offer sku="00000031896">
+        <name>Стремянка односторонняя KRAUSE STABILO 5 ступ. 124524</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>116500</price>
+      </offer>
+      <offer sku="00000031898">
+        <name>Стремянка односторонняя KRAUSE STABILO 7 ступ. 124548</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>157500</price>
+      </offer>
       <offer sku="00000031902">
         <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
         <vendor>Krause</vendor>
@@ -10867,6 +10962,49 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>76500</price>
+      </offer>
+      <offer sku="00000031903">
+        <name>Подставка складная KRAUSE TREPPO 2x4 ступ. 126047</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96500</price>
+      </offer>
+      <offer sku="00000031904">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 3 ступ. 126214</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31790</price>
+      </offer>
+      <offer sku="00000031905">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40800</price>
+      </offer>
+      <offer sku="00000031907">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 6 ступ. 126245</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126245</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>56300</price>
+      </offer>
+      <offer sku="00000031909">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 8 ступ. 126269</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>77000</price>
       </offer>
       <offer sku="00000031924">
         <name>Стремянка односторонняя KRAUSE SEPURO 4 ступ. 127228</name>
@@ -10876,6 +11014,33 @@
         </pickup-options>
         <price>69000</price>
       </offer>
+      <offer sku="00000031925">
+        <name>Стремянка односторонняя KRAUSE SEPURO 5 ступ. 127235</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199127235</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>80500</price>
+      </offer>
+      <offer sku="00000031934">
+        <name>Подставка складная KRAUSE ROLLY 2х2 ступ. 130037</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40000</price>
+      </offer>
+      <offer sku="00000031936">
+        <name>Подставка складная KRAUSE ROLLY 2х3 ступ. 130068</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>53900</price>
+      </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
         <vendor>Krause</vendor>
@@ -10883,6 +11048,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>125000</price>
+      </offer>
+      <offer sku="00000031941">
+        <name>Подставка складная KRAUSE TOPPY XL 2 ступ. 130860</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199130860</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29000</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -15108,14 +15284,6 @@
         </pickup-options>
         <price>42990</price>
       </offer>
-      <offer sku="00000050072">
-        <name>Уровень STABILA 70/200см 02292</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32590</price>
-      </offer>
       <offer sku="00000050075">
         <name>Электроды сварочные Monolith РЦ ТМ 4 мм 2.5 кг</name>
         <vendor>Monolith</vendor>
@@ -17124,6 +17292,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2400</price>
+      </offer>
+      <offer sku="00000070160">
+        <name>Крюк укорачивающий TOR 5.3 т 1000857</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5046</price>
       </offer>
       <offer sku="00000070238">
         <name>Цепь круглозвенная Tor G80 некалиброванная 10716481</name>
@@ -20182,6 +20358,14 @@
         </pickup-options>
         <price>22780</price>
       </offer>
+      <offer sku="УТ-00050384">
+        <name>Защёлка 42371905150</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>730</price>
+      </offer>
       <offer sku="УТ-00051211">
         <name>Отвертка аккумуляторная BOSCH GO Gen 3 06019H2201</name>
         <vendor>BOSCH</vendor>
@@ -20286,6 +20470,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29900</price>
+      </offer>
+      <offer sku="УТ-00052885">
+        <name>Сумка для переноски бензопилы STIHL 00008810508</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711258979</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>30900</price>
       </offer>
       <offer sku="УТ-00052918">
         <name>Корпус вентилятора с пусковым устройством STIHL 11480802108</name>
@@ -21770,17 +21965,6 @@
         </pickup-options>
         <price>405110</price>
       </offer>
-      <offer sku="УТ-00059846">
-        <name>Гайковерт аккумуляторный BOSCH GDR 18V-215 06019N2020</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423304961</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54340</price>
-      </offer>
       <offer sku="УТ-00059847">
         <name>Перфоратор аккумуляторный Bosch GBH 18V-18 Без ЗУ и АКБ 0611927000</name>
         <vendor>BOSCH</vendor>
@@ -23008,6 +23192,14 @@
         </pickup-options>
         <price>28300</price>
       </offer>
+      <offer sku="УТ-00063889">
+        <name>GSM+GPS Мастер 6 V2 StarLine</name>
+        <vendor>Starline</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48100</price>
+      </offer>
       <offer sku="УТ-00063898">
         <name>Смазка для редукторов и гибкого вала STIHL 80 г 07811201117</name>
         <vendor>STIHL</vendor>
@@ -23018,6 +23210,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3100</price>
+      </offer>
+      <offer sku="УТ-00063899">
+        <name>Защёлка (пластик)</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711501280</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1460</price>
       </offer>
       <offer sku="УТ-00064098">
         <name>Электроды сварочные ARCUS AHO-21 СТАНДАРТ 3 мм 2.5 кг 00000000336</name>
@@ -24215,6 +24418,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3350</price>
+      </offer>
+      <offer sku="УТ-00081423">
+        <name>Набор угольных щеток Stihl 63110071095</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11320</price>
       </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
@@ -26065,6 +26276,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5500</price>
+      </offer>
+      <offer sku="УТ-00098387">
+        <name>Вороток шарнирный 600мм, 1/2'' RF-8014600UMPB RF-8014600UMPB</name>
+        <vendor>Rock FORCE</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8400</price>
       </offer>
       <offer sku="УТ-00098555">
         <name>Домкрат бутылочный гидравлический 5,5т RF-T90604DX RF-T90604DX</name>

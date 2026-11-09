@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 00:11">
+<fm_catalog date="2026-11-10 00:40">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -828,14 +828,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26790</price>
-      </offer>
-      <offer sku="УТ-00006004">
-        <name>Правило трапециевидное, тип TRK, 180 см STABILA 07831</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14290</price>
       </offer>
       <offer sku="УТ-00006301">
         <name>Подставка складная KRAUSE TOPPY 2 ступ. 130723</name>

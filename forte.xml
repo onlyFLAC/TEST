@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 12:56">
+<fm_catalog date="2026-11-09 13:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10918,6 +10918,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390000</price>
+      </offer>
+      <offer sku="00000032038">
+        <name>Сейф огнестойкий VALBERG FRS 73.T EL</name>
+        <vendor>VALBERG</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>498204</price>
       </offer>
       <offer sku="00000032117">
         <name>Пила торцовочная, ЗУБР "МАСТЕР" d=210*30 мм, 1300 Вт, 5500 об/мин, лазер</name>
@@ -22410,6 +22418,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13251</price>
+      </offer>
+      <offer sku="УТ-00061481">
+        <name>Лестница-стремянка двусторонняя Nika ДЛС3</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075836570</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13951</price>
       </offer>
       <offer sku="УТ-00061507">
         <name>Штроборез ЗУБР ЗШ-П30-1600 ПСТК</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 21:15">
+<fm_catalog date="2026-11-09 21:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2591,14 +2591,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>28600</price>
-      </offer>
-      <offer sku="УТ-00022559">
-        <name>Ящик для бензопилы</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32000</price>
       </offer>
       <offer sku="УТ-00023846">
         <name>Гайковерт аккумуляторный Makita XGT BL 40В TW001GZ</name>

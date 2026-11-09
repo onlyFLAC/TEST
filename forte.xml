@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 11:28">
+<fm_catalog date="2026-11-09 11:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1660,6 +1660,17 @@
         </pickup-options>
         <price>4838</price>
       </offer>
+      <offer sku="УТ-00014271">
+        <name>STAYER SG-25 25 мм, Чугунная струбцина G (3215-025) 3215-025</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229229542</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1490</price>
+      </offer>
       <offer sku="УТ-00014457">
         <name>Лента вентиляционная перфорированная ЗУБР 25 м 310246-12</name>
         <vendor>ЗУБР</vendor>
@@ -1744,6 +1755,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3889</price>
+      </offer>
+      <offer sku="УТ-00014928">
+        <name>Головка торцовая ЗУБР 1/2" 21 мм 27728-21</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373053320</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1990</price>
       </offer>
       <offer sku="УТ-00014999">
         <name>СИБИН 22 x 24 мм, Рожковый гаечный ключ (27014-22-24) 27014-22-24_z01</name>
@@ -2740,6 +2762,14 @@
         </pickup-options>
         <price>717860</price>
       </offer>
+      <offer sku="УТ-00024970">
+        <name>Струбцина клещеобразная, усиленная 65 х 50 мм, двухкомпонентные рукоятки// Denzel</name>
+        <vendor>Denzel</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1750</price>
+      </offer>
       <offer sku="УТ-00024998">
         <name>Фильтр каркасный-складчатый HEPA Denzel 28214</name>
         <vendor>Denzel</vendor>
@@ -2856,6 +2886,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6689</price>
+      </offer>
+      <offer sku="УТ-00025663">
+        <name>Комплект адаптеров для подключения пылесоса к электроинструменту Denzel 32-35-38 мм 28218</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996238517</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4479</price>
       </offer>
       <offer sku="УТ-00025716">
         <name>Распылитель, 8 режимов// Palisad</name>
@@ -4981,6 +5022,22 @@
         </pickup-options>
         <price>6270</price>
       </offer>
+      <offer sku="00000003008">
+        <name>STAYER Max-Cut стамеска с пластиковой рукояткой, 14 мм</name>
+        <vendor>STAYER</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2570</price>
+      </offer>
+      <offer sku="00000003013">
+        <name>STAYER Max-Cut стамеска с пластиковой рукояткой, 8 мм</name>
+        <vendor>STAYER</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2470</price>
+      </offer>
       <offer sku="00000003103">
         <name>STAYER PROFESSIONAL 25 мм лезвия сегментированные, 5 шт</name>
         <vendor>STAYER</vendor>
@@ -5981,6 +6038,17 @@
         </pickup-options>
         <price>980</price>
       </offer>
+      <offer sku="00000006672">
+        <name>Кабельные стяжки черные КС-Ч2, 4.8 х 500 мм, 25 шт, нейлоновые, ЗУБР Профессионал</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373041839</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2270</price>
+      </offer>
       <offer sku="00000006694">
         <name>Кейс-органайзер "ОКА-11" пластиковый, ЗУБР</name>
         <vendor>ЗУБР</vendor>
@@ -6350,6 +6418,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4800</price>
+      </offer>
+      <offer sku="00000007625">
+        <name>Лезвие OLFA круглое для RTY-2/G,45-C, 45х0,3мм, 1шт</name>
+        <vendor>Olfa</vendor>
+        <barcodes>
+          <barcode>091511500424</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3790</price>
       </offer>
       <offer sku="00000007634">
         <name>Набор сегментированных лезвий Olfa 9 мм 10 шт. OL-ABB-10B</name>
@@ -6811,6 +6890,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6320</price>
+      </offer>
+      <offer sku="00000008686">
+        <name>Нож OLFA с выдвижным лезвием, с резиновыми накладками, 25мм</name>
+        <vendor>Olfa</vendor>
+        <barcodes>
+          <barcode>0091511200188</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8820</price>
       </offer>
       <offer sku="00000008752">
         <name>Нож сапожный, 180 мм, ЗУБР</name>
@@ -7838,6 +7928,17 @@
         </pickup-options>
         <price>3290</price>
       </offer>
+      <offer sku="00000012314">
+        <name>Набор ударных отверток 2шт., PH2x100, SL6x100 CrV// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996130309</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2190</price>
+      </offer>
       <offer sku="00000012332">
         <name>Отвертка, SL8,0 х 150 мм, CrV, 3-х компонентная рукоятка// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -7936,6 +8037,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8367</price>
+      </offer>
+      <offer sku="00000012803">
+        <name>Набор ключей трубчатых торцевых 9 пр// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996069722</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4670</price>
       </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
@@ -8602,6 +8714,17 @@
         </pickup-options>
         <price>2195</price>
       </offer>
+      <offer sku="00000016767">
+        <name>Лопата для уборки снега пластиковая PROFI, 535х385х1400 мм, стальной черенок, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800061874</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9980</price>
+      </offer>
       <offer sku="00000016779">
         <name>Лопата снеговая без черенка Сибртех 330х365 мм 61536</name>
         <vendor>Сибртех</vendor>
@@ -8668,6 +8791,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7790</price>
+      </offer>
+      <offer sku="00000016995">
+        <name>Метла полипропиленовая веерная СИБРТЕХ без черенка 63208</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800033413</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1490</price>
       </offer>
       <offer sku="00000017039">
         <name>Полольник петлеобразный, 115 мм, рессорно-пружинная сталь, без черенка, Россия// Сибртех</name>
@@ -9012,6 +9146,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3790</price>
+      </offer>
+      <offer sku="00000019589">
+        <name>Набор сверл по керамической плитке, 5 - 6 - 8мм, шестигранный хвостовик// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996071114</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3410</price>
       </offer>
       <offer sku="00000019697">
         <name>Диск отрезной алмазный Gross 230х22.2 мм 730497</name>
@@ -9424,6 +9569,17 @@
         </pickup-options>
         <price>2770</price>
       </offer>
+      <offer sku="00000021646">
+        <name>Таз прямоугольный строительный СИБРТЕХ 40 л Россия 814437</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800074676</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2590</price>
+      </offer>
       <offer sku="00000021647">
         <name>Таз прямоугольный Сибртех 60 л 814445</name>
         <vendor>Сибртех</vendor>
@@ -9552,6 +9708,17 @@
         </pickup-options>
         <price>1552</price>
       </offer>
+      <offer sku="00000022173">
+        <name>Мастерок из нерж. стали, 80 х 60 х 60 мм, для внутренних углов, деревянная ручка// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996008271</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2090</price>
+      </offer>
       <offer sku="00000022192">
         <name>Терка полиуретановая Сибртех 180х320 мм 86630</name>
         <vendor>Сибртех</vendor>
@@ -9562,6 +9729,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1440</price>
+      </offer>
+      <offer sku="00000022304">
+        <name>Рубанок, 250 х 42 мм, обдирочный, пластмассовый, для гипсокартона// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996087771</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4510</price>
       </offer>
       <offer sku="00000022377">
         <name>Лента малярная СИБРТЕХ 38 мм х 40 м, на бумажной основе 88702</name>
@@ -9703,6 +9881,17 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="00000022755">
+        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996123127</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8980</price>
+      </offer>
       <offer sku="00000022772">
         <name>Ящик для инструмента STELS 285х155х125 мм 90723</name>
         <vendor>STELS</vendor>
@@ -9754,6 +9943,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2242</price>
+      </offer>
+      <offer sku="00000023099">
+        <name>Паста паяльная SPARTA 10 г 913345</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996045559</barcode>
+          <barcode>6953888564666</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
       </offer>
       <offer sku="00000023100">
         <name>Паста полировальная Сибртех ГОИ №3 20 гр. 913346</name>
@@ -16189,6 +16390,17 @@
         </pickup-options>
         <price>63600</price>
       </offer>
+      <offer sku="00000063526">
+        <name>Ледоруб-топор кованый 140 мм, 1,75 кг, металлический черенок, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800088000</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6990</price>
+      </offer>
       <offer sku="00000063527">
         <name>Движок для уборки снега пластиковый, 570х470х1300 мм, стальная рукоятка, Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -22315,6 +22527,14 @@
         </pickup-options>
         <price>13251</price>
       </offer>
+      <offer sku="УТ-00061507">
+        <name>Штроборез ЗУБР ЗШ-П30-1600 ПСТК</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>92440</price>
+      </offer>
       <offer sku="УТ-00061577">
         <name>Сушилка для белья Essence Hausler</name>
         <vendor>Hausler</vendor>
@@ -22943,6 +23163,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>880</price>
+      </offer>
+      <offer sku="УТ-00064522">
+        <name>Наушники защитные на каску ЗУБР "ВЕГА-27" 27 дБ 11371</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373454394</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6490</price>
       </offer>
       <offer sku="УТ-00064555">
         <name>KRAFTOOL X-FORCE 450 г, белая киянка (2077-45)</name>

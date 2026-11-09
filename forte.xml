@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-09 09:30">
+<fm_catalog date="2026-11-09 10:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -825,14 +825,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
-      </offer>
-      <offer sku="УТ-00006353">
-        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х7 ступ. 120366</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>100000</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -2314,17 +2306,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>321000</price>
-      </offer>
-      <offer sku="УТ-00022216">
-        <name>Травокосилка 545RХ</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7392930886247</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>470000</price>
       </offer>
       <offer sku="УТ-00022217">
         <name>Травокосилка аккумуляторная 535iRX (без АКБ и З/У)</name>
@@ -9914,17 +9895,6 @@
         </pickup-options>
         <price>48990</price>
       </offer>
-      <offer sku="00000023809">
-        <name>Пила дисковая CROWN CT15074</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640186245227</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32990</price>
-      </offer>
       <offer sku="00000023824">
         <name>Лобзик CROWN CT15080</name>
         <vendor>CROWN</vendor>
@@ -14330,6 +14300,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12819</price>
+      </offer>
+      <offer sku="00000039524">
+        <name>Диск пильный BOSCH 85 мм 2609256943</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140523271</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6109</price>
+      </offer>
+      <offer sku="00000039617">
+        <name>Набор бумажных мешков BOSCH для UniversalVac 15 5 шт. 2609256F32</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140912334</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5790</price>
       </offer>
       <offer sku="00000039619">
         <name>Картридж-фильтр д/VAC</name>
@@ -18829,6 +18821,14 @@
         </pickup-options>
         <price>113888</price>
       </offer>
+      <offer sku="УТ-00001372">
+        <name>Узел редукторный BOSCH 1607000D4Y</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9940</price>
+      </offer>
       <offer sku="УТ-00001482">
         <name>ЗУБР ПРОФЕССИОНАЛ БУРАН SDS-Plus Набор зубил и буров, 13 шт</name>
         <vendor>ЗУБР</vendor>
@@ -19302,6 +19302,14 @@
         </pickup-options>
         <price>85760</price>
       </offer>
+      <offer sku="УТ-00040481">
+        <name>Тарелка опорная для шлифмашины BOSCH GEX 125-1 AE 125 мм 1600A01CU1</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7920</price>
+      </offer>
       <offer sku="УТ-00040680">
         <name>Стремянка Nika 4 ступ. СМ4 оранжевый</name>
         <vendor>Nika</vendor>
@@ -19356,6 +19364,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22150</price>
+      </offer>
+      <offer sku="УТ-00040768">
+        <name>Лапа прибора Bosch 2610956898</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952363837</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3740</price>
       </offer>
       <offer sku="УТ-00041016">
         <name>Валик малярный РемоКолор "МЕХОВОЙ" 48х150 мм 04-2-000</name>
@@ -19792,16 +19811,16 @@
         </pickup-options>
         <price>99990</price>
       </offer>
-      <offer sku="УТ-00047891">
-        <name>Мойка высокого давления ALTECO CPW 120-6 66878</name>
+      <offer sku="УТ-00047882">
+        <name>Компрессор безмаслянный ALTECO ACO 30L 63424</name>
         <vendor>ALTECO</vendor>
         <barcodes>
-          <barcode>4870244612484</barcode>
+          <barcode>4870244611609</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35990</price>
+        <price>70000</price>
       </offer>
       <offer sku="УТ-00047894">
         <name>Мойка высокого давления электрическая ALTECO CPW 140-8 Home &amp; Car 66882</name>
@@ -19810,6 +19829,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>57990</price>
+      </offer>
+      <offer sku="УТ-00048072">
+        <name>ШЛАНГ ВЫСОКОГО ДАВЛЕНИЯ F016F04583</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15300</price>
       </offer>
       <offer sku="УТ-00048206">
         <name>Краскораспылитель безвоздушный PROFSET 4000 Вт STB-980</name>
@@ -19984,6 +20011,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25900</price>
+      </offer>
+      <offer sku="УТ-00049375">
+        <name>Дрель-шуруповерт аккумуляторная ALTECO CD 12-23 71390</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244613788</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13890</price>
       </offer>
       <offer sku="УТ-00049394">
         <name>31320-Li - "P.I.T." Аккумуляторный шуруповерт 24V</name>
@@ -20194,6 +20232,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>38900</price>
+      </offer>
+      <offer sku="УТ-00053255">
+        <name>Дрель-шуруповерт аккумуляторная ALTECO CD 12-23 X2 78072</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870244616154</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15290</price>
       </offer>
       <offer sku="УТ-00053274">
         <name>Зажим для СВП 2 мм 250 штук BIHUI BLSN250, шт 77309</name>
@@ -21192,17 +21241,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15988</price>
-      </offer>
-      <offer sku="УТ-00059629">
-        <name>Доска гладильная Nika "SPORT" NST/4 шоколадный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111518970</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23489</price>
       </offer>
       <offer sku="УТ-00059630">
         <name>Доска гладильная Nika "SPORT" NST/5 темно-лазурный</name>
@@ -22626,6 +22664,17 @@
         </pickup-options>
         <price>21690</price>
       </offer>
+      <offer sku="УТ-00063814">
+        <name>Молоток слесарный BOSCH 500 г 1600A016BT</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140951630</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13490</price>
+      </offer>
       <offer sku="УТ-00063815">
         <name>Набор универсальных ножей BOSCH 3 шт. 1600A027M4</name>
         <vendor>BOSCH</vendor>
@@ -22801,6 +22850,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11330</price>
+      </offer>
+      <offer sku="УТ-00063839">
+        <name>Плоскогубцы комбинированные BOSCH 1600A02ZH0</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423252248</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6800</price>
       </offer>
       <offer sku="УТ-00063882">
         <name>Видеорегистратор Neoline Flash 2K Wi-Fi</name>
@@ -24474,17 +24534,6 @@
         </pickup-options>
         <price>6800</price>
       </offer>
-      <offer sku="УТ-00089286">
-        <name>Подгузники MARTI M62 6-11 кг</name>
-        <vendor>MARTI</vendor>
-        <barcodes>
-          <barcode>4580664610068</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
-      </offer>
       <offer sku="УТ-00089287">
         <name>Подгузники MARTI L54 9-14 кг</name>
         <vendor>MARTI</vendor>
@@ -25225,6 +25274,17 @@
         </pickup-options>
         <price>114330</price>
       </offer>
+      <offer sku="УТ-00091572">
+        <name>Ключ трубный BOSCH 250 мм 1600A02W3N</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423253023</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13590</price>
+      </offer>
       <offer sku="УТ-00091574">
         <name>Трубный ключ S-образный BOSCH 420 мм, 45° 1600A02W3T</name>
         <vendor>BOSCH</vendor>
@@ -25378,6 +25438,17 @@
         </pickup-options>
         <price>7050</price>
       </offer>
+      <offer sku="УТ-00091606">
+        <name>Ножовка по металлу BOSCH 150 мм 1600A02ZA7</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423255072</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4290</price>
+      </offer>
       <offer sku="УТ-00091607">
         <name>Ножовка по металлу BOSCH 300 мм 1600A02ZA8</name>
         <vendor>BOSCH</vendor>
@@ -25472,6 +25543,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6240</price>
+      </offer>
+      <offer sku="УТ-00091629">
+        <name>Набор шестигранников BOSCH 9 предметов 1600A032V1</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302240</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6170</price>
       </offer>
       <offer sku="УТ-00091639">
         <name>Плоскогубцы удлиненные BOSCH 180 мм 1600A032VC</name>
@@ -25770,17 +25852,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>700</price>
-      </offer>
-      <offer sku="УТ-00094406">
-        <name>Ручка телескопическая 0.78-1.29 м, конус, Premium, 40080 Rollingdog</name>
-        <vendor>Rollingdog</vendor>
-        <barcodes>
-          <barcode>6975284271382</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5950</price>
       </offer>
       <offer sku="УТ-00095264">
         <name>Обогреватель газовый портативный ALTECO PH 2 ECO 93058</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 09:55">
+<fm_catalog date="2026-11-10 10:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -204,14 +204,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20990</price>
-      </offer>
-      <offer sku="УТ-00003970">
-        <name>Шлифмашина щеточная CROWN CT13551-110RSV</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>45990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -2829,17 +2821,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6689</price>
-      </offer>
-      <offer sku="УТ-00025663">
-        <name>Комплект адаптеров для подключения пылесоса к электроинструменту Denzel 32-35-38 мм 28218</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996238517</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4479</price>
       </offer>
       <offer sku="УТ-00025716">
         <name>Распылитель, 8 режимов// Palisad</name>
@@ -9931,17 +9912,6 @@
         </pickup-options>
         <price>21990</price>
       </offer>
-      <offer sku="00000023825">
-        <name>Лобзик электрический CROWN CT15189</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177420688</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>36990</price>
-      </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
         <vendor>Mateus</vendor>
@@ -13085,6 +13055,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9130</price>
+      </offer>
+      <offer sku="00000035474">
+        <name>2 САБЕЛЬНЫЕ ПИЛКИ S 1122 HF</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140235853</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3387</price>
       </offer>
       <offer sku="00000035524">
         <name>Бур по бетону BOSCH SDS+ 6x150/210 мм 2608680264</name>
@@ -26065,14 +26046,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5500</price>
-      </offer>
-      <offer sku="УТ-00098387">
-        <name>Вороток шарнирный 600мм, 1/2'' RF-8014600UMPB RF-8014600UMPB</name>
-        <vendor>Rock FORCE</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8400</price>
       </offer>
       <offer sku="УТ-00098555">
         <name>Домкрат бутылочный гидравлический 5,5т RF-T90604DX RF-T90604DX</name>

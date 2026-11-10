@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 12:51">
+<fm_catalog date="2026-11-10 13:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2854,6 +2854,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6990</price>
+      </offer>
+      <offer sku="УТ-00025837">
+        <name>Перчатки комбинированные облегченные Gross AKTIV М 90308</name>
+        <vendor>Gross</vendor>
+        <barcodes>
+          <barcode>4044996239224</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6975</price>
       </offer>
       <offer sku="УТ-00025858">
         <name>Фиксатор магнитный для сварочных работ усилие 75 LB// Denzel</name>
@@ -26194,6 +26205,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00102427">
+        <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>
+        <vendor>Makita</vendor>
+        <barcodes>
+          <barcode>088381575041</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00102845">
         <name>05059488001 Бита шлицевая 800/4 Z 1.0 X 5.5 X 89 MM</name>

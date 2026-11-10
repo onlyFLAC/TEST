@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 20:41">
+<fm_catalog date="2026-11-10 21:10">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10810,14 +10810,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>26080</price>
-      </offer>
-      <offer sku="00000031902">
-        <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>76500</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>

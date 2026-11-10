@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 15:46">
+<fm_catalog date="2026-11-10 16:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13851,17 +13851,6 @@
         </pickup-options>
         <price>5690</price>
       </offer>
-      <offer sku="00000036864">
-        <name>ФРЕЗА ДЛЯ ВЫБОРКИ 12,7/8ММ BOSCH</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140358095</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4867</price>
-      </offer>
       <offer sku="00000036898">
         <name>Фреза пазовая Bosch 12/20 мм 2608628385</name>
         <vendor>BOSCH</vendor>
@@ -20992,14 +20981,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>196400</price>
-      </offer>
-      <offer sku="УТ-00057354">
-        <name>Бесщеточная аккумуляторная мини пила CMC 21-15 BL Solo ALTECO, шт</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19900</price>
       </offer>
       <offer sku="УТ-00057357">
         <name>Аккумуляторный триммер CT 21-25 Solo ALTECO, шт</name>

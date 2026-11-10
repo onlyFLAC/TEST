@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 08:27">
+<fm_catalog date="2026-11-10 08:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5828,17 +5828,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34280</price>
-      </offer>
-      <offer sku="00000006316">
-        <name>Домкрат подкатной гидравлический ЗУБР "ПРОФЕССИОНАЛ" T55 2 т 43058-2</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373275579</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32590</price>
       </offer>
       <offer sku="00000006317">
         <name>Домкрат гидравлический подкатной ЗУБР T65 2.5 т 43057-2.5</name>

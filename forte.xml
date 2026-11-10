@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 07:58">
+<fm_catalog date="2026-11-10 08:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9404,17 +9404,6 @@
         </pickup-options>
         <price>725</price>
       </offer>
-      <offer sku="00000021471">
-        <name>Валик малярный Сибртех 150 мм 81033</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800074232</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1338</price>
-      </offer>
       <offer sku="00000021616">
         <name>Кювета пластмассовая для валиков, 350х330 мм// Sparta</name>
         <vendor>Sparta</vendor>
@@ -11712,17 +11701,6 @@
         </pickup-options>
         <price>1590</price>
       </offer>
-      <offer sku="00000032661">
-        <name>Диск отрезной по металлу Bosch 355х2.8х25.4 мм 2608601238</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140777230</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2610</price>
-      </offer>
       <offer sku="00000032668">
         <name>Мойка высокого давления электрическая BOSCH GHP 5-65 W/EEU 0600910500</name>
         <vendor>BOSCH</vendor>
@@ -12009,17 +11987,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>256380</price>
-      </offer>
-      <offer sku="00000032809">
-        <name>Набор бит и сверл Bosch X-Line 34 шт. 2607010608</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140563147</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8690</price>
       </offer>
       <offer sku="00000032811">
         <name>Сумка Bosch Professional большая 1600A003BK</name>
@@ -22740,17 +22707,6 @@
         </pickup-options>
         <price>180000</price>
       </offer>
-      <offer sku="УТ-00063391">
-        <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393080347268</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4900</price>
-      </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
         <vendor>BOSCH</vendor>
@@ -22969,17 +22925,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14070</price>
-      </offer>
-      <offer sku="УТ-00063824">
-        <name>Набор инструмента расширенный BOSCH 52 предмета 1600A02BY7</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952643373</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>73280</price>
       </offer>
       <offer sku="УТ-00063825">
         <name>Набор торцевых головок 1/4" BOSCH 34 предмета 1600A02BY1</name>
@@ -23611,17 +23556,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25480</price>
-      </offer>
-      <offer sku="УТ-00072493">
-        <name>Кусачки KNIPEX 78 03 125</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773035381</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18440</price>
       </offer>
       <offer sku="УТ-00072495">
         <name>Кусачки KNIPEX 78 61 125</name>
@@ -24550,14 +24484,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>57050</price>
-      </offer>
-      <offer sku="УТ-00085537">
-        <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-55 1600A036Z6</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>78670</price>
       </offer>
       <offer sku="УТ-00085538">
         <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-80 1600A036ZB</name>
@@ -25536,14 +25462,6 @@
         </pickup-options>
         <price>22750</price>
       </offer>
-      <offer sku="УТ-00091575">
-        <name>Трубный ключ угловой BOSCH 420 мм, 90° 1600A02W3V</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22490</price>
-      </offer>
       <offer sku="УТ-00091576">
         <name>Набор клещей BOSCH 3 предмета 1600A02W7J</name>
         <vendor>BOSCH</vendor>
@@ -25865,17 +25783,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7800</price>
-      </offer>
-      <offer sku="УТ-00091644">
-        <name>Рулетка BOSCH 5 м 1600A033BL</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423304404</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10580</price>
       </offer>
       <offer sku="УТ-00091949">
         <name>Bosch 1617S01CV8 1 шт</name>

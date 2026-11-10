@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 12:22">
+<fm_catalog date="2026-11-10 12:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17111,22 +17111,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2400</price>
-      </offer>
-      <offer sku="00000070160">
-        <name>Крюк укорачивающий TOR 5.3 т 1000857</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5046</price>
-      </offer>
-      <offer sku="00000070236">
-        <name>Цепь круглозвенная TOR G80 EN818-2 10х30 10710301</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5225</price>
       </offer>
       <offer sku="00000070238">
         <name>Цепь круглозвенная Tor G80 некалиброванная 10716481</name>

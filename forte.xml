@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 09:26">
+<fm_catalog date="2026-11-10 09:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -518,17 +518,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3190</price>
-      </offer>
-      <offer sku="УТ-00004863">
-        <name>Набор буров PATRIOT SDS+ 5 шт. 815010101</name>
-        <vendor>Patriot</vendor>
-        <barcodes>
-          <barcode>4610030818122</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4190</price>
       </offer>
       <offer sku="УТ-00004877">
         <name>Сверло по металлу PATRIOT 5.2х86/52 мм 10 шт. 815010032</name>
@@ -10363,17 +10352,6 @@
         </pickup-options>
         <price>30252</price>
       </offer>
-      <offer sku="00000025387">
-        <name>Вешалка настенная Nika ВН5/Ч черный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047369560</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2136</price>
-      </offer>
       <offer sku="00000025436">
         <name>Сушилка напольная Nika СБ3/С серебристый</name>
         <vendor>Nika</vendor>
@@ -10878,17 +10856,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>76500</price>
-      </offer>
-      <offer sku="00000031907">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 6 ступ. 126245</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126245</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>56300</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
@@ -22332,17 +22299,6 @@
         </pickup-options>
         <price>86520</price>
       </offer>
-      <offer sku="УТ-00061363">
-        <name>Смеситель Frap F2071-9 с гигиеническим душем Оружейная Сталь</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477626142</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30700</price>
-      </offer>
       <offer sku="УТ-00061367">
         <name>Смеситель Frap для кухни F4044-6 Черный</name>
         <vendor>Frap</vendor>
@@ -25734,17 +25690,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6170</price>
-      </offer>
-      <offer sku="УТ-00091636">
-        <name>Клещи переставные BOSCH 250 мм 1600A032V9</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423302325</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8890</price>
       </offer>
       <offer sku="УТ-00091639">
         <name>Плоскогубцы удлиненные BOSCH 180 мм 1600A032VC</name>

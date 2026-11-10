@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 13:20">
+<fm_catalog date="2026-11-10 13:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -263,7 +263,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>55650</price>
+        <price>50085</price>
       </offer>
       <offer sku="УТ-00004324">
         <name>Лестница трансформер шарнирная PROFSET 4х4 ступеней DLM404</name>
@@ -271,7 +271,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>65930</price>
+        <price>59337</price>
       </offer>
       <offer sku="УТ-00004325">
         <name>Лестница трансформер шарнирная PROFSET 4х5 ступеней DLM405</name>
@@ -279,7 +279,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>75100</price>
+        <price>67590</price>
       </offer>
       <offer sku="УТ-00004327">
         <name>Стремянка односторонняя PROFSET 1x3 ступеней DLH103</name>
@@ -287,7 +287,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>18700</price>
+        <price>16830</price>
       </offer>
       <offer sku="УТ-00004328">
         <name>Стремянка односторонняя PROFSET 1x4 ступеней DLH104</name>
@@ -295,7 +295,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>24300</price>
+        <price>21870</price>
       </offer>
       <offer sku="УТ-00004329">
         <name>Стремянка односторонняя PROFSET 1x5 ступеней DLH105</name>
@@ -303,7 +303,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>27390</price>
+        <price>24651</price>
       </offer>
       <offer sku="УТ-00004330">
         <name>Стремянка односторонняя PROFSET 1x6 ступеней DLH106</name>
@@ -311,7 +311,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>32270</price>
+        <price>29043</price>
       </offer>
       <offer sku="УТ-00004331">
         <name>Стремянка односторонняя PROFSET 1x7 ступеней DLH107</name>
@@ -319,7 +319,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>29520</price>
+        <price>26568</price>
       </offer>
       <offer sku="УТ-00004332">
         <name>Стремянка односторонняя PROFSET 1x8 ступеней DLH108</name>
@@ -327,7 +327,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>33820</price>
+        <price>30438</price>
       </offer>
       <offer sku="УТ-00004333">
         <name>Стремянка односторонняя PROFSET 1x9 ступеней DLH109</name>
@@ -335,7 +335,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>39120</price>
+        <price>35208</price>
       </offer>
       <offer sku="УТ-00004334">
         <name>Лестница приставная телескопическая PROFSET 2 м, 7 ступеней DLT206B</name>
@@ -343,7 +343,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28000</price>
+        <price>25200</price>
       </offer>
       <offer sku="УТ-00004335">
         <name>Лестница приставная телескопическая PROFSET 2.6 м, 9 ступеней DLT208B</name>
@@ -351,7 +351,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>43000</price>
+        <price>38700</price>
       </offer>
       <offer sku="УТ-00004336">
         <name>Лестница приставная телескопическая PROFSET 2.9 м DLT209B</name>
@@ -359,7 +359,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>47630</price>
+        <price>42867</price>
       </offer>
       <offer sku="УТ-00004337">
         <name>Лестница приставная телескопическая PROFSET 3.2 м, 11 ступеней DLT210B</name>
@@ -367,7 +367,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>53120</price>
+        <price>47808</price>
       </offer>
       <offer sku="УТ-00004338">
         <name>Лестница приставная телескопическая PROFSET 3.8 м, 13 ступеней DLT212B</name>
@@ -375,7 +375,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>49990</price>
+        <price>44991</price>
       </offer>
       <offer sku="УТ-00004339">
         <name>Лестница приставная телескопическая PROFSET 4.1 м, 14 ступеней DLT213B</name>
@@ -383,7 +383,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>52000</price>
+        <price>46800</price>
       </offer>
       <offer sku="УТ-00004340">
         <name>Лестница приставная телескопическая PROFSET 4.4 м, 15 ступеней DLT214B</name>
@@ -391,7 +391,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>60990</price>
+        <price>54891</price>
       </offer>
       <offer sku="УТ-00004341">
         <name>Лестница-стремянка телескопическая двухсторонняя PROFSET 3.2 м, 2х5 ступеней DLT705B</name>
@@ -399,7 +399,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>57990</price>
+        <price>52191</price>
       </offer>
       <offer sku="УТ-00004342">
         <name>Лестница-стремянка телескопическая двухсторонняя PROFSET 3.8 м, 2х6 ступеней DLT706B</name>
@@ -407,7 +407,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>59520</price>
+        <price>53568</price>
       </offer>
       <offer sku="УТ-00004343">
         <name>Лестница-стремянка телескопическая двухсторонняя PROFSET 4.4 м, 2х7 ступеней DLT707B</name>
@@ -415,7 +415,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>75970</price>
+        <price>68373</price>
       </offer>
       <offer sku="УТ-00004344">
         <name>Лестница-стремянка телескопическая двухсторонняя PROFSET 5 м, 2х8 ступеней DLT708B</name>
@@ -423,7 +423,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>82650</price>
+        <price>74385</price>
       </offer>
       <offer sku="УТ-00004345">
         <name>Лестница-стремянка телескопическая двухсторонняя PROFSET 5.6 м, 2х9 ступеней DLT709B</name>
@@ -431,7 +431,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>93990</price>
+        <price>84591</price>
       </offer>
       <offer sku="УТ-00004346">
         <name>Лестница-стремянка телескопическая двухсторонняя PROFSET 6.2 м, 2х10 ступеней DLT710B</name>
@@ -439,7 +439,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>125775</price>
+        <price>113198</price>
       </offer>
       <offer sku="УТ-00004347">
         <name>Стремянка двухсторонняя PROFSET 2x2 ступеней DLH502</name>
@@ -447,7 +447,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13950</price>
+        <price>12555</price>
       </offer>
       <offer sku="УТ-00004348">
         <name>Стремянка двухсторонняя PROFSET 2x3 ступеней DLH503</name>
@@ -455,7 +455,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21200</price>
+        <price>19080</price>
       </offer>
       <offer sku="УТ-00004349">
         <name>Стремянка двухсторонняя PROFSET 2x4 ступеней DLH504</name>
@@ -463,7 +463,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26880</price>
+        <price>24192</price>
       </offer>
       <offer sku="УТ-00004350">
         <name>Стремянка двухсторонняя PROFSET 2x5 ступеней DLH505</name>
@@ -471,7 +471,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>32270</price>
+        <price>29043</price>
       </offer>
       <offer sku="УТ-00004351">
         <name>Платформа складная алюминиевая PROFSET DLW201</name>
@@ -479,7 +479,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28025</price>
+        <price>25223</price>
       </offer>
       <offer sku="УТ-00004352">
         <name>Платформа складная алюминиевая PROFSET DLW202</name>
@@ -487,7 +487,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>33480</price>
+        <price>30132</price>
       </offer>
       <offer sku="УТ-00004560">
         <name>Пила цепная аккумуляторная Победа ПА 150 250205150</name>
@@ -22227,7 +22227,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13790</price>
+        <price>12411</price>
       </offer>
       <offer sku="УТ-00061217">
         <name>Стремянка односторонняя PROFSET 1x3 широких ступеней DLS403</name>
@@ -22235,7 +22235,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13550</price>
+        <price>12195</price>
       </offer>
       <offer sku="УТ-00061218">
         <name>Стремянка односторонняя PROFSET 1x4 широких ступеней DLS404</name>
@@ -22251,7 +22251,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>49059</price>
+        <price>44154</price>
       </offer>
       <offer sku="УТ-00061340">
         <name>Дозатор жидкого мыла встраиваемый Gappo сатин G406-5</name>
@@ -23867,7 +23867,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>39960</price>
+        <price>35964</price>
       </offer>
       <offer sku="УТ-00074569">
         <name>Подмости многофункциональные PROFSET 2х6 ступеней DLSL101-6</name>
@@ -23875,7 +23875,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>73440</price>
+        <price>66096</price>
       </offer>
       <offer sku="УТ-00074570">
         <name>Подмости многофункциональные PROFSET 2х7 ступеней DLSL101-7</name>
@@ -23883,7 +23883,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>78850</price>
+        <price>70965</price>
       </offer>
       <offer sku="УТ-00074824">
         <name>Дрель-шуруповерт аккумуляторная IVT в кейсе (1 акб*2 Ач) ICSD 20/2-65 BMC</name>
@@ -24709,7 +24709,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>60030</price>
+        <price>54027</price>
       </offer>
       <offer sku="УТ-00089531">
         <name>Лестница трехсекционная PROFSET 3х8 ступеней DLE308</name>
@@ -24717,7 +24717,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>66030</price>
+        <price>59427</price>
       </offer>
       <offer sku="УТ-00089534">
         <name>Лестница двухсекционная PROFSET 2х9 ступеней DLE209</name>
@@ -24725,7 +24725,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>49980</price>
+        <price>44982</price>
       </offer>
       <offer sku="УТ-00089535">
         <name>Лестница двухсекционная PROFSET 2х10 ступеней DLE210</name>
@@ -24733,7 +24733,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>58480</price>
+        <price>52632</price>
       </offer>
       <offer sku="УТ-00089536">
         <name>Лестница двухсекционная PROFSET 2х11 ступеней DLE211</name>
@@ -24741,7 +24741,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>61300</price>
+        <price>55170</price>
       </offer>
       <offer sku="УТ-00089537">
         <name>Стремянка односторонняя усиленная PROFSET 1х3 ступеней DLH303</name>
@@ -24749,7 +24749,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>21800</price>
+        <price>19620</price>
       </offer>
       <offer sku="УТ-00089538">
         <name>Стремянка односторонняя усиленная PROFSET 1х4 ступеней DLH304</name>
@@ -24757,7 +24757,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>24920</price>
+        <price>22428</price>
       </offer>
       <offer sku="УТ-00089539">
         <name>Стремянка односторонняя усиленная PROFSET 1х5 ступеней DLH305</name>
@@ -24765,7 +24765,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>29750</price>
+        <price>26775</price>
       </offer>
       <offer sku="УТ-00089541">
         <name>Лестница приставная складная PROFSET 9 ступеней DLF109</name>
@@ -24773,7 +24773,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>42320</price>
+        <price>38088</price>
       </offer>
       <offer sku="УТ-00089542">
         <name>Лестница приставная складная PROFSET 11 ступеней DLF111</name>
@@ -24781,7 +24781,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>50630</price>
+        <price>45567</price>
       </offer>
       <offer sku="УТ-00089543">
         <name>Стремянка складная двухсторонняя PROFSET 2х3 ступеней DLF203</name>
@@ -24789,7 +24789,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>35830</price>
+        <price>32247</price>
       </offer>
       <offer sku="УТ-00089545">
         <name>Стремянка складная двухсторонняя PROFSET 2х5 ступеней DLF205</name>
@@ -24797,7 +24797,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>51530</price>
+        <price>46377</price>
       </offer>
       <offer sku="УТ-00089546">
         <name>Стремянка складная двухсторонняя PROFSET 2х6 ступеней DLF206</name>
@@ -24805,7 +24805,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>60360</price>
+        <price>54324</price>
       </offer>
       <offer sku="УТ-00090915">
         <name>Аккумулятор для инструмента BOSCH EXPERT EXBA18V-150 1600A036ZM</name>

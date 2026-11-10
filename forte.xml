@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 14:48">
+<fm_catalog date="2026-11-10 15:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -768,17 +768,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13390</price>
-      </offer>
-      <offer sku="УТ-00005944">
-        <name>Уровень тип 70, 120 см STABILA 02289</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022891</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19190</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -11231,17 +11220,6 @@
         </pickup-options>
         <price>36800</price>
       </offer>
-      <offer sku="00000032453">
-        <name>Контейнер Lidbox(50295317)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140961905</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4830</price>
-      </offer>
       <offer sku="00000032455">
         <name>Краскопульт электрический BOSCH PFS 2000 0603207300</name>
         <vendor>BOSCH</vendor>
@@ -20289,14 +20267,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7398</price>
-      </offer>
-      <offer sku="УТ-00052936">
-        <name>Крюк зацеп для рулетки 505 69 72-10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3000</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>

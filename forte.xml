@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 17:15">
+<fm_catalog date="2026-11-10 17:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13048,6 +13048,17 @@
         </pickup-options>
         <price>3387</price>
       </offer>
+      <offer sku="00000035477">
+        <name>Набор сабельных пилок Bosch S1111DF 2 шт. 2608656273</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140235884</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4094</price>
+      </offer>
       <offer sku="00000035524">
         <name>Бур по бетону BOSCH SDS+ 6x150/210 мм 2608680264</name>
         <vendor>BOSCH</vendor>
@@ -21569,6 +21580,17 @@
         </pickup-options>
         <price>13342</price>
       </offer>
+      <offer sku="УТ-00059828">
+        <name>Сушилка напольная Nika СБ3/Б белый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075832602</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6435</price>
+      </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>
         <vendor>BOSCH</vendor>
@@ -21739,7 +21761,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>104950</price>
+        <price>128650</price>
       </offer>
       <offer sku="УТ-00059890">
         <name>Смеситель для ванны Gappo черный/хром G2203-6</name>
@@ -21750,7 +21772,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>43990</price>
+        <price>68640</price>
       </offer>
       <offer sku="УТ-00059901">
         <name>Гусак гибкий силиконовый Frap W04 черный</name>
@@ -21758,7 +21780,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4600</price>
+        <price>4970</price>
       </offer>
       <offer sku="УТ-00059916">
         <name>Раковина накладная Gappo белая GT413</name>
@@ -21777,7 +21799,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>28940</price>
+        <price>29280</price>
       </offer>
       <offer sku="УТ-00059936">
         <name>Трап душевой GAPPO 70х600 мм хром G86007-4</name>
@@ -21788,7 +21810,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26450</price>
+        <price>27040</price>
       </offer>
       <offer sku="УТ-00059943">
         <name>Душевой трап GAPPO G85007-39 из нержавеющей стали боковой 70*500 оружейная сталь</name>
@@ -21799,7 +21821,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>31050</price>
+        <price>33850</price>
       </offer>
       <offer sku="УТ-00059958">
         <name>Смеситель GAPPO с гигиеническим душем G7288-6</name>
@@ -21815,7 +21837,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>51220</price>
+        <price>54300</price>
       </offer>
       <offer sku="УТ-00060071">
         <name>Душевая стойка GAPPO с термостатом G2495-76</name>
@@ -21826,7 +21848,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>94020</price>
+        <price>94160</price>
       </offer>
       <offer sku="УТ-00060075">
         <name>Душевая стойка Gappo G2491-3 с термостатом Золотой Сатин</name>
@@ -21870,7 +21892,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>36760</price>
+        <price>42900</price>
       </offer>
       <offer sku="УТ-00060122">
         <name>Смеситель GAPPO для раковины G1099-32 высокий</name>
@@ -21878,7 +21900,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>32260</price>
+        <price>33130</price>
       </offer>
       <offer sku="УТ-00060159">
         <name>Смеситель GAPPO для раковины G1007-9 Оружейная Сталь</name>
@@ -21886,7 +21908,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>42440</price>
+        <price>47970</price>
       </offer>
       <offer sku="УТ-00060170">
         <name>Смеситель для раковины Gappo хром G1007-1</name>
@@ -21897,7 +21919,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>38320</price>
+        <price>42280</price>
       </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>
@@ -21908,7 +21930,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>24650</price>
+        <price>25130</price>
       </offer>
       <offer sku="УТ-00060227">
         <name>Клапан донный Frap 32 мм черный F62-7</name>
@@ -21919,7 +21941,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6500</price>
+        <price>8590</price>
       </offer>
       <offer sku="УТ-00060243">
         <name>Смеситель для кухни Frap оружейная сталь F4497-9</name>
@@ -21930,7 +21952,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>34600</price>
+        <price>35990</price>
       </offer>
       <offer sku="УТ-00060245">
         <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
@@ -21941,7 +21963,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23630</price>
+        <price>24190</price>
       </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
@@ -21949,7 +21971,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>43260</price>
+        <price>48730</price>
       </offer>
       <offer sku="УТ-00060281">
         <name>Смеситель для кухни Frap оружейная сталь F40899-9</name>
@@ -21960,7 +21982,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>15290</price>
+        <price>15740</price>
       </offer>
       <offer sku="УТ-00060284">
         <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
@@ -21979,7 +22001,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>107330</price>
+        <price>119270</price>
       </offer>
       <offer sku="УТ-00060343">
         <name>Душевая система Frap F2491 Хром с изливом</name>
@@ -21987,7 +22009,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>83100</price>
+        <price>122640</price>
       </offer>
       <offer sku="УТ-00060359">
         <name>Душевая система Frap F2476-6 черный</name>
@@ -21995,7 +22017,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>92150</price>
+        <price>101960</price>
       </offer>
       <offer sku="УТ-00060392">
         <name>Смеситель Frap для ванны F2261 длинный гусак хром</name>
@@ -22006,7 +22028,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>40450</price>
+        <price>44540</price>
       </offer>
       <offer sku="УТ-00060447">
         <name>Смеситель для раковины Frap черный F10802-6</name>
@@ -22017,7 +22039,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>13500</price>
+        <price>17470</price>
       </offer>
       <offer sku="УТ-00060454">
         <name>Смеситель Frap для раковины F1076-6 черный</name>
@@ -22025,7 +22047,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22970</price>
+        <price>29050</price>
       </offer>
       <offer sku="УТ-00060467">
         <name>Смеситель Frap для раковины F1071-6 чёрный</name>
@@ -22036,7 +22058,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>19230</price>
+        <price>23080</price>
       </offer>
       <offer sku="УТ-00060481">
         <name>Смеситель для раковины Frap оружейная сталь F1062-9</name>
@@ -22047,7 +22069,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>24000</price>
+        <price>29050</price>
       </offer>
       <offer sku="УТ-00060509">
         <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СК слоновая кость</name>
@@ -22081,6 +22103,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8899</price>
+      </offer>
+      <offer sku="УТ-00060533">
+        <name>Вешалка напольная Nika "КОМФОРТ 6" ВК6/З золотистый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4620032740215</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9999</price>
       </offer>
       <offer sku="УТ-00060540">
         <name>Этажерка Nika ЭТ4/А коричневый</name>
@@ -22178,7 +22211,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17900</price>
+        <price>19530</price>
       </offer>
       <offer sku="УТ-00061349">
         <name>Душевая стойка Frap F2487-3 золотой сатин</name>
@@ -22189,7 +22222,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>96680</price>
+        <price>102390</price>
       </offer>
       <offer sku="УТ-00061350">
         <name>Душевая стойка Frap F2487-9 оружейная сталь</name>
@@ -22197,7 +22230,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>86520</price>
+        <price>96140</price>
       </offer>
       <offer sku="УТ-00061367">
         <name>Смеситель Frap для кухни F4044-6 Черный</name>
@@ -22205,7 +22238,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23060</price>
+        <price>24280</price>
       </offer>
       <offer sku="УТ-00061406">
         <name>Доска гладильная Nika "BELL" NB (в ассортименте)</name>
@@ -24430,7 +24463,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>40800</price>
+        <price>42740</price>
       </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>
@@ -24579,7 +24612,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>114890</price>
+        <price>117140</price>
       </offer>
       <offer sku="УТ-00089491">
         <name>Колесо 4.00-8 для мотокультиватора MK 7-950</name>

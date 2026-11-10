@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 08:56">
+<fm_catalog date="2026-11-10 09:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15802,7 +15802,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9200</price>
+        <price>8200</price>
       </offer>
       <offer sku="00000059163">
         <name>Подставка для обуви ЗМИ "АЛЬФА 33" ПДОА33 черная</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 14:19">
+<fm_catalog date="2026-11-10 14:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4071,17 +4071,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12852</price>
-      </offer>
-      <offer sku="УТ-00026331">
-        <name>Сушилка напольная Nika СБП1/С серебристый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032740925</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6849</price>
       </offer>
       <offer sku="УТ-00026340">
         <name>Сушилка напольная Nika СБ1/Б белый</name>

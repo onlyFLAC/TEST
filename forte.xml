@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-10 10:25">
+<fm_catalog date="2026-11-10 10:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22978,14 +22978,6 @@
         </pickup-options>
         <price>28300</price>
       </offer>
-      <offer sku="УТ-00063889">
-        <name>GSM+GPS Мастер 6 V2 StarLine</name>
-        <vendor>Starline</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48100</price>
-      </offer>
       <offer sku="УТ-00063898">
         <name>Смазка для редукторов и гибкого вала STIHL 80 г 07811201117</name>
         <vendor>STIHL</vendor>
@@ -25803,14 +25795,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2890</price>
-      </offer>
-      <offer sku="УТ-00093166">
-        <name>ЗУБР 76 х 10 мм, P60, 3 шт., КЛТ для мини-УШМ, Профессионал (36591-76-60-H3)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1728</price>
       </offer>
       <offer sku="УТ-00093321">
         <name>KRAFTOOL AC-80, глубина зажима 70 мм, мощная алюминиевая угловая струбцина (32202)</name>

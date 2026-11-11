@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 08:23">
+<fm_catalog date="2026-11-11 08:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2351,14 +2351,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9000</price>
-      </offer>
-      <offer sku="УТ-00022374">
-        <name>ШИНА 14'' 3/8 1.3 52DL 7T 1КЛ HSM HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11000</price>
       </offer>
       <offer sku="УТ-00022403">
         <name>Шина 15'' 0.325 1.5 64DL 11T 5кл HSM Husqvarna X-Force</name>
@@ -8388,17 +8380,6 @@
         </pickup-options>
         <price>4990</price>
       </offer>
-      <offer sku="00000016498">
-        <name>Щетка-сметка для снега со скребком Stels 580 мм 55303</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996126128</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2380</price>
-      </offer>
       <offer sku="00000016510">
         <name>Провода стартовые, 200 А, 2,3 м, сумка на молнии// Stels</name>
         <vendor>STELS</vendor>
@@ -11270,17 +11251,6 @@
         </pickup-options>
         <price>44260</price>
       </offer>
-      <offer sku="00000032523">
-        <name>Пила отрезная BOSCH GCO 14-24 J 0601B37200</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140966320</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>163330</price>
-      </offer>
       <offer sku="00000032526">
         <name>Пила мини-цепная аккумуляторная Bosch EasyCut12 06033C9020</name>
         <vendor>BOSCH</vendor>
@@ -11401,17 +11371,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14952</price>
-      </offer>
-      <offer sku="00000032601">
-        <name>Набор сверл PointTeQ 7pcs Mini X</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140917650</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3576</price>
       </offer>
       <offer sku="00000032616">
         <name>Пила дисковая настольная (распиловочный стол) Bosch GTS 10 XC Professional 0601B30400</name>
@@ -23334,17 +23293,6 @@
         </pickup-options>
         <price>18885</price>
       </offer>
-      <offer sku="УТ-00072499">
-        <name>Кусачки боковые KNIPEX 77 72 115 SB</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773028000</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39145</price>
-      </offer>
       <offer sku="УТ-00072506">
         <name>Кусачки диагональные KNIPEX 70 06 160</name>
         <vendor>KNIPEX</vendor>
@@ -24101,6 +24049,9 @@
       <offer sku="УТ-00085187">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/23</name>
         <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111512503</barcode>
+        </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
@@ -24156,14 +24107,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
-      </offer>
-      <offer sku="УТ-00085493">
-        <name>Набор напильников Husqvarna 4.5 мм 3 шт. 597 35 55-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085494">
         <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>

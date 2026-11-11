@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 20:13">
+<fm_catalog date="2026-11-11 20:43">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4894,17 +4894,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>647</price>
-      </offer>
-      <offer sku="00000002924">
-        <name>Ключ трубный с прямыми губками STAYER Hercules-L 27331-0</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229109165</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3944</price>
       </offer>
       <offer sku="00000002925">
         <name>Ключ трубный STAYER "HERCULES-L" №1 27331-1</name>
@@ -10760,14 +10749,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>82600</price>
-      </offer>
-      <offer sku="00000031876">
-        <name>Лестница шарнирная KRAUSE MULTIMATIC 4х4 ступ. 120649</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>149000</price>
       </offer>
       <offer sku="00000031878">
         <name>Лестница трехсекционная KRAUSE TRIBILO 3x12 ступ. 120953</name>

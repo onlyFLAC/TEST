@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 13:46">
+<fm_catalog date="2026-11-11 14:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -193,6 +193,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>55200</price>
+      </offer>
+      <offer sku="УТ-00003976">
+        <name>Мультиметр цифровой CROWN CT44051</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177426468</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -2721,14 +2732,6 @@
         </pickup-options>
         <price>8980</price>
       </offer>
-      <offer sku="УТ-00025084">
-        <name>Лопата совковая, 250х295х1150 мм, деревянный лакированный черенок// Palisad</name>
-        <vendor>Palisad</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6723</price>
-      </offer>
       <offer sku="УТ-00025297">
         <name>Зенковка конусная под М5, HSS, по металлу, 6-гранный хвостовик// Denzel</name>
         <vendor>Denzel</vendor>
@@ -4178,6 +4181,18 @@
         </pickup-options>
         <price>39990</price>
       </offer>
+      <offer sku="УТ-00028792">
+        <name>Вешалка настенная ЗМИ "ТОРОНТО 5" ВНТ5Ч черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195633097</barcode>
+          <barcode>4640047369768</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4910</price>
+      </offer>
       <offer sku="УТ-00028793">
         <name>Вешалка настенная ЗМИ "ТОРОНТО 5" графит ВНТ5 ГР</name>
         <vendor>ЗМИ</vendor>
@@ -4468,6 +4483,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>312490</price>
+      </offer>
+      <offer sku="00000000869">
+        <name>Конвектор РЕСАНТА ОК-500С</name>
+        <vendor>Ресанта</vendor>
+        <barcodes>
+          <barcode>4606059019459</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9390</price>
       </offer>
       <offer sku="00000000888">
         <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
@@ -8058,17 +8084,6 @@
         </pickup-options>
         <price>17913</price>
       </offer>
-      <offer sku="00000013245">
-        <name>Ключ разводной, тонкие губки, фосфатированый, 250 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996145594</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6104</price>
-      </offer>
       <offer sku="00000013425">
         <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -8101,17 +8116,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1599</price>
-      </offer>
-      <offer sku="00000013738">
-        <name>Набор пробойников для кожи 2; 3; 4; 5; 6; 8; 9; 10; 13 мм, 9 шт, чехол// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996163567</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6277</price>
       </offer>
       <offer sku="00000013790">
         <name>Зубило, 200 х 20 мм, оцинкованное// Россия</name>
@@ -8201,17 +8205,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>490</price>
-      </offer>
-      <offer sku="00000014204">
-        <name>Триммер бензиновый DT-52, 52см3, 3 л.с., неразъемная штанга, состоит из 2 частей// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996167992</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54607</price>
       </offer>
       <offer sku="00000014265">
         <name>Катушка триммерная Denzel 96365</name>
@@ -8367,6 +8360,17 @@
         </pickup-options>
         <price>4145</price>
       </offer>
+      <offer sku="00000014939">
+        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4606800027177</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>956</price>
+      </offer>
       <offer sku="00000015033">
         <name>Набор резцов по дереву Sparta 6 шт. 246065</name>
         <vendor>Sparta</vendor>
@@ -8476,17 +8480,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>727</price>
-      </offer>
-      <offer sku="00000015603">
-        <name>Трос металлополимерный прозрачный ПР-2.0, (2,0мм толщина, катушка 200м.п.), Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800042798</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8990</price>
       </offer>
       <offer sku="00000015681">
         <name>Кронштейн стальной Сибртех 250x300 мм 94038</name>
@@ -8730,17 +8723,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>294</price>
-      </offer>
-      <offer sku="00000016620">
-        <name>Секатор прямого реза, 220 мм, алюминиевые рукоятки, LUXE// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996183114</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6294</price>
       </offer>
       <offer sku="00000016650">
         <name>Секатор прямого реза, 180 мм, металлические обрезиненные рукоятки// Palisad 60503</name>
@@ -9243,17 +9225,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1644</price>
-      </offer>
-      <offer sku="00000018344">
-        <name>Спанбонд 120 для ландшафтных работ 12 х 1,6// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4607137552523</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6763</price>
       </offer>
       <offer sku="00000018368">
         <name>Чехол для роз и кустарников 0,4х 0,8 // Россия</name>
@@ -10350,17 +10321,6 @@
         </pickup-options>
         <price>3985</price>
       </offer>
-      <offer sku="00000023486">
-        <name>Шнур полиэфирный Сибртех 5 мм 25 м 93823</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800046505</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>890</price>
-      </offer>
       <offer sku="00000023555">
         <name>Стремянка Сибртех 5 ступеней 97715</name>
         <vendor>Сибртех</vendor>
@@ -10382,17 +10342,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34846</price>
-      </offer>
-      <offer sku="00000023571">
-        <name>Лестница приставная, 7 ступеней, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800044280</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20490</price>
       </offer>
       <offer sku="00000023573">
         <name>Лестница приставная, 9 ступеней, Россия// Сибртех</name>
@@ -16290,6 +16239,17 @@
         </pickup-options>
         <price>1765</price>
       </offer>
+      <offer sku="00000059140">
+        <name>Вешалка настенная ЗМИ "НОРМА 5" ВН24 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011871976</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2140</price>
+      </offer>
       <offer sku="00000059150">
         <name>Подставка для обуви ЗМИ "АЛЬФА 22" ПДОА22 коричневая (ПДО12М)</name>
         <vendor>ЗМИ</vendor>
@@ -16357,6 +16317,17 @@
         </pickup-options>
         <price>12998</price>
       </offer>
+      <offer sku="00000059172">
+        <name>Подставка для обуви ЗМИ ''ЖЕНЕВА 23'' Графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195630102</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17177</price>
+      </offer>
       <offer sku="00000059173">
         <name>Подставка для обуви ЗМИ "ЖЕНЕВА 33" ПДОЖ33 черная</name>
         <vendor>ЗМИ</vendor>
@@ -16390,6 +16361,17 @@
         </pickup-options>
         <price>22470</price>
       </offer>
+      <offer sku="00000059179">
+        <name>Подставка для цветов ЗМИ "АРКА 5" ПДЦ414 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011879095</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8510</price>
+      </offer>
       <offer sku="00000059189">
         <name>Вешалка гардеробная ЗМИ "РАДУГА 1" ВГАР1 черная</name>
         <vendor>ЗМИ</vendor>
@@ -16401,6 +16383,29 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7910</price>
+      </offer>
+      <offer sku="00000059190">
+        <name>Вешалка гардеробная колесная ЗМИ "РАДУГА 2" ВГАР2 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195637637</barcode>
+          <barcode>4640011875622</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12660</price>
+      </offer>
+      <offer sku="00000059195">
+        <name>Табурет-стремянка ЗМИ "КОНЕК" ТС277 коричневый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195632908</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15160</price>
       </offer>
       <offer sku="00000059208">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л ваниль</name>
@@ -16445,6 +16450,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11000</price>
+      </offer>
+      <offer sku="00000059232">
+        <name>Вешалка напольная ЗМИ "ДЕРЕВО" ВНП211 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011873123</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16890</price>
       </offer>
       <offer sku="00000059244">
         <name>Этажерка Nika ЭТК3/А медный антик</name>
@@ -17075,6 +17091,17 @@
         </pickup-options>
         <price>11500</price>
       </offer>
+      <offer sku="00000064144">
+        <name>Вешалка с полкой ЗМИ ВСП7 черная</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011871655</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4930</price>
+      </offer>
       <offer sku="00000064145">
         <name>Вешалка с полкой ЗМИ ВСП169 белая</name>
         <vendor>ЗМИ</vendor>
@@ -17119,6 +17146,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2110</price>
+      </offer>
+      <offer sku="00000064155">
+        <name>ЗМИ Вешалка настенная "Норма 3" Белый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093785263</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1399</price>
       </offer>
       <offer sku="00000064156">
         <name>Вешалка настенная ЗМИ "НОРМА 3" ВН64 коричневая</name>
@@ -17250,6 +17288,17 @@
         </pickup-options>
         <price>18725</price>
       </offer>
+      <offer sku="00000064221">
+        <name>Подставка для обуви ЗМИ "ЖЕНЕВА 35" ПДОЖ35 графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195630140</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23810</price>
+      </offer>
       <offer sku="00000064223">
         <name>ЗМИ Подставка для обуви ВЕРОНА 15 Графит</name>
         <vendor>ЗМИ</vendor>
@@ -17279,6 +17328,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24188</price>
+      </offer>
+      <offer sku="00000064236">
+        <name>Подставка для цветов ЗМИ "АРКА 5" ПДЦ414 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093785423</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7010</price>
+      </offer>
+      <offer sku="00000064260">
+        <name>Табурет-стремянка ЗМИ "КОНЕК" ТС277 белый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093785751</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15270</price>
       </offer>
       <offer sku="00000064262">
         <name>Вешалка гардеробная колесная ЗМИ "РАДУГА 2" ВНП299 коричневая</name>
@@ -17413,6 +17484,17 @@
         </pickup-options>
         <price>10690</price>
       </offer>
+      <offer sku="00000064347">
+        <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093784945</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18000</price>
+      </offer>
       <offer sku="00000064348">
         <name>Вешалка-стойка ЗМИ "ДЕРЕВО" ВНП211 коричневая</name>
         <vendor>ЗМИ</vendor>
@@ -17481,6 +17563,17 @@
         </pickup-options>
         <price>5250</price>
       </offer>
+      <offer sku="00000064362">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л бежевый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874489</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4290</price>
+      </offer>
       <offer sku="00000064364">
         <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л оливковый</name>
         <vendor>ЗМИ</vendor>
@@ -17491,6 +17584,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5310</price>
+      </offer>
+      <offer sku="00000064366">
+        <name>Табурет квадратный ЗМИ "ПЕНЕК ЛЕГКИЙ" 184 Т271Л серый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011874472</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4745</price>
       </offer>
       <offer sku="00000064367">
         <name>Табурет круглый ЗМИ "ПЕНЕК КРЕПКИЙ" 220 Т266 ваниль</name>
@@ -17747,6 +17851,14 @@
         </pickup-options>
         <price>2400</price>
       </offer>
+      <offer sku="00000070236">
+        <name>Цепь круглозвенная TOR G80 EN818-2 10х30 10710301</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5225</price>
+      </offer>
       <offer sku="00000070238">
         <name>Цепь круглозвенная Tor G80 некалиброванная 10716481</name>
         <vendor>TOR</vendor>
@@ -17797,6 +17909,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12000</price>
+      </offer>
+      <offer sku="00000070609">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093787113</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14010</price>
       </offer>
       <offer sku="00000070610">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
@@ -18787,6 +18910,28 @@
         </pickup-options>
         <price>20776</price>
       </offer>
+      <offer sku="00000075880">
+        <name>Вешалка костюмная ЗМИ "СТИЛЬ 3" ВНП300 графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093789995</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10790</price>
+      </offer>
+      <offer sku="00000075883">
+        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 графит</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610093789797</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14380</price>
+      </offer>
       <offer sku="00000075884">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М графит</name>
         <vendor>ЗМИ</vendor>
@@ -19677,17 +19822,6 @@
         </pickup-options>
         <price>6556</price>
       </offer>
-      <offer sku="УТ-00001808">
-        <name>Ведро гибкое сверхпрочное, 28 л, синее, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800091031</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3842</price>
-      </offer>
       <offer sku="УТ-00001816">
         <name>Перчатки садовые на липучке, силиконовое нанесение, размер 8, Luxe// Palisad</name>
         <vendor>Palisad</vendor>
@@ -19865,6 +19999,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>56220</price>
+      </offer>
+      <offer sku="УТ-00002285">
+        <name>Вешалка с полкой ЗМИ ''Торонто 21'' Белый</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195630720</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14017</price>
       </offer>
       <offer sku="УТ-00002288">
         <name>Вешалка с полкой ЗМИ "ТОРОНТО 22" белая ВСП Т22</name>
@@ -20050,14 +20195,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>85760</price>
-      </offer>
-      <offer sku="УТ-00040481">
-        <name>Тарелка опорная для шлифмашины BOSCH GEX 125-1 AE 125 мм 1600A01CU1</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7920</price>
       </offer>
       <offer sku="УТ-00040680">
         <name>Стремянка Nika 4 ступ. СМ4 оранжевый</name>
@@ -20521,6 +20658,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>90350</price>
+      </offer>
+      <offer sku="УТ-00047416">
+        <name>Тележка для металлических бочек TOR КБ-1 1020254</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>63010</price>
       </offer>
       <offer sku="УТ-00047459">
         <name>Блок монтажный с крюком TOR HQG(L) K1 0.5 т 11505</name>
@@ -21469,6 +21614,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12720</price>
+      </offer>
+      <offer sku="УТ-00055974">
+        <name>Вешалка с полкой двух ярусная ЗМИ "ТОРОНТО 22Д" ВСПТ22Д белая</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4610195633042</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18790</price>
       </offer>
       <offer sku="УТ-00055980">
         <name>Вешалка с полкой ЗМИ Торонто 11 Черный</name>
@@ -22488,6 +22644,17 @@
         </pickup-options>
         <price>29280</price>
       </offer>
+      <offer sku="УТ-00059936">
+        <name>Трап душевой GAPPO 70х600 мм хром G86007-4</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477696749</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27040</price>
+      </offer>
       <offer sku="УТ-00059943">
         <name>Душевой трап GAPPO G85007-39 из нержавеющей стали боковой 70*500 оружейная сталь</name>
         <vendor>GAPPO</vendor>
@@ -22597,6 +22764,17 @@
         </pickup-options>
         <price>42280</price>
       </offer>
+      <offer sku="УТ-00060174">
+        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477645532</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>46160</price>
+      </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -22619,6 +22797,17 @@
         </pickup-options>
         <price>8590</price>
       </offer>
+      <offer sku="УТ-00060233">
+        <name>Клапан донный Frap 32 мм хром F60</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477615801</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6310</price>
+      </offer>
       <offer sku="УТ-00060243">
         <name>Смеситель для кухни Frap оружейная сталь F4497-9</name>
         <vendor>Frap</vendor>
@@ -22629,6 +22818,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>35990</price>
+      </offer>
+      <offer sku="УТ-00060245">
+        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477625770</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24190</price>
       </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
@@ -26340,14 +26540,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4955</price>
-      </offer>
-      <offer sku="УТ-00092281">
-        <name>Bosch по керамической плитке 2608900590 6 мм 1 шт.</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2439</price>
       </offer>
       <offer sku="УТ-00092572">
         <name>Комбо: Аккум. Воздуходувка Einhell GP-LB 36/270 Li E + Зарядное устройство + 2 аккум. 18V 4,0Ah Einhell (343357012)</name>

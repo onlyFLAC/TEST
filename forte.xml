@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 16:15">
+<fm_catalog date="2026-11-11 16:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9853,17 +9853,6 @@
         </pickup-options>
         <price>29413</price>
       </offer>
-      <offer sku="00000023732">
-        <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177420008</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22080</price>
-      </offer>
       <offer sku="00000023735">
         <name>Дрель-шуруповерт аккумуляторный CROWN CT21055L BMC</name>
         <vendor>CROWN</vendor>
@@ -9886,17 +9875,6 @@
         </pickup-options>
         <price>48990</price>
       </offer>
-      <offer sku="00000023809">
-        <name>Пила дисковая CROWN CT15074</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640186245227</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>32990</price>
-      </offer>
       <offer sku="00000023824">
         <name>Лобзик CROWN CT15080</name>
         <vendor>CROWN</vendor>
@@ -9907,17 +9885,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21990</price>
-      </offer>
-      <offer sku="00000023848">
-        <name>Рубанок CROWN CT14019X</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177420664</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>33990</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -26199,14 +26166,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3190</price>
-      </offer>
-      <offer sku="УТ-00099519">
-        <name>Краскопульт электрический CROWN CT31014</name>
-        <vendor>CROWN</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28990</price>
       </offer>
       <offer sku="УТ-00099520">
         <name>31015 Краскопульт CROWN</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 15:15">
+<fm_catalog date="2026-11-11 15:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8091,6 +8091,17 @@
         </pickup-options>
         <price>1490</price>
       </offer>
+      <offer sku="00000014391">
+        <name>Фиксатор магнитный для сварочных работ усилие 25 LB// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996147147</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1989</price>
+      </offer>
       <offer sku="00000014419">
         <name>Пушка тепловая электрическая Denzel DHC 5-400 96428</name>
         <vendor>Denzel</vendor>
@@ -8455,17 +8466,6 @@
         </pickup-options>
         <price>1780</price>
       </offer>
-      <offer sku="00000016568">
-        <name>Щетка для мытья автомобиля с мягкой рукояткой// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996113401</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3804</price>
-      </offer>
       <offer sku="00000016586">
         <name>Упор противооткатной 120х80х70мм// Россия// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8791,17 +8791,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21020</price>
-      </offer>
-      <offer sku="00000017666">
-        <name>Ведро гибкое сверхпрочное СИБРТЕХ 14л, желтое 67502</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800058676</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2466</price>
       </offer>
       <offer sku="00000017670">
         <name>Ведро гибкое сверхпрочное, 40 л, синее, Россия// Сибртех</name>
@@ -9724,17 +9713,6 @@
         </pickup-options>
         <price>2290</price>
       </offer>
-      <offer sku="00000022790">
-        <name>Ящик для инструментов Сибртех 90803</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800042293</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2375</price>
-      </offer>
       <offer sku="00000022791">
         <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
         <vendor>Сибртех</vendor>
@@ -9745,17 +9723,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4365</price>
-      </offer>
-      <offer sku="00000022793">
-        <name>Ящик для инструмента 21, 530х275х290 мм, пластик, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800042323</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9980</price>
       </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
@@ -9894,17 +9861,6 @@
         </pickup-options>
         <price>29413</price>
       </offer>
-      <offer sku="00000023639">
-        <name>Стремянка двухсторонняя Сибртех 4 ступеней 97984</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800072030</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17590</price>
-      </offer>
       <offer sku="00000023735">
         <name>Дрель-шуруповерт аккумуляторный CROWN CT21055L BMC</name>
         <vendor>CROWN</vendor>
@@ -9969,14 +9925,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>400500</price>
-      </offer>
-      <offer sku="00000024037">
-        <name>Станция насосная автоматическая Mateus MS05101 (ATJET100A)</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>76000</price>
       </offer>
       <offer sku="00000024071">
         <name>Станция насосная автоматическая Mateus MS05404 (TGP125C)</name>
@@ -13078,17 +13026,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3387</price>
-      </offer>
-      <offer sku="00000035477">
-        <name>Набор сабельных пилок Bosch S1111DF 2 шт. 2608656273</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140235884</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4094</price>
       </offer>
       <offer sku="00000035524">
         <name>Бур по бетону BOSCH SDS+ 6x150/210 мм 2608680264</name>
@@ -19648,17 +19585,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20700</price>
-      </offer>
-      <offer sku="УТ-00040685">
-        <name>Стремянка Nika 8 ступ. СМ8 оранжевый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075831100</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22150</price>
       </offer>
       <offer sku="УТ-00040768">
         <name>Лапа прибора Bosch 2610956898</name>
@@ -26369,17 +26295,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101757">
-        <name>База погружная для фрезера Makita 195563-0</name>
-        <vendor>Makita</vendor>
-        <barcodes>
-          <barcode>088381376099</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>48650</price>
       </offer>
       <offer sku="УТ-00102427">
         <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 11:20">
+<fm_catalog date="2026-11-11 11:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -757,6 +757,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13390</price>
+      </offer>
+      <offer sku="УТ-00005958">
+        <name>Уровень тип 80AS, 120 см STABILA 19169</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191696</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25090</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -2515,6 +2526,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>198490</price>
+      </offer>
+      <offer sku="УТ-00024063">
+        <name>Куртка с охлаждением, искрозащищённая, без аккумулятора, з\у и адаптера для аккумулятора, размер XL</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>53690</price>
+      </offer>
+      <offer sku="УТ-00024185">
+        <name>Инструмент м\функц ,320Вт,6000-20000об\мин,1.4кг,кор,эл стабилизация,плавный пуск</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>84430</price>
       </offer>
       <offer sku="УТ-00024216">
         <name>Винтоверт электрический Makita TD0101F</name>
@@ -10737,6 +10764,14 @@
         </pickup-options>
         <price>26080</price>
       </offer>
+      <offer sku="00000031885">
+        <name>Распорка KRAUSE 122018</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>39200</price>
+      </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
         <vendor>Krause</vendor>
@@ -10744,6 +10779,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>125000</price>
+      </offer>
+      <offer sku="00000031942">
+        <name>Подставка складная KRAUSE TOPPY XL 3 ступ. 130877</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199130877</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43600</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -16981,6 +17027,14 @@
         </pickup-options>
         <price>379561</price>
       </offer>
+      <offer sku="00000069968">
+        <name>Подвеска крюковая для талей электрических TOR CD1 0.5 т 119055</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37880</price>
+      </offer>
       <offer sku="00000069984">
         <name>55 Передний мост (20X158) для тележки гидравлической DB (Shaft 20X158), шт</name>
         <vendor>TOR</vendor>
@@ -19826,6 +19880,17 @@
         </pickup-options>
         <price>1400</price>
       </offer>
+      <offer sku="УТ-00048213">
+        <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883037737</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6990</price>
+      </offer>
       <offer sku="УТ-00048216">
         <name>Шнур кордовый Husqvarna 2.7x70 мм 597 66 90-10</name>
         <vendor>Husqvarna</vendor>
@@ -20509,6 +20574,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13160</price>
+      </offer>
+      <offer sku="УТ-00055490">
+        <name>Алмазная коронка 89*450 ВТ ALTECO 81812</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9370</price>
       </offer>
       <offer sku="УТ-00055537">
         <name>Бесщеточная аккумуляторная сабельная пила ALTECO CRS 21-100 BL 78085</name>
@@ -21940,6 +22013,17 @@
         </pickup-options>
         <price>6497</price>
       </offer>
+      <offer sku="УТ-00060531">
+        <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/С серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4620032741793</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10200</price>
+      </offer>
       <offer sku="УТ-00060532">
         <name>Доска гладильная Nika Н5 (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -22382,6 +22466,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7387</price>
+      </offer>
+      <offer sku="УТ-00063251">
+        <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СС светло-серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4620032741786</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8900</price>
       </offer>
       <offer sku="УТ-00063319">
         <name>Доска гладильная Nika БЮ1 (в ассортименте)</name>
@@ -23862,6 +23957,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4450</price>
+      </offer>
+      <offer sku="УТ-00078023">
+        <name>Вешалка настенная Nika ВП6М/Ч черный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111541442</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6679</price>
       </offer>
       <offer sku="УТ-00078025">
         <name>Стол журнальный Nika HHST2/3 ель умбра/черный</name>

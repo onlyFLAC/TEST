@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 21:42">
+<fm_catalog date="2026-11-11 22:12">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -18464,17 +18464,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4910</price>
-      </offer>
-      <offer sku="УТ-00000286">
-        <name>Труборез по металлопластиковым и пластиковым трубам Kraftool EXPERT до 42 мм 23381-42_z02</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229126223</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9890</price>
       </offer>
       <offer sku="УТ-00000324">
         <name>ЗУБР 24x25мм, хвостовик 8мм, фреза пазовая прямая</name>

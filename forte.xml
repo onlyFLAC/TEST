@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 12:18">
+<fm_catalog date="2026-11-11 12:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15852,17 +15852,6 @@
         </pickup-options>
         <price>11000</price>
       </offer>
-      <offer sku="00000059234">
-        <name>Вешалка напольная разборная ЗМИ "ЛУЧ 5" коричневая ВНП361/К</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195634278</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11210</price>
-      </offer>
       <offer sku="00000059244">
         <name>Этажерка Nika ЭТК3/А медный антик</name>
         <vendor>Nika</vendor>
@@ -22100,17 +22089,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8899</price>
-      </offer>
-      <offer sku="УТ-00060533">
-        <name>Вешалка напольная Nika "КОМФОРТ 6" ВК6/З золотистый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032740215</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9999</price>
       </offer>
       <offer sku="УТ-00060540">
         <name>Этажерка Nika ЭТ4/А коричневый</name>

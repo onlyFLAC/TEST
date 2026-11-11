@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 09:52">
+<fm_catalog date="2026-11-11 10:21">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2652,14 +2652,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>717860</price>
-      </offer>
-      <offer sku="УТ-00024996">
-        <name>Фильтр каркасный-складчатый HEPA для пылесоса Denzel SVC15, LVC15// Denzel</name>
-        <vendor>Denzel</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2390</price>
       </offer>
       <offer sku="УТ-00024998">
         <name>Фильтр каркасный-складчатый HEPA Denzel 28214</name>
@@ -7682,17 +7674,6 @@
         </pickup-options>
         <price>4890</price>
       </offer>
-      <offer sku="00000011753">
-        <name>Кувалда, 2000 г, кованая головка, деревянная двухцветная рукоятка// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996000152</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5959</price>
-      </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -7924,17 +7905,6 @@
         </pickup-options>
         <price>1780</price>
       </offer>
-      <offer sku="00000013467">
-        <name>Патрон для дрели ключевой 3-16 мм - В18// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996079295</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4165</price>
-      </offer>
       <offer sku="00000013603">
         <name>Длинногубцы Matrix 160 мм 17494</name>
         <vendor>Matrix</vendor>
@@ -7945,17 +7915,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1599</price>
-      </offer>
-      <offer sku="00000013786">
-        <name>Набор крюков для слесарных работ,4 шт.// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996116242</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3480</price>
       </offer>
       <offer sku="00000013790">
         <name>Зубило, 200 х 20 мм, оцинкованное// Россия</name>
@@ -8178,28 +8137,6 @@
         </pickup-options>
         <price>4145</price>
       </offer>
-      <offer sku="00000014939">
-        <name>Набор полотен для ручного лобзика Россия 130 мм 20 шт. 24050</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800027177</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>956</price>
-      </offer>
-      <offer sku="00000014941">
-        <name>Лобзик ручной Sparta 300 мм 240245</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996063522</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2438</price>
-      </offer>
       <offer sku="00000015063">
         <name>Лом-гвоздодер, двутавровый профиль, 600х30х17 мм// Gross</name>
         <vendor>Gross</vendor>
@@ -8232,17 +8169,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4800</price>
-      </offer>
-      <offer sku="00000015402">
-        <name>Уровень алюминиевый, усиленный, фрезерованный, 3 глазка, 2 комп. рукоятки, 600 мм// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996144986</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7198</price>
       </offer>
       <offer sku="00000015480">
         <name>Заклепочник усиленный поворотный Gross 2.4-4.8 мм 40405</name>
@@ -8287,17 +8213,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>727</price>
-      </offer>
-      <offer sku="00000015646">
-        <name>Проволока стальная в прутках 400мм/100шт, вязальная, термообработанная 1,4 мм // Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800067920</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1790</price>
       </offer>
       <offer sku="00000015681">
         <name>Кронштейн стальной Сибртех 250x300 мм 94038</name>
@@ -8712,17 +8627,6 @@
         </pickup-options>
         <price>8180</price>
       </offer>
-      <offer sku="00000017277">
-        <name>Набор дуг для парника Россия 5 мм 6 шт. 64409</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4606800032898</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3350</price>
-      </offer>
       <offer sku="00000017327">
         <name>Набор для подключения шланга 1/2" (распылитель, 3 адаптера к распылителю)// Palisad</name>
         <vendor>Palisad</vendor>
@@ -8923,17 +8827,6 @@
         </pickup-options>
         <price>7590</price>
       </offer>
-      <offer sku="00000018294">
-        <name>Набор приборов для барбекю, 4 предмета в сумке, Camping// Palisad</name>
-        <vendor>Palisad</vendor>
-        <barcodes>
-          <barcode>4044996070834</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6437</price>
-      </offer>
       <offer sku="00000018314">
         <name>Щетка для чистки гриля Palisad 43 см 69652</name>
         <vendor>Palisad</vendor>
@@ -9032,14 +8925,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>480</price>
-      </offer>
-      <offer sku="00000019208">
-        <name>Сверло спиральное по металлу 7,5 x 109мм, Р9М3, многогранная заточка// Барс</name>
-        <vendor>Барс</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1486</price>
       </offer>
       <offer sku="00000019513">
         <name>Кондуктор для алмазных сверл Matrix 4-13 мм 72833</name>
@@ -9152,29 +9037,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3890</price>
-      </offer>
-      <offer sku="00000019963">
-        <name>Круг шлифовальный, 200 х 20 х 32 мм, 25А, F40, М (Луга)// Россия</name>
-        <vendor>Россия</vendor>
-        <barcodes>
-          <barcode>4603347064078</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4770</price>
-      </offer>
-      <offer sku="00000019971">
-        <name>Диск шлифовальный LUGAABRASIV 25A F60 150х20х12.7 мм 73479</name>
-        <vendor>LUGAABRASIV</vendor>
-        <barcodes>
-          <barcode>4603347066850</barcode>
-          <barcode>4603347067062</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3380</price>
       </offer>
       <offer sku="00000020001">
         <name>Диск отрезной по металлу LUGAABRASIV 150х22.2 мм 73664</name>
@@ -9776,17 +9638,6 @@
         </pickup-options>
         <price>1790</price>
       </offer>
-      <offer sku="00000022755">
-        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996123127</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8980</price>
-      </offer>
       <offer sku="00000022756">
         <name>Ящик для инструмента STELS 23" 90706</name>
         <vendor>STELS</vendor>
@@ -9948,17 +9799,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4790</price>
-      </offer>
-      <offer sku="00000023556">
-        <name>Стремянка Сибртех 6 ступеней 97716</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800032294</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>34846</price>
       </offer>
       <offer sku="00000023571">
         <name>Лестница приставная, 7 ступеней, Россия// Сибртех</name>
@@ -16419,17 +16259,6 @@
         </pickup-options>
         <price>2780</price>
       </offer>
-      <offer sku="00000063684">
-        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996198392</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2270</price>
-      </offer>
       <offer sku="00000063690">
         <name>Уплотнитель резиновый, 6 м, профиль "D", коричневый// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -19103,17 +18932,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
-      </offer>
-      <offer sku="УТ-00001652">
-        <name>Набор ключей комбинированных 6-22 мм, 12 шт., CrV, матовый хром// Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996205083</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7754</price>
       </offer>
       <offer sku="УТ-00001721">
         <name>Лом-гвоздодер усиленный, 1200х29х15 мм// Matrix</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 12:48">
+<fm_catalog date="2026-11-11 13:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -758,36 +758,6 @@
         </pickup-options>
         <price>13390</price>
       </offer>
-      <offer sku="УТ-00005926">
-        <name>Уровень Pocket Pro Magnetic с чехлом STABILA 17953</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069179533</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12390</price>
-      </offer>
-      <offer sku="УТ-00005944">
-        <name>Уровень тип 70, 120 см STABILA 02289</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022891</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19190</price>
-      </offer>
-      <offer sku="УТ-00005950">
-        <name>Уровень Stabila тип 70, 50 см 02283</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12590</price>
-      </offer>
       <offer sku="УТ-00005958">
         <name>Уровень тип 80AS, 120 см STABILA 19169</name>
         <vendor>STABILA</vendor>
@@ -817,6 +787,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
+      </offer>
+      <offer sku="УТ-00006312">
+        <name>Стремянка односторонняя складная KRAUSE SAFETY 7 ступ. 128973</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>79050</price>
+      </offer>
+      <offer sku="УТ-00006351">
+        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х3 ступ. 120328</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43400</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -4079,17 +4065,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7000</price>
-      </offer>
-      <offer sku="УТ-00026443">
-        <name>Уровень тип 70T 25 см STABILA 02199</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069021993</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8990</price>
       </offer>
       <offer sku="УТ-00026626">
         <name>Машина снегоуборочная ALTECO SBG 318 59924</name>
@@ -9676,6 +9651,17 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="00000022755">
+        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996123127</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8980</price>
+      </offer>
       <offer sku="00000022756">
         <name>Ящик для инструмента STELS 23" 90706</name>
         <vendor>STELS</vendor>
@@ -10765,6 +10751,17 @@
         </pickup-options>
         <price>27000</price>
       </offer>
+      <offer sku="00000031836">
+        <name>Стремянка односторонняя KRAUSE CORDA 5 ступ. 729</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199000729</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44799</price>
+      </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
         <vendor>Krause</vendor>
@@ -10804,6 +10801,60 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39200</price>
+      </offer>
+      <offer sku="00000031892">
+        <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>163800</price>
+      </offer>
+      <offer sku="00000031896">
+        <name>Стремянка односторонняя KRAUSE STABILO 5 ступ. 124524</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>116500</price>
+      </offer>
+      <offer sku="00000031905">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>40800</price>
+      </offer>
+      <offer sku="00000031909">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 8 ступ. 126269</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>77000</price>
+      </offer>
+      <offer sku="00000031913">
+        <name>Стремянка односторонняя KRAUSE SECURO 6 ступ. 126443</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126443</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>100500</price>
+      </offer>
+      <offer sku="00000031925">
+        <name>Стремянка односторонняя KRAUSE SEPURO 5 ступ. 127235</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199127235</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>80500</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
@@ -19805,17 +19856,6 @@
         </pickup-options>
         <price>285890</price>
       </offer>
-      <offer sku="УТ-00046722">
-        <name>Уровень STABILA "тип 70" 80 см 02286</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15090</price>
-      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -23855,17 +23895,6 @@
         </pickup-options>
         <price>21890</price>
       </offer>
-      <offer sku="УТ-00075676">
-        <name>Набор инструментов для клеммных колодок Wera 05008100001</name>
-        <vendor>Wera</vendor>
-        <barcodes>
-          <barcode>4013288225658</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13690</price>
-      </offer>
       <offer sku="УТ-00075677">
         <name>Набор инструментов для мастерских Wera 05136042001</name>
         <vendor>Wera</vendor>
@@ -24168,6 +24197,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32566</price>
+      </offer>
+      <offer sku="УТ-00085186">
+        <name>Доска гладильная Nika "ВАЛЕНСИЯ 2" НВ2/11</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111522663</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31941</price>
       </offer>
       <offer sku="УТ-00085187">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/23</name>

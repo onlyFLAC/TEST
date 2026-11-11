@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 10:21">
+<fm_catalog date="2026-11-11 10:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8049,17 +8049,6 @@
         </pickup-options>
         <price>1490</price>
       </offer>
-      <offer sku="00000014391">
-        <name>Фиксатор магнитный для сварочных работ усилие 25 LB// Denzel</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996147147</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1989</price>
-      </offer>
       <offer sku="00000014419">
         <name>Пушка тепловая электрическая Denzel DHC 5-400 96428</name>
         <vendor>Denzel</vendor>
@@ -9670,17 +9659,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4365</price>
-      </offer>
-      <offer sku="00000022794">
-        <name>Ящик для инструментов СИБРТЕХ 90807</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800064073</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4980</price>
       </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
@@ -20321,14 +20299,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4700</price>
-      </offer>
-      <offer sku="УТ-00053696">
-        <name>Комплект ремней баланс Husqvarna XT2 536 25 34-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>72000</price>
       </offer>
       <offer sku="УТ-00053713">
         <name>Вешалка-стойка напольная ЗМИ "ТОРОНТО 1" черная ВНПТ1</name>

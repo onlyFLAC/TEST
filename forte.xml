@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 22:41">
+<fm_catalog date="2026-11-11 23:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20955,14 +20955,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4896</price>
-      </offer>
-      <offer sku="УТ-00056062">
-        <name>KRAFTOOL COBALT 4-20мм, 9 ступеней, азотирование, винтовая спираль, сверло ступенчатое(29691-4-20-9)</name>
-        <vendor>KRAFTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11590</price>
       </offer>
       <offer sku="УТ-00056077">
         <name>KRAFTOOL COBALT 3 шт., 4-32мм, азотирование, винтовая спираль, набор сверл ступенчатых(29691-4-32-H3)</name>

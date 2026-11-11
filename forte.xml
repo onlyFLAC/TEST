@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 15:45">
+<fm_catalog date="2026-11-11 16:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -193,6 +193,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>55200</price>
+      </offer>
+      <offer sku="УТ-00003976">
+        <name>Мультиметр цифровой CROWN CT44051</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177426468</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -747,17 +758,6 @@
         </pickup-options>
         <price>466375</price>
       </offer>
-      <offer sku="УТ-00005911">
-        <name>Рулетка измерительная Stabila BM300 5м 19577</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195779</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13390</price>
-      </offer>
       <offer sku="УТ-00005958">
         <name>Уровень тип 80AS, 120 см STABILA 19169</name>
         <vendor>STABILA</vendor>
@@ -921,14 +921,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>700</price>
-      </offer>
-      <offer sku="УТ-00007389">
-        <name>Валик игольчатый для наливных полов с ручкой, острая игла, 500мм// Сибиртех</name>
-        <vendor>Сибртех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3175</price>
       </offer>
       <offer sku="УТ-00007446">
         <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5Д/Ч черный</name>
@@ -9861,6 +9853,17 @@
         </pickup-options>
         <price>29413</price>
       </offer>
+      <offer sku="00000023732">
+        <name>Дрель-шуруповерт аккумуляторная CROWN CT21052LH BMC</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177420008</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22080</price>
+      </offer>
       <offer sku="00000023735">
         <name>Дрель-шуруповерт аккумуляторный CROWN CT21055L BMC</name>
         <vendor>CROWN</vendor>
@@ -9883,6 +9886,17 @@
         </pickup-options>
         <price>48990</price>
       </offer>
+      <offer sku="00000023809">
+        <name>Пила дисковая CROWN CT15074</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640186245227</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>32990</price>
+      </offer>
       <offer sku="00000023824">
         <name>Лобзик CROWN CT15080</name>
         <vendor>CROWN</vendor>
@@ -9893,6 +9907,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21990</price>
+      </offer>
+      <offer sku="00000023848">
+        <name>Рубанок CROWN CT14019X</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177420664</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>33990</price>
       </offer>
       <offer sku="00000024011">
         <name>Компрессор масляный Mateus 3.0HP MS03204</name>
@@ -20452,6 +20477,14 @@
         </pickup-options>
         <price>7398</price>
       </offer>
+      <offer sku="УТ-00052936">
+        <name>Крюк зацеп для рулетки 505 69 72-10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3000</price>
+      </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
         <vendor>Matrix</vendor>
@@ -20908,17 +20941,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
-      </offer>
-      <offer sku="УТ-00055911">
-        <name>Сиденье в ванну Nika "ЭКОНОМ" СВ1</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830868</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4945</price>
       </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>
@@ -22777,6 +22799,17 @@
         </pickup-options>
         <price>180000</price>
       </offer>
+      <offer sku="УТ-00063391">
+        <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393080347268</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4900</price>
+      </offer>
       <offer sku="УТ-00063409">
         <name>Индикатор напряжение BOSCH GVD 1000-17 0601077000</name>
         <vendor>BOSCH</vendor>
@@ -23890,6 +23923,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16500</price>
+      </offer>
+      <offer sku="УТ-00072976">
+        <name>Масло для смазки цепи Husqvarna 1л Veg X-GUARD BIO биоразлагаемое 596 45 73-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6490</price>
       </offer>
       <offer sku="УТ-00072998">
         <name>Смазка Husqvarna ECO 100гр. 503 97 64-01</name>
@@ -26158,6 +26199,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3190</price>
+      </offer>
+      <offer sku="УТ-00099519">
+        <name>Краскопульт электрический CROWN CT31014</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28990</price>
       </offer>
       <offer sku="УТ-00099520">
         <name>31015 Краскопульт CROWN</name>

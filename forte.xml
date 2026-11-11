@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 11:49">
+<fm_catalog date="2026-11-11 12:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -757,6 +757,36 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13390</price>
+      </offer>
+      <offer sku="УТ-00005926">
+        <name>Уровень Pocket Pro Magnetic с чехлом STABILA 17953</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069179533</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12390</price>
+      </offer>
+      <offer sku="УТ-00005944">
+        <name>Уровень тип 70, 120 см STABILA 02289</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022891</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19190</price>
+      </offer>
+      <offer sku="УТ-00005950">
+        <name>Уровень Stabila тип 70, 50 см 02283</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12590</price>
       </offer>
       <offer sku="УТ-00005958">
         <name>Уровень тип 80AS, 120 см STABILA 19169</name>
@@ -1850,14 +1880,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4860</price>
-      </offer>
-      <offer sku="УТ-00015553">
-        <name>GRINDA GP-1, кузов увеличенного объема 260л, г/п 120кг, ударопрочный пластик, PROLine (422401)</name>
-        <vendor>Grinda</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>52596</price>
       </offer>
       <offer sku="УТ-00015554">
         <name>GRINDA PL-22 ALU, 22 зубца, размеры 430 х 40 х 1460 мм, ударопрочный пластик, алюминиевый черенок, грабли веерные пластиковые, PROLine (421819)</name>
@@ -4057,6 +4079,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7000</price>
+      </offer>
+      <offer sku="УТ-00026443">
+        <name>Уровень тип 70T 25 см STABILA 02199</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069021993</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8990</price>
       </offer>
       <offer sku="УТ-00026626">
         <name>Машина снегоуборочная ALTECO SBG 318 59924</name>
@@ -15045,6 +15078,17 @@
         </pickup-options>
         <price>21995</price>
       </offer>
+      <offer sku="00000050311">
+        <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/Ч черный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075838451</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9100</price>
+      </offer>
       <offer sku="00000050315">
         <name>Вешалка настенная Nika ВП4МЧ матово-черный</name>
         <vendor>Nika</vendor>
@@ -16730,6 +16774,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18520</price>
+      </offer>
+      <offer sku="00000064350">
+        <name>Вешалка напольная разборная ЗМИ "Луч 3" ВНП338 Черный</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011876896</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9255</price>
       </offer>
       <offer sku="00000064351">
         <name>Вешалка напольная разборная ЗМИ "ЛУЧ 5" белая ВНП361/Б</name>
@@ -19761,6 +19816,17 @@
         </pickup-options>
         <price>285890</price>
       </offer>
+      <offer sku="УТ-00046722">
+        <name>Уровень STABILA "тип 70" 80 см 02286</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022860</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15090</price>
+      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -22467,17 +22533,6 @@
         </pickup-options>
         <price>7387</price>
       </offer>
-      <offer sku="УТ-00063251">
-        <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СС светло-серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032741786</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8900</price>
-      </offer>
       <offer sku="УТ-00063319">
         <name>Доска гладильная Nika БЮ1 (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -23821,6 +23876,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21890</price>
+      </offer>
+      <offer sku="УТ-00075676">
+        <name>Набор инструментов для клеммных колодок Wera 05008100001</name>
+        <vendor>Wera</vendor>
+        <barcodes>
+          <barcode>4013288225658</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13690</price>
       </offer>
       <offer sku="УТ-00075677">
         <name>Набор инструментов для мастерских Wera 05136042001</name>
@@ -26034,6 +26100,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
+      </offer>
+      <offer sku="УТ-00101757">
+        <name>База погружная для фрезера Makita 195563-0</name>
+        <vendor>Makita</vendor>
+        <barcodes>
+          <barcode>088381376099</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48650</price>
       </offer>
       <offer sku="УТ-00102427">
         <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 07:24">
+<fm_catalog date="2026-11-11 07:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -193,17 +193,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>55200</price>
-      </offer>
-      <offer sku="УТ-00003961">
-        <name>Лобзик электрический CROWN CT15287</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640372697731</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -2855,17 +2844,6 @@
         </pickup-options>
         <price>6990</price>
       </offer>
-      <offer sku="УТ-00025837">
-        <name>Перчатки комбинированные облегченные Gross AKTIV М 90308</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996239224</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6975</price>
-      </offer>
       <offer sku="УТ-00025858">
         <name>Фиксатор магнитный для сварочных работ усилие 75 LB// Denzel</name>
         <vendor>Denzel</vendor>
@@ -4175,17 +4153,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7200</price>
-      </offer>
-      <offer sku="УТ-00028801">
-        <name>Вешалка с полкой двухярусная ЗМИ "ТОРОНТО 32" ВСПТ32Б белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195632816</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25080</price>
       </offer>
       <offer sku="УТ-00028802">
         <name>Вешалка с полкой ЗМИ "ТОРОНТО 32" графит ВСПТ32ГР</name>
@@ -21447,17 +21414,6 @@
         </pickup-options>
         <price>17796</price>
       </offer>
-      <offer sku="УТ-00059666">
-        <name>Сушилка напольная Nika СБ1/РЗ розовое золото</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111514477</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8146</price>
-      </offer>
       <offer sku="УТ-00059668">
         <name>Табурет квадратный разборный Nika НТ5-В/Л латте</name>
         <vendor>Nika</vendor>
@@ -23262,14 +23218,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>115990</price>
-      </offer>
-      <offer sku="УТ-00072123">
-        <name>Щетка для снега 63см со скребком Plus FISKARS</name>
-        <vendor>FISKARS</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13390</price>
       </offer>
       <offer sku="УТ-00072352">
         <name>Бокорезы KNIPEX 73 71 180</name>
@@ -26116,14 +26064,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>250000</price>
-      </offer>
-      <offer sku="УТ-00101757">
-        <name>195563-0 Основание в сборе для погружного фрезерования для DRT50/RT7000C</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35165</price>
       </offer>
       <offer sku="УТ-00102427">
         <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>

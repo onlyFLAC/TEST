@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 07:53">
+<fm_catalog date="2026-11-11 08:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -758,17 +758,6 @@
         </pickup-options>
         <price>13390</price>
       </offer>
-      <offer sku="УТ-00005969">
-        <name>Уровень тип 80АS-2, 120 см, 3 глазка STABILA 19173</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191733</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29990</price>
-      </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
         <vendor>STABILA</vendor>
@@ -1347,17 +1336,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6380</price>
-      </offer>
-      <offer sku="УТ-00012970">
-        <name>Уровень Stabila тип 70, 40 см 02282</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022822</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12190</price>
       </offer>
       <offer sku="УТ-00012979">
         <name>Сушилка напольная Nika СБ1/Ч черный</name>
@@ -21528,17 +21506,6 @@
         </pickup-options>
         <price>13342</price>
       </offer>
-      <offer sku="УТ-00059828">
-        <name>Сушилка напольная Nika СБ3/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075832602</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6435</price>
-      </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>
         <vendor>BOSCH</vendor>
@@ -23577,17 +23544,6 @@
         </pickup-options>
         <price>312000</price>
       </offer>
-      <offer sku="УТ-00072730">
-        <name>Санки детские Nika "ТИМКА 6 УНИВЕРСАЛ" Т6У/З2 зеленые</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047364527</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25600</price>
-      </offer>
       <offer sku="УТ-00072732">
         <name>Санки детские Nika "NIKKI 3" N3/Г2 голубой</name>
         <vendor>Nika</vendor>
@@ -23822,14 +23778,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>140220</price>
-      </offer>
-      <offer sku="УТ-00075627">
-        <name>Ключ с кольцевой трещоткой Wera Joker 8x144 мм 05073268001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17190</price>
       </offer>
       <offer sku="УТ-00075636">
         <name>Набор бит Wera 05057434001</name>

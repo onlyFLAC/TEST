@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 01:37">
+<fm_catalog date="2026-11-12 02:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22363,17 +22363,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24280</price>
-      </offer>
-      <offer sku="УТ-00061406">
-        <name>Доска гладильная Nika "BELL" NB (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830882</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7112</price>
       </offer>
       <offer sku="УТ-00061459">
         <name>Доска гладильная Nika Н3МТ/П пудровый</name>

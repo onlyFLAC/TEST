@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-11 19:13">
+<fm_catalog date="2026-11-11 19:43">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24146,7 +24146,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9990</price>
+        <price>13790</price>
       </offer>
       <offer sku="УТ-00076443">
         <name>Лопата снеговая STARTUL 410х460 мм стальной черенок ST9056-2</name>
@@ -24173,7 +24173,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>186</price>
+        <price>390</price>
       </offer>
       <offer sku="УТ-00077591">
         <name>Вешалка напольная Комфорт 4 (ВК4/МС матовый серый)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 12:53">
+<fm_catalog date="2026-11-12 13:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20893,17 +20893,6 @@
         </pickup-options>
         <price>7400</price>
       </offer>
-      <offer sku="УТ-00055912">
-        <name>Сиденье в ванну пластмассовое Nika СВ4/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076021439</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4804</price>
-      </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>
         <vendor>ЗМИ</vendor>
@@ -22396,17 +22385,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24280</price>
-      </offer>
-      <offer sku="УТ-00061406">
-        <name>Доска гладильная Nika "BELL" NB (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830882</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7112</price>
       </offer>
       <offer sku="УТ-00061459">
         <name>Доска гладильная Nika Н3МТ/П пудровый</name>

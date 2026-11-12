@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 12:24">
+<fm_catalog date="2026-11-12 12:53">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21420,17 +21420,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15988</price>
-      </offer>
-      <offer sku="УТ-00059629">
-        <name>Доска гладильная Nika "SPORT" NST/4 шоколадный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111518970</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23489</price>
       </offer>
       <offer sku="УТ-00059630">
         <name>Доска гладильная Nika "SPORT" NST/5 темно-лазурный</name>

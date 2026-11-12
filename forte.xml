@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 13:22">
+<fm_catalog date="2026-11-12 13:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9674,17 +9674,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1790</price>
-      </offer>
-      <offer sku="00000022755">
-        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996123127</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8980</price>
       </offer>
       <offer sku="00000022756">
         <name>Ящик для инструмента STELS 23" 90706</name>

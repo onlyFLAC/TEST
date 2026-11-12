@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 22:41">
+<fm_catalog date="2026-11-12 23:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22788,17 +22788,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>211140</price>
-      </offer>
-      <offer sku="УТ-00063360">
-        <name>Автосигнализация PanDECT X-1800L v4</name>
-        <vendor>PanDECT</vendor>
-        <barcodes>
-          <barcode>4409700000406</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>112100</price>
       </offer>
       <offer sku="УТ-00063363">
         <name>Автосигнализация Pandora DX 57R v2</name>

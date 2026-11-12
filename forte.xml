@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 17:18">
+<fm_catalog date="2026-11-12 17:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9253,6 +9253,17 @@
         </pickup-options>
         <price>1417</price>
       </offer>
+      <offer sku="00000020693">
+        <name>Шлифлист на бумажной основе, P 600, 230 х 280 мм, 10 шт.,влагостойкий// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996131306</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1525</price>
+      </offer>
       <offer sku="00000020723">
         <name>Губка для шлифования, 100 х 70 х 25 мм, мягкая, P 120// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9373,17 +9384,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1480</price>
-      </offer>
-      <offer sku="00000021470">
-        <name>Валик прижимной резиновый с ручкой Сибртех 6х50 мм 81032</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800074225</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>725</price>
       </offer>
       <offer sku="00000021616">
         <name>Кювета пластмассовая для валиков, 350х330 мм// Sparta</name>
@@ -19745,6 +19745,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7999</price>
+      </offer>
+      <offer sku="УТ-00041597">
+        <name>Вешалка настенная "ТОРОНТО 3" (Графит)</name>
+        <vendor>ЗМИ</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4380</price>
       </offer>
       <offer sku="УТ-00041771">
         <name>Фреза пазовая прямая PROFSET 6х20х6 мм 000060200</name>

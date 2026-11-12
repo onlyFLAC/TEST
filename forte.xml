@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 11:54">
+<fm_catalog date="2026-11-12 12:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9719,6 +9719,17 @@
         </pickup-options>
         <price>4365</price>
       </offer>
+      <offer sku="00000022794">
+        <name>Ящик для инструментов СИБРТЕХ 90807</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800064073</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4980</price>
+      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10830,17 +10841,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>58900</price>
-      </offer>
-      <offer sku="00000031981">
-        <name>Сейф VALBERG ASM-120 Т</name>
-        <vendor>VALBERG</vendor>
-        <barcodes>
-          <barcode>4606927001661</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>592709</price>
       </offer>
       <offer sku="00000031992">
         <name>Сейф VALBERG ASM-63 TEL</name>
@@ -16338,6 +16338,17 @@
         </pickup-options>
         <price>2780</price>
       </offer>
+      <offer sku="00000063684">
+        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996198392</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2270</price>
+      </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 предметов 14151</name>
         <vendor>Gross</vendor>
@@ -20881,6 +20892,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
+      </offer>
+      <offer sku="УТ-00055912">
+        <name>Сиденье в ванну пластмассовое Nika СВ4/Б белый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4640076021439</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4804</price>
       </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>

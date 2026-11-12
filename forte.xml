@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 11:24">
+<fm_catalog date="2026-11-12 11:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2239,17 +2239,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>398000</price>
-      </offer>
-      <offer sku="УТ-00022160">
-        <name>Бензоножницы 122HD60</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883532317</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>188000</price>
       </offer>
       <offer sku="УТ-00022173">
         <name>Газонокосилка LC 253S</name>
@@ -11339,6 +11328,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44260</price>
+      </offer>
+      <offer sku="00000032523">
+        <name>Пила отрезная BOSCH GCO 14-24 J 0601B37200</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140966320</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>163330</price>
       </offer>
       <offer sku="00000032526">
         <name>Пила мини-цепная аккумуляторная Bosch EasyCut12 06033C9020</name>

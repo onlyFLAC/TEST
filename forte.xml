@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 09:55">
+<fm_catalog date="2026-11-12 10:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9197,6 +9197,17 @@
         </pickup-options>
         <price>1341</price>
       </offer>
+      <offer sku="00000020906">
+        <name>Клупп трубный 1/2''// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996051802</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4286</price>
+      </offer>
       <offer sku="00000020907">
         <name>Клупп трубный 3/4''// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -11398,17 +11409,6 @@
         </pickup-options>
         <price>7628</price>
       </offer>
-      <offer sku="00000032599">
-        <name>Набор сверл Bosch PointTeQ ProBox 1-10 мм 19 шт. 2608577351</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140917698</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8207</price>
-      </offer>
       <offer sku="00000032600">
         <name>Набор сверл BOSCH PointTeQ ProBox 1-13 мм 25 шт. 2608577352</name>
         <vendor>BOSCH</vendor>
@@ -11419,6 +11419,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14952</price>
+      </offer>
+      <offer sku="00000032601">
+        <name>Набор сверл PointTeQ 7pcs Mini X</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140917650</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3576</price>
       </offer>
       <offer sku="00000032616">
         <name>Пила дисковая настольная (распиловочный стол) Bosch GTS 10 XC Professional 0601B30400</name>
@@ -20851,17 +20862,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
-      </offer>
-      <offer sku="УТ-00055912">
-        <name>Сиденье в ванну пластмассовое Nika СВ4/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076021439</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4804</price>
       </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>

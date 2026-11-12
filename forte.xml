@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 14:50">
+<fm_catalog date="2026-11-12 15:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -978,6 +978,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>700</price>
+      </offer>
+      <offer sku="УТ-00007389">
+        <name>Валик игольчатый для наливных полов с ручкой, острая игла, 500мм// Сибиртех</name>
+        <vendor>Сибртех</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3175</price>
       </offer>
       <offer sku="УТ-00007446">
         <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5Д/Ч черный</name>
@@ -2039,6 +2047,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2500</price>
+      </offer>
+      <offer sku="УТ-00016733">
+        <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
+        <vendor>TYTAN</vendor>
+        <barcodes>
+          <barcode>5902120110933</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3890</price>
       </offer>
       <offer sku="УТ-00016958">
         <name>DeWalt, DCG418NT, Машина углошлифовальная аккумуляторная 155 мм</name>
@@ -8587,17 +8606,6 @@
         </pickup-options>
         <price>2195</price>
       </offer>
-      <offer sku="00000016767">
-        <name>Лопата для уборки снега пластиковая PROFI, 535х385х1400 мм, стальной черенок, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800061874</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9980</price>
-      </offer>
       <offer sku="00000016779">
         <name>Лопата снеговая без черенка Сибртех 330х365 мм 61536</name>
         <vendor>Сибртех</vendor>
@@ -10722,14 +10730,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>53838</price>
-      </offer>
-      <offer sku="00000031661">
-        <name>Воздушный компрессор АС-70 РВ</name>
-        <vendor>IVT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>201285</price>
       </offer>
       <offer sku="00000031765">
         <name>Полуавтомат сварочный инверторный IVT MIG-200C</name>
@@ -14158,17 +14158,6 @@
         </pickup-options>
         <price>3623</price>
       </offer>
-      <offer sku="00000038686">
-        <name>Ударные биты PH2 (8шт)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140851206</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4157</price>
-      </offer>
       <offer sku="00000038716">
         <name>Ящик для оснастки BOSCH размер L 2608522363</name>
         <vendor>BOSCH</vendor>
@@ -14971,6 +14960,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8300</price>
+      </offer>
+      <offer sku="00000041965">
+        <name>Набор крючков YATO 4 шт. YT-0843 00000007679</name>
+        <vendor>YATO</vendor>
+        <barcodes>
+          <barcode>5906083908439</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1580</price>
       </offer>
       <offer sku="00000042029">
         <name>Палатка двухместная GREENWAY "АЛАТАУ" 100415A</name>
@@ -16357,17 +16357,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63600</price>
-      </offer>
-      <offer sku="00000063526">
-        <name>Ледоруб-топор кованый 140 мм, 1,75 кг, металлический черенок, Россия// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800088000</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6990</price>
       </offer>
       <offer sku="00000063527">
         <name>Движок для уборки снега пластиковый, 570х470х1300 мм, стальная рукоятка, Россия// Сибртех</name>
@@ -19849,6 +19838,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6010</price>
+      </offer>
+      <offer sku="УТ-00042338">
+        <name>Диск нажимной STIHL 41377103800</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
       </offer>
       <offer sku="УТ-00042919">
         <name>ДАЛЬНОМЕР GLM 50-22 Bosch 0601072S00</name>

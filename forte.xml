@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 10:55">
+<fm_catalog date="2026-11-12 11:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -464,14 +464,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24192</price>
-      </offer>
-      <offer sku="УТ-00004350">
-        <name>Стремянка двухсторонняя PROFSET 2x5 ступеней DLH505</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29043</price>
       </offer>
       <offer sku="УТ-00004351">
         <name>Платформа складная алюминиевая PROFSET DLW201</name>
@@ -1410,6 +1402,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>240000</price>
+      </offer>
+      <offer sku="УТ-00013064">
+        <name>Корыто для тачки IVT 110 л 4222</name>
+        <vendor>IVT</vendor>
+        <barcodes>
+          <barcode>7630005242223</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7560</price>
       </offer>
       <offer sku="УТ-00013463">
         <name>Система гардеробная ЗМИ "ВАЛЕНСИЯ 1" ГСВ1 белая</name>
@@ -10695,6 +10698,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>53838</price>
+      </offer>
+      <offer sku="00000031661">
+        <name>Воздушный компрессор АС-70 РВ</name>
+        <vendor>IVT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>201285</price>
       </offer>
       <offer sku="00000031765">
         <name>Полуавтомат сварочный инверторный IVT MIG-200C</name>

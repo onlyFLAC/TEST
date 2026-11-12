@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-12 19:45">
+<fm_catalog date="2026-11-12 20:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17550,17 +17550,6 @@
         </pickup-options>
         <price>6890</price>
       </offer>
-      <offer sku="00000071245">
-        <name>Пресс-клещи ЗУБР 45458</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373286599</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10770</price>
-      </offer>
       <offer sku="00000071251">
         <name>GRINDA PROLine XM-R, плавная регулировка, пистолет поливочный металлический с TPR</name>
         <vendor>Grinda</vendor>
@@ -21862,17 +21851,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13342</price>
-      </offer>
-      <offer sku="УТ-00059828">
-        <name>Сушилка напольная Nika СБ3/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075832602</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6435</price>
       </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>

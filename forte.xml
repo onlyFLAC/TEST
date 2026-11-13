@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 16:20">
+<fm_catalog date="2026-11-13 16:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22192,17 +22192,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44540</price>
-      </offer>
-      <offer sku="УТ-00060447">
-        <name>Смеситель для раковины Frap черный F10802-6</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477624940</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17470</price>
       </offer>
       <offer sku="УТ-00060454">
         <name>Смеситель Frap для раковины F1076-6 черный</name>

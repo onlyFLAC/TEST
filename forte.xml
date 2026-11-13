@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 20:16">
+<fm_catalog date="2026-11-13 20:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1793,17 +1793,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2540</price>
-      </offer>
-      <offer sku="УТ-00015348">
-        <name>KRAFTOOL SPECTRA, удлинённый экран 220х385мм, поликарбонат 2мм, храповик, защитный лицевой щиток (110811) 110811</name>
-        <vendor>KRAFTOOL</vendor>
-        <barcodes>
-          <barcode>4034229245887</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4312</price>
       </offer>
       <offer sku="УТ-00015355">
         <name>ЗУБР БАРЬЕР прозрачные, облегчённые, линза устойчивая к царапинам и запотеванию, открытого типа, защитные очки (110487) 110487</name>

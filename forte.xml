@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 15:19">
+<fm_catalog date="2026-11-13 15:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6883,17 +6883,6 @@
         </pickup-options>
         <price>6848</price>
       </offer>
-      <offer sku="00000008975">
-        <name>Очки газосварщика Сибин 1106</name>
-        <vendor>Сибин</vendor>
-        <barcodes>
-          <barcode>4606373281792</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
       <offer sku="00000009012">
         <name>Паяльник ЗУБР "Профессионал" с двухкомпонентной рукояткой и защитным колпачком в наборе с припоем и подставкой, 40Вт, конус</name>
         <vendor>ЗУБР</vendor>
@@ -8469,18 +8458,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8480</price>
-      </offer>
-      <offer sku="00000016485">
-        <name>Поддон для сбора масла, 8 л // Stels</name>
-        <vendor>STELS</vendor>
-        <barcodes>
-          <barcode>4044996030432</barcode>
-          <barcode>4606800050670</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
       </offer>
       <offer sku="00000016510">
         <name>Провода стартовые, 200 А, 2,3 м, сумка на молнии// Stels</name>
@@ -25902,14 +25879,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79900</price>
-      </offer>
-      <offer sku="УТ-00092580">
-        <name>Комбо: Аккум. Кусторез ARCURRA 18/55 + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (341092042)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>74900</price>
       </offer>
       <offer sku="УТ-00092619">
         <name>Комбо: Аккум. Шуруповерт Ударный TP-CD 18/120 Li-i BL + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (451431042)</name>

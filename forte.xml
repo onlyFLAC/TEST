@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 13:21">
+<fm_catalog date="2026-11-13 13:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -193,17 +193,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>55200</price>
-      </offer>
-      <offer sku="УТ-00003976">
-        <name>Мультиметр цифровой CROWN CT44051</name>
-        <vendor>CROWN</vendor>
-        <barcodes>
-          <barcode>7640177426468</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -19930,6 +19919,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>99990</price>
+      </offer>
+      <offer sku="УТ-00047240">
+        <name>Концевой выключатель для талей электрических CD 5,0 т, шт</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10370</price>
       </offer>
       <offer sku="УТ-00047337">
         <name>2 Ведущее колесо для штабелёра WS/IWS (Drive wheel), шт</name>

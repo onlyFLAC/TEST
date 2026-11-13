@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 19:46">
+<fm_catalog date="2026-11-13 20:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10321,17 +10321,6 @@
         </pickup-options>
         <price>6995</price>
       </offer>
-      <offer sku="00000025438">
-        <name>Сушилка напольная Nika СБ2/С серебристый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075831117</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7999</price>
-      </offer>
       <offer sku="00000025439">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/Б бежевый</name>
         <vendor>Nika</vendor>
@@ -17262,14 +17251,6 @@
         </pickup-options>
         <price>34100</price>
       </offer>
-      <offer sku="00000070600">
-        <name>Краска аэрозольная NOVA серебро 450 мл Nova36</name>
-        <vendor>NOVA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>950</price>
-      </offer>
       <offer sku="00000070642">
         <name>Цепь STIHL 76 зв. 0.325 1.5 мм 25RM RAPIDMICRO COMFORT 36850000076</name>
         <vendor>STIHL</vendor>
@@ -21245,17 +21226,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3820</price>
-      </offer>
-      <offer sku="УТ-00058329">
-        <name>Доска гладильная Nika "BELL CLASSY 1" БК1 серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830929</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9900</price>
       </offer>
       <offer sku="УТ-00058344">
         <name>Пылесос бытовой аккумуляторный Makita DCL284FZ</name>

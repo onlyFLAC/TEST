@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 10:55">
+<fm_catalog date="2026-11-13 11:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10307,6 +10307,17 @@
         </pickup-options>
         <price>6995</price>
       </offer>
+      <offer sku="00000025438">
+        <name>Сушилка напольная Nika СБ2/С серебристый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075831117</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7999</price>
+      </offer>
       <offer sku="00000025439">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/Б бежевый</name>
         <vendor>Nika</vendor>
@@ -10824,6 +10835,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>58900</price>
+      </offer>
+      <offer sku="00000031981">
+        <name>Сейф VALBERG ASM-120 Т</name>
+        <vendor>VALBERG</vendor>
+        <barcodes>
+          <barcode>4606927001661</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>592709</price>
       </offer>
       <offer sku="00000031992">
         <name>Сейф VALBERG ASM-63 TEL</name>
@@ -21412,6 +21434,17 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00059641">
+        <name>Комплект детской мебели Nika КА2/Г голубой</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075839502</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12015</price>
+      </offer>
       <offer sku="УТ-00059643">
         <name>Доска знаний-мольберт двусторонний Nika М2S/1 белый</name>
         <vendor>Nika</vendor>
@@ -22071,17 +22104,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>35990</price>
-      </offer>
-      <offer sku="УТ-00060245">
-        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477625770</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24190</price>
       </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
@@ -22745,17 +22767,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18184</price>
-      </offer>
-      <offer sku="УТ-00063798">
-        <name>Доска гладильная Nika Н8 (в ассортименте)</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830103</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19135</price>
       </offer>
       <offer sku="УТ-00063811">
         <name>Набор рожковых/комбинированных ключей, 10 шт.</name>

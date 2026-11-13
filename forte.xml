@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 09:26">
+<fm_catalog date="2026-11-13 09:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -787,30 +787,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
-      </offer>
-      <offer sku="УТ-00006309">
-        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>58800</price>
-      </offer>
-      <offer sku="УТ-00006312">
-        <name>Стремянка односторонняя складная KRAUSE SAFETY 7 ступ. 128973</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>79050</price>
-      </offer>
-      <offer sku="УТ-00006351">
-        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х3 ступ. 120328</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43400</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -10798,14 +10774,6 @@
         </pickup-options>
         <price>26080</price>
       </offer>
-      <offer sku="00000031884">
-        <name>Наконечники острые для лестниц KRAUSE 121400</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14350</price>
-      </offer>
       <offer sku="00000031885">
         <name>Распорка KRAUSE 122018</name>
         <vendor>Krause</vendor>
@@ -10822,22 +10790,6 @@
         </pickup-options>
         <price>163800</price>
       </offer>
-      <offer sku="00000031896">
-        <name>Стремянка односторонняя KRAUSE STABILO 5 ступ. 124524</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>116500</price>
-      </offer>
-      <offer sku="00000031904">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 3 ступ. 126214</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31790</price>
-      </offer>
       <offer sku="00000031905">
         <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
         <vendor>Krause</vendor>
@@ -10846,14 +10798,6 @@
         </pickup-options>
         <price>40800</price>
       </offer>
-      <offer sku="00000031918">
-        <name>Стремянка односторонняя KRAUSE SECURY 6 ступ. 126542</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>86000</price>
-      </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
         <vendor>Krause</vendor>
@@ -10861,17 +10805,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>125000</price>
-      </offer>
-      <offer sku="00000031941">
-        <name>Подставка складная KRAUSE TOPPY XL 2 ступ. 130860</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29000</price>
       </offer>
       <offer sku="00000031942">
         <name>Подставка складная KRAUSE TOPPY XL 3 ступ. 130877</name>
@@ -18079,14 +18012,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9147</price>
-      </offer>
-      <offer sku="00000074236">
-        <name>Стремянка односторонняя KRAUSE SEPRO S 4 ступ. 124180</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>84500</price>
       </offer>
       <offer sku="00000074239">
         <name>Подставка складная KRAUSE ROLLY 2х2 ступ. зеленая 130143</name>

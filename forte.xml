@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 21:44">
+<fm_catalog date="2026-11-13 22:13">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21406,17 +21406,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27992</price>
-      </offer>
-      <offer sku="УТ-00059635">
-        <name>Доска гладильная навесная Nika ДН1Т/1 с линиями на сером</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111525282</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15033</price>
       </offer>
       <offer sku="УТ-00059637">
         <name>Доска гладильная настольная Nika НД2Т (в ассортименте)</name>

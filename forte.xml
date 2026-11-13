@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 14:20">
+<fm_catalog date="2026-11-13 14:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -941,6 +941,17 @@
         </pickup-options>
         <price>46990</price>
       </offer>
+      <offer sku="УТ-00007971">
+        <name>Дренажный насос ДН-133/5 Вихрь</name>
+        <vendor>Вихрь</vendor>
+        <barcodes>
+          <barcode>4606059038054</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17490</price>
+      </offer>
       <offer sku="УТ-00008134">
         <name>Устройство зарядное Bosch GAL 1880 0602494035</name>
         <vendor>BOSCH</vendor>
@@ -1526,6 +1537,17 @@
         </pickup-options>
         <price>2185</price>
       </offer>
+      <offer sku="УТ-00013854">
+        <name>RACO Original, из ударопрочного пластика, штуцерный переходник (4250-55210T) 4250-55210T</name>
+        <vendor>RACO</vendor>
+        <barcodes>
+          <barcode>4034229133207</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>855</price>
+      </offer>
       <offer sku="УТ-00013920">
         <name>STAYER HEAVY DUTY 300 л, чёрные, 10шт, особопрочные, строительные мусорные мешки (39157-300) 39157-300</name>
         <vendor>STAYER</vendor>
@@ -1693,6 +1715,17 @@
         </pickup-options>
         <price>2090</price>
       </offer>
+      <offer sku="УТ-00015120">
+        <name>Стриппер многофункциональный ЗУБР "ПРОФЕССИОНАЛ" КТ-2 0.5-6 мм2 22672_z01</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373112966</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7320</price>
+      </offer>
       <offer sku="УТ-00015132">
         <name>НИЗ 200 мм, Комбинированные плоскогубцы (2212-1-20) 2212-1-20</name>
         <vendor>НИЗ</vendor>
@@ -1700,6 +1733,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2999</price>
+      </offer>
+      <offer sku="УТ-00015166">
+        <name>STAYER 35 мм, 285 г, Молоток-киянка (2040-35) 2040-35_z01</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4606373204449</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2790</price>
       </offer>
       <offer sku="УТ-00015185">
         <name>STAYER 235х50 мм, Металлический рубанок (1865) 1865_z02</name>
@@ -4405,17 +4449,6 @@
         </pickup-options>
         <price>312490</price>
       </offer>
-      <offer sku="00000000886">
-        <name>Масляный радиатор РЕСАНТА ОМПТ-9Н</name>
-        <vendor>Ресанта</vendor>
-        <barcodes>
-          <barcode>4606059016274</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>25190</price>
-      </offer>
       <offer sku="00000000888">
         <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
         <vendor>Ресанта</vendor>
@@ -5203,6 +5236,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>780</price>
+      </offer>
+      <offer sku="00000004518">
+        <name>Диск отрезной алмазный ЗУБР "ЖЕЛЕЗОБЕТОН" 125х22.2 мм 36661-125</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373293108</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3456</price>
       </offer>
       <offer sku="00000004526">
         <name>Забор декоративный GRINDA "АР ДЕКО", 28x300см, желтый</name>
@@ -11038,17 +11082,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>59480</price>
-      </offer>
-      <offer sku="00000032334">
-        <name>Гайковерт импульсный GDR 120-Li без ЗУ И АКБ (50283210) Bosch</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140888462</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38840</price>
       </offer>
       <offer sku="00000032347">
         <name>Детектор аккумуляторный BOSCH D-tect 120 0601081301</name>
@@ -18992,6 +19025,17 @@
         </pickup-options>
         <price>18990</price>
       </offer>
+      <offer sku="УТ-00001522">
+        <name>Лопата снеговая ЗУБР "АНГАРА" 52 см 39980</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373536953</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12262</price>
+      </offer>
       <offer sku="УТ-00001523">
         <name>Лопата снеговая ЗУБР 460 мм 39981</name>
         <vendor>ЗУБР</vendor>
@@ -21094,6 +21138,14 @@
         </pickup-options>
         <price>16090</price>
       </offer>
+      <offer sku="УТ-00057537">
+        <name>Набор инструментов 179пр. 1/4''3/8''1/2''</name>
+        <vendor>Scheppach</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50700</price>
+      </offer>
       <offer sku="УТ-00057812">
         <name>Фен строительный Bosch GHG 23-66 06012A6303</name>
         <vendor>BOSCH</vendor>
@@ -22072,6 +22124,17 @@
         </pickup-options>
         <price>35990</price>
       </offer>
+      <offer sku="УТ-00060245">
+        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477625770</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24190</price>
+      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -22090,6 +22153,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15740</price>
+      </offer>
+      <offer sku="УТ-00060284">
+        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477622816</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12140</price>
       </offer>
       <offer sku="УТ-00060341">
         <name>Душевая система Frap F2491-9 Оружейная Сталь с изливом</name>
@@ -23069,6 +23143,14 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00064577">
+        <name>KRAFTOOL DIAMOND 52 мм (450 мм, 1 1/4″, лазерная сварка сегментов), Алмазная Коронка по железобетону (29825-052)</name>
+        <vendor>KRAFTOOL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23914</price>
+      </offer>
       <offer sku="УТ-00064598">
         <name>KRAFTOOL X5 Metal 125x1.0 мм по металлу отрезной диск для УШМ (36255-125-1.0)</name>
         <vendor>KRAFTOOL</vendor>
@@ -23125,6 +23207,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2944</price>
+      </offer>
+      <offer sku="УТ-00064844">
+        <name>STAYER 340 мм, для листовых изоляционных материалов, нож (09592)</name>
+        <vendor>STAYER</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3830</price>
       </offer>
       <offer sku="УТ-00064869">
         <name>Трещотка реверсивная Kraftool 1/4" 150 мм 25890</name>
@@ -23244,6 +23334,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88080</price>
+      </offer>
+      <offer sku="УТ-00065425">
+        <name>Штроборез ЗУБР "МАСТЕР" ЗШ-30-1205 Т</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373558566</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>63140</price>
       </offer>
       <offer sku="УТ-00065434">
         <name>ЗУБР 24 мм, витая стальная латунированная проволока 0.3 мм, набор кистевых щеток для дрели, Профессионал (35225-24-H2)</name>
@@ -25753,6 +25854,14 @@
         </pickup-options>
         <price>79900</price>
       </offer>
+      <offer sku="УТ-00092580">
+        <name>Комбо: Аккум. Кусторез ARCURRA 18/55 + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (341092042)</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>74900</price>
+      </offer>
       <offer sku="УТ-00092619">
         <name>Комбо: Аккум. Шуруповерт Ударный TP-CD 18/120 Li-i BL + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (451431042)</name>
         <vendor>Einhell</vendor>
@@ -25939,6 +26048,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22610</price>
+      </offer>
+      <offer sku="УТ-00095316">
+        <name>Смеситель для раковины TAP T-1001-90 Оружейная сталь</name>
+        <vendor>TAP</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>21100</price>
       </offer>
       <offer sku="УТ-00095668">
         <name>Насос центробежный ALTECO CHF 1500-50 CB</name>

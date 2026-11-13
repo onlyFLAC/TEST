@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 14:49">
+<fm_catalog date="2026-11-13 15:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -750,6 +750,25 @@
         </pickup-options>
         <price>25090</price>
       </offer>
+      <offer sku="УТ-00005960">
+        <name>Уровень тип 80AS, 40 см STABILA 19163</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191634</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16490</price>
+      </offer>
+      <offer sku="УТ-00005963">
+        <name>Уровень тип 80AS, 80 см STABILA 19166</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24390</price>
+      </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
         <vendor>STABILA</vendor>
@@ -940,17 +959,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46990</price>
-      </offer>
-      <offer sku="УТ-00007971">
-        <name>Дренажный насос ДН-133/5 Вихрь</name>
-        <vendor>Вихрь</vendor>
-        <barcodes>
-          <barcode>4606059038054</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17490</price>
       </offer>
       <offer sku="УТ-00008134">
         <name>Устройство зарядное Bosch GAL 1880 0602494035</name>
@@ -2517,6 +2525,14 @@
         </pickup-options>
         <price>12100</price>
       </offer>
+      <offer sku="УТ-00022543">
+        <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL Р.7</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24200</price>
+      </offer>
       <offer sku="УТ-00022546">
         <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL 20 CLASS 1 C ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.10</name>
         <vendor>Husqvarna</vendor>
@@ -2524,6 +2540,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39000</price>
+      </offer>
+      <offer sku="УТ-00022548">
+        <name>ПЕРЧАТКИ HUSQVARNA TECHNICAL LIGHT Р.10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24200</price>
       </offer>
       <offer sku="УТ-00022551">
         <name>Перчатки Husqvarna Technical р.9</name>
@@ -10010,17 +10034,6 @@
         </pickup-options>
         <price>121000</price>
       </offer>
-      <offer sku="00000024481">
-        <name>Алмазная коронка 102*450 ВТ</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455064</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12290</price>
-      </offer>
       <offer sku="00000024484">
         <name>Алмазная коронка 108*350 ВТ</name>
         <vendor>ALTECO</vendor>
@@ -10031,17 +10044,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11490</price>
-      </offer>
-      <offer sku="00000024487">
-        <name>Алмазная коронка 112*350 PS</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455101</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12290</price>
       </offer>
       <offer sku="00000024488">
         <name>Алмазная коронка 112*350 ВТ</name>
@@ -10054,14 +10056,6 @@
         </pickup-options>
         <price>11790</price>
       </offer>
-      <offer sku="00000024503">
-        <name>Алмазная коронка 168*350 PS</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20740</price>
-      </offer>
       <offer sku="00000024511">
         <name>Алмазная коронка 200*350 ВТ</name>
         <vendor>ALTECO</vendor>
@@ -10069,17 +10063,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23580</price>
-      </offer>
-      <offer sku="00000024547">
-        <name>Алмазная коронка 83*450 ВТ</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455538</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9260</price>
       </offer>
       <offer sku="00000024802">
         <name>Рубанок электрический PL 650 ALTECO</name>
@@ -11234,6 +11217,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>84980</price>
+      </offer>
+      <offer sku="00000032421">
+        <name>Зарядное устройство Bosch GAL 12V-40</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140968133</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24700</price>
       </offer>
       <offer sku="00000032422">
         <name>Набор из 2 аккумуляторов и ЗУ BOSCH GAL 12V-40 + GBA 2 Aч 1600A019R8</name>
@@ -15923,6 +15917,17 @@
         </pickup-options>
         <price>14864</price>
       </offer>
+      <offer sku="00000059254">
+        <name>Тюбинг принтованный Nika "СПОРТ" ТБ2К-85/32 лимонный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4640047365746</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11750</price>
+      </offer>
       <offer sku="00000059255">
         <name>Игрушка. Тюбинг принтованный (ТБ2К-95/12 Nika sport голубой)</name>
         <vendor>Nika</vendor>
@@ -18122,6 +18127,17 @@
         </pickup-options>
         <price>76100</price>
       </offer>
+      <offer sku="00000075000">
+        <name>Набор бит и насадок DeWALT FLEXTORQ 32 шт. DT70747T</name>
+        <vendor>DeWALT</vendor>
+        <barcodes>
+          <barcode>5035048504048</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19650</price>
+      </offer>
       <offer sku="00000075229">
         <name>Телевизор Harper 40F660T 00000023238</name>
         <vendor>Harper</vendor>
@@ -19024,17 +19040,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18990</price>
-      </offer>
-      <offer sku="УТ-00001522">
-        <name>Лопата снеговая ЗУБР "АНГАРА" 52 см 39980</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373536953</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12262</price>
       </offer>
       <offer sku="УТ-00001523">
         <name>Лопата снеговая ЗУБР 460 мм 39981</name>
@@ -21138,14 +21143,6 @@
         </pickup-options>
         <price>16090</price>
       </offer>
-      <offer sku="УТ-00057537">
-        <name>Набор инструментов 179пр. 1/4''3/8''1/2''</name>
-        <vendor>Scheppach</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>50700</price>
-      </offer>
       <offer sku="УТ-00057812">
         <name>Фен строительный Bosch GHG 23-66 06012A6303</name>
         <vendor>BOSCH</vendor>
@@ -22684,6 +22681,17 @@
         </pickup-options>
         <price>7387</price>
       </offer>
+      <offer sku="УТ-00063251">
+        <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СС светло-серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4620032741786</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8900</price>
+      </offer>
       <offer sku="УТ-00063319">
         <name>Доска гладильная Nika БЮ1 (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -22973,6 +22981,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34010</price>
+      </offer>
+      <offer sku="УТ-00063830">
+        <name>Клещи переставные (водяные) Bosch 1600A027PR</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952614205</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10550</price>
       </offer>
       <offer sku="УТ-00063831">
         <name>Ключ разводной Bosch 1600A02W7R</name>
@@ -23484,6 +23503,17 @@
         </pickup-options>
         <price>32505</price>
       </offer>
+      <offer sku="УТ-00072393">
+        <name>Инструмент для удаления изоляции KNIPEX 16 60 06 SB</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773077961</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12150</price>
+      </offer>
       <offer sku="УТ-00072397">
         <name>Инструмент для удаления оболочки KNIPEX 16 80 125 SB</name>
         <vendor>KNIPEX</vendor>
@@ -23533,6 +23563,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20685</price>
+      </offer>
+      <offer sku="УТ-00072444">
+        <name>Клещи сантехнические KNIPEX 87 01 300</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773034087</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35435</price>
       </offer>
       <offer sku="УТ-00072445">
         <name>Клещи сантехнические KNIPEX 87 01 400</name>
@@ -24043,6 +24084,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15590</price>
+      </offer>
+      <offer sku="УТ-00075651">
+        <name>Набор бит ударных Wera 05057690001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43490</price>
       </offer>
       <offer sku="УТ-00075654">
         <name>Набор Г образных ключей Wera 05022087001</name>
@@ -26048,14 +26097,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22610</price>
-      </offer>
-      <offer sku="УТ-00095316">
-        <name>Смеситель для раковины TAP T-1001-90 Оружейная сталь</name>
-        <vendor>TAP</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21100</price>
       </offer>
       <offer sku="УТ-00095668">
         <name>Насос центробежный ALTECO CHF 1500-50 CB</name>

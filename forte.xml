@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 08:57">
+<fm_catalog date="2026-11-13 09:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9931,6 +9931,14 @@
         </pickup-options>
         <price>400500</price>
       </offer>
+      <offer sku="00000024037">
+        <name>Станция насосная автоматическая Mateus MS05101 (ATJET100A)</name>
+        <vendor>Mateus</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>76000</price>
+      </offer>
       <offer sku="00000024071">
         <name>Станция насосная автоматическая Mateus MS05404 (TGP125C)</name>
         <vendor>Mateus</vendor>
@@ -15086,6 +15094,17 @@
         </pickup-options>
         <price>21995</price>
       </offer>
+      <offer sku="00000050311">
+        <name>Вешалка напольная Nika "КОМФОРТ 4" ВК4/Ч черный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075838451</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9100</price>
+      </offer>
       <offer sku="00000050315">
         <name>Вешалка настенная Nika ВП4МЧ матово-черный</name>
         <vendor>Nika</vendor>
@@ -17251,6 +17270,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34100</price>
+      </offer>
+      <offer sku="00000070600">
+        <name>Краска аэрозольная NOVA серебро 450 мл Nova36</name>
+        <vendor>NOVA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>950</price>
       </offer>
       <offer sku="00000070642">
         <name>Цепь STIHL 76 зв. 0.325 1.5 мм 25RM RAPIDMICRO COMFORT 36850000076</name>
@@ -20204,6 +20231,17 @@
         </pickup-options>
         <price>6186</price>
       </offer>
+      <offer sku="УТ-00048669">
+        <name>Доска гладильная Nika Н3+ серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830042</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16490</price>
+      </offer>
       <offer sku="УТ-00048745">
         <name>Пила цепная аккумуляторная Stalker MC20-10 Li BL 69835</name>
         <vendor>Stalker</vendor>
@@ -21247,6 +21285,17 @@
         </pickup-options>
         <price>3820</price>
       </offer>
+      <offer sku="УТ-00058329">
+        <name>Доска гладильная Nika "BELL CLASSY 1" БК1 серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830929</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
+      </offer>
       <offer sku="УТ-00058344">
         <name>Пылесос бытовой аккумуляторный Makita DCL284FZ</name>
         <vendor>Makita</vendor>
@@ -21415,6 +21464,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15988</price>
+      </offer>
+      <offer sku="УТ-00059629">
+        <name>Доска гладильная Nika "SPORT" NST/4 шоколадный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111518970</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23489</price>
       </offer>
       <offer sku="УТ-00059630">
         <name>Доска гладильная Nika "SPORT" NST/5 темно-лазурный</name>
@@ -21775,6 +21835,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>166000</price>
+      </offer>
+      <offer sku="УТ-00059839">
+        <name>Пила сабельная BOSCH GSA 12-30 06016C7000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302387</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>85760</price>
       </offer>
       <offer sku="УТ-00059840">
         <name>Пила торцовочная Bosch GCM 340-305 D 0601B60000</name>
@@ -24421,14 +24492,6 @@
         </pickup-options>
         <price>385000</price>
       </offer>
-      <offer sku="УТ-00085536">
-        <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-40 1600A036YW</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>57050</price>
-      </offer>
       <offer sku="УТ-00085538">
         <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-80 1600A036ZB</name>
         <vendor>BOSCH</vendor>
@@ -25100,6 +25163,14 @@
       </offer>
       <offer sku="УТ-00091091">
         <name>Лампы светодиодные СТАРТ 5 шт. LEDGLS E27 25W 27ON</name>
+        <vendor>СТАРТ</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3890</price>
+      </offer>
+      <offer sku="УТ-00091092">
+        <name>Лампы светодиодные СТАРТ 5 шт. LEDGLS E27 25W 40ON</name>
         <vendor>СТАРТ</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -26062,6 +26133,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
+      </offer>
+      <offer sku="УТ-00099438">
+        <name>Набор бит DeWALT FLEXTORQ 25 мм (7 шт.), DT70806-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2490</price>
       </offer>
       <offer sku="УТ-00099442">
         <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 09:56">
+<fm_catalog date="2026-11-13 10:26">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9693,17 +9693,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4365</price>
-      </offer>
-      <offer sku="00000022794">
-        <name>Ящик для инструментов СИБРТЕХ 90807</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800064073</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4980</price>
       </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>

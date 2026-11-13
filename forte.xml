@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 13:51">
+<fm_catalog date="2026-11-13 14:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -19920,14 +19920,6 @@
         </pickup-options>
         <price>99990</price>
       </offer>
-      <offer sku="УТ-00047240">
-        <name>Концевой выключатель для талей электрических CD 5,0 т, шт</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>10370</price>
-      </offer>
       <offer sku="УТ-00047337">
         <name>2 Ведущее колесо для штабелёра WS/IWS (Drive wheel), шт</name>
         <vendor>TOR</vendor>
@@ -20038,17 +20030,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1400</price>
-      </offer>
-      <offer sku="УТ-00048213">
-        <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7391883037737</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6990</price>
       </offer>
       <offer sku="УТ-00048216">
         <name>Шнур кордовый Husqvarna 2.7x70 мм 597 66 90-10</name>

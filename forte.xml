@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 23:41">
+<fm_catalog date="2026-11-14 00:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17653,17 +17653,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7190</price>
-      </offer>
-      <offer sku="00000071608">
-        <name>STAYER HERCULES профессиональный пистолет для монтажной пены, с тефлоновым покрытием корпуса и сопла</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229172503</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6553</price>
       </offer>
       <offer sku="00000071611">
         <name>ЗУБР 20л, ведро строительное усиленное пластмассовое, с носиком</name>

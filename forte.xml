@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 07:59">
+<fm_catalog date="2026-11-13 08:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -750,28 +750,6 @@
         </pickup-options>
         <price>466375</price>
       </offer>
-      <offer sku="УТ-00005926">
-        <name>Уровень Pocket Pro Magnetic с чехлом STABILA 17953</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069179533</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12390</price>
-      </offer>
-      <offer sku="УТ-00005937">
-        <name>Уровень тип 70 Electric, 43 см, для электриков STABILA 16135</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069161354</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22490</price>
-      </offer>
       <offer sku="УТ-00005958">
         <name>Уровень тип 80AS, 120 см STABILA 19169</name>
         <vendor>STABILA</vendor>
@@ -782,17 +760,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25090</price>
-      </offer>
-      <offer sku="УТ-00005972">
-        <name>Уровень тип 80АS-2, 80 см, 3 глазка STABILA 19171</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191719</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26290</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -2396,14 +2363,6 @@
         </pickup-options>
         <price>13200</price>
       </offer>
-      <offer sku="УТ-00022326">
-        <name>НАПИЛЬНИК 5.5ММ INTENSIVE CUT (комплект из 12ШТ)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
-      </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2471,14 +2430,6 @@
         </pickup-options>
         <price>13200</price>
       </offer>
-      <offer sku="УТ-00022456">
-        <name>ЗАТОЧНОЙ КАМЕНЬ ДЛЯ ТОПОРОВ</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29700</price>
-      </offer>
       <offer sku="УТ-00022468">
         <name>Топор-колун 80см 2,5кг</name>
         <vendor>Husqvarna</vendor>
@@ -2526,14 +2477,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7200</price>
-      </offer>
-      <offer sku="УТ-00022495">
-        <name>Рулетка 15м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35000</price>
       </offer>
       <offer sku="УТ-00022496">
         <name>Рулетка 20м Husqvarna</name>
@@ -8009,6 +7952,17 @@
         </pickup-options>
         <price>17913</price>
       </offer>
+      <offer sku="00000013222">
+        <name>Набор ключей комбинированных, 6 - 17 мм, хромированные, 6 шт.// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996069265</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2545</price>
+      </offer>
       <offer sku="00000013425">
         <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -12067,17 +12021,6 @@
         </pickup-options>
         <price>74600</price>
       </offer>
-      <offer sku="00000032902">
-        <name>Фен технический Bosch GHG 20-63 06012A6201</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140889452</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>82600</price>
-      </offer>
       <offer sku="00000032917">
         <name>Машина фрезерная вертикальная Bosch POF 1200 AE 060326A100</name>
         <vendor>BOSCH</vendor>
@@ -14777,17 +14720,6 @@
         </pickup-options>
         <price>107100</price>
       </offer>
-      <offer sku="00000041347">
-        <name>круг Разрезной пильный DREMEL® (546) 2шт.</name>
-        <vendor>DREMEL</vendor>
-        <barcodes>
-          <barcode>8710364045143</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
-      </offer>
       <offer sku="00000041420">
         <name>Триммер бензиновый STIHL FS 120 41342000433</name>
         <vendor>STIHL</vendor>
@@ -16414,17 +16346,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2780</price>
-      </offer>
-      <offer sku="00000063684">
-        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996198392</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2270</price>
       </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 предметов 14151</name>
@@ -23631,17 +23552,6 @@
         </pickup-options>
         <price>25480</price>
       </offer>
-      <offer sku="УТ-00072493">
-        <name>Кусачки KNIPEX 78 03 125</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773035381</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18440</price>
-      </offer>
       <offer sku="УТ-00072495">
         <name>Кусачки KNIPEX 78 61 125</name>
         <vendor>KNIPEX</vendor>
@@ -23932,14 +23842,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16500</price>
-      </offer>
-      <offer sku="УТ-00072998">
-        <name>Смазка Husqvarna ECO 100гр. 503 97 64-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7200</price>
       </offer>
       <offer sku="УТ-00073009">
         <name>Травокосилка Husqvarna 541RS 967 66 08-03</name>
@@ -24482,14 +24384,6 @@
         </pickup-options>
         <price>4400</price>
       </offer>
-      <offer sku="УТ-00085489">
-        <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7550</price>
-      </offer>
       <offer sku="УТ-00085490">
         <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>
         <vendor>Husqvarna</vendor>
@@ -24505,22 +24399,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
-      </offer>
-      <offer sku="УТ-00085494">
-        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
-      <offer sku="УТ-00085495">
-        <name>Набор напильников Husqvarna 5.2 мм 3 шт. 597 35 59-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

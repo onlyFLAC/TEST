@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-13 08:28">
+<fm_catalog date="2026-11-13 08:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10805,17 +10805,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>39200</price>
-      </offer>
-      <offer sku="00000031886">
-        <name>Подножка/полка KRAUSE 122063</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199122063</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17300</price>
       </offer>
       <offer sku="00000031892">
         <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>

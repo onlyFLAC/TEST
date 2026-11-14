@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 16:49">
+<fm_catalog date="2026-11-14 17:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -341,14 +341,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>38700</price>
-      </offer>
-      <offer sku="УТ-00004336">
-        <name>Лестница приставная телескопическая PROFSET 2.9 м DLT209B</name>
-        <vendor>PROFSET</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>42867</price>
       </offer>
       <offer sku="УТ-00004337">
         <name>Лестница приставная телескопическая PROFSET 3.2 м, 11 ступеней DLT210B</name>

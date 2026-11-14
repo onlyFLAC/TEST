@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 12:54">
+<fm_catalog date="2026-11-14 13:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -19406,17 +19406,6 @@
         </pickup-options>
         <price>20700</price>
       </offer>
-      <offer sku="УТ-00040685">
-        <name>Стремянка Nika 8 ступ. СМ8 оранжевый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075831100</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22150</price>
-      </offer>
       <offer sku="УТ-00040768">
         <name>Лапа прибора Bosch 2610956898</name>
         <vendor>BOSCH</vendor>
@@ -21085,6 +21074,17 @@
         </pickup-options>
         <price>3820</price>
       </offer>
+      <offer sku="УТ-00058329">
+        <name>Доска гладильная Nika "BELL CLASSY 1" БК1 серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830929</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
+      </offer>
       <offer sku="УТ-00058344">
         <name>Пылесос бытовой аккумуляторный Makita DCL284FZ</name>
         <vendor>Makita</vendor>
@@ -21253,17 +21253,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15988</price>
-      </offer>
-      <offer sku="УТ-00059629">
-        <name>Доска гладильная Nika "SPORT" NST/4 шоколадный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111518970</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23489</price>
       </offer>
       <offer sku="УТ-00059630">
         <name>Доска гладильная Nika "SPORT" NST/5 темно-лазурный</name>
@@ -26129,6 +26118,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>134375</price>
+      </offer>
+      <offer sku="УТ-00101589">
+        <name>M5802B Пила дисковая,1050Вт,4900об/мин.,190х30мм,рез-68мм</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>67745</price>
       </offer>
       <offer sku="УТ-00102427">
         <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>

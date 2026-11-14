@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 20:43">
+<fm_catalog date="2026-11-14 21:12">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24782,14 +24782,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2890</price>
-      </offer>
-      <offer sku="УТ-00091055">
-        <name>Батарейки аккумуляторные GP 2 шт. 270AA HCRA-2CR2</name>
-        <vendor>GP</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4790</price>
       </offer>
       <offer sku="УТ-00091063">
         <name>Батарейки и вентилятор GP 12 мизинчиковых + 12 пальчиковых 15AU/24AU/FANWETA21-2CRSBC24</name>

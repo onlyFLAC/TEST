@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 08:58">
+<fm_catalog date="2026-11-14 09:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2472,17 +2472,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>35000</price>
-      </offer>
-      <offer sku="УТ-00022496">
-        <name>Рулетка 20м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089124921</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>

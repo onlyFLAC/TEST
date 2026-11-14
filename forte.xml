@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 12:24">
+<fm_catalog date="2026-11-14 12:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1982,14 +1982,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4380</price>
-      </offer>
-      <offer sku="УТ-00015974">
-        <name>ЗУБР 90 л, Круглый строительный таз МАСТЕР (06095-90)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6780</price>
       </offer>
       <offer sku="УТ-00016701">
         <name>Сверло универсальное BOSCH CYL-9 6х120 мм 2608900626</name>
@@ -10966,17 +10958,6 @@
         </pickup-options>
         <price>59480</price>
       </offer>
-      <offer sku="00000032347">
-        <name>Детектор аккумуляторный BOSCH D-tect 120 0601081301</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140780070</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>154900</price>
-      </offer>
       <offer sku="00000032360">
         <name>Диск алмазный BOSCH 180х22,2 мм 2608602199</name>
         <vendor>BOSCH</vendor>
@@ -14322,17 +14303,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>142100</price>
-      </offer>
-      <offer sku="00000039807">
-        <name>Измерительное колесо | курвиметр Bosch GWM 32 0601074000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140781541</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>63400</price>
       </offer>
       <offer sku="00000039893">
         <name>Цепь для бензопилы Bosch UniversalChain F016800489</name>
@@ -19435,6 +19405,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20700</price>
+      </offer>
+      <offer sku="УТ-00040685">
+        <name>Стремянка Nika 8 ступ. СМ8 оранжевый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075831100</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22150</price>
       </offer>
       <offer sku="УТ-00040768">
         <name>Лапа прибора Bosch 2610956898</name>

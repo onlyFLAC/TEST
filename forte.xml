@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 07:30">
+<fm_catalog date="2026-11-14 07:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1966,14 +1966,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2170</price>
-      </offer>
-      <offer sku="УТ-00015916">
-        <name>STAYER MaxFix PH2/SL6 32 мм, Переставная отвертка (2511)</name>
-        <vendor>STAYER</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1490</price>
       </offer>
       <offer sku="УТ-00015961">
         <name>STAYER 60 мм, 5 доп. лезвий, Компактный скребок (0851-H6)</name>
@@ -17239,6 +17231,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34100</price>
+      </offer>
+      <offer sku="00000070600">
+        <name>Краска аэрозольная NOVA серебро 450 мл Nova36</name>
+        <vendor>NOVA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>950</price>
       </offer>
       <offer sku="00000070642">
         <name>Цепь STIHL 76 зв. 0.325 1.5 мм 25RM RAPIDMICRO COMFORT 36850000076</name>

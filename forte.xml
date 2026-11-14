@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 15:22">
+<fm_catalog date="2026-11-14 15:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22621,17 +22621,6 @@
         </pickup-options>
         <price>13600</price>
       </offer>
-      <offer sku="УТ-00063796">
-        <name>Комплект детской мебели Nika КНД4/МП2 маленькая принцесса-2</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111529006</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17999</price>
-      </offer>
       <offer sku="УТ-00063797">
         <name>Комплект детской мебели Nika КНД4-M/1 с единарогами</name>
         <vendor>Nika</vendor>
@@ -22708,17 +22697,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8800</price>
-      </offer>
-      <offer sku="УТ-00063818">
-        <name>Уровень строительный магнитный Bosch 60 см 1600A01V3Y</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952523668</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13610</price>
       </offer>
       <offer sku="УТ-00063819">
         <name>Сумка для инструмента с набором Bosch 1600A02H5B</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 13:24">
+<fm_catalog date="2026-11-14 13:54">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1374,6 +1374,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>240000</price>
+      </offer>
+      <offer sku="УТ-00013019">
+        <name>Аккумулятор для инструментов ALTECO BCD 2003Li BL 42773</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216458461</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18720</price>
       </offer>
       <offer sku="УТ-00013064">
         <name>Корыто для тачки IVT 110 л 4222</name>
@@ -24336,7 +24347,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>41489</price>
+        <price>42500</price>
       </offer>
       <offer sku="УТ-00085741">
         <name>Выключатель для перфоратора BOSCH 160720032D</name>

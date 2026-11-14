@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 14:52">
+<fm_catalog date="2026-11-14 15:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22786,17 +22786,6 @@
         </pickup-options>
         <price>24620</price>
       </offer>
-      <offer sku="УТ-00063828">
-        <name>Набор комбинированных ключей с трещоткой BOSCH 8 шт 1600A027PS</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952614212</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>34010</price>
-      </offer>
       <offer sku="УТ-00063830">
         <name>Клещи переставные (водяные) Bosch 1600A027PR</name>
         <vendor>BOSCH</vendor>
@@ -22807,17 +22796,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>10550</price>
-      </offer>
-      <offer sku="УТ-00063831">
-        <name>Ключ разводной Bosch 1600A02W7R</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423250534</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6450</price>
       </offer>
       <offer sku="УТ-00063835">
         <name>Набор отверток BOSCH 8 шт. 1600A02BX8</name>
@@ -25309,14 +25287,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13590</price>
-      </offer>
-      <offer sku="УТ-00091574">
-        <name>Трубный ключ S-образный BOSCH 420 мм, 45° 1600A02W3T</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>22750</price>
       </offer>
       <offer sku="УТ-00091576">
         <name>Набор клещей BOSCH 3 предмета 1600A02W7J</name>

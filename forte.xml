@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 17:19">
+<fm_catalog date="2026-11-14 17:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7935,17 +7935,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2545</price>
-      </offer>
-      <offer sku="00000013425">
-        <name>Напильник, 150 мм, плоский, двухкомпонентная рукоятка, №2// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996161914</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1780</price>
       </offer>
       <offer sku="00000013603">
         <name>Длинногубцы Matrix 160 мм 17494</name>

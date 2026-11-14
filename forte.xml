@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-14 10:27">
+<fm_catalog date="2026-11-14 10:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10765,17 +10765,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>125000</price>
-      </offer>
-      <offer sku="00000031942">
-        <name>Подставка складная KRAUSE TOPPY XL 3 ступ. 130877</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43600</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -24287,6 +24276,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18200</price>
+      </offer>
+      <offer sku="УТ-00085265">
+        <name>Комплект детский Nika "Математика с монстриками" КП2/ММ</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111530378</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15500</price>
       </offer>
       <offer sku="УТ-00085371">
         <name>Устройство зарядное и аккумулятор Makita DC18RC+BL1830B 191A25-2</name>

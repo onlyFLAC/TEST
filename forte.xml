@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-15 07:27">
+<fm_catalog date="2026-11-15 07:57">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10701,14 +10701,6 @@
         </pickup-options>
         <price>163800</price>
       </offer>
-      <offer sku="00000031905">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 4 ступ. 126221</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>40800</price>
-      </offer>
       <offer sku="00000031912">
         <name>Стремянка односторонняя KRAUSE SECURO 5 ступ. 126436</name>
         <vendor>Krause</vendor>
@@ -15467,17 +15459,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18888</price>
-      </offer>
-      <offer sku="00000059105">
-        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952531144</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>122320</price>
       </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 02:30">
+<fm_catalog date="2026-11-16 02:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14741,17 +14741,6 @@
         </pickup-options>
         <price>1890</price>
       </offer>
-      <offer sku="00000042385">
-        <name>Набор пилок для сабельной пилы по дереву Bosch S1131L 2шт. 2609256702</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140390590</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3690</price>
-      </offer>
       <offer sku="00000042407">
         <name>Автосигнализация SL A93 V2 2CAN+2LIN</name>
         <vendor>Starline</vendor>
@@ -19044,17 +19033,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>56220</price>
-      </offer>
-      <offer sku="УТ-00002285">
-        <name>Вешалка с полкой ЗМИ ''Торонто 21'' Белый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195630720</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14017</price>
       </offer>
       <offer sku="УТ-00002288">
         <name>Вешалка с полкой ЗМИ "ТОРОНТО 22" белая ВСП Т22</name>

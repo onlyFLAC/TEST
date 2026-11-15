@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-15 09:54">
+<fm_catalog date="2026-11-15 10:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -12665,17 +12665,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19383</price>
-      </offer>
-      <offer sku="00000034947">
-        <name>Бумажный мешок для сух.пыли д/GAS 35</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140713580</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14238</price>
       </offer>
       <offer sku="00000034953">
         <name>Мешок-пылесборник для сух/влаж. пыли д/GAS 35+55</name>

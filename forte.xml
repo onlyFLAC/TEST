@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-15 12:20">
+<fm_catalog date="2026-11-15 12:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9401,14 +9401,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1590</price>
-      </offer>
-      <offer sku="00000021888">
-        <name>Щетка обойная 3-рядная, 300 мм// MTX</name>
-        <vendor>MTX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2228</price>
       </offer>
       <offer sku="00000021949">
         <name>Набор малярных карандашей Sparta 180 мм 12 шт. 848045</name>
@@ -24928,14 +24920,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44660</price>
-      </offer>
-      <offer sku="УТ-00091523">
-        <name>Отвертка шлицевая BOSCH SL3.5x75 1600A01TF8</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3130</price>
       </offer>
       <offer sku="УТ-00091524">
         <name>Отвертка BOSCH SL4.5x100 мм 1600A01TF9</name>

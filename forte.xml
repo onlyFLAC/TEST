@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-15 13:48">
+<fm_catalog date="2026-11-15 14:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -741,14 +741,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25090</price>
-      </offer>
-      <offer sku="УТ-00005963">
-        <name>Уровень тип 80AS, 80 см STABILA 19166</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24390</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>

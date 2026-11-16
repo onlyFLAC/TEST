@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 16:42">
+<fm_catalog date="2026-11-16 17:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9897,14 +9897,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>239900</price>
-      </offer>
-      <offer sku="00000024016">
-        <name>Компрессор Mateus MS03306 (YV-0.36)</name>
-        <vendor>Mateus</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>288700</price>
       </offer>
       <offer sku="00000024017">
         <name>Компрессор Mateus MS03307 (YV-0.48)</name>

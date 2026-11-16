@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 22:05">
+<fm_catalog date="2026-11-16 22:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -913,14 +913,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>700</price>
-      </offer>
-      <offer sku="УТ-00007389">
-        <name>Валик игольчатый для наливных полов с ручкой, острая игла, 500мм// Сибиртех</name>
-        <vendor>Сибртех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3175</price>
       </offer>
       <offer sku="УТ-00007446">
         <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5Д/Ч черный</name>
@@ -17996,17 +17988,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16550</price>
-      </offer>
-      <offer sku="00000075604">
-        <name>Этажерка Nika ЭТК3/МС матово-серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111514798</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9990</price>
       </offer>
       <offer sku="00000075846">
         <name>Шпиндель Bosch 1607000D6A</name>

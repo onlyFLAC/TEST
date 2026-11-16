@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 10:48">
+<fm_catalog date="2026-11-16 11:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22338,17 +22338,6 @@
         </pickup-options>
         <price>6230</price>
       </offer>
-      <offer sku="УТ-00063248">
-        <name>Табурет квадратный Nika "ФАБРИК 3" ТФ03/С серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032741571</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7387</price>
-      </offer>
       <offer sku="УТ-00063251">
         <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СС светло-серый</name>
         <vendor>Nika</vendor>
@@ -23034,6 +23023,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19790</price>
+      </offer>
+      <offer sku="УТ-00068661">
+        <name>Мусат Functional Form Fiskars</name>
+        <vendor>FISKARS</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18490</price>
       </offer>
       <offer sku="УТ-00069675">
         <name>Машина подметальная WORTEX HPS 6518 механическая 1334415</name>

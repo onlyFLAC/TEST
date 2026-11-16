@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 15:43">
+<fm_catalog date="2026-11-16 16:13">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14255,17 +14255,6 @@
         </pickup-options>
         <price>34977</price>
       </offer>
-      <offer sku="00000039798">
-        <name>GLL 3-80C (12 V) + BM1 + LR7 + L-boxx</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140953849</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>293190</price>
-      </offer>
       <offer sku="00000039804">
         <name>Нивелир оптический Bosch GOL 26D 0601068000</name>
         <vendor>BOSCH</vendor>
@@ -21724,6 +21713,17 @@
         </pickup-options>
         <price>54300</price>
       </offer>
+      <offer sku="УТ-00060058">
+        <name>Мыльница Gappo золотой сатин с держателем G30902-3</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477645662</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7310</price>
+      </offer>
       <offer sku="УТ-00060071">
         <name>Душевая стойка GAPPO с термостатом G2495-76</name>
         <vendor>GAPPO</vendor>
@@ -23993,22 +23993,6 @@
         </pickup-options>
         <price>8900</price>
       </offer>
-      <offer sku="УТ-00078055">
-        <name>Бак топливный в сборе для триммера STIHL FS 130 R 41803500418</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20680</price>
-      </offer>
-      <offer sku="УТ-00080099">
-        <name>Колесо червячное STIHL 48607323600</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
-      </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
         <vendor>STIHL</vendor>
@@ -24028,22 +24012,6 @@
         </pickup-options>
         <price>15720</price>
       </offer>
-      <offer sku="УТ-00081953">
-        <name>Поводок STIHL KG/KGA 770 48607321304</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4390</price>
-      </offer>
-      <offer sku="УТ-00081994">
-        <name>Картер для триммера STIHL FS 91 R 41800212500</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12940</price>
-      </offer>
       <offer sku="УТ-00083241">
         <name>Сегмент фиксирующий Stihl 63787086200</name>
         <vendor>STIHL</vendor>
@@ -24052,14 +24020,6 @@
         </pickup-options>
         <price>750</price>
       </offer>
-      <offer sku="УТ-00083962">
-        <name>Червяк для подметального устройства STIHL KGA 770 48606004201</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
-      </offer>
       <offer sku="УТ-00084027">
         <name>Шайба для газонокосилки STIHL 92960211609</name>
         <vendor>STIHL</vendor>
@@ -24067,14 +24027,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>190</price>
-      </offer>
-      <offer sku="УТ-00084089">
-        <name>Шарикоподшипник STIHL 95030039011</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2890</price>
       </offer>
       <offer sku="УТ-00084675">
         <name>Кусачки прецизионные KNIPEX 125 мм 7813125SB</name>
@@ -25566,6 +25518,14 @@
         </pickup-options>
         <price>79900</price>
       </offer>
+      <offer sku="УТ-00092607">
+        <name>Комбо: Аккум. Углошлифмашина AXXIO 18/125 + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (443114042)</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44900</price>
+      </offer>
       <offer sku="УТ-00092619">
         <name>Комбо: Аккум. Шуруповерт Ударный TP-CD 18/120 Li-i BL + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (451431042)</name>
         <vendor>Einhell</vendor>
@@ -25824,6 +25784,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
+      </offer>
+      <offer sku="УТ-00098801">
+        <name>Домкрат подкатной гидравлический 2.5т (h min 85мм, h max 350мм) в кейсе Sch-TH32505C Sch-TH32505C</name>
+        <vendor>Scheppach</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37300</price>
       </offer>
       <offer sku="УТ-00099442">
         <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>

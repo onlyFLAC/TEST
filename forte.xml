@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 14:45">
+<fm_catalog date="2026-11-16 15:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -771,14 +771,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14290</price>
-      </offer>
-      <offer sku="УТ-00006058">
-        <name>Водоподогреватель электрический Теплотех ЭВП-12М на 380</name>
-        <vendor>Теплотех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54850</price>
       </offer>
       <offer sku="УТ-00006301">
         <name>Подставка складная KRAUSE TOPPY 2 ступ. 130723</name>
@@ -2275,6 +2267,14 @@
         </pickup-options>
         <price>199000</price>
       </offer>
+      <offer sku="УТ-00022258">
+        <name>Устройство зарядное 40-С80</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17000</price>
+      </offer>
       <offer sku="УТ-00022268">
         <name>Масло 4T 10W-40 1.4л Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2369,6 +2369,14 @@
         </pickup-options>
         <price>9000</price>
       </offer>
+      <offer sku="УТ-00022403">
+        <name>Шина 15'' 0.325 1.5 64DL 11T 5кл HSM Husqvarna X-Force</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22000</price>
+      </offer>
       <offer sku="УТ-00022418">
         <name>Шина 12'' 1/4 1.3 64DL 7T 1кл A318 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2451,6 +2459,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>68000</price>
+      </offer>
+      <offer sku="УТ-00022487">
+        <name>КЛИН ВАЛОЧНЫЙ АЛЮМИНИЕВЫЙ 25СМ/10"; (1000ГР)</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29000</price>
       </offer>
       <offer sku="УТ-00022491">
         <name>Клин валочный полимерный Pro 24см/9.5''</name>
@@ -7900,6 +7916,17 @@
         </pickup-options>
         <price>4670</price>
       </offer>
+      <offer sku="00000013077">
+        <name>Набор ключей рожковых, 6 - 19 мм, 6 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996042121</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3190</price>
+      </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8832,6 +8859,17 @@
         </pickup-options>
         <price>7590</price>
       </offer>
+      <offer sku="00000018246">
+        <name>Щепа яблоневая для копчения PALISAD Camping Россия 69510</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4606800046185</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
+      </offer>
       <offer sku="00000018314">
         <name>Щетка для чистки гриля Palisad 43 см 69652</name>
         <vendor>Palisad</vendor>
@@ -9099,17 +9137,6 @@
         </pickup-options>
         <price>677</price>
       </offer>
-      <offer sku="00000020255">
-        <name>Круг лепестковый для дрели, 50 х 30 х 6 мм, P 40// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996137476</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1190</price>
-      </offer>
       <offer sku="00000020295">
         <name>Набор абразивных лент Matrix Р120 100х610 мм 3 шт. 74291</name>
         <vendor>Matrix</vendor>
@@ -9186,6 +9213,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1329</price>
+      </offer>
+      <offer sku="00000020906">
+        <name>Клупп трубный 1/2''// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996051802</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4276</price>
       </offer>
       <offer sku="00000020911">
         <name>Набор метчиков и плашек Sparta М3-М12 20 шт. 773105</name>
@@ -9274,6 +9312,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1480</price>
+      </offer>
+      <offer sku="00000021470">
+        <name>Валик прижимной резиновый с ручкой Сибртех 6х50 мм 81032</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800074225</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>725</price>
+      </offer>
+      <offer sku="00000021471">
+        <name>Валик малярный Сибртех 150 мм 81033</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800074232</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1740</price>
       </offer>
       <offer sku="00000021616">
         <name>Кювета пластмассовая для валиков, 350х330 мм// Sparta</name>
@@ -9635,6 +9695,17 @@
         </pickup-options>
         <price>4350</price>
       </offer>
+      <offer sku="00000022794">
+        <name>Ящик для инструментов СИБРТЕХ 90807</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800064073</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -9741,6 +9812,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3985</price>
+      </offer>
+      <offer sku="00000023362">
+        <name>Лампа керосиновая Sparta "ЛЕТУЧАЯ МЫШЬ" 932305</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996061535</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
       </offer>
       <offer sku="00000023573">
         <name>Лестница приставная, 9 ступеней, Россия// Сибртех</name>
@@ -10963,17 +11045,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9143</price>
-      </offer>
-      <offer sku="00000032369">
-        <name>Диск пильный Bosch ECO WOOD (305x30 мм; 100T) 2608644386</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140891073</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20556</price>
       </offer>
       <offer sku="00000032375">
         <name>Дрель-шуруповерт аккумуляторная BOSCH GSR 18V-50 06019H5000</name>
@@ -14484,6 +14555,14 @@
         </pickup-options>
         <price>223400</price>
       </offer>
+      <offer sku="00000041422">
+        <name>Триммер бензиновый STIHL FS 250 41342000492</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>228800</price>
+      </offer>
       <offer sku="00000041423">
         <name>Кусторез бензиновый STIHL FS 350 (GSB 300-3) 41342000399</name>
         <vendor>STIHL</vendor>
@@ -16792,6 +16871,14 @@
         </pickup-options>
         <price>67000</price>
       </offer>
+      <offer sku="00000064568">
+        <name>Аппарат сварочный инверторный плазменной резки Magnetta CUT-120</name>
+        <vendor>Magnetta</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>438720</price>
+      </offer>
       <offer sku="00000064620">
         <name>Фрезер Bosch GOF 130 06016B7000</name>
         <vendor>BOSCH</vendor>
@@ -16961,6 +17048,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2400</price>
+      </offer>
+      <offer sku="00000070234">
+        <name>Стяжка цепная TOR R 6-8 мм 1179 кг (2600 lbs, талреп с храповиком), шт</name>
+        <vendor>TOR</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11999</price>
       </offer>
       <offer sku="00000070238">
         <name>Цепь круглозвенная Tor G80 некалиброванная 10716481</name>
@@ -19302,17 +19397,6 @@
         </pickup-options>
         <price>3740</price>
       </offer>
-      <offer sku="УТ-00040986">
-        <name>Аккумулятор STALKER 20V 4.0Ah 69839</name>
-        <vendor>Stalker</vendor>
-        <barcodes>
-          <barcode>4870244613559</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13500</price>
-      </offer>
       <offer sku="УТ-00041016">
         <name>Валик малярный РемоКолор "МЕХОВОЙ" 48х150 мм 04-2-000</name>
         <vendor>РемоКолор</vendor>
@@ -19602,6 +19686,14 @@
         </pickup-options>
         <price>4690</price>
       </offer>
+      <offer sku="УТ-00045547">
+        <name>Бензопила STIHL MS 182 40 см 11480113060K40</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>138300</price>
+      </offer>
       <offer sku="УТ-00045548">
         <name>Бензопила STIHL MS 182 35 см 11480113060K35</name>
         <vendor>STIHL</vendor>
@@ -19612,6 +19704,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>136200</price>
+      </offer>
+      <offer sku="УТ-00045551">
+        <name>Бензопила STIHL MS 172 40 см 11480113030K40</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>115000</price>
       </offer>
       <offer sku="УТ-00045552">
         <name>Бензопила STIHL MS 172 35 см 11480113030K35</name>
@@ -20003,6 +20103,14 @@
         </pickup-options>
         <price>31399</price>
       </offer>
+      <offer sku="УТ-00051513">
+        <name>Триммер бензиновый STIHL FS 55 (GSB 230-2 + AUTOCUT 27-2) 41402000582</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>151600</price>
+      </offer>
       <offer sku="УТ-00051518">
         <name>Газонокосилка STIHL RM 253.3 T WB220113415</name>
         <vendor>STIHL</vendor>
@@ -20335,6 +20443,25 @@
         </pickup-options>
         <price>420900</price>
       </offer>
+      <offer sku="УТ-00055131">
+        <name>Газонокосилка RM 253.3 WB220113405</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>391900</price>
+      </offer>
+      <offer sku="УТ-00055156">
+        <name>Триммер бензиновый STIHL FS 38 41400122363</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661840281</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>103300</price>
+      </offer>
       <offer sku="УТ-00055169">
         <name>Измельчитель садовый STIHL GH 370.1 S 60012000010</name>
         <vendor>STIHL</vendor>
@@ -20463,14 +20590,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9370</price>
-      </offer>
-      <offer sku="УТ-00055497">
-        <name>Алмазная коронка для сухого бурения 68*370 ВТ ALTECO 81827</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8210</price>
       </offer>
       <offer sku="УТ-00055537">
         <name>Бесщеточная аккумуляторная сабельная пила ALTECO CRS 21-100 BL 78085</name>
@@ -21383,6 +21502,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13342</price>
+      </offer>
+      <offer sku="УТ-00059828">
+        <name>Сушилка напольная Nika СБ3/Б белый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075832602</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6435</price>
       </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>
@@ -23489,6 +23619,14 @@
         </pickup-options>
         <price>7150</price>
       </offer>
+      <offer sku="УТ-00072906">
+        <name>Бензопила Husqvarna 365 18"; 3/8 1.5 68DL C85 X-Cut HLM X-Force 970 71 85-18</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>410000</price>
+      </offer>
       <offer sku="УТ-00072929">
         <name>Газонокосилка-робот Husqvarna ASPIRE R4 970 56 85-11</name>
         <vendor>Husqvarna</vendor>
@@ -24073,6 +24211,14 @@
         </pickup-options>
         <price>4400</price>
       </offer>
+      <offer sku="УТ-00085489">
+        <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7550</price>
+      </offer>
       <offer sku="УТ-00085490">
         <name>Масло синтетическое Husqvarna 2Т 0.1 л 547 92 98-01</name>
         <vendor>Husqvarna</vendor>
@@ -24088,6 +24234,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
+      </offer>
+      <offer sku="УТ-00085494">
+        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
@@ -24376,6 +24530,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>117140</price>
+      </offer>
+      <offer sku="УТ-00089491">
+        <name>Колесо 4.00-8 для мотокультиватора MK 7-950</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5490</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
@@ -25479,6 +25641,14 @@
         </pickup-options>
         <price>3134</price>
       </offer>
+      <offer sku="УТ-00093614">
+        <name>STAYER MASTER, защита до 105 дБ, защитные наушники со складным мягким оголовьем (11386)</name>
+        <vendor>STAYER</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4489</price>
+      </offer>
       <offer sku="УТ-00093617">
         <name>KRAFTOOL KRAFT BOARD на единой, базе, 5 колёс, лоток для инструментов, нагрузка до 110кг, строительные наколенники на колёсах (11513)</name>
         <vendor>KRAFTOOL</vendor>
@@ -25639,14 +25809,6 @@
         </pickup-options>
         <price>61900</price>
       </offer>
-      <offer sku="УТ-00096130">
-        <name>Маркировочный мелок, синий, шестигранный, диаметр 12мм,длина 120 мм (12) Bleispitz 0143</name>
-        <vendor>Bleispitz</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
-      </offer>
       <offer sku="УТ-00096156">
         <name>Лезвие для шпателя BIHUI 100 см, толщина 0.5 мм PTKB100-SB</name>
         <vendor>BIHUI</vendor>
@@ -25694,14 +25856,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46900</price>
-      </offer>
-      <offer sku="УТ-00099438">
-        <name>Набор бит DeWALT FLEXTORQ 25 мм (7 шт.), DT70806-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2490</price>
       </offer>
       <offer sku="УТ-00099442">
         <name>Набор бит DeWALT FLEXTORQ PH2 25 мм (7 шт.), DT70807-QZ</name>

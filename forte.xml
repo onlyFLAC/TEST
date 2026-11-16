@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 18:40">
+<fm_catalog date="2026-11-16 19:09">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -5229,17 +5229,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>780</price>
-      </offer>
-      <offer sku="00000004518">
-        <name>Диск отрезной алмазный ЗУБР "ЖЕЛЕЗОБЕТОН" 125х22.2 мм 36661-125</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373293108</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3456</price>
       </offer>
       <offer sku="00000004526">
         <name>Забор декоративный GRINDA "АР ДЕКО", 28x300см, желтый</name>
@@ -20068,6 +20057,14 @@
         </pickup-options>
         <price>151600</price>
       </offer>
+      <offer sku="УТ-00051517">
+        <name>Газонокосилка бензиновая самоходная STIHL RM 253.3 WB220113405</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>391900</price>
+      </offer>
       <offer sku="УТ-00051518">
         <name>Газонокосилка STIHL RM 253.3 T WB220113415</name>
         <vendor>STIHL</vendor>
@@ -20399,14 +20396,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>420900</price>
-      </offer>
-      <offer sku="УТ-00055131">
-        <name>Газонокосилка RM 253.3 WB220113405</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>391900</price>
       </offer>
       <offer sku="УТ-00055156">
         <name>Триммер бензиновый STIHL FS 38 41400122363</name>
@@ -23041,17 +23030,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88080</price>
-      </offer>
-      <offer sku="УТ-00065425">
-        <name>Штроборез ЗУБР "МАСТЕР" ЗШ-30-1205 Т</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373558566</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>63140</price>
       </offer>
       <offer sku="УТ-00065434">
         <name>ЗУБР 24 мм, витая стальная латунированная проволока 0.3 мм, набор кистевых щеток для дрели, Профессионал (35225-24-H2)</name>

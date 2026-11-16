@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 09:49">
+<fm_catalog date="2026-11-16 10:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9903,6 +9903,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11790</price>
+      </offer>
+      <offer sku="00000024496">
+        <name>Алмазная коронка 132*350 PS</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4607094412793</barcode>
+          <barcode>4870216455163</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13680</price>
       </offer>
       <offer sku="00000024511">
         <name>Алмазная коронка 200*350 ВТ</name>
@@ -22564,6 +22576,17 @@
         </pickup-options>
         <price>10550</price>
       </offer>
+      <offer sku="УТ-00063831">
+        <name>Ключ разводной Bosch 1600A02W7R</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423250534</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6450</price>
+      </offer>
       <offer sku="УТ-00063835">
         <name>Набор отверток BOSCH 8 шт. 1600A02BX8</name>
         <vendor>BOSCH</vendor>
@@ -23679,6 +23702,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24590</price>
+      </offer>
+      <offer sku="УТ-00075734">
+        <name>Отвертка регулируемая динамометрическая Wera 05074772001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>65640</price>
       </offer>
       <offer sku="УТ-00075735">
         <name>Отвертка регулируемая динамометрическая Wera 05074800001</name>

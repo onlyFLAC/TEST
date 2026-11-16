@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 10:19">
+<fm_catalog date="2026-11-16 10:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -186,6 +186,14 @@
         </pickup-options>
         <price>34265</price>
       </offer>
+      <offer sku="УТ-00003903">
+        <name>аккумуляторная ушм,∅125,обороты 8000 minˉ¹(без акб)</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>33120</price>
+      </offer>
       <offer sku="УТ-00003909">
         <name>Ножницы по металлу аккумуляторные CROWN CT29001HX-2S BMC</name>
         <vendor>CROWN</vendor>
@@ -193,6 +201,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>55200</price>
+      </offer>
+      <offer sku="УТ-00003947">
+        <name>Дрель CT10179C CROWN</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640372696567</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16990</price>
       </offer>
       <offer sku="УТ-00003991">
         <name>Перфоратор электрический Crown SDS+ CT18211 BMC без аксессуаров</name>
@@ -741,6 +760,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25090</price>
+      </offer>
+      <offer sku="УТ-00005960">
+        <name>Уровень тип 80AS, 40 см STABILA 19163</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069191634</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16490</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -2228,6 +2258,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>321000</price>
+      </offer>
+      <offer sku="УТ-00022216">
+        <name>Травокосилка 545RХ</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930886247</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>470000</price>
       </offer>
       <offer sku="УТ-00022217">
         <name>Травокосилка аккумуляторная 535iRX (без АКБ и З/У)</name>
@@ -24011,6 +24052,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>33375</price>
+      </offer>
+      <offer sku="УТ-00085210">
+        <name>Угловая шлифовальная машина Crown CT13677-125RSV</name>
+        <vendor>CROWN</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>41990</price>
       </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>

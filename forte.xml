@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-16 22:35">
+<fm_catalog date="2026-11-16 23:04">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -12550,17 +12550,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13390</price>
-      </offer>
-      <offer sku="00000034630">
-        <name>5 ЛОБЗИКОВЫХ ПИЛОК T 119 ВО, HCS</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140006941</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2356</price>
       </offer>
       <offer sku="00000034632">
         <name>Набор лобзиковых пилок BOSCH T101D 3 шт. 2608630558</name>
@@ -25457,14 +25446,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>99900</price>
-      </offer>
-      <offer sku="УТ-00092906">
-        <name>Набор бит DeWALT PZ2 57 мм (5 шт.), DT7391T-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2890</price>
       </offer>
       <offer sku="УТ-00093321">
         <name>KRAFTOOL AC-80, глубина зажима 70 мм, мощная алюминиевая угловая струбцина (32202)</name>

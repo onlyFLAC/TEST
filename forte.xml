@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 10:19">
+<fm_catalog date="2026-11-17 10:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24054,7 +24054,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>42500</price>
+        <price>54200</price>
       </offer>
       <offer sku="УТ-00085741">
         <name>Выключатель для перфоратора BOSCH 160720032D</name>

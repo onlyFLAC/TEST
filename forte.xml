@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 14:14">
+<fm_catalog date="2026-11-17 14:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10046,6 +10046,17 @@
         </pickup-options>
         <price>29500</price>
       </offer>
+      <offer sku="00000024981">
+        <name>Краскопульт электрический ALTECO SG 2203 27633</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216453688</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17900</price>
+      </offer>
       <offer sku="00000024991">
         <name>Универсальный резак MT 2312 Alteco</name>
         <vendor>ALTECO</vendor>
@@ -11808,6 +11819,17 @@
         </pickup-options>
         <price>97720</price>
       </offer>
+      <offer sku="00000032845">
+        <name>Машина шлифовальная угловая (болгарка) BOSCH GWS 19-125 CIE 060179P002</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140838382</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>133290</price>
+      </offer>
       <offer sku="00000032860">
         <name>Шлифмашина угловая (болгарка) BOSCH GWS 750-125</name>
         <vendor>BOSCH</vendor>
@@ -11840,6 +11862,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>74600</price>
+      </offer>
+      <offer sku="00000032902">
+        <name>Фен технический Bosch GHG 20-63 06012A6201</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140889452</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>82600</price>
       </offer>
       <offer sku="00000032917">
         <name>Машина фрезерная вертикальная Bosch POF 1200 AE 060326A100</name>
@@ -15358,6 +15391,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18888</price>
+      </offer>
+      <offer sku="00000059105">
+        <name>Пила торцовочная Bosch GCM 216 0601B33000</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952531144</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>122320</price>
       </offer>
       <offer sku="00000059127">
         <name>Вешалка с полкой двух ярусная ЗМИ ВСП9 черная</name>
@@ -19642,6 +19686,17 @@
         </pickup-options>
         <price>285890</price>
       </offer>
+      <offer sku="УТ-00046722">
+        <name>Уровень STABILA "тип 70" 80 см 02286</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022860</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15090</price>
+      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -21782,6 +21837,17 @@
         </pickup-options>
         <price>12140</price>
       </offer>
+      <offer sku="УТ-00060328">
+        <name>Полотенцедержатель Frap 302 черный F30201</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477621499</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7480</price>
+      </offer>
       <offer sku="УТ-00060341">
         <name>Душевая система Frap F2491-9 Оружейная Сталь с изливом</name>
         <vendor>Frap</vendor>
@@ -21816,6 +21882,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44540</price>
+      </offer>
+      <offer sku="УТ-00060451">
+        <name>Смеситель Frap для раковины F10801-2 высокий из нержавеющий стали</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477620881</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17310</price>
       </offer>
       <offer sku="УТ-00060454">
         <name>Смеситель Frap для раковины F1076-6 черный</name>
@@ -24024,6 +24101,14 @@
         </pickup-options>
         <price>4400</price>
       </offer>
+      <offer sku="УТ-00085494">
+        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
+      </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
         <vendor>Husqvarna</vendor>
@@ -24785,6 +24870,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4510</price>
+      </offer>
+      <offer sku="УТ-00091525">
+        <name>Отвертка BOSCH SL5.5 x 100 мм 1600A01TG0</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4730</price>
       </offer>
       <offer sku="УТ-00091526">
         <name>Отвертка BOSCH SL6.5 1600A01TG1</name>

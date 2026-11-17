@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 13:15">
+<fm_catalog date="2026-11-17 13:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -720,6 +720,17 @@
         </pickup-options>
         <price>466375</price>
       </offer>
+      <offer sku="УТ-00005944">
+        <name>Уровень тип 70, 120 см STABILA 02289</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022891</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19190</price>
+      </offer>
       <offer sku="УТ-00005958">
         <name>Уровень тип 80AS, 120 см STABILA 19169</name>
         <vendor>STABILA</vendor>
@@ -1264,6 +1275,14 @@
         </pickup-options>
         <price>2999</price>
       </offer>
+      <offer sku="УТ-00012182">
+        <name>Уровень строительный STABILA Pocket Electric 17775</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6590</price>
+      </offer>
       <offer sku="УТ-00012209">
         <name>Шлифмашина угловая (болгарка) ФИОЛЕНТ МШУ 2-9-125 ИДФР298135002-02К1</name>
         <vendor>Фиолент</vendor>
@@ -1320,6 +1339,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6380</price>
+      </offer>
+      <offer sku="УТ-00012970">
+        <name>Уровень Stabila тип 70, 40 см 02282</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022822</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12190</price>
       </offer>
       <offer sku="УТ-00012979">
         <name>Сушилка напольная Nika СБ1/Ч черный</name>
@@ -2614,6 +2644,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
+      </offer>
+      <offer sku="УТ-00024659">
+        <name>Пылесос ранцевый аккумуляторный Makita DVC261ZX11 (без АКБ и ЗУ)</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>63890</price>
       </offer>
       <offer sku="УТ-00024705">
         <name>Пылесос строительный Denzel RVC20 28202</name>
@@ -20182,6 +20220,14 @@
         </pickup-options>
         <price>4700</price>
       </offer>
+      <offer sku="УТ-00053760">
+        <name>Воздуходувка аккумуляторная Makita DUB187Z (без АКБ и ЗУ)</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>79640</price>
+      </offer>
       <offer sku="УТ-00053799">
         <name>HS004GZ Пила дисковая аккум XGT BL 40В, 185/190 мм</name>
         <vendor>Makita</vendor>
@@ -23336,6 +23382,17 @@
         </pickup-options>
         <price>32335</price>
       </offer>
+      <offer sku="УТ-00072609">
+        <name>Поясная сумка KNIPEX 00 19 72 XS LE</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773087335</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9190</price>
+      </offer>
       <offer sku="УТ-00072626">
         <name>Резак кабелей KNIPEX 98 52</name>
         <vendor>KNIPEX</vendor>
@@ -23608,6 +23665,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>140220</price>
+      </offer>
+      <offer sku="УТ-00075632">
+        <name>Набор Wera Kraftform Kompakt VDE 17 Universal 1 05006611001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>54925</price>
       </offer>
       <offer sku="УТ-00075636">
         <name>Набор бит Wera 05057434001</name>
@@ -25755,6 +25820,30 @@
         </pickup-options>
         <price>67745</price>
       </offer>
+      <offer sku="УТ-00101728">
+        <name>192349-3 Соединительная втулка 25</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3330</price>
+      </offer>
+      <offer sku="УТ-00101792">
+        <name>198977-2 Набор уплотнителей поролоновых</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3520</price>
+      </offer>
+      <offer sku="УТ-00102419">
+        <name>D-65028 Набор бит 10шт подвесной (в резиновом холдере с кара</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3615</price>
+      </offer>
       <offer sku="УТ-00102427">
         <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>
         <vendor>Makita</vendor>
@@ -25765,6 +25854,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3300</price>
+      </offer>
+      <offer sku="УТ-00102646">
+        <name>W107418351 Фильтр PTFE плоский для VC4210L</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28890</price>
+      </offer>
+      <offer sku="УТ-00102942">
+        <name>05118010001-Шлицевая отвертка 2035 0,50x3x80mm</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2990</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 14:44">
+<fm_catalog date="2026-11-17 15:13">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1884,14 +1884,6 @@
         </pickup-options>
         <price>4850</price>
       </offer>
-      <offer sku="УТ-00015556">
-        <name>GRINDA PL-22, 22 зубца, размеры 430 х 40 х 210 мм, ударопрочный пластик, грабли веерные пластиковые, PROLine (421817)</name>
-        <vendor>Grinda</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1380</price>
-      </offer>
       <offer sku="УТ-00015580">
         <name>ЗУБР HEX-18, 900 мм, Лом-гвоздодер (2164-90)</name>
         <vendor>ЗУБР</vendor>
@@ -2614,6 +2606,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>102760</price>
+      </offer>
+      <offer sku="УТ-00024387">
+        <name>Шлифмашина эксцентриковая электрическая Makita BO6050J</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>198490</price>
       </offer>
       <offer sku="УТ-00024419">
         <name>Пила цепная электрическая Makita шина 45 см, шаг 3\8", паз 1.3 мм UC4550A</name>
@@ -10710,6 +10710,14 @@
         </pickup-options>
         <price>163800</price>
       </offer>
+      <offer sku="00000031902">
+        <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>76500</price>
+      </offer>
       <offer sku="00000031912">
         <name>Стремянка односторонняя KRAUSE SECURO 5 ступ. 126436</name>
         <vendor>Krause</vendor>
@@ -13158,17 +13166,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7293</price>
-      </offer>
-      <offer sku="00000035865">
-        <name>Набор сверл по бетону Bosch SilverPerc CYL-3 6х100 мм 2608597660</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140186728</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>990</price>
       </offer>
       <offer sku="00000036003">
         <name>Сверло перовое по дереву BOSCH 10х152 мм 2608595483</name>
@@ -20629,17 +20626,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>53050</price>
-      </offer>
-      <offer sku="УТ-00055972">
-        <name>Вешалка с полкой ЗМИ "ТОРОНТО 21Д" ВСПТ21Д белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195633066</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12720</price>
       </offer>
       <offer sku="УТ-00055974">
         <name>Вешалка с полкой двух ярусная ЗМИ "ТОРОНТО 22Д" ВСПТ22Д белая</name>

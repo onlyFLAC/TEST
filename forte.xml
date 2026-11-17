@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 07:52">
+<fm_catalog date="2026-11-17 08:21">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2443,14 +2443,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7200</price>
-      </offer>
-      <offer sku="УТ-00022495">
-        <name>Рулетка 15м Husqvarna</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -15655,17 +15647,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14864</price>
-      </offer>
-      <offer sku="00000059254">
-        <name>Тюбинг принтованный Nika "СПОРТ" ТБ2К-85/32 лимонный</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640047365746</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11750</price>
       </offer>
       <offer sku="00000059255">
         <name>Игрушка. Тюбинг принтованный (ТБ2К-95/12 Nika sport голубой)</name>

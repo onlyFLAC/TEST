@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 11:18">
+<fm_catalog date="2026-11-17 11:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -779,30 +779,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
-      </offer>
-      <offer sku="УТ-00006309">
-        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>58800</price>
-      </offer>
-      <offer sku="УТ-00006351">
-        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х3 ступ. 120328</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43400</price>
-      </offer>
-      <offer sku="УТ-00006352">
-        <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х5 ступ. 120342</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>68200</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -8854,6 +8830,17 @@
         </pickup-options>
         <price>1644</price>
       </offer>
+      <offer sku="00000018368">
+        <name>Чехол для роз и кустарников 0,4х 0,8 // Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4607137551595</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1038</price>
+      </offer>
       <offer sku="00000018541">
         <name>Сверло по дереву Matrix 12х300 мм 704012</name>
         <vendor>Matrix</vendor>
@@ -9775,17 +9762,6 @@
         </pickup-options>
         <price>3985</price>
       </offer>
-      <offer sku="00000023362">
-        <name>Лампа керосиновая Sparta "ЛЕТУЧАЯ МЫШЬ" 932305</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996061535</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4990</price>
-      </offer>
       <offer sku="00000023573">
         <name>Лестница приставная, 9 ступеней, Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10664,33 +10640,6 @@
         </pickup-options>
         <price>27000</price>
       </offer>
-      <offer sku="00000031842">
-        <name>Лестница приставная KRAUSE CORDA 10 ступ. 010100</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>35790</price>
-      </offer>
-      <offer sku="00000031852">
-        <name>Лестница трехсекционная KRAUSE CORDA 3х11 ступ. 010421</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199010421</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>165000</price>
-      </offer>
-      <offer sku="00000031862">
-        <name>Подмости лестничные KRAUSE CORDA 2х6 ступ. 080011</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>95380</price>
-      </offer>
       <offer sku="00000031867">
         <name>Стремянка двухсторонняя KRAUSE DOPPLO 2х6 ступ. 120359</name>
         <vendor>Krause</vendor>
@@ -10731,22 +10680,6 @@
         </pickup-options>
         <price>163800</price>
       </offer>
-      <offer sku="00000031893">
-        <name>Стремянка односторонняя KRAUSE SEPRO S 8 ступ. 124227</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>130000</price>
-      </offer>
-      <offer sku="00000031895">
-        <name>Стремянка односторонняя KRAUSE STABILO 4 ступ. 124517</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>104600</price>
-      </offer>
       <offer sku="00000031912">
         <name>Стремянка односторонняя KRAUSE SECURO 5 ступ. 126436</name>
         <vendor>Krause</vendor>
@@ -10758,17 +10691,6 @@
         </pickup-options>
         <price>87400</price>
       </offer>
-      <offer sku="00000031913">
-        <name>Стремянка односторонняя KRAUSE SECURO 6 ступ. 126443</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126443</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>100500</price>
-      </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
         <vendor>Krause</vendor>
@@ -10776,28 +10698,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>125000</price>
-      </offer>
-      <offer sku="00000031941">
-        <name>Подставка складная KRAUSE TOPPY XL 2 ступ. 130860</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29000</price>
-      </offer>
-      <offer sku="00000031942">
-        <name>Подставка складная KRAUSE TOPPY XL 3 ступ. 130877</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199130877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43600</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>
@@ -12009,17 +11909,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>337530</price>
-      </offer>
-      <offer sku="00000032939">
-        <name>Машина шлифовальная эксцентриковая Bosch GEX 125-1 AE Professional 0601387500</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140438278</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>70950</price>
       </offer>
       <offer sku="00000032966">
         <name>Лобзик электрический BOSCH GST 8000 E 060158H000</name>
@@ -15080,14 +14969,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>265888</price>
-      </offer>
-      <offer sku="00000052542">
-        <name>Тележка ручная двухколесная TOR HT 250 1004056</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>47254</price>
       </offer>
       <offer sku="00000052560">
         <name>Платформенная тележка TOR PH 300 130031</name>

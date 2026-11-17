@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 09:50">
+<fm_catalog date="2026-11-17 10:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -18270,17 +18270,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9020</price>
-      </offer>
-      <offer sku="УТ-00000549">
-        <name>Реле давления, ЗУБР ЗРД, для насосных станций ЗНАС-ххх, НАС-ххх и насосов ЗНС-ххх, НС-хх, рабочее давление 1.4 - 2.8 Атм</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373114038</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5917</price>
       </offer>
       <offer sku="УТ-00000558">
         <name>ЗУБР 12 л бак, опрыскиватель аккумуляторный, 12В, 8Ач</name>

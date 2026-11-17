@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 11:47">
+<fm_catalog date="2026-11-17 12:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -223,17 +223,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5990</price>
-      </offer>
-      <offer sku="УТ-00004215">
-        <name>Сварочный аппарат ARC-200 ALTECO</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216457228</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39500</price>
       </offer>
       <offer sku="УТ-00004290">
         <name>Виброшлифмашина SN 320 ALTECO</name>
@@ -7865,6 +7854,17 @@
         </pickup-options>
         <price>3190</price>
       </offer>
+      <offer sku="00000013078">
+        <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996042107</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4848</price>
+      </offer>
       <offer sku="00000013155">
         <name>Ключ комбинированный трещоточный, 8мм, CrV, шарнирный, зерк.хром// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9706,17 +9706,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9990</price>
-      </offer>
-      <offer sku="00000023215">
-        <name>Замок навесной ЗН2-3, 70 мм// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996048062</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3371</price>
       </offer>
       <offer sku="00000023255">
         <name>Замок тросовый универсальный, 10 х 650 мм// Matrix</name>
@@ -24289,14 +24278,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>117140</price>
-      </offer>
-      <offer sku="УТ-00089491">
-        <name>Колесо 4.00-8 для мотокультиватора MK 7-950</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5490</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>

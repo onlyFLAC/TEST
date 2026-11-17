@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 13:45">
+<fm_catalog date="2026-11-17 14:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2644,14 +2644,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="УТ-00024659">
-        <name>Пылесос ранцевый аккумуляторный Makita DVC261ZX11 (без АКБ и ЗУ)</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>63890</price>
       </offer>
       <offer sku="УТ-00024705">
         <name>Пылесос строительный Denzel RVC20 28202</name>
@@ -14608,14 +14600,6 @@
         </pickup-options>
         <price>34200</price>
       </offer>
-      <offer sku="00000041656">
-        <name>Фрезер Фиолент МФ3-1100Э</name>
-        <vendor>Фиолент</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44500</price>
-      </offer>
       <offer sku="00000041674">
         <name>Шуруповерт Фиолент ШВ3-6-РЭ ИДФР298313002</name>
         <vendor>Фиолент</vendor>
@@ -14996,14 +14980,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>265888</price>
-      </offer>
-      <offer sku="00000052560">
-        <name>Платформенная тележка TOR PH 300 130031</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>57410</price>
       </offer>
       <offer sku="00000053169">
         <name>Бетоносмеситель TOR JS260L 260 л 1017839</name>
@@ -23666,14 +23642,6 @@
         </pickup-options>
         <price>140220</price>
       </offer>
-      <offer sku="УТ-00075632">
-        <name>Набор Wera Kraftform Kompakt VDE 17 Universal 1 05006611001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>54925</price>
-      </offer>
       <offer sku="УТ-00075636">
         <name>Набор бит Wera 05057434001</name>
         <vendor>Wera</vendor>
@@ -25820,30 +25788,6 @@
         </pickup-options>
         <price>67745</price>
       </offer>
-      <offer sku="УТ-00101728">
-        <name>192349-3 Соединительная втулка 25</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3330</price>
-      </offer>
-      <offer sku="УТ-00101792">
-        <name>198977-2 Набор уплотнителей поролоновых</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3520</price>
-      </offer>
-      <offer sku="УТ-00102419">
-        <name>D-65028 Набор бит 10шт подвесной (в резиновом холдере с кара</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3615</price>
-      </offer>
       <offer sku="УТ-00102427">
         <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>
         <vendor>Makita</vendor>
@@ -25854,22 +25798,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3300</price>
-      </offer>
-      <offer sku="УТ-00102646">
-        <name>W107418351 Фильтр PTFE плоский для VC4210L</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28890</price>
-      </offer>
-      <offer sku="УТ-00102942">
-        <name>05118010001-Шлицевая отвертка 2035 0,50x3x80mm</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2990</price>
       </offer>
       <offer sku="УТ-00103136">
         <name>Тумба прикроватная ЗМИ "ТОРОНТО 12ЛЯ" ТТ12ЛЯ черный</name>

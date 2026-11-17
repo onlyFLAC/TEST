@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-17 15:43">
+<fm_catalog date="2026-11-17 16:13">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20672,14 +20672,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11020</price>
-      </offer>
-      <offer sku="УТ-00056230">
-        <name>ЗУБР 400 мм, 0-90°, ±0,2°, уровень-уклономер, Профессионал (34286)</name>
-        <vendor>ЗУБР</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17860</price>
       </offer>
       <offer sku="УТ-00056359">
         <name>KRAFTOOL KH-17 большая, с быстросъёмным креплением, FastClip, 17 карманов и петель, кобура для шуруповерта (38768)</name>

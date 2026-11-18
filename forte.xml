@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-19 01:31">
+<fm_catalog date="2026-11-19 02:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11240,17 +11240,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14952</price>
-      </offer>
-      <offer sku="00000032601">
-        <name>Набор сверл PointTeQ 7pcs Mini X</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140917650</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3576</price>
       </offer>
       <offer sku="00000032616">
         <name>Пила дисковая настольная (распиловочный стол) Bosch GTS 10 XC Professional 0601B30400</name>

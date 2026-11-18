@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-18 14:15">
+<fm_catalog date="2026-11-18 14:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9906,7 +9906,7 @@
         <price>23580</price>
       </offer>
       <offer sku="00000024802">
-        <name>Рубанок электрический PL 650 ALTECO</name>
+        <name>Рубанок сетевой ALTECO PL 650 30123</name>
         <vendor>ALTECO</vendor>
         <barcodes>
           <barcode>4870216454302</barcode>
@@ -11226,17 +11226,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>16006</price>
-      </offer>
-      <offer sku="00000032590">
-        <name>Набор принадлежностей BOSCH x-line titanium 33 шт. 2607019325</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140379489</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9156</price>
       </offer>
       <offer sku="00000032598">
         <name>Набор сверл BOSCH PointTeQ 1-10 мм 18 шт. 2608577350</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-18 12:16">
+<fm_catalog date="2026-11-18 12:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7799,6 +7799,17 @@
         </pickup-options>
         <price>1090</price>
       </offer>
+      <offer sku="00000012759">
+        <name>Вороток-отвертка, 150 мм, квадрат 1/4"// Stels</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996041254</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1690</price>
+      </offer>
       <offer sku="00000012775">
         <name>Ключ трещотка Stels 1/2" 72 зуба 14043</name>
         <vendor>STELS</vendor>
@@ -7809,6 +7820,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8367</price>
+      </offer>
+      <offer sku="00000012792">
+        <name>Ключ-трещотка 1/4", CrV, с переключателем// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996056074</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2070</price>
       </offer>
       <offer sku="00000012803">
         <name>Набор ключей трубчатых торцевых 9 пр// Matrix</name>
@@ -8119,6 +8141,17 @@
         </pickup-options>
         <price>4130</price>
       </offer>
+      <offer sku="00000015033">
+        <name>Набор резцов по дереву Sparta 6 шт. 246065</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996068244</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1732</price>
+      </offer>
       <offer sku="00000015063">
         <name>Лом-гвоздодер, двутавровый профиль, 600х30х17 мм// Gross</name>
         <vendor>Gross</vendor>
@@ -8305,6 +8338,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4157</price>
+      </offer>
+      <offer sku="00000016351">
+        <name>Резиновая опора для подкатного домкрата универсальная, D=100 mm, d=90, H=12 mm// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4606800066541</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2791</price>
       </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
@@ -8786,6 +8830,17 @@
         </pickup-options>
         <price>690</price>
       </offer>
+      <offer sku="00000018257">
+        <name>Коптильня двухъярусная 500х270х175 мм PALISAD Camping 69541</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4606800041715</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9240</price>
+      </offer>
       <offer sku="00000018314">
         <name>Щетка для чистки гриля Palisad 43 см 69652</name>
         <vendor>Palisad</vendor>
@@ -9263,6 +9318,17 @@
         </pickup-options>
         <price>790</price>
       </offer>
+      <offer sku="00000021618">
+        <name>Кювета пластмассовая для валиков, 120х260 мм, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800031983</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>380</price>
+      </offer>
       <offer sku="00000021627">
         <name>Таз круглый строительный Сибртех 90 л 81442</name>
         <vendor>Сибртех</vendor>
@@ -9567,6 +9633,17 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="00000022755">
+        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996123127</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8969</price>
+      </offer>
       <offer sku="00000022756">
         <name>Ящик для инструмента STELS 23" 90706</name>
         <vendor>STELS</vendor>
@@ -9588,6 +9665,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2290</price>
+      </offer>
+      <offer sku="00000022790">
+        <name>Ящик для инструментов Сибртех 90803</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800042293</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2590</price>
       </offer>
       <offer sku="00000022791">
         <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
@@ -18757,6 +18845,36 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6541</price>
+      </offer>
+      <offer sku="УТ-00001814">
+        <name>Перчатки садовые с удлинённой манжетой, размер 9, Luxe// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996212265</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6945</price>
+      </offer>
+      <offer sku="УТ-00001819">
+        <name>Перчатки универсальные, усиленные, размер 10// Denzel</name>
+        <vendor>Denzel</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9020</price>
+      </offer>
+      <offer sku="УТ-00001820">
+        <name>Перчатки Denzel размер 9 67993</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996212128</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6840</price>
       </offer>
       <offer sku="УТ-00001870">
         <name>Таз круглый строительный, 90 л Россия// Sparta</name>

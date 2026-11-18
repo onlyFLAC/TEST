@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-18 09:49">
+<fm_catalog date="2026-11-18 10:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9426,17 +9426,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1117</price>
-      </offer>
-      <offer sku="00000022355">
-        <name>Набор для укладки напольных покрытий// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996068213</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4690</price>
       </offer>
       <offer sku="00000022377">
         <name>Лента малярная СИБРТЕХ 38 мм х 40 м, на бумажной основе 88702</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-18 20:08">
+<fm_catalog date="2026-11-18 20:38">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1983,14 +1983,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>165320</price>
-      </offer>
-      <offer sku="УТ-00017026">
-        <name>Насадка для многофункционального инструмента DeWALT 44х30 мм DT20737-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4790</price>
       </offer>
       <offer sku="УТ-00018550">
         <name>Диск отрезной по металлу Bosch 230х1.9 мм 2608619770</name>
@@ -6959,17 +6951,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>390</price>
-      </offer>
-      <offer sku="00000009472">
-        <name>Правило Мастер, 3.0 м, ЗУБР 10727-3.0</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373277559</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9590</price>
       </offer>
       <offer sku="00000009516">
         <name>Припой ЗУБР ПОС 61 100 г 2 мм 55450-100-20C</name>
@@ -21502,17 +21483,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29280</price>
-      </offer>
-      <offer sku="УТ-00059936">
-        <name>Трап душевой GAPPO 70х600 мм хром G86007-4</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477696749</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>27040</price>
       </offer>
       <offer sku="УТ-00059943">
         <name>Душевой трап GAPPO G85007-39 из нержавеющей стали боковой 70*500 оружейная сталь</name>

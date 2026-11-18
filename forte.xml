@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-18 10:48">
+<fm_catalog date="2026-11-18 11:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -163,17 +163,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>167200</price>
-      </offer>
-      <offer sku="УТ-00003192">
-        <name>Устройство абразивно-отрезное STIHL TS 420 42380112810</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>795711309176</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>680600</price>
       </offer>
       <offer sku="УТ-00003234">
         <name>Велосипед детский Nika ВДН4/5 орхидея</name>
@@ -16952,17 +16941,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14010</price>
-      </offer>
-      <offer sku="00000070610">
-        <name>Вешалка костюмная ЗМИ "РИМИНИ 2" ВКР2 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787120</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13960</price>
       </offer>
       <offer sku="00000070611">
         <name>Вешалка костюмная ЗМИ "РИМИНИ 2М" ВКР2М молочно-белый</name>

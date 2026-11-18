@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-19 00:32">
+<fm_catalog date="2026-11-19 01:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20113,17 +20113,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4650</price>
-      </offer>
-      <offer sku="УТ-00053690">
-        <name>Дрель ударная сетевая Bosch GSB 600 06011A0320</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423240283</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24500</price>
       </offer>
       <offer sku="УТ-00053691">
         <name>Масло смазочное для пильных цепей Forestplus (в бутылке) 07815166003лб</name>

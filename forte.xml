@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-18 08:21">
+<fm_catalog date="2026-11-18 08:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2336,14 +2336,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9000</price>
-      </offer>
-      <offer sku="УТ-00022374">
-        <name>ШИНА 14'' 3/8 1.3 52DL 7T 1КЛ HSM HUSQVARNA</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11000</price>
       </offer>
       <offer sku="УТ-00022418">
         <name>Шина 12'' 1/4 1.3 64DL 7T 1кл A318 Husqvarna</name>
@@ -6780,17 +6772,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6848</price>
-      </offer>
-      <offer sku="00000009012">
-        <name>Паяльник ЗУБР "Профессионал" с двухкомпонентной рукояткой и защитным колпачком в наборе с припоем и подставкой, 40Вт, конус</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373214820</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6350</price>
       </offer>
       <offer sku="00000009017">
         <name>Паяльник STAYER "MASTER" 55310-100</name>
@@ -14842,17 +14823,6 @@
         </pickup-options>
         <price>23852</price>
       </offer>
-      <offer sku="00000050427">
-        <name>Краскопульт электрический ЗУБР КПЭ-500</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373210662</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>26910</price>
-      </offer>
       <offer sku="00000050530">
         <name>Пылесос строительный STIHL SE 33 SE010124413</name>
         <vendor>STIHL</vendor>
@@ -19620,17 +19590,6 @@
         </pickup-options>
         <price>285890</price>
       </offer>
-      <offer sku="УТ-00046722">
-        <name>Уровень STABILA "тип 70" 80 см 02286</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022860</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15090</price>
-      </offer>
       <offer sku="УТ-00047235">
         <name>Комплект радиоуправления Tor F21-E1B (36В, 6 кнопок) 1000800</name>
         <vendor>TOR</vendor>
@@ -24040,14 +23999,6 @@
       </offer>
       <offer sku="УТ-00085494">
         <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
-      <offer sku="УТ-00085496">
-        <name>Набор напильников Husqvarna 5.5 мм 3 шт. 597 35 61-01</name>
         <vendor>Husqvarna</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

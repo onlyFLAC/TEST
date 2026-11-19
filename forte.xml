@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 01:31">
+<fm_catalog date="2026-11-20 02:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22412,17 +22412,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>10550</price>
-      </offer>
-      <offer sku="УТ-00063831">
-        <name>Ключ разводной Bosch 1600A02W7R</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423250534</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6450</price>
       </offer>
       <offer sku="УТ-00063835">
         <name>Набор отверток BOSCH 8 шт. 1600A02BX8</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-19 17:41">
+<fm_catalog date="2026-11-19 18:11">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9868,17 +9868,6 @@
         </pickup-options>
         <price>11490</price>
       </offer>
-      <offer sku="00000024488">
-        <name>Алмазная коронка 112*350 ВТ</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216455118</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11790</price>
-      </offer>
       <offer sku="00000024511">
         <name>Алмазная коронка 200*350 ВТ</name>
         <vendor>ALTECO</vendor>
@@ -10324,14 +10313,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7490</price>
-      </offer>
-      <offer sku="00000027967">
-        <name>Набор пилок для лобзика по дереву DeWALT (5 шт.), DT2053-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4347</price>
       </offer>
       <offer sku="00000028154">
         <name>Набор шлифшкурок DeWALT 125 мм 25 шт. DT3117</name>
@@ -20721,14 +20702,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>63730</price>
-      </offer>
-      <offer sku="УТ-00057826">
-        <name>Пила торцовочная Bosch GCM 254 SD 0601B53000</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>249490</price>
       </offer>
       <offer sku="УТ-00057830">
         <name>ДАЛЬНОМЕР UniversalDistance 50 Bosch 0603672801</name>

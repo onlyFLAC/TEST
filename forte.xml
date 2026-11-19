@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 00:32">
+<fm_catalog date="2026-11-20 01:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -18678,17 +18678,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9020</price>
-      </offer>
-      <offer sku="УТ-00001820">
-        <name>Перчатки Denzel размер 9 67993</name>
-        <vendor>Denzel</vendor>
-        <barcodes>
-          <barcode>4044996212128</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6840</price>
       </offer>
       <offer sku="УТ-00001870">
         <name>Таз круглый строительный, 90 л Россия// Sparta</name>

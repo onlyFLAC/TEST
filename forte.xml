@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-19 11:17">
+<fm_catalog date="2026-11-19 11:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1583,17 +1583,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2580</price>
-      </offer>
-      <offer sku="УТ-00014255">
-        <name>ЗУБР СТ-12 1/2", Трубная струбцина (32305-12) 32305-12</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373320996</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4838</price>
       </offer>
       <offer sku="УТ-00014457">
         <name>Лента вентиляционная перфорированная ЗУБР 25 м 310246-12</name>
@@ -15362,17 +15351,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>17177</price>
-      </offer>
-      <offer sku="00000059173">
-        <name>Подставка для обуви ЗМИ "ЖЕНЕВА 33" ПДОЖ33 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093781050</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17420</price>
       </offer>
       <offer sku="00000059174">
         <name>Подставка для обуви ЗМИ "ЖЕНЕВА 15" ПДОЖ15 черная</name>

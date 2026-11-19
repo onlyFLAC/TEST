@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-19 18:11">
+<fm_catalog date="2026-11-19 18:40">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2515,7 +2515,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>74395</price>
+        <price>69990</price>
       </offer>
       <offer sku="УТ-00024219">
         <name>Ключ ударный Makita квадрат 19 мм 6906</name>
@@ -2526,7 +2526,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>244590</price>
+        <price>181190</price>
       </offer>
       <offer sku="УТ-00024220">
         <name>Гайковерт,1300Вт,1500у\м,1000Нм,квадрат 1",8.4кг,кор,М22-М30,чем</name>
@@ -2534,7 +2534,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>354510</price>
+        <price>316490</price>
       </offer>
       <offer sku="УТ-00024231">
         <name>Дрель ударная электрическая Makita HP1631</name>
@@ -2567,7 +2567,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>102760</price>
+        <price>86645</price>
       </offer>
       <offer sku="УТ-00024387">
         <name>Шлифмашина эксцентриковая электрическая Makita BO6050J</name>
@@ -9974,7 +9974,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>78925</price>
+        <price>71495</price>
       </offer>
       <offer sku="00000025041">
         <name>Шлифмашина угловая (болгарка) Makita 9565CVR</name>
@@ -10037,7 +10037,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>150975</price>
+        <price>137490</price>
       </offer>
       <offer sku="00000025246">
         <name>Рубанок электрический Makita KP0800</name>
@@ -10059,7 +10059,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>99210</price>
+        <price>81430</price>
       </offer>
       <offer sku="00000025343">
         <name>Шуруповерт Makita DDF485Z</name>
@@ -20101,7 +20101,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>261130</price>
+        <price>241555</price>
       </offer>
       <offer sku="УТ-00053832">
         <name>Гайковерт аккумуляторный с трещоткой Makita WR100DZ</name>

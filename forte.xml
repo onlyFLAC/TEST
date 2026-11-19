@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-19 13:45">
+<fm_catalog date="2026-11-19 14:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10603,14 +10603,6 @@
         </pickup-options>
         <price>119500</price>
       </offer>
-      <offer sku="00000031909">
-        <name>Стремянка односторонняя KRAUSE SOLIDY 8 ступ. 126269</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>77000</price>
-      </offer>
       <offer sku="00000031912">
         <name>Стремянка односторонняя KRAUSE SECURO 5 ступ. 126436</name>
         <vendor>Krause</vendor>
@@ -10621,17 +10613,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>87400</price>
-      </offer>
-      <offer sku="00000031913">
-        <name>Стремянка односторонняя KRAUSE SECURO 6 ступ. 126443</name>
-        <vendor>Krause</vendor>
-        <barcodes>
-          <barcode>4009199126443</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>100500</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
@@ -14314,6 +14295,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>155600</price>
+      </offer>
+      <offer sku="00000041259">
+        <name>Диск алмазный по бетону TURBO 180x25,4mm Einhell</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4330</price>
       </offer>
       <offer sku="00000041286">
         <name>Дрель-миксер Фиолент МД1-11Э ИДФР298179001-К7</name>

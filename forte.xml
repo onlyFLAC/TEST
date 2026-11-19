@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-19 07:52">
+<fm_catalog date="2026-11-19 08:21">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9581,6 +9581,17 @@
         </pickup-options>
         <price>4350</price>
       </offer>
+      <offer sku="00000022794">
+        <name>Ящик для инструментов СИБРТЕХ 90807</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800064073</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -11637,17 +11648,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14010</price>
-      </offer>
-      <offer sku="00000032803">
-        <name>Станок сверлильный PBD 40</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140569187</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>256380</price>
       </offer>
       <offer sku="00000032811">
         <name>Сумка Bosch Professional большая 1600A003BK</name>
@@ -18851,17 +18851,6 @@
         </pickup-options>
         <price>251960</price>
       </offer>
-      <offer sku="УТ-00002266">
-        <name>Пила сабельная аккумуляторная Bosch GSA 185-LI Solo 06016C0020</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952641171</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>105530</price>
-      </offer>
       <offer sku="УТ-00002269">
         <name>Пила дисковая аккумуляторная Bosch GKM 18V-50 06016B8000 (без АКБ)</name>
         <vendor>BOSCH</vendor>
@@ -19344,6 +19333,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
+      </offer>
+      <offer sku="УТ-00042453">
+        <name>Пила настольная Einhell TC-TS 2025/2 U 4340490</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>129900</price>
       </offer>
       <offer sku="УТ-00042919">
         <name>ДАЛЬНОМЕР GLM 50-22 Bosch 0601072S00</name>
@@ -21633,17 +21630,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>48730</price>
-      </offer>
-      <offer sku="УТ-00060284">
-        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477622816</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12140</price>
       </offer>
       <offer sku="УТ-00060328">
         <name>Полотенцедержатель Frap 302 черный F30201</name>

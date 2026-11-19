@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-19 20:38">
+<fm_catalog date="2026-11-19 21:07">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22657,14 +22657,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2944</price>
-      </offer>
-      <offer sku="УТ-00064844">
-        <name>STAYER 340 мм, для листовых изоляционных материалов, нож (09592)</name>
-        <vendor>STAYER</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3830</price>
       </offer>
       <offer sku="УТ-00064869">
         <name>Трещотка реверсивная Kraftool 1/4" 150 мм 25890</name>

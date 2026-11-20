@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 18:12">
+<fm_catalog date="2026-11-20 18:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10132,18 +10132,6 @@
         </pickup-options>
         <price>30252</price>
       </offer>
-      <offer sku="00000025390">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/1 доброе утро</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075830592</barcode>
-          <barcode>4607075837393</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>29990</price>
-      </offer>
       <offer sku="00000025436">
         <name>Сушилка напольная Nika СБ3/С серебристый</name>
         <vendor>Nika</vendor>
@@ -20133,14 +20121,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2890</price>
-      </offer>
-      <offer sku="УТ-00053350">
-        <name>Шпатель малярный 600мм, BIHUI PTK60, шт 77404</name>
-        <vendor>BIHUI</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4650</price>
       </offer>
       <offer sku="УТ-00053691">
         <name>Масло смазочное для пильных цепей Forestplus (в бутылке) 07815166003лб</name>

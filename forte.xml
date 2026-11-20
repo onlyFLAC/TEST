@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 11:19">
+<fm_catalog date="2026-11-20 11:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -719,17 +719,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005911">
-        <name>Рулетка измерительная Stabila BM300 5м 19577</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069195779</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13390</price>
       </offer>
       <offer sku="УТ-00005960">
         <name>Уровень тип 80AS, 40 см STABILA 19163</name>
@@ -10113,6 +10102,18 @@
         </pickup-options>
         <price>30252</price>
       </offer>
+      <offer sku="00000025390">
+        <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/1 доброе утро</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075830592</barcode>
+          <barcode>4607075837393</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29990</price>
+      </offer>
       <offer sku="00000025436">
         <name>Сушилка напольная Nika СБ3/С серебристый</name>
         <vendor>Nika</vendor>
@@ -18674,6 +18675,17 @@
         </pickup-options>
         <price>2780</price>
       </offer>
+      <offer sku="УТ-00001665">
+        <name>Полосогиб, 750 мм, ширина до 50 мм// Сибртех</name>
+        <vendor>Cибртех</vendor>
+        <barcodes>
+          <barcode>4606800088161</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18890</price>
+      </offer>
       <offer sku="УТ-00001721">
         <name>Лом-гвоздодер усиленный, 1200х29х15 мм// Matrix</name>
         <vendor>Matrix</vendor>
@@ -23356,14 +23368,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13600</price>
-      </offer>
-      <offer sku="УТ-00074326">
-        <name>Аппарат пылеудаляющий переносной в контейнере FESTOOL T-LOC 575279</name>
-        <vendor>FESTOOL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>321150</price>
       </offer>
       <offer sku="УТ-00074377">
         <name>Материал полировальный FESTOOL 5шт. PF-STF-D150x20 488348</name>

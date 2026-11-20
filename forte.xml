@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 14:46">
+<fm_catalog date="2026-11-20 15:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14817,7 +14817,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>16704</price>
+        <price>19485</price>
       </offer>
       <offer sku="00000051017">
         <name>Домкрат гидравлический TOR ДГ-CT ST0203 2 т 1003448</name>
@@ -14858,7 +14858,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>71290</price>
+        <price>75350</price>
       </offer>
       <offer sku="00000051476">
         <name>Таль ручная рычажная TOR ТРР-ТРШСР 6 т 3 м 10263</name>
@@ -14869,7 +14869,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>86500</price>
+        <price>87720</price>
       </offer>
       <offer sku="00000052346">
         <name>Стол подъемный передвижной XILIN SP150 1005709</name>
@@ -14901,7 +14901,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>284090</price>
+        <price>284540</price>
       </offer>
       <offer sku="00000053687">
         <name>Аппарат сварочный инверторный Fubag INTIG 200 AC/DC PULSE 31412.1 + горелка FB TIG 26 5P</name>
@@ -16812,7 +16812,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>379561</price>
+        <price>421735</price>
       </offer>
       <offer sku="00000069968">
         <name>Подвеска крюковая для талей электрических TOR CD1 0.5 т 119055</name>
@@ -19548,7 +19548,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>99990</price>
+        <price>126625</price>
       </offer>
       <offer sku="УТ-00047337">
         <name>2 Ведущее колесо для штабелёра WS/IWS (Drive wheel), шт</name>
@@ -21003,6 +21003,17 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00059638">
+        <name>Комплект детской мебели Nika КА2/СН сиреневый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111534666</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15031</price>
+      </offer>
       <offer sku="УТ-00059643">
         <name>Доска знаний-мольберт двусторонний Nika М2S/1 белый</name>
         <vendor>Nika</vendor>
@@ -21670,6 +21681,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>48730</price>
+      </offer>
+      <offer sku="УТ-00060281">
+        <name>Смеситель для кухни Frap оружейная сталь F40899-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477626876</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15740</price>
       </offer>
       <offer sku="УТ-00060284">
         <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>

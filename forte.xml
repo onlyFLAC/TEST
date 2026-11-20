@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 12:19">
+<fm_catalog date="2026-11-20 12:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4347,6 +4347,17 @@
         </pickup-options>
         <price>30500</price>
       </offer>
+      <offer sku="00000000583">
+        <name>Электропила HUTER ELS-2000P</name>
+        <vendor>Huter</vendor>
+        <barcodes>
+          <barcode>4606059017462</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35890</price>
+      </offer>
       <offer sku="00000000649">
         <name>Генератор бензиновый Ресанта БГ 6500 Э 64/1/46</name>
         <vendor>Ресанта</vendor>
@@ -7660,6 +7671,17 @@
         </pickup-options>
         <price>4890</price>
       </offer>
+      <offer sku="00000011765">
+        <name>Кувалда, 5000 г, фибергласовая обрезиненная рукоятка// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996000213</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16490</price>
+      </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -7813,6 +7835,28 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8367</price>
+      </offer>
+      <offer sku="00000012863">
+        <name>Ключ рожковый,30 х 32 мм, CrV, фосфатированный, ГОСТ 2839// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996055176</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2390</price>
+      </offer>
+      <offer sku="00000012864">
+        <name>Ключ рожковый,32 х 36 мм, CrV, фосфатированный, ГОСТ 2839// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996055183</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3990</price>
       </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>

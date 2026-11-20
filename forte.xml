@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 15:45">
+<fm_catalog date="2026-11-20 16:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -19510,14 +19510,6 @@
         </pickup-options>
         <price>113800</price>
       </offer>
-      <offer sku="УТ-00045553">
-        <name>Бензопила STIHL MS 162 35 см 11480113010K35</name>
-        <vendor>STIHL</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>105200</price>
-      </offer>
       <offer sku="УТ-00045554">
         <name>Бензопила STIHL MS 162 30 см 11480113010K30</name>
         <vendor>STIHL</vendor>
@@ -19918,17 +19910,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22769</price>
-      </offer>
-      <offer sku="УТ-00050387">
-        <name>Воздушный фильтр 11301411704</name>
-        <vendor>STIHL</vendor>
-        <barcodes>
-          <barcode>886661827442</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2300</price>
       </offer>
       <offer sku="УТ-00051211">
         <name>Отвертка аккумуляторная BOSCH GO Gen 3 06019H2201</name>

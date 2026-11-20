@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 06:53">
+<fm_catalog date="2026-11-20 07:23">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22166,6 +22166,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6230</price>
+      </offer>
+      <offer sku="УТ-00063248">
+        <name>Табурет квадратный Nika "ФАБРИК 3" ТФ03/С серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4620032741571</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7387</price>
       </offer>
       <offer sku="УТ-00063251">
         <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СС светло-серый</name>

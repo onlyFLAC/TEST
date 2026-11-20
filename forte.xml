@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 15:16">
+<fm_catalog date="2026-11-20 15:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2395,6 +2395,14 @@
         </pickup-options>
         <price>7200</price>
       </offer>
+      <offer sku="УТ-00022495">
+        <name>Рулетка 15м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>35000</price>
+      </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
         <vendor>Husqvarna</vendor>
@@ -2408,6 +2416,17 @@
         <vendor>Husqvarna</vendor>
         <barcodes>
           <barcode>7392930544697</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12100</price>
+      </offer>
+      <offer sku="УТ-00022537">
+        <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL LIGHT Р.8</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930544673</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -11761,6 +11780,17 @@
         </pickup-options>
         <price>103840</price>
       </offer>
+      <offer sku="00000032873">
+        <name>Машина шлифовальная угловая аккумуляторная (болгарка) Bosch GWS 12V-76, БЕЗ АКК И ЗУ</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140813204</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>110560</price>
+      </offer>
       <offer sku="00000032895">
         <name>УСТР ПЫЛЕУДАЛЕНИЯ GDE 18V-16</name>
         <vendor>BOSCH</vendor>
@@ -13897,6 +13927,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1490</price>
+      </offer>
+      <offer sku="00000039004">
+        <name>Набор сверл по металлу BOSCH 3 мм 10 шт. 2608577198</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140907071</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2135</price>
       </offer>
       <offer sku="00000039009">
         <name>Набор сверл по металлу Bosch PointTeQ 3.5 мм 10 шт. 2608577203</name>
@@ -19469,6 +19510,14 @@
         </pickup-options>
         <price>113800</price>
       </offer>
+      <offer sku="УТ-00045553">
+        <name>Бензопила STIHL MS 162 35 см 11480113010K35</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>105200</price>
+      </offer>
       <offer sku="УТ-00045554">
         <name>Бензопила STIHL MS 162 30 см 11480113010K30</name>
         <vendor>STIHL</vendor>
@@ -19869,6 +19918,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22769</price>
+      </offer>
+      <offer sku="УТ-00050387">
+        <name>Воздушный фильтр 11301411704</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661827442</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2300</price>
       </offer>
       <offer sku="УТ-00051211">
         <name>Отвертка аккумуляторная BOSCH GO Gen 3 06019H2201</name>
@@ -22310,6 +22370,28 @@
         </pickup-options>
         <price>180000</price>
       </offer>
+      <offer sku="УТ-00063391">
+        <name>Масло для смазки цепи 1л Husqvarna 579 39 60-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393080347268</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4900</price>
+      </offer>
+      <offer sku="УТ-00063392">
+        <name>Смазка подшипника 100гр Husqvarna 535 56 00-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7392930984622</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7000</price>
+      </offer>
       <offer sku="УТ-00063410">
         <name>Мультиметр Bosch GDM 600-15 0601077300</name>
         <vendor>BOSCH</vendor>
@@ -22539,6 +22621,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6800</price>
+      </offer>
+      <offer sku="УТ-00063840">
+        <name>Нож складной Bosch 1600A032V7</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4053423302301</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7030</price>
       </offer>
       <offer sku="УТ-00063882">
         <name>Видеорегистратор Neoline Flash 2K Wi-Fi</name>
@@ -23348,6 +23441,14 @@
         </pickup-options>
         <price>63490</price>
       </offer>
+      <offer sku="УТ-00072893">
+        <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7150</price>
+      </offer>
       <offer sku="УТ-00072929">
         <name>Газонокосилка-робот Husqvarna ASPIRE R4 970 56 85-11</name>
         <vendor>Husqvarna</vendor>
@@ -23865,6 +23966,14 @@
         </pickup-options>
         <price>92060</price>
       </offer>
+      <offer sku="УТ-00085479">
+        <name>Канистра для бензина Husqvarna 5 л 537 63 91-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11000</price>
+      </offer>
       <offer sku="УТ-00085483">
         <name>Кнопка триммерной головки Husqvarna T35X 544 45 53-01</name>
         <vendor>Husqvarna</vendor>
@@ -24073,6 +24182,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42740</price>
+      </offer>
+      <offer sku="УТ-00087775">
+        <name>Лента для рулетки Husqvarna 15 м 505 69 73-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6500</price>
       </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>
@@ -24669,6 +24786,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>44660</price>
+      </offer>
+      <offer sku="УТ-00091508">
+        <name>Лезвия для ножа BOSCH 10 шт 1600A016ZH</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3150</price>
       </offer>
       <offer sku="УТ-00091524">
         <name>Отвертка BOSCH SL4.5x100 мм 1600A01TF9</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 14:16">
+<fm_catalog date="2026-11-20 14:46">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7671,17 +7671,6 @@
         </pickup-options>
         <price>4890</price>
       </offer>
-      <offer sku="00000011765">
-        <name>Кувалда, 5000 г, фибергласовая обрезиненная рукоятка// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996000213</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16490</price>
-      </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -7835,28 +7824,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8367</price>
-      </offer>
-      <offer sku="00000012863">
-        <name>Ключ рожковый,30 х 32 мм, CrV, фосфатированный, ГОСТ 2839// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996055176</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2390</price>
-      </offer>
-      <offer sku="00000012864">
-        <name>Ключ рожковый,32 х 36 мм, CrV, фосфатированный, ГОСТ 2839// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996055183</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3990</price>
       </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
@@ -9615,6 +9582,17 @@
         </pickup-options>
         <price>4350</price>
       </offer>
+      <offer sku="00000022794">
+        <name>Ящик для инструментов СИБРТЕХ 90807</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800064073</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -10168,6 +10146,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6995</price>
+      </offer>
+      <offer sku="00000025438">
+        <name>Сушилка напольная Nika СБ2/С серебристый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075831117</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7999</price>
       </offer>
       <offer sku="00000025439">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/Б бежевый</name>
@@ -16499,6 +16488,17 @@
         </pickup-options>
         <price>18520</price>
       </offer>
+      <offer sku="00000064350">
+        <name>Вешалка напольная разборная ЗМИ "Луч 3" ВНП338 Черный</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011876896</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9255</price>
+      </offer>
       <offer sku="00000064351">
         <name>Вешалка напольная разборная ЗМИ "ЛУЧ 5" белая ВНП361/Б</name>
         <vendor>ЗМИ</vendor>
@@ -19940,6 +19940,14 @@
         </pickup-options>
         <price>29900</price>
       </offer>
+      <offer sku="УТ-00051678">
+        <name>Аккум. Торцовочная пила Einhell TE-MS 18/210 Li-Solo (4300890)</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>99900</price>
+      </offer>
       <offer sku="УТ-00051703">
         <name>Комплект АКБ 18V 2x4,0 Ah + Зарядное устройство 3А Twincharger Einhell (4512112)</name>
         <vendor>Einhell</vendor>
@@ -19990,6 +19998,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29900</price>
+      </offer>
+      <offer sku="УТ-00052075">
+        <name>Подставка для торцовочной пилы Einhell MSS 1608 (4310614)</name>
+        <vendor>Einhell</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>39900</price>
       </offer>
       <offer sku="УТ-00052885">
         <name>Сумка для переноски бензопилы STIHL 00008810508</name>
@@ -20986,17 +21002,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4990</price>
-      </offer>
-      <offer sku="УТ-00059638">
-        <name>Комплект детской мебели Nika КА2/СН сиреневый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111534666</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15031</price>
       </offer>
       <offer sku="УТ-00059643">
         <name>Доска знаний-мольберт двусторонний Nika М2S/1 белый</name>

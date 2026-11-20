@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 01:33">
+<fm_catalog date="2026-11-21 02:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -6650,18 +6650,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8820</price>
-      </offer>
-      <offer sku="00000008696">
-        <name>Нож OLFA хозяйственный с выдвижным лезвием, корпус и лезвие из нержавеющей стали, 20мм</name>
-        <vendor>Olfa</vendor>
-        <barcodes>
-          <barcode>0091511400229</barcode>
-          <barcode>091511400229</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6130</price>
       </offer>
       <offer sku="00000008706">
         <name>Нож STAYER складной с деревянными вставками, средний</name>
@@ -20505,17 +20493,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8770</price>
-      </offer>
-      <offer sku="УТ-00056009">
-        <name>Сушилка настенно-потолочная Nika СНП1,8 белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032748518</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6586</price>
       </offer>
       <offer sku="УТ-00056027">
         <name>Сиденье в ванну раздвижное Nika СВ3</name>

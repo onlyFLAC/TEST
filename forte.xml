@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 16:15">
+<fm_catalog date="2026-11-20 16:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -757,6 +757,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23200</price>
+      </offer>
+      <offer sku="УТ-00006309">
+        <name>Стремянка односторонняя складная KRAUSE SAFETY 4 ступ. 128942</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>58800</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>
@@ -10644,6 +10652,14 @@
         </pickup-options>
         <price>39200</price>
       </offer>
+      <offer sku="00000031890">
+        <name>Удлинитель боковины лестницы KRAUSE 122292</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20900</price>
+      </offer>
       <offer sku="00000031892">
         <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
         <vendor>Krause</vendor>
@@ -10660,6 +10676,22 @@
         </pickup-options>
         <price>119500</price>
       </offer>
+      <offer sku="00000031902">
+        <name>Подставка складная KRAUSE TREPPO 2x3 ступ. 126030</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>76500</price>
+      </offer>
+      <offer sku="00000031904">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 3 ступ. 126214</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31790</price>
+      </offer>
       <offer sku="00000031912">
         <name>Стремянка односторонняя KRAUSE SECURO 5 ступ. 126436</name>
         <vendor>Krause</vendor>
@@ -10670,6 +10702,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>87400</price>
+      </offer>
+      <offer sku="00000031913">
+        <name>Стремянка односторонняя KRAUSE SECURO 6 ступ. 126443</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126443</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>100500</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>

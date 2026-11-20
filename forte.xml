@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 22:07">
+<fm_catalog date="2026-11-20 22:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17136,17 +17136,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11690</price>
-      </offer>
-      <offer sku="00000071297">
-        <name>GRINDA 22 плоских зубца, 440х260х1500 мм, грабли садовые веерные, с деревянным черенком</name>
-        <vendor>Grinda</vendor>
-        <barcodes>
-          <barcode>4893925602765</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5990</price>
       </offer>
       <offer sku="00000071299">
         <name>GRINDA PROLine 12 витых зубцов, грабли с алюминиевым черенком</name>

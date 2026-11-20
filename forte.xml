@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-20 17:43">
+<fm_catalog date="2026-11-20 18:12">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14405,7 +14405,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>43600</price>
+        <price>41000</price>
       </offer>
       <offer sku="00000041335">
         <name>Краскопульт электрический Wagner W100 2361507</name>
@@ -14481,7 +14481,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>654900</price>
+        <price>310000</price>
       </offer>
       <offer sku="00000041529">
         <name>Плиткорез настольный электрический Einhell TC-TC 618 4301180</name>

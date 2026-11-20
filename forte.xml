@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 02:02">
+<fm_catalog date="2026-11-21 02:31">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23761,14 +23761,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>190</price>
-      </offer>
-      <offer sku="УТ-00084675">
-        <name>Кусачки прецизионные KNIPEX 125 мм 7813125SB</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19685</price>
       </offer>
       <offer sku="УТ-00084690">
         <name>Битодержатель Wera с битами 6 шт. 05008875001</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 15:45">
+<fm_catalog date="2026-11-21 16:14">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21015,6 +21015,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7400</price>
+      </offer>
+      <offer sku="УТ-00055883">
+        <name>ВЕНТИЛЯЦИОННАЯ СИСТЕМА ТОПЛИВНОГО БАКА 00003505812</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4390</price>
       </offer>
       <offer sku="УТ-00055920">
         <name>Система гардеробная ЗМИ "ТОРОНТО 48Л" ГСТ48Л черная</name>

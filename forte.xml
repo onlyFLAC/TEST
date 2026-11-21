@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 19:10">
+<fm_catalog date="2026-11-21 19:39">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -19933,17 +19933,6 @@
         </pickup-options>
         <price>552200</price>
       </offer>
-      <offer sku="УТ-00048210">
-        <name>Масло 2Т 1л HP Husqvarna 587 80 85-10</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245893</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7200</price>
-      </offer>
       <offer sku="УТ-00048211">
         <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
         <vendor>Husqvarna</vendor>
@@ -26316,14 +26305,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6022</price>
-      </offer>
-      <offer sku="УТ-00103731">
-        <name>Измерительная емкость с носиком и градуировкой, 5 л, желтая</name>
-        <vendor>Petropump</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4800</price>
       </offer>
       <offer sku="УТ-00103732">
         <name>ACTP65 - Электрический насос для ДТ, 60 л/мин</name>

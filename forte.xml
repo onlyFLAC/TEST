@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 12:19">
+<fm_catalog date="2026-11-21 12:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16315,17 +16315,6 @@
         </pickup-options>
         <price>11500</price>
       </offer>
-      <offer sku="00000064144">
-        <name>Вешалка с полкой ЗМИ ВСП7 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011871655</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4930</price>
-      </offer>
       <offer sku="00000064145">
         <name>Вешалка с полкой ЗМИ ВСП169 белая</name>
         <vendor>ЗМИ</vendor>
@@ -20605,6 +20594,14 @@
         </pickup-options>
         <price>27990</price>
       </offer>
+      <offer sku="УТ-00053232">
+        <name>Дрель-шуруповерт аккумуляторная ALTECO CID 21-35 71402</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26900</price>
+      </offer>
       <offer sku="УТ-00053255">
         <name>Дрель-шуруповерт аккумуляторная ALTECO CD 12-23 X2 78072</name>
         <vendor>ALTECO</vendor>
@@ -23429,6 +23426,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>115990</price>
+      </offer>
+      <offer sku="УТ-00072123">
+        <name>Щетка для снега 63см со скребком Plus FISKARS</name>
+        <vendor>FISKARS</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13390</price>
       </offer>
       <offer sku="УТ-00072352">
         <name>Бокорезы KNIPEX 73 71 180</name>

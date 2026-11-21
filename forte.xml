@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 14:46">
+<fm_catalog date="2026-11-21 15:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16156,6 +16156,17 @@
         </pickup-options>
         <price>2780</price>
       </offer>
+      <offer sku="00000063684">
+        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996198392</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2240</price>
+      </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 предметов 14151</name>
         <vendor>Gross</vendor>
@@ -16680,6 +16691,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18520</price>
+      </offer>
+      <offer sku="00000064350">
+        <name>Вешалка напольная разборная ЗМИ "Луч 3" ВНП338 Черный</name>
+        <vendor>ЗМИ</vendor>
+        <barcodes>
+          <barcode>4640011876896</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9255</price>
       </offer>
       <offer sku="00000064351">
         <name>Вешалка напольная разборная ЗМИ "ЛУЧ 5" белая ВНП361/Б</name>
@@ -21769,6 +21791,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13342</price>
+      </offer>
+      <offer sku="УТ-00059828">
+        <name>Сушилка напольная Nika СБ3/Б белый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075832602</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6435</price>
       </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>

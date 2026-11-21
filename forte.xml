@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 09:22">
+<fm_catalog date="2026-11-21 09:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14729,6 +14729,17 @@
         </pickup-options>
         <price>4450</price>
       </offer>
+      <offer sku="00000050322">
+        <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/С серый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4620032741274</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4446</price>
+      </offer>
       <offer sku="00000050324">
         <name>Этажерка Nika ЭТ2/Ч черный</name>
         <vendor>Nika</vendor>
@@ -19016,6 +19027,121 @@
         </pickup-options>
         <price>85760</price>
       </offer>
+      <offer sku="УТ-00002448">
+        <name>Battery Kit 3000 INLINE 12V - Мобильный комплект для перекачки ДТ (мех. пистолет), 50 л/мин, PIUSI</name>
+        <vendor>PIUSI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>193999</price>
+      </offer>
+      <offer sku="УТ-00002458">
+        <name>К24 - Электронный счетчик отпуска ДТ в пластиковом корпусе, 7-120 л/мин, PIUSI</name>
+        <vendor>PIUSI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>146872</price>
+      </offer>
+      <offer sku="УТ-00002464">
+        <name>SELF 2000 1" BSP - Ручной пистолет для ДТ и масла, 120 л/мин, PIUSI</name>
+        <vendor>PIUSI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>23751</price>
+      </offer>
+      <offer sku="УТ-00002465">
+        <name>SELF 3000 1" BSP - Ручной пистолет для ДТ и масла, освинцованный, 150 л/мин, PIUSI</name>
+        <vendor>PIUSI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27994</price>
+      </offer>
+      <offer sku="УТ-00002469">
+        <name>Рычажный шприц 500 см3, 1/8" BSPT, 690 бар, гибкий шланг с проф. 4-х лепестковым фитингом</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16800</price>
+      </offer>
+      <offer sku="УТ-00002470">
+        <name>Рычажный шприц 1/8" BSPT, стальная трубка с проф. 4-х лепестковым фитингом</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15843</price>
+      </offer>
+      <offer sku="УТ-00002477">
+        <name>Ручной рычажный насос для масел для бочек 50-205 л</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14925</price>
+      </offer>
+      <offer sku="УТ-00002493">
+        <name>DCTP60,12V - Электрический насос 12В для ДТ и керосина</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50781</price>
+      </offer>
+      <offer sku="УТ-00002494">
+        <name>DCTP60,24V - Электрический насос 24В для ДТ и керосина</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>50781</price>
+      </offer>
+      <offer sku="УТ-00002495">
+        <name>ACTP 60 - Электрический насос 220В для ДТ и керосина</name>
+        <vendor>Petropump</vendor>
+        <barcodes>
+          <barcode>4631163809214</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>52842</price>
+      </offer>
+      <offer sku="УТ-00002496">
+        <name>DCTP-24 - Погружной насос 24В для ДТ и воды</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5103</price>
+      </offer>
+      <offer sku="УТ-00002497">
+        <name>DCTP-12 - Погружной насос 12В для ДТ и воды</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5103</price>
+      </offer>
+      <offer sku="УТ-00002498">
+        <name>AC-023 - Погружной электронасос 12В с сетчатым фильтром для ДТ и воды, 30 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5924</price>
+      </offer>
+      <offer sku="УТ-00002506">
+        <name>LLY 25 - Механический пистолет с механическим расходомером, 1"</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27759</price>
+      </offer>
       <offer sku="УТ-00040680">
         <name>Стремянка Nika 4 ступ. СМ4 оранжевый</name>
         <vendor>Nika</vendor>
@@ -19671,6 +19797,174 @@
         </pickup-options>
         <price>11440</price>
       </offer>
+      <offer sku="УТ-00048464">
+        <name>AC AVA 80 - Автоматический пистолет для бензина, ДТ и керосина, 1" BSP</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>38552</price>
+      </offer>
+      <offer sku="УТ-00048465">
+        <name>AC-023 - Погружной электронасос 24В с сетчатым фильтром для ДТ</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5924</price>
+      </offer>
+      <offer sku="УТ-00048467">
+        <name>AC-11A - Автоматический пистолет для топлива 3/4" BSP, сопло внутренний диам. 18 мм</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15418</price>
+      </offer>
+      <offer sku="УТ-00048469">
+        <name>AC-15A - Механический пистолет с эл.счетчиком для бензина и ДТ, 1" BSP (F),120 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>34523</price>
+      </offer>
+      <offer sku="УТ-00048471">
+        <name>AC-6000 - Механический пластиковый пистолет для AdBlue и топлива, 3/4" BSP (M), сопло 19 мм</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5030</price>
+      </offer>
+      <offer sku="УТ-00048476">
+        <name>AC-TM-1 - турбинный счетчик для ДТ и керосина, 1" BSP (F)</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26318</price>
+      </offer>
+      <offer sku="УТ-00048486">
+        <name>ACTP 40 - Электрический насос 220В для ДТ и керосина, 40 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>45121</price>
+      </offer>
+      <offer sku="УТ-00048500">
+        <name>DCTP40ST - Переносной комплект для ДТ и керосина 12В (мех. счетчик, мех. пист.), 40 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>88038</price>
+      </offer>
+      <offer sku="УТ-00048501">
+        <name>DCTP40ST - Переносной комплект для ДТ и керосина 24В (мех. счетчик, мех. пист.), 40 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>88038</price>
+      </offer>
+      <offer sku="УТ-00048503">
+        <name>DCTP60ST - Переносной комплект для ДТ и керосина 24В (мех. счетчик, мех. пист.), 60 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>128578</price>
+      </offer>
+      <offer sku="УТ-00048513">
+        <name>GL-4 - Фильтр для очистки ДТ от механических примесей, 1" BSP, 30 мкм, 120 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19579</price>
+      </offer>
+      <offer sku="УТ-00048515">
+        <name>GL-5 - Фильтр для очистки для ДТ и бензина от мех. примесей, 30 мкм, 1" BSP, 100 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14881</price>
+      </offer>
+      <offer sku="УТ-00048516">
+        <name>GL-6 - Водоабсорбирующий фильтр для ДТ и топлива,30 мкм, 1" BSP (F), 100 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13318</price>
+      </offer>
+      <offer sku="УТ-00048517">
+        <name>GTK-240 12V - Емкость для бензина 220 л, электронасос 12В, электронный счетчик, пистолет-автомат</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>543942</price>
+      </offer>
+      <offer sku="УТ-00048532">
+        <name>K24 - Электронный счетчик для ДТ, бензина и мочевины, 1" BSP (M)</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>24213</price>
+      </offer>
+      <offer sku="УТ-00048537">
+        <name>MG3-120 - 3-х разрядный механический счетчик для бензина, ДТ и керосина, 1" BSP (F), 20-120 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22758</price>
+      </offer>
+      <offer sku="УТ-00048538">
+        <name>MG4-120 - 4-х разрядный механический счетчик для бензина, керосина и ДТ, 1" BSP (F). 20-120 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26514</price>
+      </offer>
+      <offer sku="УТ-00048542">
+        <name>OILM02 - Электронный счетчик для масла 1/2" BSP (F), 35 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>43978</price>
+      </offer>
+      <offer sku="УТ-00048543">
+        <name>SB-32 - Электрический бочковой насос 220В для ДТ и воды, 60 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>39280</price>
+      </offer>
+      <offer sku="УТ-00048555">
+        <name>Картридж для фильтра GL-4 (PP910004)</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5300</price>
+      </offer>
+      <offer sku="УТ-00048556">
+        <name>Картридж для фильтра GL-5 (PP910002)</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4488</price>
+      </offer>
       <offer sku="УТ-00048663">
         <name>Сушилка напольная Nika СБТ18/С серебряный</name>
         <vendor>Nika</vendor>
@@ -19722,6 +20016,33 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19990</price>
+      </offer>
+      <offer sku="УТ-00048896">
+        <name>K33 ver. A дизель - 3-х разрядный механический счетчик дизельного топлива, 20-120 л/мин</name>
+        <vendor>PIUSI</vendor>
+        <barcodes>
+          <barcode>8050031035252</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>130762</price>
+      </offer>
+      <offer sku="УТ-00049143">
+        <name>Battery Kit 3000 24V - Мобильный комплект для перекачки ДТ (мех. пистолет), 50 л/мин</name>
+        <vendor>PIUSI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>193999</price>
+      </offer>
+      <offer sku="УТ-00049145">
+        <name>ST ByPass 3000/12V K33 - Перекачивающая станция для ДТ (мех. пист., мех. счет.), 40 л/мин</name>
+        <vendor>PIUSI</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>376221</price>
       </offer>
       <offer sku="УТ-00049305">
         <name>Средство для удаления смолы Stihl Superclean 300 мл 07825168101</name>
@@ -25629,6 +25950,102 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8000</price>
+      </offer>
+      <offer sku="УТ-00103728">
+        <name>ACFD60 - Комплект для ДТ на пластине, 220В (электронасос, мех. счетчик, авт. пист.), 60 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>129034</price>
+      </offer>
+      <offer sku="УТ-00103729">
+        <name>Мобильный комплект для смазки 50:1 с тележкой, для бочек 15–20 кг</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>180390</price>
+      </offer>
+      <offer sku="УТ-00103730">
+        <name>Измерительная емкость с крышкой, носиком и градуировкой, 5 л</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6022</price>
+      </offer>
+      <offer sku="УТ-00103731">
+        <name>Измерительная емкость с носиком и градуировкой, 5 л, желтая</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4800</price>
+      </offer>
+      <offer sku="УТ-00103732">
+        <name>ACTP65 - Электрический насос для ДТ, 60 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>62858</price>
+      </offer>
+      <offer sku="УТ-00103733">
+        <name>Бочковой рычажный насос для ДТ, масла, керосина, для бочек 50-205 л, 0,3 л/ход</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19805</price>
+      </offer>
+      <offer sku="УТ-00103734">
+        <name>FM150-0.5 - 4-х разрядный механический счетчик, 1" BSP</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>59024</price>
+      </offer>
+      <offer sku="УТ-00103735">
+        <name>GL-6-Y - Фильтр для ДТ с влагоотделением, 70 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14819</price>
+      </offer>
+      <offer sku="УТ-00103736">
+        <name>GL-8-Y - Фильтр для ДТ с влагоотделением, 70 л/мин</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28233</price>
+      </offer>
+      <offer sku="УТ-00103737">
+        <name>BBF19 - Латунный донный фильтр 3/4", c обратным клапаном</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3500</price>
+      </offer>
+      <offer sku="УТ-00103738">
+        <name>BBF25 - Латунный донный фильтр 1", c обратным клапаном</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5000</price>
+      </offer>
+      <offer sku="УТ-00103740">
+        <name>DTK-240 220V - Емкость для ДТ 220 л, электронасос 220В, электронный счетчик, пистолет-автомат</name>
+        <vendor>Petropump</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>430497</price>
       </offer>
     </offers>
   </shop>

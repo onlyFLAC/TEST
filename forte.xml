@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 15:15">
+<fm_catalog date="2026-11-21 15:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16265,6 +16265,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>550</price>
+      </offer>
+      <offer sku="00000064063">
+        <name>Набор губок для посуды Palisad 5 шт. 923535</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4606800076434</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>790</price>
       </offer>
       <offer sku="00000064094">
         <name>Отжимная швабра PALISAD Home 120 см, насадка из микрофибры, 120 г 935095</name>

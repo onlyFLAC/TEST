@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 13:48">
+<fm_catalog date="2026-11-21 14:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2652,14 +2652,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8980</price>
-      </offer>
-      <offer sku="УТ-00025325">
-        <name>Круг абразивный на ворсовой подложке под "липучку", перфорированный, P 220, 125 мм, 5 шт.// Сибртех</name>
-        <vendor>Сибртех</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>680</price>
       </offer>
       <offer sku="УТ-00025329">
         <name>Набор абразивных дисков Сибртех P500 125 мм 5 шт. 738157</name>
@@ -8984,17 +8976,6 @@
         </pickup-options>
         <price>1490</price>
       </offer>
-      <offer sku="00000020134">
-        <name>Набор абразивных дисков СИБРТЕХ Р120 125 мм 5 шт. 738067</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4044996129433</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>680</price>
-      </offer>
       <offer sku="00000020247">
         <name>Круг лепестковый для дрели, 30 х 20 х 6 мм, P 120// Matrix</name>
         <vendor>Matrix</vendor>
@@ -10588,14 +10569,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>163800</price>
-      </offer>
-      <offer sku="00000031896">
-        <name>Стремянка односторонняя KRAUSE STABILO 5 ступ. 124524</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>119500</price>
       </offer>
       <offer sku="00000031938">
         <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
@@ -17353,16 +17326,16 @@
         </pickup-options>
         <price>11690</price>
       </offer>
-      <offer sku="00000071299">
-        <name>GRINDA PROLine 12 витых зубцов, грабли с алюминиевым черенком</name>
+      <offer sku="00000071297">
+        <name>GRINDA 22 плоских зубца, 440х260х1500 мм, грабли садовые веерные, с деревянным черенком</name>
         <vendor>Grinda</vendor>
         <barcodes>
-          <barcode>4893925602659</barcode>
+          <barcode>4893925602765</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6780</price>
+        <price>5990</price>
       </offer>
       <offer sku="00000071303">
         <name>GRINDA 14 витых зубьев, 444х95х1300 мм, грабли садовые, с деревянным черенком</name>

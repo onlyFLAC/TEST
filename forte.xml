@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-22 00:34">
+<fm_catalog date="2026-11-22 01:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10711,17 +10711,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3620</price>
-      </offer>
-      <offer sku="00000032300">
-        <name>Бокс для аксессуаров средний для SystemBox (2/9)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140951906</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4470</price>
       </offer>
       <offer sku="00000032301">
         <name>Кейс для инструментов BOSCH SystemBox S 1600A016CT</name>

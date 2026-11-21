@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-21 12:49">
+<fm_catalog date="2026-11-21 13:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25456,14 +25456,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5870</price>
-      </offer>
-      <offer sku="УТ-00091587">
-        <name>Отвертка с трещоткой BOSCH 18 предметов 1600A02Z9A</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9590</price>
       </offer>
       <offer sku="УТ-00091588">
         <name>Набор TORX-ключей BOSCH 9 шт 1600A02Z9C</name>

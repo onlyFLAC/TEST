@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-22 13:16">
+<fm_catalog date="2026-11-22 13:45">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2195,17 +2195,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8500</price>
-      </offer>
-      <offer sku="УТ-00022271">
-        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245909</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7100</price>
       </offer>
       <offer sku="УТ-00022277">
         <name>Спрей Active Clean 500мл Husqvarna</name>
@@ -21670,17 +21659,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13342</price>
-      </offer>
-      <offer sku="УТ-00059828">
-        <name>Сушилка напольная Nika СБ3/Б белый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4607075832602</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6435</price>
       </offer>
       <offer sku="УТ-00059834">
         <name>Дрель-шуруповерт аккумуляторная Bosch GSB 18V-65 06019N3100</name>

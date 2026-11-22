@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 02:00">
+<fm_catalog date="2026-11-23 02:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13706,17 +13706,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32313</price>
-      </offer>
-      <offer sku="00000037285">
-        <name>Диск пильный BOSCH 216х30 мм 2608642497</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140648226</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28888</price>
       </offer>
       <offer sku="00000037407">
         <name>Набор шлифлистов Bosch C450 Р120 125 мм 50 шт. 2608621743</name>

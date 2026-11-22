@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-22 12:46">
+<fm_catalog date="2026-11-22 13:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7876,17 +7876,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4022</price>
-      </offer>
-      <offer sku="00000013952">
-        <name>Гвозди финишные (шпильки) 23GA для пн. нейлера финишного диам. 0,64 мм длина -25 мм,5000 шт// Matrix</name>
-        <vendor>Matrix</vendor>
-        <barcodes>
-          <barcode>4044996147123</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2210</price>
       </offer>
       <offer sku="00000014094">
         <name>Леска для триммера квадрат 2 мм х 15 м, блистер FLEX CORD// Denzel</name>

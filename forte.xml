@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-22 08:23">
+<fm_catalog date="2026-11-22 08:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10514,14 +10514,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>163800</price>
-      </offer>
-      <offer sku="00000031938">
-        <name>Платформа рабочая KRAUSE STEPTOP 130099</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>125000</price>
       </offer>
       <offer sku="00000031953">
         <name>Подставка монтажная KRAUSE STABILO 2 ступ. 805027</name>

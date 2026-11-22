@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-22 10:20">
+<fm_catalog date="2026-11-22 10:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21682,17 +21682,6 @@
         </pickup-options>
         <price>30195</price>
       </offer>
-      <offer sku="УТ-00059821">
-        <name>Сушилка напольная Nika СБТ18/РЗ розовое золото</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111514491</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13999</price>
-      </offer>
       <offer sku="УТ-00059822">
         <name>Доска гладильная Nika Н4 (в ассортименте)</name>
         <vendor>Nika</vendor>
@@ -22368,17 +22357,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>24280</price>
-      </offer>
-      <offer sku="УТ-00061457">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1Т/6 с линиями на сливовом</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111519069</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30705</price>
       </offer>
       <offer sku="УТ-00061459">
         <name>Доска гладильная Nika Н3МТ/П пудровый</name>

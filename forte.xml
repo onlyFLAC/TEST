@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 22:06">
+<fm_catalog date="2026-11-23 22:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8304,17 +8304,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3390</price>
-      </offer>
-      <offer sku="00000016790">
-        <name>Лопата снеговая Сибртех 360х405х1550 мм 61574</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800043740</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2307</price>
       </offer>
       <offer sku="00000016826">
         <name>Лопата для уборки снега пластиковая LUXE, 540х375х1520 мм, стальной черенок// Palisad</name>
@@ -24273,14 +24262,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>31500</price>
-      </offer>
-      <offer sku="УТ-00087363">
-        <name>Уровень лазерный TT ЛУЧ-30</name>
-        <vendor>Total Tools</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6790</price>
       </offer>
       <offer sku="УТ-00087376">
         <name>Шланг морозостойкий TT "Эластик" ШВ-20/12</name>

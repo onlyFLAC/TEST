@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 09:20">
+<fm_catalog date="2026-11-23 09:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15804,7 +15804,7 @@
         <price>87340</price>
       </offer>
       <offer sku="00000061125">
-        <name>Сушилка на радиатор Nika СБ6-65П/С серебряный</name>
+        <name>Сушилка на радиатор Nika СБ6-65П/С серый</name>
         <vendor>Nika</vendor>
         <barcodes>
           <barcode>4640076028919</barcode>
@@ -21736,6 +21736,17 @@
         </pickup-options>
         <price>29280</price>
       </offer>
+      <offer sku="УТ-00059936">
+        <name>Трап душевой GAPPO 70х600 мм хром G86007-4</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477696749</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27040</price>
+      </offer>
       <offer sku="УТ-00059943">
         <name>Душевой трап GAPPO G85007-39 из нержавеющей стали боковой 70*500 оружейная сталь</name>
         <vendor>GAPPO</vendor>
@@ -21929,6 +21940,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15740</price>
+      </offer>
+      <offer sku="УТ-00060284">
+        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477622816</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12140</price>
       </offer>
       <offer sku="УТ-00060328">
         <name>Полотенцедержатель Frap 302 черный F30201</name>
@@ -22360,17 +22382,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22980</price>
-      </offer>
-      <offer sku="УТ-00061581">
-        <name>Сушилка для белья OLIVIA PREMIUM Hausler</name>
-        <vendor>Hausler</vendor>
-        <barcodes>
-          <barcode>4780114211214</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>19860</price>
       </offer>
       <offer sku="УТ-00061674">
         <name>Нож для кашения травы на мерные длины 63117020100</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 15:13">
+<fm_catalog date="2026-11-23 15:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4058,17 +4058,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20460</price>
-      </offer>
-      <offer sku="УТ-00029146">
-        <name>Колонка портативная XIAOMI Mi Portable Bluetooth Speaker 38731</name>
-        <vendor>Xiaomi</vendor>
-        <barcodes>
-          <barcode>6934177726774</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14990</price>
       </offer>
       <offer sku="УТ-00030733">
         <name>Процессор (CPU) INTEL Core i3 12100F 1700 41673</name>
@@ -22847,14 +22836,6 @@
       </offer>
       <offer sku="УТ-00063887">
         <name>Интерфейсный модуль StarLine GPS/ГЛОНАСС Мастер</name>
-        <vendor>Starline</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28300</price>
-      </offer>
-      <offer sku="УТ-00063888">
-        <name>Интерфейсный модуль StarLine GPS/ГЛОНАСС Мастер 6</name>
         <vendor>Starline</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>

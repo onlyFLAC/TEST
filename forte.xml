@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 05:25">
+<fm_catalog date="2026-11-23 05:55">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13610,17 +13610,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3790</price>
-      </offer>
-      <offer sku="00000036902">
-        <name>Фреза пазовая прямая BOSCH 18х25 мм 2608628389</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140358507</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4090</price>
       </offer>
       <offer sku="00000036903">
         <name>ФРЕЗА ПАЗОВАЯ 20/8 MM</name>

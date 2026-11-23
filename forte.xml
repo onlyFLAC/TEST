@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 09:49">
+<fm_catalog date="2026-11-23 10:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1998,7 +1998,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>36400</price>
+        <price>37800</price>
       </offer>
       <offer sku="УТ-00019980">
         <name>Этажерка с мягким сиденьем Nika "ЛЮКС" ЭТЛ6/БЖ бежевый</name>
@@ -4904,6 +4904,14 @@
         </pickup-options>
         <price>947</price>
       </offer>
+      <offer sku="00000003745">
+        <name>Биметаллическое полотно по металлу, 24 TPI: универсальный рез, 300 мм, высококачественная быстрорежущая сталь Р6М5, 1 шт, ЗУБР БИМЕТАЛЛ-24</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8770</price>
+      </offer>
       <offer sku="00000003753">
         <name>Бита с торцовой головкой Kraftool 13х50 мм 26396-13</name>
         <vendor>KRAFTOOL</vendor>
@@ -5988,14 +5996,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>847</price>
-      </offer>
-      <offer sku="00000007376">
-        <name>Круг заточной абразивный "Луга", электрокорунд белый, зерно 60, 200х20, посадка 16мм</name>
-        <vendor>Луга</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4970</price>
       </offer>
       <offer sku="00000007380">
         <name>Круг ЗУБР абразивный-электрокорунд отрезной, d 24x2,0х0,40мм, 10шт</name>
@@ -10402,7 +10402,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>82600</price>
+        <price>83800</price>
       </offer>
       <offer sku="00000031878">
         <name>Лестница трехсекционная KRAUSE TRIBILO 3x12 ступ. 120953</name>
@@ -10418,7 +10418,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>26080</price>
+        <price>35900</price>
       </offer>
       <offer sku="00000031885">
         <name>Распорка KRAUSE 122018</name>
@@ -10434,7 +10434,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>20900</price>
+        <price>20500</price>
       </offer>
       <offer sku="00000031892">
         <name>Лестница шарнирная KRAUSE STABILO 4х4 ступ. 123527</name>
@@ -10450,7 +10450,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>58900</price>
+        <price>72600</price>
       </offer>
       <offer sku="00000031981">
         <name>Сейф VALBERG ASM-120 Т</name>
@@ -15286,6 +15286,17 @@
         </pickup-options>
         <price>13600</price>
       </offer>
+      <offer sku="00000058908">
+        <name>Пила сабельная аккумуляторная ЗУБР СПЛ-125 без АКБ</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373395512</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17190</price>
+      </offer>
       <offer sku="00000058925">
         <name>Набор тряпочных фильтр-мешков для пылесоса STIHL SE122/122E 5 шт. 49015009007</name>
         <vendor>STIHL</vendor>
@@ -17637,7 +17648,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>49000</price>
+        <price>46500</price>
       </offer>
       <offer sku="00000074255">
         <name>Аккумуляторный гайковёрт Makita DTW700Z (DTW700Z)</name>
@@ -20831,6 +20842,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4896</price>
+      </offer>
+      <offer sku="УТ-00056055">
+        <name>Нейлер-степлер пневматический ЗУБР 18GA 10-50 мм 31937</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373360046</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25160</price>
       </offer>
       <offer sku="УТ-00056077">
         <name>KRAFTOOL COBALT 3 шт., 4-32мм, азотирование, винтовая спираль, набор сверл ступенчатых(29691-4-32-H3)</name>

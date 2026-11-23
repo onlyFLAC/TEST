@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 23:35">
+<fm_catalog date="2026-11-24 00:06">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -16110,18 +16110,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2110</price>
-      </offer>
-      <offer sku="00000064156">
-        <name>Вешалка настенная ЗМИ "НОРМА 3" ВН64 коричневая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610195634162</barcode>
-          <barcode>4640011872058</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1550</price>
       </offer>
       <offer sku="00000064157">
         <name>Вешалка настенная ЗМИ ''Норма 5'' Белый</name>

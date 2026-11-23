@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 16:13">
+<fm_catalog date="2026-11-23 16:42">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1916,7 +1916,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>780</price>
+        <price>786</price>
       </offer>
       <offer sku="УТ-00018715">
         <name>Валик малярный механический Wagner Handi-Roll 550</name>
@@ -10224,6 +10224,17 @@
         </pickup-options>
         <price>14000</price>
       </offer>
+      <offer sku="00000031300">
+        <name>Шнек 200 мм для земли TT 800мм</name>
+        <vendor>Total Tools</vendor>
+        <barcodes>
+          <barcode>4870024316007</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9625</price>
+      </offer>
       <offer sku="00000031441">
         <name>Набор инструментов Total Tools 25 шт. ST036-25</name>
         <vendor>Total Tools</vendor>
@@ -11311,7 +11322,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>68888</price>
+        <price>75750</price>
       </offer>
       <offer sku="00000032712">
         <name>Пила торцовочная комбинированная Bosch GTM 12 JL Professional 0601B15001</name>
@@ -12531,7 +12542,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>830</price>
+        <price>1056</price>
       </offer>
       <offer sku="00000035254">
         <name>Диск обдирочный по металлу Bosch 230х6 мм 2608603184</name>
@@ -14793,17 +14804,6 @@
         </pickup-options>
         <price>7521</price>
       </offer>
-      <offer sku="00000050325">
-        <name>Кровать раскладная с ортопедическим основанием Nika РК6</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4640076022238</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>23852</price>
-      </offer>
       <offer sku="00000050530">
         <name>Пылесос строительный STIHL SE 33 SE010124413</name>
         <vendor>STIHL</vendor>
@@ -15688,7 +15688,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>438000</price>
+        <price>438800</price>
       </offer>
       <offer sku="00000059360">
         <name>Пылесос строительный аккумуляторный Bosch GAS 18V-10L 06019C6302 (без АКБ и ЗУ)</name>
@@ -19741,6 +19741,17 @@
         </pickup-options>
         <price>552200</price>
       </offer>
+      <offer sku="УТ-00048210">
+        <name>Масло 2Т 1л HP Husqvarna 587 80 85-10</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245893</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7200</price>
+      </offer>
       <offer sku="УТ-00048211">
         <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
         <vendor>Husqvarna</vendor>
@@ -20333,6 +20344,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7398</price>
+      </offer>
+      <offer sku="УТ-00052936">
+        <name>Крюк зацеп для рулетки 505 69 72-10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3000</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
@@ -21172,7 +21191,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>76670</price>
+        <price>67910</price>
       </offer>
       <offer sku="УТ-00059258">
         <name>Домкрат гидравлический бутылочный кейс 6 т. ТТ ДГБ-06</name>
@@ -21606,7 +21625,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>167969</price>
+        <price>167980</price>
       </offer>
       <offer sku="УТ-00059837">
         <name>Машина прямошлифовальная Bosch GGS 30 LS 06012B5020</name>
@@ -24129,6 +24148,14 @@
         </pickup-options>
         <price>4400</price>
       </offer>
+      <offer sku="УТ-00085488">
+        <name>Лента для рулетки Husqvarna 20 м 505 69 71-05</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
+      </offer>
       <offer sku="УТ-00085489">
         <name>Масло Husqvarna 4T 10W-40 1л 577 41 97-04</name>
         <vendor>Husqvarna</vendor>
@@ -24239,6 +24266,14 @@
         </pickup-options>
         <price>8100</price>
       </offer>
+      <offer sku="УТ-00087283">
+        <name>Коронка алмазная TT 150 мм 4870024326662</name>
+        <vendor>Total Tools</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8990</price>
+      </offer>
       <offer sku="УТ-00087284">
         <name>Лезвие-нож TT 20" для ГБ-510ПМ ГБ-510ПМ-№3</name>
         <vendor>Total Tools</vendor>
@@ -24254,6 +24289,36 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6990</price>
+      </offer>
+      <offer sku="УТ-00087349">
+        <name>Пылесос строительный TT ПС-25/1600</name>
+        <vendor>Total Tools</vendor>
+        <barcodes>
+          <barcode>4870024325498</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31500</price>
+      </offer>
+      <offer sku="УТ-00087363">
+        <name>Уровень лазерный TT ЛУЧ-30</name>
+        <vendor>Total Tools</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6790</price>
+      </offer>
+      <offer sku="УТ-00087376">
+        <name>Шланг морозостойкий TT "Эластик" ШВ-20/12</name>
+        <vendor>Total Tools</vendor>
+        <barcodes>
+          <barcode>4870024320691</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7236</price>
       </offer>
       <offer sku="УТ-00087507">
         <name>Генератор бензиновый HYUNDAI HHY 7050FE ATS</name>
@@ -25716,14 +25781,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4500</price>
-      </offer>
-      <offer sku="УТ-00094229">
-        <name>Батарейки GP 2 шт. CR 2016-7CR2</name>
-        <vendor>GP</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1090</price>
       </offer>
       <offer sku="УТ-00094230">
         <name>Батарейки GP 2 шт. CR 2025-7CR2</name>

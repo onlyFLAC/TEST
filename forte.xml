@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 11:48">
+<fm_catalog date="2026-11-23 12:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -583,17 +583,6 @@
         </pickup-options>
         <price>13964</price>
       </offer>
-      <offer sku="УТ-00005412">
-        <name>Лестница-стремянка двусторонняя Nika ННДС4</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111503631</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>17396</price>
-      </offer>
       <offer sku="УТ-00005413">
         <name>Корзина для белья на металлокаркасе Nika HSC3/1 бамбук</name>
         <vendor>Nika</vendor>
@@ -753,7 +742,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>23200</price>
+        <price>21690</price>
       </offer>
       <offer sku="УТ-00006504">
         <name>Кусторез электрический Bosch UniversalHedgeCut 60 06008C0703</name>

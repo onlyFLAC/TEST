@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 19:39">
+<fm_catalog date="2026-11-23 20:09">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24161,14 +24161,6 @@
         </pickup-options>
         <price>4400</price>
       </offer>
-      <offer sku="УТ-00085494">
-        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>
         <vendor>Husqvarna</vendor>
@@ -25885,14 +25877,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2490</price>
-      </offer>
-      <offer sku="УТ-00099471">
-        <name>Насадка для реноватора DeWALT 43х30 мм, DT20734-QZ</name>
-        <vendor>DeWALT</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3190</price>
       </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>

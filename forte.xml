@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 15:42">
+<fm_catalog date="2026-11-23 16:13">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14193,14 +14193,6 @@
         </pickup-options>
         <price>11000</price>
       </offer>
-      <offer sku="00000040506">
-        <name>Ключ трубный разводной тип С THTAL17186</name>
-        <vendor>Total</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16800</price>
-      </offer>
       <offer sku="00000040555">
         <name>Набор отверток Total 26 шт. THTDC252601</name>
         <vendor>Total</vendor>
@@ -17475,7 +17467,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>99629</price>
+        <price>104630</price>
       </offer>
       <offer sku="00000073950">
         <name>Пушка тепловая газовая ЗУБР 20 кВт ТПГ-20</name>

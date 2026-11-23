@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 08:21">
+<fm_catalog date="2026-11-23 08:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -727,17 +727,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
-      </offer>
-      <offer sku="УТ-00005960">
-        <name>Уровень тип 80AS, 40 см STABILA 19163</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069191634</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16490</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -6051,17 +6040,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11390</price>
-      </offer>
-      <offer sku="00000007605">
-        <name>Лебедка ручная барабанная STAYER 0.9 т 8 м 43112-0.9</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229210670</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>21020</price>
       </offer>
       <offer sku="00000007609">
         <name>Лебедка ручная барабанная ЗУБР 0.9 т 10 м 43115-0.9</name>
@@ -21878,17 +21856,6 @@
         </pickup-options>
         <price>42280</price>
       </offer>
-      <offer sku="УТ-00060174">
-        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477645532</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>46160</price>
-      </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -23812,14 +23779,6 @@
         </pickup-options>
         <price>16890</price>
       </offer>
-      <offer sku="УТ-00075651">
-        <name>Набор бит ударных Wera 05057690001</name>
-        <vendor>Wera</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>43490</price>
-      </offer>
       <offer sku="УТ-00075654">
         <name>Набор Г образных ключей Wera 05022087001</name>
         <vendor>Wera</vendor>
@@ -24074,6 +24033,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32566</price>
+      </offer>
+      <offer sku="УТ-00085186">
+        <name>Доска гладильная Nika "ВАЛЕНСИЯ 2" НВ2/11</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111522663</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>31941</price>
       </offer>
       <offer sku="УТ-00085187">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/23</name>

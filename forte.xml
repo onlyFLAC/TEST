@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 12:17">
+<fm_catalog date="2026-11-23 12:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -25591,14 +25591,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>79900</price>
-      </offer>
-      <offer sku="УТ-00092607">
-        <name>Комбо: Аккум. Углошлифмашина AXXIO 18/125 + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (443114042)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44900</price>
       </offer>
       <offer sku="УТ-00092619">
         <name>Комбо: Аккум. Шуруповерт Ударный TP-CD 18/120 Li-i BL + Зарядное устройство + 1 аккум. 18V 4,0Ah PXC Einhell (451431042)</name>

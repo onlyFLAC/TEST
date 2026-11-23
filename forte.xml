@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-23 11:18">
+<fm_catalog date="2026-11-23 11:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8549,6 +8549,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6080</price>
+      </offer>
+      <offer sku="00000017672">
+        <name>Бак для воды оцинкованный с крышкой (крышка с ручкой) 32л, без крана// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4606800033642</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8480</price>
       </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
@@ -20326,6 +20337,17 @@
         </pickup-options>
         <price>17050</price>
       </offer>
+      <offer sku="УТ-00052925">
+        <name>Фильтр воздушный для бензопилы STIHL MS 193 T, MS 193 TC, MS 194 T 11371201605</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711981679</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3820</price>
+      </offer>
       <offer sku="УТ-00052933">
         <name>Сушилка напольная Nika СБП2/С серебряный</name>
         <vendor>Nika</vendor>
@@ -20604,6 +20626,22 @@
         </pickup-options>
         <price>835900</price>
       </offer>
+      <offer sku="УТ-00055246">
+        <name>Бензопила STIHL MS 382 45 см 11190113051К45</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>391500</price>
+      </offer>
+      <offer sku="УТ-00055254">
+        <name>Бензопила STIHL MS 250 45 см 11230123044К451</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>206500</price>
+      </offer>
       <offer sku="УТ-00055256">
         <name>Бензопила STIHL MS 230 40 см 11230123042К40</name>
         <vendor>STIHL</vendor>
@@ -20630,6 +20668,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7040</price>
+      </offer>
+      <offer sku="УТ-00055358">
+        <name>Нож измельчитель Shredru 270 мм. Для FS 350, FS 400 40007133903</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711318291</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>18290</price>
       </offer>
       <offer sku="УТ-00055373">
         <name>Станок заточный Einhell TH-XG75Kit 4412560</name>
@@ -23974,6 +24023,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8900</price>
+      </offer>
+      <offer sku="УТ-00078710">
+        <name>Фильтр воздушный STIHL для MS 260 11211201617</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7400</price>
       </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>

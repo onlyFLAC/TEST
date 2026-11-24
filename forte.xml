@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 09:58">
+<fm_catalog date="2026-11-24 10:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1242,14 +1242,6 @@
         </pickup-options>
         <price>2999</price>
       </offer>
-      <offer sku="УТ-00012182">
-        <name>Уровень строительный STABILA Pocket Electric 17775</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6590</price>
-      </offer>
       <offer sku="УТ-00012209">
         <name>Шлифмашина угловая (болгарка) ФИОЛЕНТ МШУ 2-9-125 ИДФР298135002-02К1</name>
         <vendor>Фиолент</vendor>
@@ -2062,14 +2054,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20311</price>
-      </offer>
-      <offer sku="УТ-00020407">
-        <name>Упор глубины BOSCH 2600460049</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2490</price>
       </offer>
       <offer sku="УТ-00021171">
         <name>Сушилка для белья LD 2001 HAUSLER</name>
@@ -10447,14 +10431,6 @@
         </pickup-options>
         <price>163800</price>
       </offer>
-      <offer sku="00000031903">
-        <name>Подставка складная KRAUSE TREPPO 2x4 ступ. 126047</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>96900</price>
-      </offer>
       <offer sku="00000031936">
         <name>Подставка складная KRAUSE ROLLY 2х3 ступ. 130068</name>
         <vendor>Krause</vendor>
@@ -11016,17 +10992,6 @@
         </pickup-options>
         <price>164340</price>
       </offer>
-      <offer sku="00000032554">
-        <name>Набор X-Line-43 Набор 6-гран. хвост. PROMOLINE (50304432) Bosch</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140452502</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14198</price>
-      </offer>
       <offer sku="00000032558">
         <name>Набор бит Bosch 25 шт. 2607019503</name>
         <vendor>BOSCH</vendor>
@@ -11059,17 +11024,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4090</price>
-      </offer>
-      <offer sku="00000032587">
-        <name>Набор сверл и бит Bosch X-LINE-30 TITANIUM 31 шт. 2607019324</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140379472</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9156</price>
       </offer>
       <offer sku="00000032590">
         <name>Набор принадлежностей BOSCH x-line titanium 33 шт. 2607019325</name>
@@ -12379,17 +12333,6 @@
         </pickup-options>
         <price>3165</price>
       </offer>
-      <offer sku="00000034629">
-        <name>Набор пилок для лобзика BOSCH T244D 5 шт. 2608630058</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140006859</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2690</price>
-      </offer>
       <offer sku="00000034632">
         <name>Набор лобзиковых пилок BOSCH T101D 3 шт. 2608630558</name>
         <vendor>BOSCH</vendor>
@@ -12477,17 +12420,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12490</price>
-      </offer>
-      <offer sku="00000034913">
-        <name>Насадка для крупного мусора BOSCH 35 мм 2607000170</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140056359</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11090</price>
       </offer>
       <offer sku="00000034938">
         <name>Мешок для пылсоса GAS 15 Bosch</name>
@@ -20451,14 +20383,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4700</price>
-      </offer>
-      <offer sku="УТ-00053760">
-        <name>Воздуходувка аккумуляторная Makita DUB187Z (без АКБ и ЗУ)</name>
-        <vendor>Makita</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>79640</price>
       </offer>
       <offer sku="УТ-00053799">
         <name>HS004GZ Пила дисковая аккум XGT BL 40В, 185/190 мм</name>

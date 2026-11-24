@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 14:51">
+<fm_catalog date="2026-11-24 15:20">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -3374,17 +3374,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>990</price>
-      </offer>
-      <offer sku="УТ-00026083">
-        <name>Переходник PATRIOT 46C/2 (елочка 8 мм) 830900040</name>
-        <vendor>Patriot</vendor>
-        <barcodes>
-          <barcode>4610032710851</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>590</price>
       </offer>
       <offer sku="УТ-00026084">
         <name>Переходник PATRIOT 46C/3 (елочка 10 мм) 830900045</name>

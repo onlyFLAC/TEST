@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 16:48">
+<fm_catalog date="2026-11-24 17:17">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17326,17 +17326,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15970</price>
-      </offer>
-      <offer sku="00000072926">
-        <name>Комплект угольных щеток BOSCH 1607014176</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952059945</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2888</price>
       </offer>
       <offer sku="00000073089">
         <name>Ключ разводной эргономичный с пластиковой ручкой Jonnesway 0-29 мм W27AT10</name>

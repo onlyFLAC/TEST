@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 11:55">
+<fm_catalog date="2026-11-24 12:24">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10437,6 +10437,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>163800</price>
+      </offer>
+      <offer sku="00000031903">
+        <name>Подставка складная KRAUSE TREPPO 2x4 ступ. 126047</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96900</price>
       </offer>
       <offer sku="00000031936">
         <name>Подставка складная KRAUSE ROLLY 2х3 ступ. 130068</name>

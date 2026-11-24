@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 08:59">
+<fm_catalog date="2026-11-24 09:28">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -727,6 +727,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>466375</price>
+      </offer>
+      <offer sku="УТ-00005937">
+        <name>Уровень тип 70 Electric, 43 см, для электриков STABILA 16135</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069161354</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>22490</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>

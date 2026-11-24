@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 09:28">
+<fm_catalog date="2026-11-24 09:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2263,6 +2263,17 @@
         </pickup-options>
         <price>9000</price>
       </offer>
+      <offer sku="УТ-00022389">
+        <name>ШПРИЦ - МАСЛЕНКА ДЛЯ КОНСИСТЕНТНОЙ СМАЗКИ HUSQVARNA</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883819715</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9900</price>
+      </offer>
       <offer sku="УТ-00022418">
         <name>Шина 12'' 1/4 1.3 64DL 7T 1кл A318 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -2313,6 +2324,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13200</price>
+      </offer>
+      <offer sku="УТ-00022460">
+        <name>Топор плотницкий 50см 1кг</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7391883620717</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>57000</price>
       </offer>
       <offer sku="УТ-00022468">
         <name>Топор-колун 80см 2,5кг</name>
@@ -7963,6 +7985,17 @@
         </pickup-options>
         <price>4190</price>
       </offer>
+      <offer sku="00000015068">
+        <name>Лом-гвоздодёр мини, 250x21x9мм// Gross</name>
+        <vendor>Gross</vendor>
+        <barcodes>
+          <barcode>4044996164274</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7439</price>
+      </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
         <vendor>Matrix</vendor>
@@ -10413,6 +10446,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>163800</price>
+      </offer>
+      <offer sku="00000031903">
+        <name>Подставка складная KRAUSE TREPPO 2x4 ступ. 126047</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>96900</price>
+      </offer>
+      <offer sku="00000031936">
+        <name>Подставка складная KRAUSE ROLLY 2х3 ступ. 130068</name>
+        <vendor>Krause</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>52700</price>
       </offer>
       <offer sku="00000031981">
         <name>Сейф VALBERG ASM-120 Т</name>
@@ -19724,6 +19773,17 @@
         </pickup-options>
         <price>7200</price>
       </offer>
+      <offer sku="УТ-00048211">
+        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245848</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1400</price>
+      </offer>
       <offer sku="УТ-00048213">
         <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
         <vendor>Husqvarna</vendor>
@@ -23589,6 +23649,14 @@
         </pickup-options>
         <price>7150</price>
       </offer>
+      <offer sku="УТ-00072904">
+        <name>Бензопила Husqvarna 353 15"; 0.325 1.5 64DL H25 HSM 970 65 04-15</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>300000</price>
+      </offer>
       <offer sku="УТ-00072929">
         <name>Газонокосилка-робот Husqvarna ASPIRE R4 970 56 85-11</name>
         <vendor>Husqvarna</vendor>
@@ -24458,6 +24526,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>117140</price>
+      </offer>
+      <offer sku="УТ-00089491">
+        <name>Колесо для мотокультиватора ALTECO MK 7-950 88894</name>
+        <vendor>ALTECO</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>5490</price>
       </offer>
       <offer sku="УТ-00089530">
         <name>Лестница трехсекционная PROFSET 3х7 ступеней DLE307</name>
@@ -25964,6 +26040,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>67745</price>
+      </offer>
+      <offer sku="УТ-00101805">
+        <name>224559-5 Гайка прижимная 10-30</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>890</price>
       </offer>
       <offer sku="УТ-00102427">
         <name>D-72746 Сабельная пилка для дерева/металла 152x1,25x6TPI, 2 шт</name>

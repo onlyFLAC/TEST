@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 23:08">
+<fm_catalog date="2026-11-24 23:37">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20725,14 +20725,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29900</price>
-      </offer>
-      <offer sku="УТ-00052075">
-        <name>Подставка для торцовочной пилы Einhell MSS 1608 (4310614)</name>
-        <vendor>Einhell</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>39900</price>
       </offer>
       <offer sku="УТ-00052885">
         <name>Сумка для переноски бензопилы STIHL 00008810508</name>

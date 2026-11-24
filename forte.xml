@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 15:20">
+<fm_catalog date="2026-11-24 15:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -739,6 +739,17 @@
         </pickup-options>
         <price>22490</price>
       </offer>
+      <offer sku="УТ-00005944">
+        <name>Уровень тип 70, 120 см STABILA 02289</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022891</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>19190</price>
+      </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
         <vendor>STABILA</vendor>
@@ -1298,6 +1309,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6380</price>
+      </offer>
+      <offer sku="УТ-00012970">
+        <name>Уровень Stabila тип 70, 40 см 02282</name>
+        <vendor>STABILA</vendor>
+        <barcodes>
+          <barcode>4005069022822</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12190</price>
       </offer>
       <offer sku="УТ-00012979">
         <name>Сушилка напольная Nika СБ1/Ч черный</name>
@@ -2378,6 +2400,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>35000</price>
+      </offer>
+      <offer sku="УТ-00022496">
+        <name>Рулетка 20м Husqvarna</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089124921</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>37000</price>
       </offer>
       <offer sku="УТ-00022534">
         <name>ПЕРЧАТКИ HUSQVARNA FUNCTIONAL 16 CLASS 0 С ЗАЩИТОЙ ОТ ПОРЕЗОВ Р.9</name>
@@ -4257,6 +4290,17 @@
         </pickup-options>
         <price>30661</price>
       </offer>
+      <offer sku="УТ-00040253">
+        <name>Стол складной туристический Nika ТСТ/С дуб сонома</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111522960</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11400</price>
+      </offer>
       <offer sku="УТ-00040254">
         <name>Стол складной туристический Nika ТСТ/ЯС ясень черный</name>
         <vendor>Nika</vendor>
@@ -5596,6 +5640,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1780</price>
+      </offer>
+      <offer sku="00000006307">
+        <name>Станок заточной для пильных цепей ЗУБР СЦ-200</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373358104</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>25210</price>
       </offer>
       <offer sku="00000006312">
         <name>Домкрат подкатной гидравлический ЗУБР Т-30-К 2 т 43053-2-K</name>
@@ -9695,17 +9750,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>23580</price>
-      </offer>
-      <offer sku="00000024802">
-        <name>Рубанок сетевой ALTECO PL 650 30123</name>
-        <vendor>ALTECO</vendor>
-        <barcodes>
-          <barcode>4870216454302</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>28500</price>
       </offer>
       <offer sku="00000024804">
         <name>Сабельная пила RS 0514 ALTECO</name>
@@ -15535,6 +15579,17 @@
         </pickup-options>
         <price>14864</price>
       </offer>
+      <offer sku="00000059254">
+        <name>Тюбинг принтованный Nika "СПОРТ" ТБ2К-85/32 лимонный</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4640047365746</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11750</price>
+      </offer>
       <offer sku="00000059255">
         <name>Игрушка. Тюбинг принтованный (ТБ2К-95/12 Nika sport голубой)</name>
         <vendor>Nika</vendor>
@@ -16727,17 +16782,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3658</price>
-      </offer>
-      <offer sku="00000064925">
-        <name>Набор синтетических мешков-пылесборников для пылесоса Ozone 5 шт. MXT-303/5</name>
-        <vendor>Ozone</vendor>
-        <barcodes>
-          <barcode>4607033875139</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>8883</price>
       </offer>
       <offer sku="00000069514">
         <name>Сковорода блинная Accademia Mugnano 25 см RMCRP25SI</name>
@@ -21254,6 +21298,17 @@
         </pickup-options>
         <price>15031</price>
       </offer>
+      <offer sku="УТ-00059641">
+        <name>Комплект детской мебели Nika КА2/Г голубой</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075839502</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12015</price>
+      </offer>
       <offer sku="УТ-00059643">
         <name>Доска знаний-мольберт двусторонний Nika М2S/1 белый</name>
         <vendor>Nika</vendor>
@@ -21837,6 +21892,17 @@
         </pickup-options>
         <price>42280</price>
       </offer>
+      <offer sku="УТ-00060174">
+        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
+        <vendor>GAPPO</vendor>
+        <barcodes>
+          <barcode>6959477645532</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>46160</price>
+      </offer>
       <offer sku="УТ-00060209">
         <name>Смеситель Frap с гигиеническим душем F7503-9 оружейная сталь</name>
         <vendor>Frap</vendor>
@@ -21847,6 +21913,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>25130</price>
+      </offer>
+      <offer sku="УТ-00060212">
+        <name>Душ гигиенический Frap встраиваемый сатин F72801</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477625817</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>29970</price>
       </offer>
       <offer sku="УТ-00060227">
         <name>Клапан донный Frap 32 мм черный F62-7</name>
@@ -22658,6 +22735,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>73010</price>
+      </offer>
+      <offer sku="УТ-00063822">
+        <name>Набор ключей Torx BOSCH 1600A01TH4</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>4059952512518</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>11720</price>
       </offer>
       <offer sku="УТ-00063823">
         <name>Рулетка измерительная BOSCH 8 м 27 мм 1600A01V3S</name>
@@ -23566,6 +23654,14 @@
         </pickup-options>
         <price>63490</price>
       </offer>
+      <offer sku="УТ-00072889">
+        <name>Электронный уровень Stabila TECH 196 DL 23 см 19831</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>128125</price>
+      </offer>
       <offer sku="УТ-00072893">
         <name>Масло синтетическое всесезонное Husqvarna 4T 5W-30 1 л 597 68 68-01</name>
         <vendor>Husqvarna</vendor>
@@ -23819,6 +23915,14 @@
         </pickup-options>
         <price>24890</price>
       </offer>
+      <offer sku="УТ-00075750">
+        <name>Ручка битодержатель с функцией трещотки Wera 05051493001</name>
+        <vendor>Wera</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20790</price>
+      </offer>
       <offer sku="УТ-00075771">
         <name>Коляска комбинированная Nika "НАШИ ДЕТКИ 3-1К" НДТ3-1К/2 с облачками голубой</name>
         <vendor>Nika</vendor>
@@ -24045,6 +24149,14 @@
         </pickup-options>
         <price>33375</price>
       </offer>
+      <offer sku="УТ-00085222">
+        <name>Пила дисковая аккумуляторная Makita RS001GZ(R) (в подарок набор DC40RA+BL4040)</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>218880</price>
+      </offer>
       <offer sku="УТ-00085226">
         <name>Cтремянка 5 ступеней Nika ННСУ5</name>
         <vendor>Nika</vendor>
@@ -24154,6 +24266,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>385000</price>
+      </offer>
+      <offer sku="УТ-00085536">
+        <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-40 1600A036YW</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>57050</price>
+      </offer>
+      <offer sku="УТ-00085537">
+        <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-55 1600A036Z6</name>
+        <vendor>BOSCH</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>78670</price>
       </offer>
       <offer sku="УТ-00085538">
         <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-80 1600A036ZB</name>

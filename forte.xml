@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 13:22">
+<fm_catalog date="2026-11-24 13:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23380,17 +23380,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>27145</price>
-      </offer>
-      <offer sku="УТ-00072562">
-        <name>Ножницы для резки кабелей KNIPEX 95 16 160</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773085966</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>44450</price>
       </offer>
       <offer sku="УТ-00072566">
         <name>Ножницы для резки кабелей KNIPEX 95 26 165</name>

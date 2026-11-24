@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 00:07">
+<fm_catalog date="2026-11-25 00:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -8189,17 +8189,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7439</price>
-      </offer>
-      <offer sku="00000015164">
-        <name>Рулетка GROSS Ergonomisch 5 м, 19 мм, магнитный обрезиненный зацеп 31102</name>
-        <vendor>Gross</vendor>
-        <barcodes>
-          <barcode>4044996086866</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3390</price>
       </offer>
       <offer sku="00000015245">
         <name>Рулетка геодезическая, 50 м х 12,5 мм, металлическая лента, открытый корпус// Matrix</name>

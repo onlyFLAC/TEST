@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 17:46">
+<fm_catalog date="2026-11-24 18:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -892,6 +892,14 @@
         </pickup-options>
         <price>700</price>
       </offer>
+      <offer sku="УТ-00007389">
+        <name>Валик игольчатый для наливных полов с ручкой, острая игла, 500мм// Сибиртех</name>
+        <vendor>Сибртех</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3175</price>
+      </offer>
       <offer sku="УТ-00007446">
         <name>Вешалка напольная Nika "КОМФОРТ 5" ВК5Д/Ч черный</name>
         <vendor>Nika</vendor>
@@ -1087,6 +1095,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>379</price>
+      </offer>
+      <offer sku="УТ-00009845">
+        <name>Набор: чистящий ролик для одежды с двумя сменными блоками, 20 слоев, Home// Palisad</name>
+        <vendor>Palisad</vendor>
+        <barcodes>
+          <barcode>4044996184364</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1290</price>
       </offer>
       <offer sku="УТ-00009922">
         <name>Уровень лазерный Bosch Atino set 0603663A01</name>
@@ -2754,6 +2773,25 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6689</price>
+      </offer>
+      <offer sku="УТ-00025651">
+        <name>Топор, 1000 г, кованый, буковое топорище// Denzel</name>
+        <vendor>Denzel</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8879</price>
+      </offer>
+      <offer sku="УТ-00025687">
+        <name>Щетка-сметка для снега со скребком 600 мм// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996239385</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3390</price>
       </offer>
       <offer sku="УТ-00025716">
         <name>Распылитель, 8 режимов// Palisad</name>
@@ -7568,6 +7606,17 @@
         </pickup-options>
         <price>4890</price>
       </offer>
+      <offer sku="00000011753">
+        <name>Кувалда, 2000 г, кованая головка, деревянная двухцветная рукоятка// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996000152</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6940</price>
+      </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -7600,6 +7649,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>685</price>
+      </offer>
+      <offer sku="00000012233">
+        <name>Пробник электрический 130 мм, 100–500 В// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996085210</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
       </offer>
       <offer sku="00000012268">
         <name>Набор профессиональных отверток Fusion, CrV, 3-компонентная рукоятка antislip, 6 шт.// Matrix</name>
@@ -7722,6 +7782,39 @@
         </pickup-options>
         <price>8367</price>
       </offer>
+      <offer sku="00000012803">
+        <name>Набор ключей трубчатых торцевых 9 пр// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996069722</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4670</price>
+      </offer>
+      <offer sku="00000012819">
+        <name>Ключ баллонный Г - образный 1/2" телескопический, 17 х 19 мм// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996060941</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
+      <offer sku="00000013077">
+        <name>Набор ключей рожковых, 6 - 19 мм, 6 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996042121</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3190</price>
+      </offer>
       <offer sku="00000013078">
         <name>Набор ключей рожковых, 6 - 24 мм, 8 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -7799,6 +7892,17 @@
         </pickup-options>
         <price>1589</price>
       </offer>
+      <offer sku="00000013771">
+        <name>Тиски, 75 мм, крепление для стола// Sparta красный</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996043333</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3550</price>
+      </offer>
       <offer sku="00000013790">
         <name>Зубило, 200 х 20 мм, оцинкованное// Россия</name>
         <vendor>Россия</vendor>
@@ -7866,6 +7970,17 @@
         </pickup-options>
         <price>490</price>
       </offer>
+      <offer sku="00000014262">
+        <name>Катушка для триммера универсальная гайка М10х1,25 левая// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996167329</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3837</price>
+      </offer>
       <offer sku="00000014265">
         <name>Катушка триммерная Denzel 96365</name>
         <vendor>Denzel</vendor>
@@ -7932,6 +8047,17 @@
         </pickup-options>
         <price>1989</price>
       </offer>
+      <offer sku="00000014540">
+        <name>Компрессор автомобильный DENZEL DС-20 58054</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996056685</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13290</price>
+      </offer>
       <offer sku="00000014623">
         <name>Набор тефлоновых насадок Kronwerk 20-40 мм 4 шт. 94286</name>
         <vendor>Kronwerk</vendor>
@@ -7976,6 +8102,17 @@
         </pickup-options>
         <price>3380</price>
       </offer>
+      <offer sku="00000014708">
+        <name>Струбцина G-образная,150 мм// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996124834</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4340</price>
+      </offer>
       <offer sku="00000014803">
         <name>Кирка-молоток печника и каменщика 500 г, фибергласовая обрезиненная рукоятка 385 мм// Matrix</name>
         <vendor>Matrix</vendor>
@@ -7987,6 +8124,17 @@
         </pickup-options>
         <price>4696</price>
       </offer>
+      <offer sku="00000014864">
+        <name>Ножовка по дереву, 600 мм, шаг зубьев 12 мм, пластиковая рукоятка (Ижевск)// Россия</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4630001880552</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7970</price>
+      </offer>
       <offer sku="00000014886">
         <name>Ножовка по дереву,450 мм,7-8 TPI,зуб-3D,каленый зуб,тефл.покр.полотна,2-х комп..рук-ка// Matrix</name>
         <vendor>Matrix</vendor>
@@ -7997,6 +8145,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4130</price>
+      </offer>
+      <offer sku="00000015033">
+        <name>Набор резцов по дереву Sparta 6 шт. 246065</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996068244</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1732</price>
       </offer>
       <offer sku="00000015063">
         <name>Лом-гвоздодер, двутавровый профиль, 600х30х17 мм// Gross</name>
@@ -8031,6 +8190,28 @@
         </pickup-options>
         <price>7439</price>
       </offer>
+      <offer sku="00000015164">
+        <name>Рулетка GROSS Ergonomisch 5 м, 19 мм, магнитный обрезиненный зацеп 31102</name>
+        <vendor>Gross</vendor>
+        <barcodes>
+          <barcode>4044996086866</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3390</price>
+      </offer>
+      <offer sku="00000015245">
+        <name>Рулетка геодезическая, 50 м х 12,5 мм, металлическая лента, открытый корпус// Matrix</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996087498</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8790</price>
+      </offer>
       <offer sku="00000015301">
         <name>Уровень алюминиевый, 600 мм, фрезерованный, 3 глазка, 2 эргономичные ручки// Matrix</name>
         <vendor>Matrix</vendor>
@@ -8063,6 +8244,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32640</price>
+      </offer>
+      <offer sku="00000015489">
+        <name>Заклепочник, 225 мм, заклепки 2,4-3,2-4,0-4,8 мм// МАТРИКС</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996019055</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2710</price>
       </offer>
       <offer sku="00000015499">
         <name>Заклепочник Matrix "ГАРМОШКА" 2.4-3.2-4-4.8-6.4 мм 40548</name>
@@ -8185,6 +8377,17 @@
         </pickup-options>
         <price>140</price>
       </offer>
+      <offer sku="00000016193">
+        <name>Набор пружин 5,5х17, 5,5х38, 6,5х10, 7х12,5, 7х19, 9х35, 9,5х16, 9,5х19 мм, 200 предм.// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996118420</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4720</price>
+      </offer>
       <offer sku="00000016208">
         <name>Набор винтов, гаек, шайб, 420 предм.// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -8228,6 +8431,18 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8480</price>
+      </offer>
+      <offer sku="00000016485">
+        <name>Поддон для сбора масла, 8 л // Stels</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996030432</barcode>
+          <barcode>4606800050670</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4979</price>
       </offer>
       <offer sku="00000016510">
         <name>Провода стартовые, 200 А, 2,3 м, сумка на молнии// Stels</name>
@@ -8387,6 +8602,17 @@
         </pickup-options>
         <price>2307</price>
       </offer>
+      <offer sku="00000016794">
+        <name>Лопата снеговая Сибртех 420х425х1550 мм 61580</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800033079</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2727</price>
+      </offer>
       <offer sku="00000016826">
         <name>Лопата для уборки снега пластиковая LUXE, 540х375х1520 мм, стальной черенок// Palisad</name>
         <vendor>Palisad</vendor>
@@ -8453,6 +8679,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8180</price>
+      </offer>
+      <offer sku="00000017276">
+        <name>Набор дуг для парника Россия 0.85х0.9 м 5 мм 6 шт. 64408</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4606800032881</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2640</price>
       </offer>
       <offer sku="00000017327">
         <name>Набор для подключения шланга 1/2" (распылитель, 3 адаптера к распылителю)// Palisad</name>
@@ -8598,6 +8835,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8480</price>
+      </offer>
+      <offer sku="00000017681">
+        <name>Лейка садовая Россия 2 л 67505</name>
+        <vendor>Россия</vendor>
+        <barcodes>
+          <barcode>4607116630044</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1565</price>
       </offer>
       <offer sku="00000017815">
         <name>Перчатки садовые из полиэстера с нитрильным обливом, красные, S// Palisad</name>
@@ -8830,6 +9078,17 @@
         </pickup-options>
         <price>1379</price>
       </offer>
+      <offer sku="00000019864">
+        <name>Диск пильный по дереву Gross 130х20 мм 73301 + кольцо 20/16 мм</name>
+        <vendor>Gross</vendor>
+        <barcodes>
+          <barcode>4044996033259</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2990</price>
+      </offer>
       <offer sku="00000019871">
         <name>Диск пильный по дереву Gross 190х20 мм 73315 + кольцо 20/16 мм</name>
         <vendor>Gross</vendor>
@@ -9053,6 +9312,28 @@
         </pickup-options>
         <price>1388</price>
       </offer>
+      <offer sku="00000021175">
+        <name>Скребок SPARTA 795305</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996070971</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>440</price>
+      </offer>
+      <offer sku="00000021210">
+        <name>Нож канцелярский Matrix 18 мм 78933</name>
+        <vendor>Matrix</vendor>
+        <barcodes>
+          <barcode>4044996120003</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1790</price>
+      </offer>
       <offer sku="00000021218">
         <name>Нож, выдвижное трапециевидное лезвие, отделение для лезвий, метал.корпус// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9119,6 +9400,17 @@
         </pickup-options>
         <price>1480</price>
       </offer>
+      <offer sku="00000021470">
+        <name>Валик прижимной резиновый с ручкой Сибртех 6х50 мм 81032</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800074225</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>725</price>
+      </offer>
       <offer sku="00000021471">
         <name>Валик малярный Сибртех 150 мм 81033</name>
         <vendor>Сибртех</vendor>
@@ -9142,11 +9434,33 @@
         </pickup-options>
         <price>790</price>
       </offer>
+      <offer sku="00000021618">
+        <name>Кювета пластмассовая для валиков, 120х260 мм, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800031983</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>380</price>
+      </offer>
       <offer sku="00000021627">
         <name>Таз круглый строительный Сибртех 90 л 81442</name>
         <vendor>Сибртех</vendor>
         <barcodes>
           <barcode>4606800038241</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3990</price>
+      </offer>
+      <offer sku="00000021630">
+        <name>Таз строительный Сибртех 90 л прямоугольный 81445</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800038272</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -9174,6 +9488,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2770</price>
+      </offer>
+      <offer sku="00000021646">
+        <name>Таз прямоугольный строительный СИБРТЕХ 40 л Россия 814437</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800074676</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2590</price>
       </offer>
       <offer sku="00000021647">
         <name>Таз прямоугольный Сибртех 60 л 814445</name>
@@ -9424,6 +9749,17 @@
         </pickup-options>
         <price>3330</price>
       </offer>
+      <offer sku="00000022645">
+        <name>Правило алюминиевое "Трапеция", 1 ребро жесткости, L-1,5 м Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800046031</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4165</price>
+      </offer>
       <offer sku="00000022664">
         <name>Раскладка для инструмента настенная Matrix 675х450 мм 90245</name>
         <vendor>Matrix</vendor>
@@ -9446,6 +9782,17 @@
         </pickup-options>
         <price>1790</price>
       </offer>
+      <offer sku="00000022755">
+        <name>Ящик для инструментов Stels 500х260х260 мм 90705</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996123127</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>8969</price>
+      </offer>
       <offer sku="00000022756">
         <name>Ящик для инструмента STELS 23" 90706</name>
         <vendor>STELS</vendor>
@@ -9456,6 +9803,39 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11990</price>
+      </offer>
+      <offer sku="00000022772">
+        <name>Ящик для инструмента STELS 285х155х125 мм 90723</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4606800068569</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2290</price>
+      </offer>
+      <offer sku="00000022790">
+        <name>Ящик для инструментов Сибртех 90803</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800042293</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2590</price>
+      </offer>
+      <offer sku="00000022791">
+        <name>Ящик для инструмента Сибртех 410x215x197 мм 90804</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800042309</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4350</price>
       </offer>
       <offer sku="00000022868">
         <name>Пакеты для мусора 120л х 10шт пвд, короткий ролик, тип дна "Звезда",Россия// Сибртех</name>
@@ -9509,6 +9889,17 @@
         </pickup-options>
         <price>9990</price>
       </offer>
+      <offer sku="00000023215">
+        <name>Замок навесной ЗН2-3, 70 мм// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996048062</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3371</price>
+      </offer>
       <offer sku="00000023255">
         <name>Замок тросовый универсальный, 10 х 650 мм// Matrix</name>
         <vendor>Matrix</vendor>
@@ -9552,6 +9943,39 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3985</price>
+      </offer>
+      <offer sku="00000023362">
+        <name>Лампа керосиновая Sparta "ЛЕТУЧАЯ МЫШЬ" 932305</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996061535</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4990</price>
+      </offer>
+      <offer sku="00000023483">
+        <name>Шнур полиэфирный Сибртех 3 мм 25 м 93817</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800046512</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>690</price>
+      </offer>
+      <offer sku="00000023571">
+        <name>Лестница приставная, 7 ступеней, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800044280</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20490</price>
       </offer>
       <offer sku="00000023573">
         <name>Лестница приставная, 9 ступеней, Россия// Сибртех</name>
@@ -15966,6 +16390,17 @@
         </pickup-options>
         <price>2780</price>
       </offer>
+      <offer sku="00000063684">
+        <name>Уплотнитель резиновый, 12 м, профиль "D", коричневый// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4044996198392</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2240</price>
+      </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 предметов 14151</name>
         <vendor>Gross</vendor>
@@ -16075,6 +16510,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>790</price>
+      </offer>
+      <offer sku="00000064070">
+        <name>Губка хозяйственная 200x140x60 мм, Home// Palisad</name>
+        <vendor>Palisad</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>890</price>
       </offer>
       <offer sku="00000064094">
         <name>Отжимная швабра PALISAD Home 120 см, насадка из микрофибры, 120 г 935095</name>
@@ -18638,6 +19081,17 @@
         </pickup-options>
         <price>2780</price>
       </offer>
+      <offer sku="УТ-00001652">
+        <name>Набор ключей комбинированных 6-22 мм, 12 шт., CrV, матовый хром// Stels</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4044996205083</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7744</price>
+      </offer>
       <offer sku="УТ-00001665">
         <name>Полосогиб, 750 мм, ширина до 50 мм// Сибртех</name>
         <vendor>Cибртех</vendor>
@@ -18671,6 +19125,17 @@
         </pickup-options>
         <price>8572</price>
       </offer>
+      <offer sku="УТ-00001777">
+        <name>Движок для уборки снега пластиковый, 690х470х1420 мм, стальная рукоятка, Россия// Сибртех</name>
+        <vendor>Сибртех</vendor>
+        <barcodes>
+          <barcode>4606800092397</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17990</price>
+      </offer>
       <offer sku="УТ-00001801">
         <name>Шланг поливочный армированный дачный, ПВХ, 3/4", 15 м// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -18686,6 +19151,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9020</price>
+      </offer>
+      <offer sku="УТ-00001826">
+        <name>Перчатки универсальные, усиленные, с защитными накладками, размер 9// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996212210</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10900</price>
       </offer>
       <offer sku="УТ-00001870">
         <name>Таз круглый строительный, 90 л Россия// Sparta</name>

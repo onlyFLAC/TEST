@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 10:27">
+<fm_catalog date="2026-11-24 10:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2160,6 +2160,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8500</price>
+      </offer>
+      <offer sku="УТ-00022271">
+        <name>Масло с дозатором Husqvarna 2Т 1 л HP 587 80 85-11</name>
+        <vendor>Husqvarna</vendor>
+        <barcodes>
+          <barcode>7393089245909</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7100</price>
       </offer>
       <offer sku="УТ-00022277">
         <name>Спрей Active Clean 500мл Husqvarna</name>
@@ -5709,18 +5720,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>102090</price>
-      </offer>
-      <offer sku="00000006571">
-        <name>Импульсный паяльник ЗУБР "Профессионал" в наборе, 2 сменных жала, канифоль, припой, 150Вт</name>
-        <vendor>ЗУБР</vendor>
-        <barcodes>
-          <barcode>4606373097706</barcode>
-          <barcode>4606373214868</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13890</price>
       </offer>
       <offer sku="00000006594">
         <name>Набор кабельных нейлоновых стяжек ЗУБР КС-Б1 белые 2.5х100 мм 100 шт. 309010-25-100</name>
@@ -17575,6 +17574,14 @@
         </pickup-options>
         <price>161260</price>
       </offer>
+      <offer sku="00000074261">
+        <name>Перфоратор аккумуляторный Makita DHR242Z (DHR242Z)</name>
+        <vendor>Makita</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>157410</price>
+      </offer>
       <offer sku="00000074263">
         <name>Гайковерт аккумуляторный Makita DTW190Z (без АКБ)</name>
         <vendor>Makita</vendor>
@@ -23369,6 +23376,17 @@
         </pickup-options>
         <price>27145</price>
       </offer>
+      <offer sku="УТ-00072562">
+        <name>Ножницы для резки кабелей KNIPEX 95 16 160</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773085966</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>44450</price>
+      </offer>
       <offer sku="УТ-00072566">
         <name>Ножницы для резки кабелей KNIPEX 95 26 165</name>
         <vendor>KNIPEX</vendor>
@@ -25822,6 +25840,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2490</price>
+      </offer>
+      <offer sku="УТ-00099471">
+        <name>Насадка для реноватора DeWALT 43х30 мм, DT20734-QZ</name>
+        <vendor>DeWALT</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3190</price>
       </offer>
       <offer sku="УТ-00099536">
         <name>15293 Пила торцовочная циркулярная мощность 2000Вт, О диска 255мм, макс.CROWN</name>

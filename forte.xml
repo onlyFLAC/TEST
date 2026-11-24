@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-24 16:19">
+<fm_catalog date="2026-11-24 16:48">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -9751,6 +9751,17 @@
         </pickup-options>
         <price>23580</price>
       </offer>
+      <offer sku="00000024769">
+        <name>Машина алмазного бурения DD 4025 MF ALTECO Professional</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216450229</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>209000</price>
+      </offer>
       <offer sku="00000024804">
         <name>Сабельная пила RS 0514 ALTECO</name>
         <vendor>ALTECO</vendor>
@@ -15333,17 +15344,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1765</price>
-      </offer>
-      <offer sku="00000059140">
-        <name>Вешалка настенная ЗМИ "НОРМА 5" ВН24 черная</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4640011871976</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>2140</price>
       </offer>
       <offer sku="00000059150">
         <name>Подставка для обуви ЗМИ "АЛЬФА 22" ПДОА22 коричневая (ПДО12М)</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 05:01">
+<fm_catalog date="2026-11-25 05:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -19069,17 +19069,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7744</price>
-      </offer>
-      <offer sku="УТ-00001665">
-        <name>Полосогиб, 750 мм, ширина до 50 мм// Сибртех</name>
-        <vendor>Cибртех</vendor>
-        <barcodes>
-          <barcode>4606800088161</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>18890</price>
       </offer>
       <offer sku="УТ-00001721">
         <name>Лом-гвоздодер усиленный, 1200х29х15 мм// Matrix</name>

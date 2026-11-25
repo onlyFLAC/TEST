@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 07:27">
+<fm_catalog date="2026-11-25 07:56">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11375,17 +11375,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>163330</price>
-      </offer>
-      <offer sku="00000032526">
-        <name>Пила мини-цепная аккумуляторная Bosch EasyCut12 06033C9020</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140830836</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>104820</price>
       </offer>
       <offer sku="00000032535">
         <name>Мойка высокого давления электрическая BOSCH AdvancedAquatak 150 06008A7700</name>

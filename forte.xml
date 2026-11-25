@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 12:50">
+<fm_catalog date="2026-11-25 13:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -749,14 +749,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19190</price>
-      </offer>
-      <offer sku="УТ-00005950">
-        <name>Уровень Stabila тип 70, 50 см 02283</name>
-        <vendor>STABILA</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12590</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -11045,17 +11037,6 @@
         </pickup-options>
         <price>3620</price>
       </offer>
-      <offer sku="00000032300">
-        <name>Бокс для аксессуаров средний для SystemBox (2/9)</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140951906</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4470</price>
-      </offer>
       <offer sku="00000032301">
         <name>Кейс для инструментов BOSCH SystemBox S 1600A016CT</name>
         <vendor>BOSCH</vendor>
@@ -16016,17 +15997,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>64399</price>
-      </offer>
-      <offer sku="00000059331">
-        <name>Машина шлифовальная угловая аккумуляторная (болгарка) BOSCH GWS 180-LI SOLO 06019H9020</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140978644</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>108890</price>
       </offer>
       <offer sku="00000059339">
         <name>Пила дисковая BOSCH GKS 140 06016B3020</name>
@@ -23604,17 +23574,6 @@
         </pickup-options>
         <price>21015</price>
       </offer>
-      <offer sku="УТ-00072360">
-        <name>Зажимы TetheredTool + зажимы ColorCode KNIPEX 00 63 06 TCR</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773089759</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6490</price>
-      </offer>
       <offer sku="УТ-00072375">
         <name>Инструмент для обжима контактных гильз KNIPEX 97 72 180</name>
         <vendor>KNIPEX</vendor>
@@ -23907,17 +23866,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32790</price>
-      </offer>
-      <offer sku="УТ-00072601">
-        <name>Плоскогубцы комбинированные KNIPEX 03 01 200</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773213253</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>15255</price>
       </offer>
       <offer sku="УТ-00072608">
         <name>Плоскогубцы электрика KNIPEX 13 01 160</name>

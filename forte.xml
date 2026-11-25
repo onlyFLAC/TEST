@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 14:17">
+<fm_catalog date="2026-11-25 14:47">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -10153,6 +10153,17 @@
         </pickup-options>
         <price>24900</price>
       </offer>
+      <offer sku="00000024821">
+        <name>Пила дисковая ALTECO CS 1200-185 L 31015</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216454814</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28900</price>
+      </offer>
       <offer sku="00000024831">
         <name>Шлифмашина эксцентриковая ALTECO EX 0910 (EX 480-125 E) 27462</name>
         <vendor>ALTECO</vendor>
@@ -10847,6 +10858,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>96900</price>
+      </offer>
+      <offer sku="00000031906">
+        <name>Стремянка односторонняя KRAUSE SOLIDY 5 ступ. 126238</name>
+        <vendor>Krause</vendor>
+        <barcodes>
+          <barcode>4009199126238</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>48000</price>
       </offer>
       <offer sku="00000031936">
         <name>Подставка складная KRAUSE ROLLY 2х3 ступ. 130068</name>

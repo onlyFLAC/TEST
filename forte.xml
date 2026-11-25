@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 11:21">
+<fm_catalog date="2026-11-25 11:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20318,14 +20318,6 @@
         </pickup-options>
         <price>19579</price>
       </offer>
-      <offer sku="УТ-00048515">
-        <name>GL-5 - Фильтр для очистки для ДТ и бензина от мех. примесей, 30 мкм, 1" BSP, 100 л/мин</name>
-        <vendor>Petropump</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14881</price>
-      </offer>
       <offer sku="УТ-00048516">
         <name>GL-6 - Водоабсорбирующий фильтр для ДТ и топлива,30 мкм, 1" BSP (F), 100 л/мин</name>
         <vendor>Petropump</vendor>
@@ -23200,17 +23192,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11330</price>
-      </offer>
-      <offer sku="УТ-00063839">
-        <name>Плоскогубцы комбинированные BOSCH 1600A02ZH0</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4053423252248</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6800</price>
       </offer>
       <offer sku="УТ-00063840">
         <name>Нож складной Bosch 1600A032V7</name>

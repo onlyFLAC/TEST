@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 00:04">
+<fm_catalog date="2026-11-26 00:33">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17153,14 +17153,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11999</price>
-      </offer>
-      <offer sku="00000070238">
-        <name>Цепь круглозвенная Tor G80 некалиброванная 10716481</name>
-        <vendor>TOR</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9521</price>
       </offer>
       <offer sku="00000070274">
         <name>Поверхность варочная газовая MSR 0227 NEW бежевый</name>

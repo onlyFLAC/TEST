@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 23:05">
+<fm_catalog date="2026-11-25 23:34">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -18850,17 +18850,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15900</price>
-      </offer>
-      <offer sku="УТ-00001331">
-        <name>Комплект угольных щеток BOSCH 1607000CZ1</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952058702</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4999</price>
       </offer>
       <offer sku="УТ-00001335">
         <name>Коробка редуктора BOSCH 1600A00P8Z</name>

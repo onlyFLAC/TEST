@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 07:56">
+<fm_catalog date="2026-11-25 08:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -910,6 +910,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>12905</price>
+      </offer>
+      <offer sku="УТ-00007872">
+        <name>Диск отрезной по металлу Т41-125*1,0*22,2 Greatflex LIGHT 45707</name>
+        <vendor>Greatflex</vendor>
+        <barcodes>
+          <barcode>4660064465649</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>390</price>
       </offer>
       <offer sku="УТ-00007968">
         <name>Дрель-шуруповерт аккумуляторная CROWN CT21104XS-2 BMC</name>
@@ -8091,17 +8102,6 @@
         </pickup-options>
         <price>1390</price>
       </offer>
-      <offer sku="00000014674">
-        <name>Струбцина F-образная, 300 х 120 х 365 мм// Sparta</name>
-        <vendor>Sparta</vendor>
-        <barcodes>
-          <barcode>4044996039633</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3380</price>
-      </offer>
       <offer sku="00000014708">
         <name>Струбцина G-образная,150 мм// Сибртех</name>
         <vendor>Сибртех</vendor>
@@ -8443,6 +8443,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6440</price>
+      </offer>
+      <offer sku="00000016537">
+        <name>Трос буксировочный 7 тонн, 2 крюка, сумка на молнии, Россия // Stels</name>
+        <vendor>STELS</vendor>
+        <barcodes>
+          <barcode>4606800046390</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3094</price>
       </offer>
       <offer sku="00000016544">
         <name>Органайзер автомобильный на спинку сиденья // Stels</name>
@@ -20141,17 +20152,6 @@
         </pickup-options>
         <price>7200</price>
       </offer>
-      <offer sku="УТ-00048211">
-        <name>Масло для цепных пил Husqvarna 2Т 0.1 л 587 80 85-01</name>
-        <vendor>Husqvarna</vendor>
-        <barcodes>
-          <barcode>7393089245848</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1400</price>
-      </offer>
       <offer sku="УТ-00048213">
         <name>Смазка редуктора 225г Husqvarna 502 51 27-01</name>
         <vendor>Husqvarna</vendor>
@@ -23042,17 +23042,6 @@
         </pickup-options>
         <price>67420</price>
       </offer>
-      <offer sku="УТ-00063812">
-        <name>Комбинированные плоскогубцы BOSCH 180 мм 1600A01TH7</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952512549</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9970</price>
-      </offer>
       <offer sku="УТ-00063814">
         <name>Молоток слесарный BOSCH 500 г 1600A016BT</name>
         <vendor>BOSCH</vendor>
@@ -24816,14 +24805,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42740</price>
-      </offer>
-      <offer sku="УТ-00087775">
-        <name>Лента для рулетки Husqvarna 15 м 505 69 73-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6500</price>
       </offer>
       <offer sku="УТ-00089268">
         <name>Шлифмашина угловая (болгарка) аккумуляторная BOSCH GWS 18V-8 1х4 Ач +GAL 1840 06019N9021</name>

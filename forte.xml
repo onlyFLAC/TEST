@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 16:15">
+<fm_catalog date="2026-11-25 16:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21340,6 +21340,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>132800</price>
+      </offer>
+      <offer sku="УТ-00056637">
+        <name>Сирена пьезоэлектрическая Pandora PS-330</name>
+        <vendor>Pandora</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7500</price>
       </offer>
       <offer sku="УТ-00056639">
         <name>Видеорегистратор SilverStone F-1 INTEGRAL 2.0 Wi-Fi</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 14:47">
+<fm_catalog date="2026-11-25 15:16">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -13943,17 +13943,6 @@
         <vendor>BOSCH</vendor>
         <barcodes>
           <barcode>3165140358484</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3790</price>
-      </offer>
-      <offer sku="00000036901">
-        <name>Фреза пазовая (16х20 мм; 8 мм; 2 лезвия) по дереву Bosch 2608628388</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140358491</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1"/>

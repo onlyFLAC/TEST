@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-25 10:22">
+<fm_catalog date="2026-11-25 10:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -749,6 +749,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19190</price>
+      </offer>
+      <offer sku="УТ-00005950">
+        <name>Уровень Stabila тип 70, 50 см 02283</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12590</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -21820,6 +21828,17 @@
         </pickup-options>
         <price>11748</price>
       </offer>
+      <offer sku="УТ-00059658">
+        <name>Пуф Nika HPF1/P гусиная лапка</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4630111519526</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15997</price>
+      </offer>
       <offer sku="УТ-00059659">
         <name>Стремянка с широкими ступенями Nika СМШ2/Б белый</name>
         <vendor>Nika</vendor>
@@ -22906,17 +22925,6 @@
         </pickup-options>
         <price>6230</price>
       </offer>
-      <offer sku="УТ-00063248">
-        <name>Табурет квадратный Nika "ФАБРИК 3" ТФ03/С серый</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4620032741571</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7387</price>
-      </offer>
       <offer sku="УТ-00063251">
         <name>Табурет круглый Nika "ФАБРИК 1" ТФ01/СС светло-серый</name>
         <vendor>Nika</vendor>
@@ -23624,6 +23632,17 @@
         </pickup-options>
         <price>21015</price>
       </offer>
+      <offer sku="УТ-00072360">
+        <name>Зажимы TetheredTool + зажимы ColorCode KNIPEX 00 63 06 TCR</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773089759</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6490</price>
+      </offer>
       <offer sku="УТ-00072375">
         <name>Инструмент для обжима контактных гильз KNIPEX 97 72 180</name>
         <vendor>KNIPEX</vendor>
@@ -23916,6 +23935,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>32790</price>
+      </offer>
+      <offer sku="УТ-00072601">
+        <name>Плоскогубцы комбинированные KNIPEX 03 01 200</name>
+        <vendor>KNIPEX</vendor>
+        <barcodes>
+          <barcode>4003773213253</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15255</price>
       </offer>
       <offer sku="УТ-00072608">
         <name>Плоскогубцы электрика KNIPEX 13 01 160</name>

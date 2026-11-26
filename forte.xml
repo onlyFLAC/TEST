@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 15:41">
+<fm_catalog date="2026-11-26 20:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2664,6 +2664,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>55380</price>
+      </offer>
+      <offer sku="УТ-00024825">
+        <name>Тачка строительная двухколесная DENZEL 250 кг 69000</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996205076</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>72810</price>
       </offer>
       <offer sku="УТ-00024852">
         <name>Насос скважинный Denzel DWS-3.5-100 97251</name>
@@ -9606,17 +9617,6 @@
         </pickup-options>
         <price>3980</price>
       </offer>
-      <offer sku="00000022440">
-        <name>Лента сигнальная Сибртех 50 мм, 200 м, черно-желтая 89033</name>
-        <vendor>Сибртех</vendor>
-        <barcodes>
-          <barcode>4606800061669</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1490</price>
-      </offer>
       <offer sku="00000022444">
         <name>Лента армированная, влагостойкая, 48мм х 25м, серебристая// Matrix</name>
         <vendor>Matrix</vendor>
@@ -10938,14 +10938,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>163800</price>
-      </offer>
-      <offer sku="00000031903">
-        <name>Подставка складная KRAUSE TREPPO 2x4 ступ. 126047</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>96900</price>
       </offer>
       <offer sku="00000031906">
         <name>Стремянка односторонняя KRAUSE SOLIDY 5 ступ. 126238</name>
@@ -13863,17 +13855,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>20890</price>
-      </offer>
-      <offer sku="00000036501">
-        <name>3 ступ сверла HSS-TiN Pro Box</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140630269</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>99840</price>
       </offer>
       <offer sku="00000036516">
         <name>Сверло ступенчатое по металлу BOSCH 13 ступ. 6-30 мм 2608597520</name>
@@ -22482,6 +22463,17 @@
         </pickup-options>
         <price>48730</price>
       </offer>
+      <offer sku="УТ-00060281">
+        <name>Смеситель для кухни Frap оружейная сталь F40899-9</name>
+        <vendor>Frap</vendor>
+        <barcodes>
+          <barcode>6959477626876</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>15740</price>
+      </offer>
       <offer sku="УТ-00060284">
         <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
         <vendor>Frap</vendor>
@@ -23218,17 +23210,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11720</price>
-      </offer>
-      <offer sku="УТ-00063823">
-        <name>Рулетка измерительная BOSCH 8 м 27 мм 1600A01V3S</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>4059952523606</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>14070</price>
       </offer>
       <offer sku="УТ-00063825">
         <name>Набор торцевых головок 1/4" BOSCH 34 предмета 1600A02BY1</name>
@@ -24036,14 +24017,6 @@
         </pickup-options>
         <price>13135</price>
       </offer>
-      <offer sku="УТ-00072647">
-        <name>Труборез KNIPEX 90 31 03 BK</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>89905</price>
-      </offer>
       <offer sku="УТ-00072650">
         <name>Труборез для пластиковых труб KNIPEX 90 25 40</name>
         <vendor>KNIPEX</vendor>
@@ -24569,14 +24542,6 @@
         </pickup-options>
         <price>190</price>
       </offer>
-      <offer sku="УТ-00084685">
-        <name>Плоскогубцы KNIPEX 240 мм 09 01 240</name>
-        <vendor>KNIPEX</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>34730</price>
-      </offer>
       <offer sku="УТ-00084690">
         <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
         <vendor>Wera</vendor>
@@ -24595,14 +24560,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>67980</price>
-      </offer>
-      <offer sku="УТ-00085039">
-        <name>Шлифмашина угловая (болгарка) ALTECO AG 1100-125 94242</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>16900</price>
       </offer>
       <offer sku="УТ-00085111">
         <name>Кровать раскладная с матрасом Nika РК4-М/ГП с графическими перьями</name>
@@ -24711,22 +24668,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
-      </offer>
-      <offer sku="УТ-00085494">
-        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
-      <offer sku="УТ-00085495">
-        <name>Набор напильников Husqvarna 5.2 мм 3 шт. 597 35 59-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

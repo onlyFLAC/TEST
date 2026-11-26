@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 09:20">
+<fm_catalog date="2026-11-26 09:50">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4372,6 +4372,17 @@
         </pickup-options>
         <price>312490</price>
       </offer>
+      <offer sku="00000000888">
+        <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
+        <vendor>Ресанта</vendor>
+        <barcodes>
+          <barcode>4606059031475</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>30790</price>
+      </offer>
       <offer sku="00000001459">
         <name>Кабель с электрододержателем 25 кв.мм, 3 м РЕСАНТА</name>
         <vendor>Ресанта</vendor>
@@ -7247,6 +7258,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22180</price>
+      </offer>
+      <offer sku="00000010390">
+        <name>Одинарный пластмассовый стеклодомкрат STAYER MASTER MAXLift 5 кг 33718-0</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229177096</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1990</price>
       </offer>
       <offer sku="00000010534">
         <name>Тент-полотно универсальный STAYER 2x3 м 12560-02-03</name>

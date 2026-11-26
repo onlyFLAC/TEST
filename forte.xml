@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 12:45">
+<fm_catalog date="2026-11-26 13:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -23793,6 +23793,14 @@
         </pickup-options>
         <price>13135</price>
       </offer>
+      <offer sku="УТ-00072647">
+        <name>Труборез KNIPEX 90 31 03 BK</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>89905</price>
+      </offer>
       <offer sku="УТ-00072650">
         <name>Труборез для пластиковых труб KNIPEX 90 25 40</name>
         <vendor>KNIPEX</vendor>
@@ -24310,6 +24318,14 @@
         </pickup-options>
         <price>190</price>
       </offer>
+      <offer sku="УТ-00084685">
+        <name>Плоскогубцы KNIPEX 240 мм 09 01 240</name>
+        <vendor>KNIPEX</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>34730</price>
+      </offer>
       <offer sku="УТ-00084690">
         <name>Битодержатель Wera с битами 6 шт. 05008875001</name>
         <vendor>Wera</vendor>
@@ -24530,6 +24546,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3999</price>
+      </offer>
+      <offer sku="УТ-00085796">
+        <name>Краскораспылитель WAGNER Finish Contol 3500 Plus 2477391</name>
+        <vendor>WAGNER</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>223400</price>
       </offer>
       <offer sku="УТ-00087281">
         <name>Колесо для мотоблока правое TT 4.00-8 4870024326877</name>

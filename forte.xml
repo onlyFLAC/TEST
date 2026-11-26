@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 10:49">
+<fm_catalog date="2026-11-26 11:18">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2302,14 +2302,6 @@
         </pickup-options>
         <price>13200</price>
       </offer>
-      <offer sku="УТ-00022326">
-        <name>НАПИЛЬНИК 5.5ММ INTENSIVE CUT (комплект из 12ШТ)</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>13200</price>
-      </offer>
       <offer sku="УТ-00022369">
         <name>Цепь 14"; 3/8"; 1.1 52DL H38 Husqvarna</name>
         <vendor>Husqvarna</vendor>
@@ -4336,17 +4328,6 @@
         </pickup-options>
         <price>30661</price>
       </offer>
-      <offer sku="УТ-00040253">
-        <name>Стол складной туристический Nika ТСТ/С дуб сонома</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111522960</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11400</price>
-      </offer>
       <offer sku="УТ-00040254">
         <name>Стол складной туристический Nika ТСТ/ЯС ясень черный</name>
         <vendor>Nika</vendor>
@@ -6091,17 +6072,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>490</price>
-      </offer>
-      <offer sku="00000007598">
-        <name>Лебедка автомобильная STAYER 1 т 1.8 м 4310-1</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229096380</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>11390</price>
       </offer>
       <offer sku="00000007609">
         <name>Лебедка ручная барабанная ЗУБР 0.9 т 10 м 43115-0.9</name>
@@ -10889,14 +10859,6 @@
         </pickup-options>
         <price>48000</price>
       </offer>
-      <offer sku="00000031936">
-        <name>Подставка складная KRAUSE ROLLY 2х3 ступ. 130068</name>
-        <vendor>Krause</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>52700</price>
-      </offer>
       <offer sku="00000031981">
         <name>Сейф VALBERG ASM-120 Т</name>
         <vendor>VALBERG</vendor>
@@ -11581,17 +11543,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>703</price>
-      </offer>
-      <offer sku="00000032655">
-        <name>Диск отрезной по металлу Bosch 150х1.6х22.2 мм 2608603405</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140706971</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>996</price>
       </offer>
       <offer sku="00000032656">
         <name>Диск отрезной по металлу Bosch 230х2 мм 2608600096</name>
@@ -24523,22 +24474,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
-      </offer>
-      <offer sku="УТ-00085492">
-        <name>Набор напильников Husqvarna 4 мм 3 шт. 597 35 48-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
-      </offer>
-      <offer sku="УТ-00085495">
-        <name>Набор напильников Husqvarna 5.2 мм 3 шт. 597 35 59-01</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

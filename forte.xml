@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 14:42">
+<fm_catalog date="2026-11-26 15:12">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2686,6 +2686,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>717860</price>
+      </offer>
+      <offer sku="УТ-00024997">
+        <name>Мешок тканевый многоразовый для пылесоса Denzel SVC15, LVC15// Denzel</name>
+        <vendor>Denzel</vendor>
+        <barcodes>
+          <barcode>4044996238562</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2690</price>
       </offer>
       <offer sku="УТ-00024998">
         <name>Фильтр каркасный-складчатый HEPA Denzel 28214</name>

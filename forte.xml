@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 13:15">
+<fm_catalog date="2026-11-26 13:44">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -17246,6 +17246,17 @@
         </pickup-options>
         <price>15100</price>
       </offer>
+      <offer sku="00000070867">
+        <name>Косильная головка AutoCut 46-2 (для FS 400) Stihl</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661168224</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>17820</price>
+      </offer>
       <offer sku="00000070888">
         <name>Диск режущий для травы STIHL 230-4 Ø25.4 мм (для FS 55-FS 350) 40017133801</name>
         <vendor>STIHL</vendor>
@@ -19706,6 +19717,17 @@
         </pickup-options>
         <price>4990</price>
       </offer>
+      <offer sku="УТ-00042423">
+        <name>Каска Stihl Function Basic 00008880810</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>886661919154</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>26200</price>
+      </offer>
       <offer sku="УТ-00042453">
         <name>Пила настольная Einhell TC-TS 2025/2 U 4340490</name>
         <vendor>Einhell</vendor>
@@ -20594,6 +20616,14 @@
         </pickup-options>
         <price>7398</price>
       </offer>
+      <offer sku="УТ-00052936">
+        <name>Крюк зацеп для рулетки 505 69 72-10</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3000</price>
+      </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>
         <vendor>Matrix</vendor>
@@ -20880,6 +20910,17 @@
         </pickup-options>
         <price>186300</price>
       </offer>
+      <offer sku="УТ-00055300">
+        <name>Плоский напильник 150х16х2,7 08142523000</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711385736</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2860</price>
+      </offer>
       <offer sku="УТ-00055311">
         <name>Масло моторное STIHL 1:50 5 л красное 07813198468лб5</name>
         <vendor>STIHL</vendor>
@@ -20906,6 +20947,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>18290</price>
+      </offer>
+      <offer sku="УТ-00055365">
+        <name>Плоский напильник 150 мм 08142523356</name>
+        <vendor>STIHL</vendor>
+        <barcodes>
+          <barcode>795711019501</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2620</price>
       </offer>
       <offer sku="УТ-00055373">
         <name>Станок заточный Einhell TH-XG75Kit 4412560</name>
@@ -24283,6 +24335,14 @@
         </pickup-options>
         <price>7400</price>
       </offer>
+      <offer sku="УТ-00079727">
+        <name>Калибр контрольный Stihl 00008934105</name>
+        <vendor>STIHL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1210</price>
+      </offer>
       <offer sku="УТ-00081662">
         <name>Нож слева Stihl 61707020130</name>
         <vendor>STIHL</vendor>
@@ -24468,6 +24528,22 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4400</price>
+      </offer>
+      <offer sku="УТ-00085494">
+        <name>Набор напильников Husqvarna 4.8 мм 3 шт. 597 35 58-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
+      </offer>
+      <offer sku="УТ-00085495">
+        <name>Набор напильников Husqvarna 5.2 мм 3 шт. 597 35 59-01</name>
+        <vendor>Husqvarna</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3300</price>
       </offer>
       <offer sku="УТ-00085497">
         <name>Напильник плоский Husqvarna 6" 505 69 81-60</name>

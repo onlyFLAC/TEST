@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 10:19">
+<fm_catalog date="2026-11-26 10:49">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -193,6 +193,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>55200</price>
+      </offer>
+      <offer sku="УТ-00003961">
+        <name>Лобзик электрический CROWN CT15287</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640372697731</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20990</price>
       </offer>
       <offer sku="УТ-00003976">
         <name>Мультиметр цифровой CROWN CT44051</name>
@@ -4391,6 +4402,17 @@
         </pickup-options>
         <price>312490</price>
       </offer>
+      <offer sku="00000000888">
+        <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
+        <vendor>Ресанта</vendor>
+        <barcodes>
+          <barcode>4606059031475</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>30790</price>
+      </offer>
       <offer sku="00000001459">
         <name>Кабель с электрододержателем 25 кв.мм, 3 м РЕСАНТА</name>
         <vendor>Ресанта</vendor>
@@ -7745,6 +7767,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8367</price>
+      </offer>
+      <offer sku="00000012792">
+        <name>Ключ-трещотка 1/4", CrV, с переключателем// Sparta</name>
+        <vendor>Sparta</vendor>
+        <barcodes>
+          <barcode>4044996056074</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2070</price>
       </offer>
       <offer sku="00000012803">
         <name>Набор ключей трубчатых торцевых 9 пр// Matrix</name>

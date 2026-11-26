@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 07:52">
+<fm_catalog date="2026-11-26 08:22">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1339,17 +1339,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6380</price>
-      </offer>
-      <offer sku="УТ-00012970">
-        <name>Уровень Stabila тип 70, 40 см 02282</name>
-        <vendor>STABILA</vendor>
-        <barcodes>
-          <barcode>4005069022822</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12190</price>
       </offer>
       <offer sku="УТ-00012979">
         <name>Сушилка напольная Nika СБ1/Ч черный</name>
@@ -10098,6 +10087,17 @@
         </pickup-options>
         <price>209000</price>
       </offer>
+      <offer sku="00000024802">
+        <name>Рубанок сетевой ALTECO PL 650 30123</name>
+        <vendor>ALTECO</vendor>
+        <barcodes>
+          <barcode>4870216454302</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>28500</price>
+      </offer>
       <offer sku="00000024804">
         <name>Сабельная пила RS 0514 ALTECO</name>
         <vendor>ALTECO</vendor>
@@ -10345,6 +10345,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6995</price>
+      </offer>
+      <offer sku="00000025438">
+        <name>Сушилка напольная Nika СБ2/С серебристый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4607075831117</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7999</price>
       </offer>
       <offer sku="00000025439">
         <name>Табурет круглый Nika "ЭКОНОМ 2" ТЭ2/Б бежевый</name>
@@ -10916,17 +10927,6 @@
         </pickup-options>
         <price>4999</price>
       </offer>
-      <offer sku="00000032196">
-        <name>Диск отрезной по нержавеющей стали Bosch X-LOCK (125x1x22.2 мм; 10 шт.) 2608619267</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140947572</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6056</price>
-      </offer>
       <offer sku="00000032238">
         <name>Аккумулятор для электроинструментов Bosch GBA 12V 2 Ач 1600Z0002X</name>
         <vendor>BOSCH</vendor>
@@ -11036,17 +11036,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>59480</price>
-      </offer>
-      <offer sku="00000032334">
-        <name>Гайковерт импульсный GDR 120-Li без ЗУ И АКБ (50283210) Bosch</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140888462</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>38840</price>
       </offer>
       <offer sku="00000032360">
         <name>Диск алмазный BOSCH 180х22,2 мм 2608602199</name>
@@ -12761,17 +12750,6 @@
         </pickup-options>
         <price>6041</price>
       </offer>
-      <offer sku="00000034719">
-        <name>Набор лобзиковых пилок BOSCH T301CD 5 шт. 2608637590</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140016308</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3648</price>
-      </offer>
       <offer sku="00000034722">
         <name>100 ЛОБЗИКОВЫХ ПИЛОК T 101 B, HCS</name>
         <vendor>BOSCH</vendor>
@@ -13905,17 +13883,6 @@
         </pickup-options>
         <price>3790</price>
       </offer>
-      <offer sku="00000036903">
-        <name>ФРЕЗА ПАЗОВАЯ 20/8 MM</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140358514</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4308</price>
-      </offer>
       <offer sku="00000036904">
         <name>Фреза пазовая (22х25 мм; 8 мм; 2 лезвия) BOSCH 2608628391</name>
         <vendor>BOSCH</vendor>
@@ -14492,17 +14459,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13900</price>
-      </offer>
-      <offer sku="00000039958">
-        <name>Насадка для гравера DREMEL 7.8 мм 2 шт. 26150114JA</name>
-        <vendor>DREMEL</vendor>
-        <barcodes>
-          <barcode>8710364044702</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7490</price>
       </offer>
       <offer sku="00000040080">
         <name>Набор клеевых стержней DREMEL 7 мм 12 шт. 2615GG03JA</name>
@@ -20634,14 +20590,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>7398</price>
-      </offer>
-      <offer sku="УТ-00052936">
-        <name>Крюк зацеп для рулетки 505 69 72-10</name>
-        <vendor>Husqvarna</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3000</price>
       </offer>
       <offer sku="УТ-00052972">
         <name>Лезвия,18мм,сталь SK5,10шт//Matrix</name>

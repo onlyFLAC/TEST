@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 08:22">
+<fm_catalog date="2026-11-26 08:51">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -7247,17 +7247,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>22180</price>
-      </offer>
-      <offer sku="00000010390">
-        <name>Одинарный пластмассовый стеклодомкрат STAYER MASTER MAXLift 5 кг 33718-0</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229177096</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>1990</price>
       </offer>
       <offer sku="00000010534">
         <name>Тент-полотно универсальный STAYER 2x3 м 12560-02-03</name>
@@ -24501,14 +24490,6 @@
         </pickup-options>
         <price>57050</price>
       </offer>
-      <offer sku="УТ-00085537">
-        <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-55 1600A036Z6</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>78670</price>
-      </offer>
       <offer sku="УТ-00085538">
         <name>Блок аккумуляторный BOSCH EXPERT EXBA18V-80 1600A036ZB</name>
         <vendor>BOSCH</vendor>
@@ -25537,14 +25518,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>5870</price>
-      </offer>
-      <offer sku="УТ-00091588">
-        <name>Набор TORX-ключей BOSCH 9 шт 1600A02Z9C</name>
-        <vendor>BOSCH</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6310</price>
       </offer>
       <offer sku="УТ-00091589">
         <name>Набор комбинированных ключей BOSCH 12 предметов 1600A02Z9D</name>

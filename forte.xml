@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-26 07:23">
+<fm_catalog date="2026-11-26 07:52">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -4382,17 +4382,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>312490</price>
-      </offer>
-      <offer sku="00000000888">
-        <name>Радитор масляный Ресанта ОМПТ-12НЧ 67/3/15</name>
-        <vendor>Ресанта</vendor>
-        <barcodes>
-          <barcode>4606059031475</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30790</price>
       </offer>
       <offer sku="00000001459">
         <name>Кабель с электрододержателем 25 кв.мм, 3 м РЕСАНТА</name>

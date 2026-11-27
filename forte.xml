@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 15:32">
+<fm_catalog date="2026-11-27 16:01">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -2753,7 +2753,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1990</price>
+        <price>1980</price>
       </offer>
       <offer sku="УТ-00025511">
         <name>Вакуумный пакет для упаковки и хранения вещей, 60х80 см, Home// Palisad</name>
@@ -7604,7 +7604,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6940</price>
+        <price>6929</price>
       </offer>
       <offer sku="00000011814">
         <name>Киянка резиновая, 680 г, черная резина, фибергласовая рукоятка// Matrix</name>
@@ -7769,7 +7769,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2070</price>
+        <price>2059</price>
       </offer>
       <offer sku="00000012803">
         <name>Набор ключей трубчатых торцевых 9 пр// Matrix</name>
@@ -7791,7 +7791,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4990</price>
+        <price>4079</price>
       </offer>
       <offer sku="00000013077">
         <name>Набор ключей рожковых, 6 - 19 мм, 6 шт., CrV, фосфатированные, ГОСТ 2839// Сибртех</name>
@@ -7968,7 +7968,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3837</price>
+        <price>3826</price>
       </offer>
       <offer sku="00000014265">
         <name>Катушка триммерная Denzel 96365</name>
@@ -8122,7 +8122,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1732</price>
+        <price>1720</price>
       </offer>
       <offer sku="00000015063">
         <name>Лом-гвоздодер, двутавровый профиль, 600х30х17 мм// Gross</name>
@@ -8265,7 +8265,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7411</price>
+        <price>7400</price>
       </offer>
       <offer sku="00000015921">
         <name>Набор металлических хомутов Сибртех 50-70 мм 50 шт. 47563</name>
@@ -8276,7 +8276,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4638</price>
+        <price>4627</price>
       </offer>
       <offer sku="00000015949">
         <name>Набор стальных хомутов Сибртех 120-140 мм 25 шт. 47591</name>
@@ -8331,7 +8331,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4720</price>
+        <price>4709</price>
       </offer>
       <offer sku="00000016208">
         <name>Набор винтов, гаек, шайб, 420 предм.// Сибртех</name>
@@ -8342,7 +8342,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4157</price>
+        <price>4147</price>
       </offer>
       <offer sku="00000016383">
         <name>Домкрат гидравлический подкатной, поворотная рукоятка, 2т LOW PROFILE, 100-350 мм// Stels</name>
@@ -8589,7 +8589,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>7790</price>
+        <price>7780</price>
       </offer>
       <offer sku="00000016945">
         <name>Совок глубокий, 120х330 мм, пластиковый, NYLON// Palisad</name>
@@ -8779,7 +8779,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6080</price>
+        <price>6065</price>
       </offer>
       <offer sku="00000017672">
         <name>Бак для воды оцинкованный с крышкой (крышка с ручкой) 32л, без крана// Россия</name>
@@ -9255,7 +9255,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>9224</price>
+        <price>9213</price>
       </offer>
       <offer sku="00000020955">
         <name>Набор полотен для ножовки Сибртех 300 мм 12 шт. 77764</name>
@@ -9410,7 +9410,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3990</price>
+        <price>3975</price>
       </offer>
       <offer sku="00000021630">
         <name>Таз строительный Сибртех 90 л прямоугольный 81445</name>
@@ -9443,7 +9443,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2770</price>
+        <price>2690</price>
       </offer>
       <offer sku="00000021646">
         <name>Таз прямоугольный строительный СИБРТЕХ 40 л Россия 814437</name>
@@ -9466,7 +9466,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3190</price>
+        <price>3175</price>
       </offer>
       <offer sku="00000021648">
         <name>Таз строительный прямоугольный Sparta 60 л 814525</name>
@@ -9478,7 +9478,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3465</price>
+        <price>3390</price>
       </offer>
       <offer sku="00000021649">
         <name>Таз прямоугольный строительный Sparta 90 л 814535</name>
@@ -9489,7 +9489,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4480</price>
+        <price>4390</price>
       </offer>
       <offer sku="00000021752">
         <name>Кисть плоская Сибртех 100 мм 82266</name>
@@ -9736,7 +9736,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8969</price>
+        <price>8959</price>
       </offer>
       <offer sku="00000022756">
         <name>Ящик для инструмента STELS 23" 90706</name>
@@ -16320,7 +16320,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>8380</price>
+        <price>8370</price>
       </offer>
       <offer sku="00000063556">
         <name>Бур по бетону, 7 x 110 мм, SDS PLUS// Сибртех</name>
@@ -16441,7 +16441,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>286380</price>
+        <price>285990</price>
       </offer>
       <offer sku="00000063943">
         <name>Машина снегоуборочная бензиновая DENZEL SBM 610S PRO 97654</name>
@@ -19099,7 +19099,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17990</price>
+        <price>8746</price>
       </offer>
       <offer sku="УТ-00001785">
         <name>Движок для уборки снега СИБРТЕХ 795х435х1280 мм 61669</name>
@@ -19145,7 +19145,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3520</price>
+        <price>3480</price>
       </offer>
       <offer sku="УТ-00001925">
         <name>Венец полиамидный СИБРТЕХ для БСЛ-120 95448005</name>
@@ -20592,7 +20592,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>22769</price>
+        <price>22758</price>
       </offer>
       <offer sku="УТ-00051211">
         <name>Отвертка аккумуляторная BOSCH GO Gen 3 06019H2201</name>

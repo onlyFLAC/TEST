@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 17:28">
+<fm_catalog date="2026-11-27 17:58">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -14859,17 +14859,6 @@
         </pickup-options>
         <price>89700</price>
       </offer>
-      <offer sku="00000041526">
-        <name>Сетев. Резчик для камня Einhell TE-SC 920 L (4301432)</name>
-        <vendor>Einhell</vendor>
-        <barcodes>
-          <barcode>4006825541199</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>310000</price>
-      </offer>
       <offer sku="00000041529">
         <name>Плиткорез настольный электрический Einhell TC-TC 618 4301180</name>
         <vendor>Einhell</vendor>
@@ -24850,14 +24839,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3999</price>
-      </offer>
-      <offer sku="УТ-00085796">
-        <name>Краскораспылитель WAGNER Finish Contol 3500 Plus 2477391</name>
-        <vendor>WAGNER</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>223400</price>
       </offer>
       <offer sku="УТ-00087281">
         <name>Колесо для мотоблока правое TT 4.00-8 4870024326877</name>

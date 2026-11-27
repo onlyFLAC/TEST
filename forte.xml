@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 12:05">
+<fm_catalog date="2026-11-27 12:35">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11123,6 +11123,17 @@
         </pickup-options>
         <price>59480</price>
       </offer>
+      <offer sku="00000032347">
+        <name>Детектор аккумуляторный BOSCH D-tect 120 0601081301</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140780070</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>154900</price>
+      </offer>
       <offer sku="00000032360">
         <name>Диск алмазный BOSCH 180х22,2 мм 2608602199</name>
         <vendor>BOSCH</vendor>
@@ -11177,6 +11188,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9143</price>
+      </offer>
+      <offer sku="00000032369">
+        <name>Диск пильный Bosch ECO WOOD (305x30 мм; 100T) 2608644386</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140891073</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20556</price>
       </offer>
       <offer sku="00000032375">
         <name>Дрель-шуруповерт аккумуляторная BOSCH GSR 18V-50 06019H5000</name>
@@ -12825,6 +12847,17 @@
         </pickup-options>
         <price>6041</price>
       </offer>
+      <offer sku="00000034719">
+        <name>Набор лобзиковых пилок BOSCH T301CD 5 шт. 2608637590</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140016308</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3648</price>
+      </offer>
       <offer sku="00000034722">
         <name>100 ЛОБЗИКОВЫХ ПИЛОК T 101 B, HCS</name>
         <vendor>BOSCH</vendor>
@@ -14127,17 +14160,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>3197</price>
-      </offer>
-      <offer sku="00000038457">
-        <name>Диск алмазный Bosch ECO Universal (125х22.2 мм) 2608615028</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140857055</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3520</price>
       </offer>
       <offer sku="00000038459">
         <name>Диск алмазный BOSCH 180х22.2 мм 2608615030</name>

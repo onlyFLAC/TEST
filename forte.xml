@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 14:32">
+<fm_catalog date="2026-11-27 15:02">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11189,6 +11189,17 @@
         </pickup-options>
         <price>9143</price>
       </offer>
+      <offer sku="00000032368">
+        <name>Диск пильный Bosch ECO AL (250x30 мм; 80T) 2608644393</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140891141</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>14999</price>
+      </offer>
       <offer sku="00000032369">
         <name>Диск пильный Bosch ECO WOOD (305x30 мм; 100T) 2608644386</name>
         <vendor>BOSCH</vendor>
@@ -11538,6 +11549,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>14952</price>
+      </offer>
+      <offer sku="00000032601">
+        <name>Набор сверл PointTeQ 7pcs Mini X</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140917650</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3576</price>
       </offer>
       <offer sku="00000032616">
         <name>Пила дисковая настольная (распиловочный стол) Bosch GTS 10 XC Professional 0601B30400</name>
@@ -13341,6 +13363,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4153</price>
+      </offer>
+      <offer sku="00000035595">
+        <name>Бур по бетону Bosch SDS-Plus-5X 12x100x160 мм 2608833807</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>6949509223609</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2242</price>
       </offer>
       <offer sku="00000035596">
         <name>Бур по бетону BOSCH SDS+ 12х150/210 мм 2608833808</name>

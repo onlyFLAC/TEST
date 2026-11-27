@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 15:02">
+<fm_catalog date="2026-11-27 15:32">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -749,6 +749,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19190</price>
+      </offer>
+      <offer sku="УТ-00005950">
+        <name>Уровень Stabila тип 70, 50 см 02283</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12590</price>
       </offer>
       <offer sku="УТ-00005974">
         <name>Уровень тип 81SM, 25 см, торпедо, магнитный STABILA 02510</name>
@@ -1970,17 +1978,6 @@
         </pickup-options>
         <price>2500</price>
       </offer>
-      <offer sku="УТ-00016733">
-        <name>Пена ПРОФ ЗИМНЯЯ 65 UNI 02 -10гр. 750мл TYTAN ПОЛЬША</name>
-        <vendor>TYTAN</vendor>
-        <barcodes>
-          <barcode>5902120110933</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>3890</price>
-      </offer>
       <offer sku="УТ-00016958">
         <name>DeWalt, DCG418NT, Машина углошлифовальная аккумуляторная 155 мм</name>
         <vendor>DeWALT</vendor>
@@ -2767,7 +2764,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>885</price>
+        <price>875</price>
       </offer>
       <offer sku="УТ-00025512">
         <name>Вакуумный пакет для упаковки и хранения вещей, 70х100 см, Home// Palisad</name>
@@ -7618,7 +7615,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3337</price>
+        <price>3326</price>
       </offer>
       <offer sku="00000012094">
         <name>Отвертка ''Point'', SL5,0 х 150 мм, CrV, 2-х компонентная рукоятка// Sparta</name>
@@ -7827,7 +7824,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1568</price>
+        <price>1603</price>
       </offer>
       <offer sku="00000013167">
         <name>Набор ключей комбинированных, трещоточных, шарнирных Matrix 6 шт. 14897</name>
@@ -7860,7 +7857,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>17902</price>
+        <price>17891</price>
       </offer>
       <offer sku="00000013222">
         <name>Набор ключей комбинированных, 6 - 17 мм, хромированные, 6 шт.// Sparta</name>
@@ -7882,7 +7879,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1589</price>
+        <price>1638</price>
       </offer>
       <offer sku="00000013771">
         <name>Тиски, 75 мм, крепление для стола// Sparta красный</name>
@@ -8114,7 +8111,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4130</price>
+        <price>4115</price>
       </offer>
       <offer sku="00000015033">
         <name>Набор резцов по дереву Sparta 6 шт. 246065</name>
@@ -8525,7 +8522,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2195</price>
+        <price>2184</price>
       </offer>
       <offer sku="00000016779">
         <name>Лопата снеговая без черенка Сибртех 330х365 мм 61536</name>
@@ -8559,7 +8556,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2307</price>
+        <price>2296</price>
       </offer>
       <offer sku="00000016794">
         <name>Лопата снеговая Сибртех 420х425х1550 мм 61580</name>
@@ -8581,7 +8578,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>14083</price>
+        <price>13623</price>
       </offer>
       <offer sku="00000016829">
         <name>Снеговая лопата PALISAD LUXE COLOR LINE 460 х 335 мм 615915</name>
@@ -8603,7 +8600,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1633</price>
+        <price>1239</price>
       </offer>
       <offer sku="00000017039">
         <name>Полольник петлеобразный, 115 мм, рессорно-пружинная сталь, без черенка, Россия// Сибртех</name>
@@ -8980,7 +8977,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>480</price>
+        <price>470</price>
       </offer>
       <offer sku="00000019513">
         <name>Кондуктор для алмазных сверл Matrix 4-13 мм 72833</name>
@@ -9114,7 +9111,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>354</price>
+        <price>342</price>
       </offer>
       <offer sku="00000020101">
         <name>Набор абразивных дисков Matrix P400 125 мм 10 шт. 73874</name>
@@ -9125,7 +9122,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>995</price>
+        <price>980</price>
       </offer>
       <offer sku="00000020120">
         <name>Набор шлифовальных кругов Matrix Р60 115х22.2 мм 5 шт. 73903</name>
@@ -9159,7 +9156,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>677</price>
+        <price>666</price>
       </offer>
       <offer sku="00000020295">
         <name>Набор абразивных лент Matrix Р120 100х610 мм 3 шт. 74291</name>
@@ -9203,7 +9200,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>970</price>
+        <price>959</price>
       </offer>
       <offer sku="00000020723">
         <name>Губка для шлифования, 100 х 70 х 25 мм, мягкая, P 120// Matrix</name>
@@ -9214,7 +9211,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>690</price>
+        <price>555</price>
       </offer>
       <offer sku="00000020769">
         <name>Диск полировальный из натурального войлока, "под липучку" 150 х 7 мм// Matrix</name>
@@ -9236,7 +9233,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1329</price>
+        <price>1319</price>
       </offer>
       <offer sku="00000020906">
         <name>Клупп трубный 1/2''// Сибртех</name>
@@ -9402,7 +9399,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>380</price>
+        <price>420</price>
       </offer>
       <offer sku="00000021627">
         <name>Таз круглый строительный Сибртех 90 л 81442</name>
@@ -9503,7 +9500,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>642</price>
+        <price>717</price>
       </offer>
       <offer sku="00000021804">
         <name>Кисть плоская MTX "Евро 4" 83057</name>
@@ -9547,7 +9544,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>770</price>
+        <price>760</price>
       </offer>
       <offer sku="00000022142">
         <name>Кельма печника, стальная, пластиковая ручка Россия// Сибртех</name>
@@ -9684,7 +9681,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>407</price>
+        <price>396</price>
       </offer>
       <offer sku="00000022568">
         <name>Щиток защитный НБТ, 400х220 мм, поликарбонат Россия// Сибртех</name>
@@ -9695,7 +9692,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3330</price>
+        <price>2456</price>
       </offer>
       <offer sku="00000022645">
         <name>Правило алюминиевое "Трапеция", 1 ребро жесткости, L-1,5 м Россия// Сибртех</name>
@@ -9706,7 +9703,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4165</price>
+        <price>3940</price>
       </offer>
       <offer sku="00000022664">
         <name>Раскладка для инструмента настенная Matrix 675х450 мм 90245</name>
@@ -9717,7 +9714,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>4990</price>
+        <price>4546</price>
       </offer>
       <offer sku="00000022702">
         <name>Фонарь светодиодный Stern 18+1 LED SoS 3хААА 90522</name>
@@ -9846,7 +9843,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>3371</price>
+        <price>3393</price>
       </offer>
       <offer sku="00000023255">
         <name>Замок тросовый универсальный, 10 х 650 мм// Matrix</name>
@@ -9868,7 +9865,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>1927</price>
+        <price>1916</price>
       </offer>
       <offer sku="00000023265">
         <name>Замок тросовый универсальный, 10 х 960 мм// Matrix</name>
@@ -9943,6 +9940,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>29413</price>
+      </offer>
+      <offer sku="00000023710">
+        <name>Воздуходувка электрическая CROWN CT17010</name>
+        <vendor>CROWN</vendor>
+        <barcodes>
+          <barcode>7640177421982</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>20990</price>
       </offer>
       <offer sku="00000023735">
         <name>Дрель-шуруповерт аккумуляторный CROWN CT21055L BMC</name>
@@ -11637,6 +11645,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>47400</price>
+      </offer>
+      <offer sku="00000032652">
+        <name>Отрезная машина по стали GCD 12 JL</name>
+        <vendor>BOSCH</vendor>
+        <barcodes>
+          <barcode>3165140721561</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>356900</price>
       </offer>
       <offer sku="00000032654">
         <name>Диск отрезной по металлу Bosch 125х2 мм 2608600094</name>
@@ -14161,17 +14180,6 @@
         </pickup-options>
         <price>1590</price>
       </offer>
-      <offer sku="00000038421">
-        <name>Головка торцевая ударная BOSCH 1/2" 13х77 мм 2608522304</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140813914</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4501</price>
-      </offer>
       <offer sku="00000038456">
         <name>Диск алмазный Bosch ECO Universal (115х22.2 мм) 2608615027</name>
         <vendor>BOSCH</vendor>
@@ -16334,7 +16342,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>459</price>
+        <price>448</price>
       </offer>
       <offer sku="00000063592">
         <name>Диск отрезной Сибртех 150х22.2 мм 743207</name>
@@ -16367,7 +16375,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>2240</price>
+        <price>1740</price>
       </offer>
       <offer sku="00000063760">
         <name>Набор инструментов Gross 101 предметов 14151</name>
@@ -19107,7 +19115,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>6541</price>
+        <price>6526</price>
       </offer>
       <offer sku="УТ-00001819">
         <name>Перчатки универсальные, усиленные, размер 10// Denzel</name>
@@ -19197,7 +19205,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>960</price>
+        <price>950</price>
       </offer>
       <offer sku="УТ-00002258">
         <name>Машина шлифовальная экцентриковая аккумуляторная Bosch GEX 185-li 06013A5021</name>
@@ -24160,6 +24168,14 @@
         </pickup-options>
         <price>164260</price>
       </offer>
+      <offer sku="УТ-00072853">
+        <name>Капсульная измерительная рулетка Stabila ВМ-50P 17218</name>
+        <vendor>STABILA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16090</price>
+      </offer>
       <offer sku="УТ-00072871">
         <name>Напольный лазерный нивелир Stabila FLS 90 SET 18574</name>
         <vendor>STABILA</vendor>
@@ -25326,14 +25342,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4690</price>
-      </offer>
-      <offer sku="УТ-00091064">
-        <name>Батарейки GP 30 шт. 24AA21-2CRSWC30 Super</name>
-        <vendor>GP</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>6990</price>
       </offer>
       <offer sku="УТ-00091065">
         <name>Батарейки GP 40 шт. 24AA21-2CRSWC40 Super</name>

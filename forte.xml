@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 11:07">
+<fm_catalog date="2026-11-27 11:36">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -21998,17 +21998,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>8900</price>
-      </offer>
-      <offer sku="УТ-00059805">
-        <name>Пылесос аккум. LXT BL 18В, циклон, 18 кПа, 250мл, сух.</name>
-        <vendor>Makita</vendor>
-        <barcodes>
-          <barcode>088381781619</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>30195</price>
       </offer>
       <offer sku="УТ-00059822">
         <name>Доска гладильная Nika Н4 (в ассортименте)</name>

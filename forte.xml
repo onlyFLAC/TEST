@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 09:39">
+<fm_catalog date="2026-11-27 10:09">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1242,6 +1242,17 @@
         </pickup-options>
         <price>1590</price>
       </offer>
+      <offer sku="УТ-00011527">
+        <name>Набор скоб ЗУБР "МАСТЕР" тип 53 8 мм 1000 шт. 31625-08</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373235030</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>755</price>
+      </offer>
       <offer sku="УТ-00011761">
         <name>Стол раскладной и 4 табурета GREENWAY 8833В -4</name>
         <vendor>Greenway</vendor>
@@ -1548,6 +1559,17 @@
         </pickup-options>
         <price>2256</price>
       </offer>
+      <offer sku="УТ-00013835">
+        <name>Удлинитель телескопический GRINDA ES-2200 42510-220_z01</name>
+        <vendor>Grinda</vendor>
+        <barcodes>
+          <barcode>4893925601263</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6269</price>
+      </offer>
       <offer sku="УТ-00013854">
         <name>RACO Original, из ударопрочного пластика, штуцерный переходник (4250-55210T) 4250-55210T</name>
         <vendor>RACO</vendor>
@@ -1602,6 +1624,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6770</price>
+      </offer>
+      <offer sku="УТ-00014056">
+        <name>STAYER EXPERT 165 x 20/16мм 40T, диск пильный по дереву, точный рез 3682-165-20-40_z01</name>
+        <vendor>STAYER</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3280</price>
       </offer>
       <offer sku="УТ-00014193">
         <name>Щетка дисковая для дрели ЗУБР "ПРОФЕССИОНАЛ" нейлоновая проволока 35162-050_z01</name>
@@ -1695,6 +1725,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>2090</price>
+      </offer>
+      <offer sku="УТ-00015108">
+        <name>STAYER COBRA 200 мм, Универсальные технические ножницы (23227) 23227</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229244729</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2942</price>
       </offer>
       <offer sku="УТ-00015132">
         <name>НИЗ 200 мм, Комбинированные плоскогубцы (2212-1-20) 2212-1-20</name>
@@ -4652,6 +4693,17 @@
         </pickup-options>
         <price>546</price>
       </offer>
+      <offer sku="00000002023">
+        <name>KRAFTOOL COBALT 13шт(1.5-6.5мм), Набор сверл по металлу HSS-Co(8%), сталь М42(S2-10-1-8)</name>
+        <vendor>KRAFTOOL</vendor>
+        <barcodes>
+          <barcode>4034229218706</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9990</price>
+      </offer>
       <offer sku="00000002055">
         <name>Домкрат бутылочный гидравлический Kraftool 8 т 43463-8</name>
         <vendor>KRAFTOOL</vendor>
@@ -4992,6 +5044,17 @@
         </pickup-options>
         <price>947</price>
       </offer>
+      <offer sku="00000003710">
+        <name>Армированная лента, ЗУБР Профессионал 12096-50-10, универсальная, влагостойкая, 48мм х 10м, черная</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373044656</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2190</price>
+      </offer>
       <offer sku="00000003745">
         <name>Биметаллическое полотно по металлу, 24 TPI: универсальный рез, 300 мм, высококачественная быстрорежущая сталь Р6М5, 1 шт, ЗУБР БИМЕТАЛЛ-24</name>
         <vendor>ЗУБР</vendor>
@@ -5055,6 +5118,28 @@
         </pickup-options>
         <price>1610</price>
       </offer>
+      <offer sku="00000004037">
+        <name>Валик малярный GIRPAINT 40, 240 мм, d=40 мм, ворс 12 мм, ручка d=6 мм, STAYER</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229223519</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1690</price>
+      </offer>
+      <offer sku="00000004047">
+        <name>Валик малярный SYNTEX 48, 240 мм, d=48 мм, ворс 18 мм, ручка d=8 мм, STAYER</name>
+        <vendor>STAYER</vendor>
+        <barcodes>
+          <barcode>4034229223397</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2432</price>
+      </offer>
       <offer sku="00000004068">
         <name>Валик МИКРОВОЛОКНО малярный в сборе, ворс 9 мм, бюгель 8 мм, 48x240мм, STAYER Profi</name>
         <vendor>STAYER</vendor>
@@ -5087,6 +5172,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1490</price>
+      </offer>
+      <offer sku="00000004157">
+        <name>Водосгон ЗУБР "Мастер", 160мм</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373132209</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>990</price>
       </offer>
       <offer sku="00000004252">
         <name>Герметик силиконовый ЗУБР "ЭКСПЕРТ" белый универсальный 280 мл 41233-0</name>
@@ -5396,6 +5492,17 @@
         </pickup-options>
         <price>11490</price>
       </offer>
+      <offer sku="00000005061">
+        <name>Домкрат бутылочный гидравлический ЗУБР "ПРОФЕССИОНАЛ" T50 4 т 43060-4_z01</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373275418</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>10820</price>
+      </offer>
       <offer sku="00000005128">
         <name>Набор метчиков и плашек ЗУБР 65 шт. 28118-H65_z01</name>
         <vendor>ЗУБР</vendor>
@@ -5406,6 +5513,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>91290</price>
+      </offer>
+      <offer sku="00000005136">
+        <name>Домкрат бутылочный гидравлический ЗУБР "ПРОФЕССИОНАЛ" 6 т 43060-6_z01</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373275425</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>13270</price>
       </offer>
       <offer sku="00000005227">
         <name>ЗУБР d 3x60/30мм, спиральное сверло по дереву , М-образная заточка</name>
@@ -5502,6 +5620,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>9990</price>
+      </offer>
+      <offer sku="00000005594">
+        <name>ЗУБР КПУ-3 колесо полиуретановое для тачек 39914, 39911, 350 мм</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373260551</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9190</price>
       </offer>
       <offer sku="00000005697">
         <name>ЗУБР Мастер 130х270 мм гладилка нержавеющая с пластиковой ручкой</name>
@@ -6050,6 +6179,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>21220</price>
+      </offer>
+      <offer sku="00000007352">
+        <name>Крепеж для вагонки КЛЯЙМЕР 3 мм, 100 шт, ЗУБР</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373018237</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1490</price>
       </offer>
       <offer sku="00000007360">
         <name>Крепление GRINDA для подвязки растений, регулируемое, тип - пластиковый хомут с фиксатором, 125мм, 50шт</name>
@@ -6644,6 +6784,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1446</price>
+      </offer>
+      <offer sku="00000008788">
+        <name>Ножницы ЗУБР "Мастер" хозяйственные, двухкомпонентные ручки, 175мм</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373081675</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>1590</price>
       </offer>
       <offer sku="00000008813">
         <name>Ножовка по дереву (пила) "МОЛНИЯ-5" 400 мм, 5 TPI, прямой крупный зуб, быстрый рез поперек волокон, для крупных и средних заготовок, ЗУБР</name>
@@ -7291,6 +7442,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>1990</price>
+      </offer>
+      <offer sku="00000010405">
+        <name>Стеклорез ЗУБР "ЭКСПЕРТ" алмазный, с пластиковой ручкой</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373104916</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3392</price>
       </offer>
       <offer sku="00000010534">
         <name>Тент-полотно универсальный STAYER 2x3 м 12560-02-03</name>
@@ -16540,17 +16702,6 @@
         </pickup-options>
         <price>13380</price>
       </offer>
-      <offer sku="00000064189">
-        <name>Подставка для обуви ЗМИ "АЛЬФА 23" ПДОА23 белая</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093787588</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>9840</price>
-      </offer>
       <offer sku="00000064191">
         <name>Подставка для обуви с сиденьем ЗМИ "АЛЬФА 23" ПДОА23С белая (ПДОСС89)</name>
         <vendor>ЗМИ</vendor>
@@ -17340,6 +17491,17 @@
         </pickup-options>
         <price>9360</price>
       </offer>
+      <offer sku="00000071209">
+        <name>ЗУБР 14.4В, Li-Ion, 2Ач, тип С1, аккумуляторная батарея. АКБ-С1-14-2</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373395703</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>16630</price>
+      </offer>
       <offer sku="00000071217">
         <name>ЗУБР 20В бесщеточный винтоверт, 2 АКБ (4Ач), в кейсе, Профессионал. GVB-250-42</name>
         <vendor>ЗУБР</vendor>
@@ -17567,6 +17729,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>6553</price>
+      </offer>
+      <offer sku="00000071548">
+        <name>Кабелерез диэлектрический ЗУБР НК-16В 23344-16V</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373328626</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>4870</price>
       </offer>
       <offer sku="00000071600">
         <name>ЗУБР ЗАХВАТ, размер L-XL, 10 пар в упаковке, перчатки с одинарным текстурированным нитриловым обливо</name>
@@ -17828,6 +18001,17 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>452050</price>
+      </offer>
+      <offer sku="00000073976">
+        <name>ЗУБР, 600х130 мм, грунтозацепы для мотоблоков, набор 2 шт</name>
+        <vendor>ЗУБР</vendor>
+        <barcodes>
+          <barcode>4606373375187</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>27080</price>
       </offer>
       <offer sku="00000074020">
         <name>Поливочный шланг GRINDA PROLine EXPERT 5 3/4" 50 м 30 атм пятислойный плетёное армирование</name>
@@ -23301,6 +23485,17 @@
         </pickup-options>
         <price>3360</price>
       </offer>
+      <offer sku="УТ-00064377">
+        <name>Струбцина рычажная KRAFTOOL "KRAFTFLEX" 32331-160</name>
+        <vendor>KRAFTOOL</vendor>
+        <barcodes>
+          <barcode>4034229252663</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>9639</price>
+      </offer>
       <offer sku="УТ-00064514">
         <name>Полумаска фильтрующая ЗУБР ПГ-95 11167-2_z01</name>
         <vendor>ЗУБР</vendor>
@@ -23450,6 +23645,22 @@
         </pickup-options>
         <price>2846</price>
       </offer>
+      <offer sku="УТ-00065016">
+        <name>ЗУБР Колибри-20 красный, наконечник L 20 мм, ᴓ 2 мм, перманентный маркер для отверстийл (06328-3)</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>856</price>
+      </offer>
+      <offer sku="УТ-00065037">
+        <name>ЗУБР МК-800 красный, 2-8 мм клиновидный маркер-краска (06327-3)</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>2490</price>
+      </offer>
       <offer sku="УТ-00065038">
         <name>ЗУБР МК-800 синий, 2-8 мм клиновидный маркер-краска (06327-7)</name>
         <vendor>ЗУБР</vendor>
@@ -23498,6 +23709,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>88080</price>
+      </offer>
+      <offer sku="УТ-00065315">
+        <name>СВЕТОЗАР 4 в 1, автомобильный фонарь с криптоновой и люминесцентной лампой (SV-56915)</name>
+        <vendor>СВЕТОЗАР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>990</price>
       </offer>
       <offer sku="УТ-00065434">
         <name>ЗУБР 24 мм, витая стальная латунированная проволока 0.3 мм, набор кистевых щеток для дрели, Профессионал (35225-24-H2)</name>
@@ -26036,6 +26255,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>19898</price>
+      </offer>
+      <offer sku="УТ-00093345">
+        <name>KRAFTOOL 2Х, 300/450 мм, 2 шт, набор пистолетных струбцин (32225-H2)</name>
+        <vendor>KRAFTOOL</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>12828</price>
       </offer>
       <offer sku="УТ-00093438">
         <name>KRAFTOOL 25 мм, 5 шт, сегментированные лезвия (09602-25-S5)</name>

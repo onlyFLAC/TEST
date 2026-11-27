@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 17:58">
+<fm_catalog date="2026-11-27 18:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22207,7 +22207,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>68640</price>
+        <price>43490</price>
       </offer>
       <offer sku="УТ-00059901">
         <name>Гусак гибкий силиконовый Frap W04 черный</name>
@@ -22316,7 +22316,7 @@
         <pickup-options>
           <pickup-option id="PP1"/>
         </pickup-options>
-        <price>59160</price>
+        <price>53140</price>
       </offer>
       <offer sku="УТ-00060058">
         <name>Мыльница Gappo золотой сатин с держателем G30902-3</name>

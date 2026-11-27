@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-27 18:56">
+<fm_catalog date="2026-11-27 19:25">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24643,17 +24643,6 @@
         </pickup-options>
         <price>32566</price>
       </offer>
-      <offer sku="УТ-00085186">
-        <name>Доска гладильная Nika "ВАЛЕНСИЯ 2" НВ2/11</name>
-        <vendor>Nika</vendor>
-        <barcodes>
-          <barcode>4630111522663</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>31941</price>
-      </offer>
       <offer sku="УТ-00085187">
         <name>Доска гладильная Nika "ВАЛЕНСИЯ 1" НВ1/23</name>
         <vendor>Nika</vendor>
@@ -24906,14 +24895,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>329690</price>
-      </offer>
-      <offer sku="УТ-00087605">
-        <name>Аккумулятор ALTECO BL 20-2A 36999</name>
-        <vendor>ALTECO</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7800</price>
       </offer>
       <offer sku="УТ-00087646">
         <name>Полотенцесушитель электрический I-образный Profset T1 1 секция</name>

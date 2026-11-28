@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 18:50">
+<fm_catalog date="2026-11-28 19:19">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22401,17 +22401,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>15740</price>
-      </offer>
-      <offer sku="УТ-00060284">
-        <name>Смеситель для кухни Frap нержавеющая сталь F40899</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477622816</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>12140</price>
       </offer>
       <offer sku="УТ-00060328">
         <name>Полотенцедержатель Frap 302 черный F30201</name>

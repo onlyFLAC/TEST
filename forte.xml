@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 11:31">
+<fm_catalog date="2026-11-28 12:00">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1666,6 +1666,14 @@
         </pickup-options>
         <price>2280</price>
       </offer>
+      <offer sku="УТ-00014694">
+        <name>ЗУБР 300мм, удлинитель с быстросъемным устройством для сверл перовых, хвостовик HEX 1/4" 29508-300_z01</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>3940</price>
+      </offer>
       <offer sku="УТ-00014777">
         <name>ЗУБР МАСТЕР 10 x 400 мм сверло по бетону 2922-400-10</name>
         <vendor>ЗУБР</vendor>
@@ -1966,6 +1974,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4380</price>
+      </offer>
+      <offer sku="УТ-00016461">
+        <name>Вибратор глубинный JY-150</name>
+        <vendor>Stalker</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>47500</price>
       </offer>
       <offer sku="УТ-00016701">
         <name>Сверло универсальное BOSCH CYL-9 6х120 мм 2608900626</name>
@@ -14943,7 +14959,7 @@
         <price>98100</price>
       </offer>
       <offer sku="00000041780">
-        <name>Цепь (55зв) 3/8/P/63 PMC (1.3) MICRO(40см) Stihl</name>
+        <name>Цепь для бензопилы STIHL 55 звеньев (3613), 3/8Р (1,3) 63 РМС PICCO MICRO COMFORT 36130000055</name>
         <vendor>STIHL</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -20769,7 +20785,7 @@
         <price>2890</price>
       </offer>
       <offer sku="УТ-00053691">
-        <name>Масло смазочное для пильных цепей Forestplus (в бутылке) 07815166003лб</name>
+        <name>Масло для пильных цепей STIHL ForestPlus 1 л 07815166003Л</name>
         <vendor>STIHL</vendor>
         <pickup-options>
           <pickup-option id="PP1"/>
@@ -21059,6 +21075,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>112100</price>
+      </offer>
+      <offer sku="УТ-00055412">
+        <name>Краскораспылитель аккумуляторный WAGNER FinishControl 4000 XLVP 18 V 2453687K</name>
+        <vendor>WAGNER</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>354500</price>
       </offer>
       <offer sku="УТ-00055472">
         <name>Алмазная коронка 142*370 ВТ ALTECO 81781</name>
@@ -26059,6 +26083,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>99900</price>
+      </offer>
+      <offer sku="УТ-00092979">
+        <name>ЗУБР 40 В, (2x20В), 300 мм шина (Тип 6), без АКБ (LMS), пила цепная аккумуляторная (ПЦБ-4030)</name>
+        <vendor>ЗУБР</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>56920</price>
       </offer>
       <offer sku="УТ-00092991">
         <name>Гайковерт аккумуляторный STEHER CWB-1000-41</name>

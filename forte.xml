@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 21:45">
+<fm_catalog date="2026-11-28 22:15">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22339,17 +22339,6 @@
         </pickup-options>
         <price>35990</price>
       </offer>
-      <offer sku="УТ-00060245">
-        <name>Смеситель для кухни Frap оружейная сталь F4462-9</name>
-        <vendor>Frap</vendor>
-        <barcodes>
-          <barcode>6959477625770</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>24190</price>
-      </offer>
       <offer sku="УТ-00060266">
         <name>Смеситель Frap под фильтр F4374-5 с гибким изливом хром, серый</name>
         <vendor>Frap</vendor>
@@ -23689,18 +23678,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>46580</price>
-      </offer>
-      <offer sku="УТ-00072440">
-        <name>Клещи сантехнические KNIPEX 87 01 125</name>
-        <vendor>KNIPEX</vendor>
-        <barcodes>
-          <barcode>4003773069935</barcode>
-          <barcode>4003773269939</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>20685</price>
       </offer>
       <offer sku="УТ-00072444">
         <name>Клещи сантехнические KNIPEX 87 01 300</name>

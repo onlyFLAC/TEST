@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 17:51">
+<fm_catalog date="2026-11-28 18:21">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -11675,17 +11675,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>327690</price>
-      </offer>
-      <offer sku="00000032681">
-        <name>Перфоратор Bosch GBH 2-28 0611267500</name>
-        <vendor>BOSCH</vendor>
-        <barcodes>
-          <barcode>3165140843607</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>156810</price>
       </offer>
       <offer sku="00000032685">
         <name>Перфоратор электрический Bosch GBH 240 Professional 0611272100</name>

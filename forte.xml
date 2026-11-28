@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 09:34">
+<fm_catalog date="2026-11-28 10:03">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -20823,6 +20823,17 @@
         </pickup-options>
         <price>3132</price>
       </offer>
+      <offer sku="УТ-00054589">
+        <name>Сушилка настенно-потолочная Nika СНП1,6 белый</name>
+        <vendor>Nika</vendor>
+        <barcodes>
+          <barcode>4620032748501</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>7021</price>
+      </offer>
       <offer sku="УТ-00054591">
         <name>Сушилка напольная Nika СБТ18/Ч черный</name>
         <vendor>Nika</vendor>
@@ -25225,6 +25236,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>4690</price>
+      </offer>
+      <offer sku="УТ-00091064">
+        <name>Батарейки GP 30 шт. 24AA21-2CRSWC30 Super</name>
+        <vendor>GP</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>6990</price>
       </offer>
       <offer sku="УТ-00091065">
         <name>Батарейки GP 40 шт. 24AA21-2CRSWC40 Super</name>

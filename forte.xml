@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 12:30">
+<fm_catalog date="2026-11-28 12:59">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -1577,17 +1577,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>844</price>
-      </offer>
-      <offer sku="УТ-00013920">
-        <name>STAYER HEAVY DUTY 300 л, чёрные, 10шт, особопрочные, строительные мусорные мешки (39157-300) 39157-300</name>
-        <vendor>STAYER</vendor>
-        <barcodes>
-          <barcode>4034229248918</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>4240</price>
       </offer>
       <offer sku="УТ-00014013">
         <name>ЗУБР Оптимальный рез 190 x 30/20мм 40Т, диск пильный по дереву 36912-190-30-40_z01</name>
@@ -17194,6 +17183,14 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>34100</price>
+      </offer>
+      <offer sku="00000070600">
+        <name>Краска аэрозольная NOVA серебро 450 мл Nova36</name>
+        <vendor>NOVA</vendor>
+        <pickup-options>
+          <pickup-option id="PP1"/>
+        </pickup-options>
+        <price>950</price>
       </offer>
       <offer sku="00000070642">
         <name>Цепь STIHL 76 зв. 0.325 1.5 мм 25RM RAPIDMICRO COMFORT 36850000076</name>

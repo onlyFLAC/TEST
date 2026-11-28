@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 13:58">
+<fm_catalog date="2026-11-28 14:27">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -15664,17 +15664,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>11195</price>
-      </offer>
-      <offer sku="00000059133">
-        <name>Вешалка с полкой 80 ЗМИ Белый</name>
-        <vendor>ЗМИ</vendor>
-        <barcodes>
-          <barcode>4610093784785</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>7410</price>
       </offer>
       <offer sku="00000059139">
         <name>Вешалка настенная ЗМИ "НОРМА 3" ВН64 черная</name>

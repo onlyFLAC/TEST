@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 12:59">
+<fm_catalog date="2026-11-28 13:29">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -22349,17 +22349,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>42280</price>
-      </offer>
-      <offer sku="УТ-00060174">
-        <name>Смеситель для раковины Gappo золото сатин G1006-3</name>
-        <vendor>GAPPO</vendor>
-        <barcodes>
-          <barcode>6959477645532</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>46160</price>
       </offer>
       <offer sku="УТ-00060201">
         <name>Смеситель с гигиеническим душем Frap хром F7506</name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2026-11-28 12:00">
+<fm_catalog date="2026-11-28 12:30">
   <shop>
     <merchant-id>ACJn9EZp0Na9VBnG9A</merchant-id>
     <offers>
@@ -24435,14 +24435,6 @@
           <pickup-option id="PP1"/>
         </pickup-options>
         <price>13790</price>
-      </offer>
-      <offer sku="УТ-00076443">
-        <name>Лопата снеговая STARTUL 410х460 мм стальной черенок ST9056-2</name>
-        <vendor>Startul</vendor>
-        <pickup-options>
-          <pickup-option id="PP1"/>
-        </pickup-options>
-        <price>5720</price>
       </offer>
       <offer sku="УТ-00076689">
         <name>Нож для прополки Xact FISKARS</name>
